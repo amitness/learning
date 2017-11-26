@@ -7,6 +7,7 @@
 ## Git
 - [ ] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 - [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 ## Shell
 - [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
