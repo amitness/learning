@@ -1,6 +1,7 @@
 # learning-plan
 
 ## Computer Science
+- [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
