@@ -6,6 +6,7 @@
 - [ ] [Udacity: Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
 - [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+- [ ] [Udacity: Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
 - [ ] [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/courses/cs313)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
