@@ -1,9 +1,15 @@
 # learning-plan
 
 ## Computer Science
+- [ ] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
+- [ ] [Udacity: Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
 - [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
+- [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+- [ ] [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/courses/cs313)
+- [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+
 
 ## Deep Learning
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
@@ -15,8 +21,11 @@
 - [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 ## Python
+- [X] [A Byte of Python](https://python.swaroopch.com)
 - [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 - [X] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+- [X] [Learn Python The Hard way](https://learnpythonthehardway.org)
+- [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
 
 ## Shell
 - [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
@@ -26,5 +35,3 @@
 ## SQL
 - [X] [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [ ] [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
-
-
