@@ -42,6 +42,8 @@
 - [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
 - [X] [Learn Python The Hard way](https://learnpythonthehardway.org)
 - [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
+- [ ] [Udacity: Introduction to Python](https://www.udacity.com/course/introduction-to-python--ud1110)
+- [ ] [Udacity: Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 
 ## Ruby
 - [X] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
