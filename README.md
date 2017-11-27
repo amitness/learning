@@ -1,9 +1,16 @@
 # learning-plan
 
+## Application Design
+- [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
+- [ ] [Udacity: Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
+- [ ] [Udacity: Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
+- [ ] [Udacity: Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821)
+- [ ] [Udacity: Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+
+
 ## Computer Science
 - [ ] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
-- [ ] [Udacity: Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
 - [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
