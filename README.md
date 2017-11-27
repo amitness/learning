@@ -68,6 +68,8 @@
 - [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
 
 ## SQL
+- [ ] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
 - [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [ ] [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
 - [X] [Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)
+- [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
