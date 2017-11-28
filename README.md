@@ -36,6 +36,7 @@
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
 ## Deployment
+- [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
 - [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 
@@ -57,6 +58,8 @@
 ## HTML & CSS
 - [ ] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
 - [ ] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
+- [ ] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
+- [ ] [Codecademy: Learn responsive design](https://www.codecademy.com/learn/learn-responsive-design)
 - [ ] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
 - [ ] [Codecademy: Make an interactive website](https://www.codecademy.com/en/skills/make-an-interactive-website)
 - [ ] [Udacity: HTML and CSS Syntax](https://www.udacity.com/course/html-and-css-syntax--ud001)
@@ -147,6 +150,10 @@
 - [ ] [Udacity: Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 - [ ] [Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
 
+## React
+- [ ] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
+- [ ] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
+
 ## Ruby
 - [X] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 
@@ -166,6 +173,8 @@
 
 ## SQL
 - [ ] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
+- [ ] [Codecademy: SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
+- [ ] [Codecademy: SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
 - [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [ ] [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
 - [X] [Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)
