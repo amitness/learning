@@ -11,9 +11,12 @@
 ## Computer Science
 - [ ] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
+- [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Launch School: Introduction to HTTP](https://launchschool.com/books/http)
 - [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
+- [ ] [Udacity: Intro to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
 - [ ] [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/courses/cs313)
 - [ ] [Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
@@ -42,6 +45,7 @@
 - [X] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
 - [X] [edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)
 - [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
+- [ ] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
 - [ ] [Udacity: A Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
 
 
@@ -52,6 +56,7 @@
 - [X] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
 - [X] [edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)
 - [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
+- [ ] [Google's Python Class](https://developers.google.com/edu/python/)
 - [X] [Learn Python The Hard way](https://learnpythonthehardway.org)
 - [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
 - [ ] [Udacity: Introduction to Python](https://www.udacity.com/course/introduction-to-python--ud1110)
@@ -61,12 +66,17 @@
 - [X] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 
 ## Shell
+- [ ] [Bash Academy](http://guide.bash.academy)
+- [ ] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+- [ ] [CONQUERING THE COMMAND LINE](http://conqueringthecommandline.com/book)
 - [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+- [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
 - [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
 - [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 - [ ] [Udacity: Linux Web Servers](https://www.udacity.com/courses/ud299)
 - [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+- [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 
 ## SQL
 - [ ] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
