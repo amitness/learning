@@ -3,6 +3,7 @@
 ## Application Design
 - [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
 - [ ] [Udacity: Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
+- [ ] [Udacity: Product Design](https://www.udacity.com/course/product-design--ud509)
 - [ ] [Udacity: Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
 - [ ] [Udacity: Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [ ] [Udacity: Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
@@ -11,6 +12,9 @@
 - [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
 - [ ] [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 
+## C++
+- [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
+
 ## Computer Science
 - [ ] [CS50](https://cs50.harvard.edu/)
 - [ ] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
@@ -18,6 +22,9 @@
 - [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Launch School: Introduction to HTTP](https://launchschool.com/books/http)
+- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+- [ ] [Udacity: Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
+- [ ] [Udacity: Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222)
 - [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
@@ -25,7 +32,12 @@
 - [ ] [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/courses/cs313)
 - [ ] [Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
+- [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+
+## Deployment
+- [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
+- [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 
 ## Git
 - [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
@@ -37,6 +49,7 @@
 - [ ] [Launch School: Intro to Git and GitHub](https://launchschool.com/books/git)
 - [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
 - [ ] [Treehouse: Git Basics](https://teamtreehouse.com/library/git-basics)
+- [ ] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 - [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
@@ -46,12 +59,17 @@
 - [ ] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
 - [ ] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
 - [ ] [Codecademy: Make an interactive website](https://www.codecademy.com/en/skills/make-an-interactive-website)
+- [ ] [Udacity: HTML and CSS Syntax](https://www.udacity.com/course/html-and-css-syntax--ud001)
 - [ ] [Udacity: Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+- [ ] [Udacity: HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
 - [ ] [Udacity: Build high conversion web forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
-- [ ] [Udacity: Responsive Design](https://www.udacity.com/courses/ud893)
+- [ ] [Udacity: Front End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
+- [ ] [Udacity: Responsive Web Design Fundamentals](https://www.udacity.com/courses/ud893)
 - [ ] [Udacity: Responsive Images](https://www.udacity.com/courses/ud882)
 - [ ] [Udacity: Build a blog](https://www.udacity.com/course/web-development--cs253)
+- [ ] [Udacity: Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 - [ ] [Udacity: Website Performance Optimization](https://www.udacity.com/courses/ud884)
+- [ ] [Udacity: Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [ ] [Udacity: Browser Rendering Optimization](https://www.udacity.com/courses/ud860)
 - [ ] [Treehouse: HTML Forms](https://teamtreehouse.com/library/html-forms)
 - [ ] [Treehouse: HTML Tables](https://teamtreehouse.com/library/html-tables)
@@ -72,6 +90,7 @@
 ## Java
 - [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
 - [X] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [ ] [Udacity: Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 
 ## JavaScript
 - [X] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
@@ -85,9 +104,12 @@
 - [ ] [Treehouse: Javascript Booleans](https://teamtreehouse.com/library/javascript-booleans)
 - [ ] [Treehouse: Javascript Foundations](https://teamtreehouse.com/library/javascript-basics)
 - [ ] [Treehouse: Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
+- [ ] [Udacity: Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
 - [ ] [Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
 - [ ] [Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
+- [ ] [Udacity: Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 - [ ] [Udacity: Javascript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
+- [ ] [Udacity: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 - [ ] [Udacity: Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
 - [ ] [Wes Bos: Javascript 30](https://javascript30.com/)
 
@@ -155,6 +177,10 @@
 ## Testing
 - [ ] [Udacity: Javascript Testing](https://www.udacity.com/courses/ud549)
 - [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
+- [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
 ## Text Editors
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
+
+## Workflow
+- [Udacity: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
