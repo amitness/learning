@@ -44,13 +44,20 @@
 - [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 
 ## Django
+- [ ] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
 - [ ] [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
-- [ ]  [Rapid Development with Django, Python and Google App Engine](https://www.youtube.com/watch?v=v1gTI4BOPUw)
+- [ ] [Learn Python Django Web](https://github.com/kabirbaidhya/learn-python-django-web)
+- [ ] [Rapid Development with Django, Python and Google App Engine](https://www.youtube.com/watch?v=v1gTI4BOPUw)
 - [ ] [Treehouse: Django Basics](https://teamtreehouse.com/library/Django-basics)
 - [ ] [Treehouse: Customizing Django Templates](https://teamtreehouse.com/library/customizing-django-templates)
 - [ ] [Two scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
 - [ ] [Hello Web App](https://hellowebapp.com/tutorial/intro/)
 - [ ] [PyLadies Django Workshop](http://eleyine.github.io/pyladies-django-workshop/#/43)
+- [ ] [Tango With Django](http://www.tangowithdjango.com/)
+- [ ] [Django by Example 1 week](http://lightbird.net/dbe/)
+- [ ] [Django Book](http://www.djangobook.com/en/2.0/chapter01.html)
+- [ ] [Try Django. Make a Landing Page](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
+- [ ] [Try Django. Launch with code](https://www.youtube.com/playlist?list=PLEsfXFp6DpzT5veidCTZ1mQriBX0Mu2LF)
 
 
 ## Git
