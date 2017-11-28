@@ -173,9 +173,11 @@
 - [ ] [Launch School: Introduction to SQL](https://launchschool.com/books/sql)
 - [ ] [Learn SQL the hard way](http://sql.learncodethehardway.org/book/ex1.html)
 - [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
 ## Testing
 - [ ] [Udacity: Javascript Testing](https://www.udacity.com/courses/ud549)
+- [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 - [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
