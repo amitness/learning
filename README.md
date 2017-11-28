@@ -185,4 +185,4 @@
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
 
 ## Workflow
-- [Udacity: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
+- [ ] [Udacity: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
