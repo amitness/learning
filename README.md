@@ -12,6 +12,9 @@
 - [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
 - [ ] [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 
+## Branding
+- [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
+
 ## C++
 - [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
 
@@ -39,6 +42,16 @@
 - [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
 - [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
+
+## Django
+- [ ] [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
+- [ ]  [Rapid Development with Django, Python and Google App Engine](https://www.youtube.com/watch?v=v1gTI4BOPUw)
+- [ ] [Treehouse: Django Basics](https://teamtreehouse.com/library/Django-basics)
+- [ ] [Treehouse: Customizing Django Templates](https://teamtreehouse.com/library/customizing-django-templates)
+- [ ] [Two scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
+- [ ] [Hello Web App](https://hellowebapp.com/tutorial/intro/)
+- [ ] [PyLadies Django Workshop](http://eleyine.github.io/pyladies-django-workshop/#/43)
+
 
 ## Git
 - [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
@@ -196,6 +209,7 @@
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
 ## Testing
+- [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 - [ ] [Treehouse: Python Testing](https://teamtreehouse.com/library/python-testing)
 - [ ] [Udacity: Javascript Testing](https://www.udacity.com/courses/ud549)
 - [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
