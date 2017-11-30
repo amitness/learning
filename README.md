@@ -20,7 +20,7 @@
 
 ## Computer Science
 - [ ] [CS50](https://cs50.harvard.edu/)
-- [ ] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
+- [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [ ] [Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
 - [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
