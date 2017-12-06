@@ -132,7 +132,7 @@
 - [ ] [Treehouse: Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
 - [ ] [Udacity: Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
 - [X] [Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
-- [ ] [Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
+- [X] [Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
 - [ ] [Udacity: Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 - [ ] [Udacity: Javascript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [ ] [Udacity: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
