@@ -1,23 +1,5 @@
 # learning-plan
 
-## Application Design
-- [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
-- [ ] [Udacity: Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
-- [ ] [Udacity: Product Design](https://www.udacity.com/course/product-design--ud509)
-- [ ] [Udacity: Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
-- [ ] [Udacity: Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821)
-- [ ] [Udacity: Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-
-## Behavioral Aptitude
-- [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
-- [ ] [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
-
-## Branding
-- [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
-
-## C++
-- [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
-
 ## Computer Science
 - [ ] [CS50](https://cs50.harvard.edu/)
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
@@ -37,6 +19,52 @@
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 - [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+
+## Database
+- [ ] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
+- [ ] [Codecademy: SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
+- [ ] [Codecademy: SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
+- [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+- [ ] [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+- [X] [Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)
+- [ ] [Khan Academy: SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+- [ ] [Launch School: Introduction to SQL](https://launchschool.com/books/sql)
+- [ ] [Learn SQL the hard way](http://sql.learncodethehardway.org/book/ex1.html)
+- [ ] [Treehouse: Using Databases in Python](https://teamtreehouse.com/library/using-databases-in-python)
+- [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+
+## Data Science
+- [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [X] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+- [ ] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+- [ ] [Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
+- [ ] [Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
+- [X] [Datacamp: Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)
+- [ ] [Datacamp: Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
+- [ ] [Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
+- [ ] [Datacamp: Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
+- [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+- [ ] [Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
+- [ ] [Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
+- [ ] [Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
+- [ ] [Datacamp: Importing & Managing Financial Data in Python](https://www.datacamp.com/courses/importing-managing-financial-data-in-python)
+- [ ] [Datacamp: Manipulating Time Series Data in Python](https://www.datacamp.com/courses/manipulating-time-series-data-in-python)
+- [ ] [Datacamp: Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
+- [ ] [Datacamp: Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)
+- [ ] [Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
+- [ ] [Datacamp: Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking)
+- [ ] [Datacamp: Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
+- [X] [Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+- [X] [Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
+- [X] [Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
+- [X] [edX: Analyzing and Visualizing Data with Excel](https://www.edx.org/course/analyzing-visualizing-data-excel-microsoft-dat206x-7)
+- [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
+- [X] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
+- [X] [edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)
+- [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
+- [ ] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
+- [ ] [Udacity: A Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
 
 ## Deployment
 - [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
@@ -58,7 +86,6 @@
 - [ ] [Django Book](http://www.djangobook.com/en/2.0/chapter01.html)
 - [ ] [Try Django. Make a Landing Page](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
 - [ ] [Try Django. Launch with code](https://www.youtube.com/playlist?list=PLEsfXFp6DpzT5veidCTZ1mQriBX0Mu2LF)
-
 
 ## Git
 - [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
@@ -110,13 +137,11 @@
 - [ ] [Treehouse: Modular CSS with Sass](https://teamtreehouse.com/library/modular-css-with-sass)
 - [ ] [Treehouse: SASS Basics](https://teamtreehouse.com/library/sass-basics-2)
 
-## Java
-- [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
-- [X] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
-- [ ] [Udacity: Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 
 ## JavaScript
 - [X] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
+- [ ] [Codecademy: Jquery Iterators](https://www.codecademy.com/learn/learn-jquery-iterators)
+- [ ] [Codecademy: Jquery Track](http://www.codecademy.com/tracks/jquery)
 - [ ] [CodeSchool: Javascript Roadtrip Part 1,2,3](http://javascript-roadtrip.codeschool.com/levels/1)
 - [ ] [Eloquent Javascript](http://eloquentjavascript.net)
 - [ ] [ES6](https://www.youtube.com/watch?v=0Mp2kwE8xY0&list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml)
@@ -127,6 +152,7 @@
 - [ ] [Treehouse: Interactive webpages with JS](https://teamtreehouse.com/library/javascript-and-the-dom-2)
 - [ ] [Treehouse: Javascript Loops, Arrays and Objects](https://teamtreehouse.com/library/javascript-loops-arrays-and-objects)
 - [ ] [Treehouse: Javascript Basics](https://teamtreehouse.com/library/javascript-basics)
+- [ ] [Treehouse: jQuery Basics](https://teamtreehouse.com/library/jquery-basics)
 - [ ] [Treehouse: Javascript Booleans](https://teamtreehouse.com/library/javascript-booleans)
 - [ ] [Treehouse: Javascript Foundations](https://teamtreehouse.com/library/javascript-basics)
 - [ ] [Treehouse: Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
@@ -134,49 +160,20 @@
 - [X] [Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
 - [X] [Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
 - [ ] [Udacity: Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
+- [ ] [Udacity: Intro to Jquery](https://www.udacity.com/courses/ud245)
 - [ ] [Udacity: Javascript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [ ] [Udacity: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 - [ ] [Udacity: Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
 - [ ] [Wes Bos: Javascript 30](https://javascript30.com/)
 
-## jQuery
-- [ ] [Codecademy: Jquery Iterators](https://www.codecademy.com/learn/learn-jquery-iterators)
-- [ ] [Codecademy: Jquery Track](http://www.codecademy.com/tracks/jquery)
-- [ ] [Treehouse: jQuery Basics](https://teamtreehouse.com/library/jquery-basics)
-- [ ] [Udacity: Intro to Jquery](https://www.udacity.com/courses/ud245)
+## Non-Tech
+- [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 
-## Machine Learning
-- [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
-- [X] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
-- [ ] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
-- [ ] [Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
-- [ ] [Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
-- [X] [Datacamp: Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)
-- [ ] [Datacamp: Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
-- [ ] [Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
-- [ ] [Datacamp: Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
-- [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
-- [ ] [Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
-- [ ] [Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
-- [ ] [Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
-- [ ] [Datacamp: Importing & Managing Financial Data in Python](https://www.datacamp.com/courses/importing-managing-financial-data-in-python)
-- [ ] [Datacamp: Manipulating Time Series Data in Python](https://www.datacamp.com/courses/manipulating-time-series-data-in-python)
-- [ ] [Datacamp: Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
-- [ ] [Datacamp: Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)
-- [ ] [Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
-- [ ] [Datacamp: Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking)
-- [ ] [Datacamp: Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
-- [X] [Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
-- [X] [Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
-- [X] [Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
-- [X] [edX: Analyzing and Visualizing Data with Excel](https://www.edx.org/course/analyzing-visualizing-data-excel-microsoft-dat206x-7)
-- [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
-- [X] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
-- [X] [edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)
-- [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
-- [ ] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
-- [ ] [Udacity: A Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
-
+## OOP
+- [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
+- [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
+- [X] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [ ] [Udacity: Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 
 ## Python
 - [X] [A Byte of Python](https://python.swaroopch.com)
@@ -228,19 +225,17 @@
 - [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
 - [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 
-## SQL
-- [ ] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
-- [ ] [Codecademy: SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
-- [ ] [Codecademy: SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
-- [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
-- [ ] [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
-- [X] [Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)
-- [ ] [Khan Academy: SQL](https://www.khanacademy.org/computing/computer-programming/sql)
-- [ ] [Launch School: Introduction to SQL](https://launchschool.com/books/sql)
-- [ ] [Learn SQL the hard way](http://sql.learncodethehardway.org/book/ex1.html)
-- [ ] [Treehouse: Using Databases in Python](https://teamtreehouse.com/library/using-databases-in-python)
-- [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-- [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+## Soft Skills
+- [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
+- [ ] [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
+
+## Software Engineering
+- [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
+- [ ] [Udacity: Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
+- [ ] [Udacity: Product Design](https://www.udacity.com/course/product-design--ud509)
+- [ ] [Udacity: Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
+- [ ] [Udacity: Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821)
+- [ ] [Udacity: Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 
 ## Testing
 - [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
@@ -250,8 +245,6 @@
 - [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
-## Text Editors
-- [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
-
 ## Workflow
+- [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
 - [ ] [Udacity: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
