@@ -71,17 +71,15 @@
 - [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 
-## Frontend Framework
-- [ ] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
-- [ ] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
-
-## HTML & CSS
+## Frontend
 - [ ] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
 - [ ] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
 - [ ] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
 - [ ] [Codecademy: Learn responsive design](https://www.codecademy.com/learn/learn-responsive-design)
 - [ ] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
 - [ ] [Codecademy: Make an interactive website](https://www.codecademy.com/en/skills/make-an-interactive-website)
+- [ ] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
+- [ ] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
 - [ ] [Udacity: HTML and CSS Syntax](https://www.udacity.com/course/html-and-css-syntax--ud001)
 - [ ] [Udacity: Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 - [ ] [Udacity: HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
@@ -109,8 +107,6 @@
 - [ ] [Treehouse: CSS Selectors](https://teamtreehouse.com/library/css-selectors)
 - [ ] [Treehouse: Modular CSS with Sass](https://teamtreehouse.com/library/modular-css-with-sass)
 - [ ] [Treehouse: SASS Basics](https://teamtreehouse.com/library/sass-basics-2)
-
-## JavaScript
 - [X] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
 - [ ] [Codecademy: Jquery Iterators](https://www.codecademy.com/learn/learn-jquery-iterators)
 - [ ] [Codecademy: Jquery Track](http://www.codecademy.com/tracks/jquery)
@@ -157,15 +153,11 @@
 ## Non-Tech
 - [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 
-## OOP
-- [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
-- [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
-- [X] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
-- [ ] [Udacity: Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
-
-## Python
+## Backend Programming
 - [X] [A Byte of Python](https://python.swaroopch.com)
+- [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
 - [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
+- [X] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 - [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 - [X] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [ ] [Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
@@ -190,10 +182,10 @@
 - [ ] [Treehouse: Write Better Python](https://teamtreehouse.com/library/write-better-python)
 - [ ] [Udacity: Introduction to Python](https://www.udacity.com/course/introduction-to-python--ud1110)
 - [ ] [Udacity: Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+- [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
+- [X] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [ ] [Udacity: Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 - [ ] [Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
-
-## Ruby
-- [X] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 
 ## Soft Skills
 - [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
