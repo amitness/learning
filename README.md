@@ -1,5 +1,19 @@
 # learning-plan
 
+## Command Line
+- [ ] [Bash Academy](http://guide.bash.academy)
+- [ ] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+- [ ] [CONQUERING THE COMMAND LINE](http://conqueringthecommandline.com/book)
+- [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+- [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
+- [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
+- [ ] [Treehouse: Console Foundations](https://teamtreehouse.com/library/console-foundations)
+- [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [ ] [Udacity: Linux Web Servers](https://www.udacity.com/courses/ud299)
+- [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+- [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
+
 ## Computer Science
 - [ ] [CS50](https://cs50.harvard.edu/)
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
@@ -71,36 +85,9 @@
 - [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 
-## Django
-- [ ] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
-- [ ] [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
-- [ ] [Learn Python Django Web](https://github.com/kabirbaidhya/learn-python-django-web)
-- [ ] [Rapid Development with Django, Python and Google App Engine](https://www.youtube.com/watch?v=v1gTI4BOPUw)
-- [ ] [Treehouse: Django Basics](https://teamtreehouse.com/library/Django-basics)
-- [ ] [Treehouse: Customizing Django Templates](https://teamtreehouse.com/library/customizing-django-templates)
-- [ ] [Two scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
-- [ ] [Hello Web App](https://hellowebapp.com/tutorial/intro/)
-- [ ] [PyLadies Django Workshop](http://eleyine.github.io/pyladies-django-workshop/#/43)
-- [ ] [Tango With Django](http://www.tangowithdjango.com/)
-- [ ] [Django by Example 1 week](http://lightbird.net/dbe/)
-- [ ] [Django Book](http://www.djangobook.com/en/2.0/chapter01.html)
-- [ ] [Try Django. Make a Landing Page](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
-- [ ] [Try Django. Launch with code](https://www.youtube.com/playlist?list=PLEsfXFp6DpzT5veidCTZ1mQriBX0Mu2LF)
-
-## Git
-- [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
-- [ ] [Codeschool: Try Git](https://try.github.io/levels/1/challenges/1)
-- [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
-- [ ] [Girls in Technology: Git Branching](https://www.youtube.com/watch?v=ewoWxGq97g4&index=4&list=PLzHu92VkS9CG0LRI8O653JNGuZVFw1o8Q)
-- [ ] [Git-Game](https://www.git-game.com/)
-- [ ] [Git Immersion](http://gitimmersion.com/index.html)
-- [ ] [Launch School: Intro to Git and GitHub](https://launchschool.com/books/git)
-- [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
-- [ ] [Treehouse: Git Basics](https://teamtreehouse.com/library/git-basics)
-- [ ] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
-- [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-- [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-- [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+## Frontend Framework
+- [ ] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
+- [ ] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
 
 ## HTML & CSS
 - [ ] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
@@ -137,7 +124,6 @@
 - [ ] [Treehouse: Modular CSS with Sass](https://teamtreehouse.com/library/modular-css-with-sass)
 - [ ] [Treehouse: SASS Basics](https://teamtreehouse.com/library/sass-basics-2)
 
-
 ## JavaScript
 - [X] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
 - [ ] [Codecademy: Jquery Iterators](https://www.codecademy.com/learn/learn-jquery-iterators)
@@ -165,6 +151,22 @@
 - [ ] [Udacity: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 - [ ] [Udacity: Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
 - [ ] [Wes Bos: Javascript 30](https://javascript30.com/)
+
+## MVC Framework
+- [ ] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
+- [ ] [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
+- [ ] [Learn Python Django Web](https://github.com/kabirbaidhya/learn-python-django-web)
+- [ ] [Rapid Development with Django, Python and Google App Engine](https://www.youtube.com/watch?v=v1gTI4BOPUw)
+- [ ] [Treehouse: Django Basics](https://teamtreehouse.com/library/Django-basics)
+- [ ] [Treehouse: Customizing Django Templates](https://teamtreehouse.com/library/customizing-django-templates)
+- [ ] [Two scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
+- [ ] [Hello Web App](https://hellowebapp.com/tutorial/intro/)
+- [ ] [PyLadies Django Workshop](http://eleyine.github.io/pyladies-django-workshop/#/43)
+- [ ] [Tango With Django](http://www.tangowithdjango.com/)
+- [ ] [Django by Example 1 week](http://lightbird.net/dbe/)
+- [ ] [Django Book](http://www.djangobook.com/en/2.0/chapter01.html)
+- [ ] [Try Django. Make a Landing Page](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
+- [ ] [Try Django. Launch with code](https://www.youtube.com/playlist?list=PLEsfXFp6DpzT5veidCTZ1mQriBX0Mu2LF)
 
 ## Non-Tech
 - [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
@@ -204,26 +206,8 @@
 - [ ] [Udacity: Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 - [ ] [Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
 
-## React
-- [ ] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
-- [ ] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
-
 ## Ruby
 - [X] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
-
-## Shell
-- [ ] [Bash Academy](http://guide.bash.academy)
-- [ ] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
-- [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-- [ ] [CONQUERING THE COMMAND LINE](http://conqueringthecommandline.com/book)
-- [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
-- [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
-- [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
-- [ ] [Treehouse: Console Foundations](https://teamtreehouse.com/library/console-foundations)
-- [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
-- [ ] [Udacity: Linux Web Servers](https://www.udacity.com/courses/ud299)
-- [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
-- [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 
 ## Soft Skills
 - [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
@@ -244,6 +228,21 @@
 - [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 - [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+
+## Version Control
+- [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+- [ ] [Codeschool: Try Git](https://try.github.io/levels/1/challenges/1)
+- [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+- [ ] [Girls in Technology: Git Branching](https://www.youtube.com/watch?v=ewoWxGq97g4&index=4&list=PLzHu92VkS9CG0LRI8O653JNGuZVFw1o8Q)
+- [ ] [Git-Game](https://www.git-game.com/)
+- [ ] [Git Immersion](http://gitimmersion.com/index.html)
+- [ ] [Launch School: Intro to Git and GitHub](https://launchschool.com/books/git)
+- [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
+- [ ] [Treehouse: Git Basics](https://teamtreehouse.com/library/git-basics)
+- [ ] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+- [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 
 ## Workflow
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
