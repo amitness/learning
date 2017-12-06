@@ -1,19 +1,5 @@
 # learning-plan
 
-## Command Line
-- [ ] [Bash Academy](http://guide.bash.academy)
-- [ ] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
-- [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-- [ ] [CONQUERING THE COMMAND LINE](http://conqueringthecommandline.com/book)
-- [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
-- [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
-- [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
-- [ ] [Treehouse: Console Foundations](https://teamtreehouse.com/library/console-foundations)
-- [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
-- [ ] [Udacity: Linux Web Servers](https://www.udacity.com/courses/ud299)
-- [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
-- [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
-
 ## Computer Science
 - [ ] [CS50](https://cs50.harvard.edu/)
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
@@ -245,5 +231,17 @@
 - [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 
 ## Workflow
+- [ ] [Bash Academy](http://guide.bash.academy)
+- [ ] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+- [ ] [CONQUERING THE COMMAND LINE](http://conqueringthecommandline.com/book)
+- [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+- [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
+- [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
+- [ ] [Treehouse: Console Foundations](https://teamtreehouse.com/library/console-foundations)
+- [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [ ] [Udacity: Linux Web Servers](https://www.udacity.com/courses/ud299)
+- [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
 - [ ] [Udacity: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
+- [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
