@@ -168,7 +168,7 @@
 - [ ] [Udacity: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 - [X] [Udacity: Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
 - [ ] [Wes Bos: Javascript 30](https://javascript30.com/)
-- [ ] [(ES6) - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+- [X] [(ES6) - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
 
 ## MVC Framework
 - [ ] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
