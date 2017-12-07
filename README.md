@@ -166,7 +166,7 @@
 - [ ] [Udacity: Intro to Jquery](https://www.udacity.com/courses/ud245)
 - [ ] [Udacity: Javascript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [ ] [Udacity: JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
-- [ ] [Udacity: Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
+- [X] [Udacity: Object Oriented JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
 - [ ] [Wes Bos: Javascript 30](https://javascript30.com/)
 
 ## MVC Framework
