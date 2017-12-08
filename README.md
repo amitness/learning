@@ -145,7 +145,6 @@
 - [X] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
 - [ ] [Codecademy: Jquery Iterators](https://www.codecademy.com/learn/learn-jquery-iterators)
 - [ ] [Codecademy: Jquery Track](http://www.codecademy.com/tracks/jquery)
-- [ ] [CodeSchool: Javascript Roadtrip Part 1,2,3](http://javascript-roadtrip.codeschool.com/levels/1)
 - [ ] [Eloquent Javascript](http://eloquentjavascript.net)
 - [ ] [ES6](https://www.youtube.com/watch?v=0Mp2kwE8xY0&list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml)
 - [ ] [Javascript for Cats](http://jsforcats.com/#basics)
