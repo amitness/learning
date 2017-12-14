@@ -114,7 +114,7 @@
 - [ ] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
 - [ ] [Codecademy: Make an interactive website](https://www.codecademy.com/en/skills/make-an-interactive-website)
 - [X] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
-- [ ] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
+- [X] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
 - [ ] [Udacity: HTML and CSS Syntax](https://www.udacity.com/course/html-and-css-syntax--ud001)
 - [ ] [Udacity: Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 - [ ] [Udacity: HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
