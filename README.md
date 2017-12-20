@@ -2,6 +2,7 @@
 
 ## Backend Programming
 - [X] [A Byte of Python](https://python.swaroopch.com)
+- [ ] [Automate the boring stuff with python](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 - [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
 - [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
 - [X] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
@@ -10,11 +11,13 @@
 - [ ] [Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
 - [X] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
 - [ ] [Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U&feature=youtu.be)
+- [ ] [Dive into Python 3](http://www.diveintopython3.net/)
 - [X] [edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)
 - [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
 - [ ] [Google's Python Class](https://developers.google.com/edu/python/)
 - [X] [Learn Python The Hard way](https://learnpythonthehardway.org)
 - [ ] [Python 201](https://leanpub.com/python201)
+- [ ] [Real Python](https://www.goodreads.com/book/show/20750754-real-python)
 - [ ] [The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
 - [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
 - [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
