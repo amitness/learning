@@ -44,6 +44,7 @@
 - [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Launch School: Introduction to HTTP](https://launchschool.com/books/http)
+- [ ] [Udacity: Algebra Review](https://www.udacity.com/course/intro-algebra-review--ma004)
 - [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 - [ ] [Udacity: Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
 - [ ] [Udacity: Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222)
