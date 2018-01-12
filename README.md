@@ -109,7 +109,8 @@
 - [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
 - [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
-- [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
+- [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts
+- [ ] [Udemy: AWS Essentials](https://www.udemy.com/aws-essentials/)
 
 ## Frontend
 - [ ] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
