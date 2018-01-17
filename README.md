@@ -58,6 +58,7 @@
 - [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 - [ ] [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+- [ ] [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## Database
 - [ ] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
