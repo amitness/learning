@@ -113,6 +113,7 @@
 - [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 - [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
 - [ ] [Udemy: AWS Essentials](https://www.udemy.com/aws-essentials/)
+- [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
 
 ## Frontend
 - [ ] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
