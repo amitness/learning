@@ -120,7 +120,7 @@
 - [ ] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
 - [ ] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
 - [ ] [Codecademy: Learn responsive design](https://www.codecademy.com/learn/learn-responsive-design)
-- [ ] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
+- [X] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
 - [ ] [Codecademy: Make an interactive website](https://www.codecademy.com/en/skills/make-an-interactive-website)
 - [X] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
 - [X] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
