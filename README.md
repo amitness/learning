@@ -122,7 +122,7 @@
 - [ ] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
 - [ ] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
 - [ ] [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
-- [ ] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [ ] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
 - [ ] [Codecademy: Learn responsive design](https://www.codecademy.com/learn/learn-responsive-design)
 - [X] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
