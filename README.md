@@ -109,6 +109,9 @@
 
 ## Deployment
 - [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
+- [ ] [EDX: AWS Developer: Building on AWS](https://www.edx.org/course/aws-developer-building-on-aws)
+- [ ] [EDX: AWS Developer: Deploying on AWS](https://www.edx.org/course/aws-developer-deploying-on-aws)
+- [ ] [EDX: AWS Developer: Optimizing on AWS](https://www.edx.org/course/aws-developer-optimizing-on-aws)
 - [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 - [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
