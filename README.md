@@ -122,6 +122,7 @@
 ## Frontend
 - [ ] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
 - [ ] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
+- [ ] [Codecademy: Introduction to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [ ] [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
 - [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [X] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
