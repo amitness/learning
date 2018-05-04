@@ -235,7 +235,7 @@
 - [ ] [Launch School: Intro to Git and GitHub](https://launchschool.com/books/git)
 - [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
 - [ ] [Treehouse: Git Basics](https://teamtreehouse.com/library/git-basics)
-- [ ] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+- [X] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 - [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
