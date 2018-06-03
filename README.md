@@ -107,6 +107,11 @@
 - [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
 - [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [ ] [Google: ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
+- [ ] [Google: How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning)
+- [ ] [Google: Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning)
+- [ ] [Google: Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow)
+- [ ] [Google: Feature Engineering](https://www.coursera.org/learn/feature-engineering)
+- [ ] [Google: Art and Science of Machine Learning](https://www.coursera.org/learn/art-science-ml)
 - [ ] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
 - [ ] [Udacity: A Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
 
