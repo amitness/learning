@@ -215,6 +215,7 @@
 - [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 - [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
 - [ ] [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
+- [X] [The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
 
 ## Software Engineering
 - [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
