@@ -216,6 +216,7 @@
 - [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 - [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
 - [X] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
+- [X] [Udacity: Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)
 - [X] [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 - [X] [The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
 
