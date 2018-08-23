@@ -239,6 +239,7 @@
 - [ ] [Udacity: Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 
 ## Testing
+- [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
 - [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 - [ ] [Treehouse: Python Testing](https://teamtreehouse.com/library/python-testing)
 - [ ] [Udacity: Javascript Testing](https://www.udacity.com/courses/ud549)
