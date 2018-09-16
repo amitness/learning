@@ -235,6 +235,7 @@
 - [X] [Pluralsight: Product Owner Fundamentals](https://www.pluralsight.com/courses/product-owner-fundamentals-foundations)
 - [X] [Pluralsight: Scrum Master Fundamentals - Foundations](https://www.pluralsight.com/courses/scrum-master-fundamentals-foundations)
 - [X] [Pluralsight: Secure Software Development](https://www.pluralsight.com/courses/software-development-secure)
+- [X] [Pluralsight: Clean Architecture: Patterns, Practices, and Principles](https://www.pluralsight.com/courses/clean-architecture-patterns-practices-principles)
 - [ ] [Udacity: Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
 - [ ] [Udacity: Product Design](https://www.udacity.com/course/product-design--ud509)
 - [ ] [Udacity: Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
