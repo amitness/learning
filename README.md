@@ -141,6 +141,7 @@
 - [ ] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
 - [ ] [Codecademy: Introduction to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [ ] [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
+- [ ] [Codecademy: Learn Color Design](https://www.codecademy.com/learn/learn-color-design)
 - [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [X] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
 - [ ] [Codecademy: Learn responsive design](https://www.codecademy.com/learn/learn-responsive-design)
