@@ -236,6 +236,7 @@
 - [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
 - [X] [Pluralsight: Product Owner Fundamentals](https://www.pluralsight.com/courses/product-owner-fundamentals-foundations)
 - [X] [Pluralsight: Scrum Master Fundamentals - Foundations](https://www.pluralsight.com/courses/scrum-master-fundamentals-foundations)
+- [X] [Pluralsight: Security Awareness: Basic Concepts and Terminology](https://app.pluralsight.com/library/courses/security-awareness-basic-concepts-terminology)
 - [X] [Pluralsight: Secure Software Development](https://www.pluralsight.com/courses/software-development-secure)
 - [X] [Pluralsight: Clean Architecture: Patterns, Practices, and Principles](https://www.pluralsight.com/courses/clean-architecture-patterns-practices-principles)
 - [ ] [Udacity: Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
