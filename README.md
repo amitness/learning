@@ -135,6 +135,7 @@
 - [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
 - [ ] [Udemy: AWS Essentials](https://www.udemy.com/aws-essentials/)
 - [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
+- [ ] [Servers for Hackers Series](https://serversforhackers.com/)
 
 ## Frontend
 - [ ] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
@@ -278,6 +279,7 @@
 - [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
 - [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
+- [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
 - [ ] [Treehouse: Console Foundations](https://teamtreehouse.com/library/console-foundations)
 - [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 - [ ] [Udacity: Linux Web Servers](https://www.udacity.com/courses/ud299)
