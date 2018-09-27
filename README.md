@@ -131,6 +131,7 @@
 - [ ] [EDX: AWS Developer: Deploying on AWS](https://www.edx.org/course/aws-developer-deploying-on-aws)
 - [ ] [EDX: AWS Developer: Optimizing on AWS](https://www.edx.org/course/aws-developer-optimizing-on-aws)
 - [ ] [Pluralsight: Hands-on Ansible](https://www.pluralsight.com/courses/hands-on-ansible)
+- [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
 - [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 - [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
