@@ -152,6 +152,7 @@
 - [X] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
 - [X] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
 - [X] [Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)
+- [X] [Pluralsight: HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture)
 - [ ] [Udacity: HTML and CSS Syntax](https://www.udacity.com/course/html-and-css-syntax--ud001)
 - [ ] [Udacity: Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 - [ ] [Udacity: HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
