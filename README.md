@@ -230,6 +230,7 @@
 - [ ] [Try Django. Launch with code](https://www.youtube.com/playlist?list=PLEsfXFp6DpzT5veidCTZ1mQriBX0Mu2LF)
 
 ## Non-Technical
+- [X] [Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
 - [X] [Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
 - [X] [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
 - [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
