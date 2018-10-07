@@ -109,6 +109,7 @@
 - [X] [Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
 - [X] [Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
 - [ ] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+- [ ] [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [X] [edX: Analyzing and Visualizing Data with Excel](https://www.edx.org/course/analyzing-visualizing-data-excel-microsoft-dat206x-7)
 - [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
 - [X] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
