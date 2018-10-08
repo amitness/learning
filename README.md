@@ -61,7 +61,7 @@
 - [ ] [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## Database
-- [ ] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
+- [X] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
 - [ ] [Codecademy: SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
 - [ ] [Codecademy: SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
 - [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
