@@ -271,6 +271,7 @@
 ## Version Control
 - [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 - [ ] [Codeschool: Try Git](https://try.github.io/levels/1/challenges/1)
+- [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
 - [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 - [ ] [Girls in Technology: Git Branching](https://www.youtube.com/watch?v=ewoWxGq97g4&index=4&list=PLzHu92VkS9CG0LRI8O653JNGuZVFw1o8Q)
 - [ ] [Git-Game](https://www.git-game.com/)
