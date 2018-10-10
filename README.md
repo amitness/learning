@@ -157,6 +157,7 @@
 - [ ] [Codecademy: Make an interactive website](https://www.codecademy.com/en/skills/make-an-interactive-website)
 - [X] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
 - [X] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
+- [X] [Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)
 - [X] [Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)
 - [X] [Pluralsight: HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture)
 - [X] [Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)
