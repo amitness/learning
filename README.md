@@ -208,7 +208,7 @@
 - [ ] [Treehouse: Javascript Loops, Arrays and Objects](https://teamtreehouse.com/library/javascript-loops-arrays-and-objects)
 - [ ] [Treehouse: Javascript Basics](https://teamtreehouse.com/library/javascript-basics)
 - [ ] [Treehouse: jQuery Basics](https://teamtreehouse.com/library/jquery-basics)
-- [ ] [Treehouse: Javascript Booleans](https://teamtreehouse.com/library/javascript-booleans)
+- [X] [Treehouse: Javascript Booleans](https://teamtreehouse.com/library/javascript-booleans)
 - [ ] [Treehouse: Javascript Foundations](https://teamtreehouse.com/library/javascript-basics)
 - [ ] [Treehouse: Object-Oriented JavaScript](https://teamtreehouse.com/library/objectoriented-javascript)
 - [ ] [Udacity: Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
