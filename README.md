@@ -180,6 +180,7 @@
 - [ ] [Udacity: Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [ ] [Udacity: Browser Rendering Optimization](https://www.udacity.com/courses/ud860)
 - [X] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
+- [X] [Treehouse: HTML](https://teamtreehouse.com/library/html)
 - [ ] [Treehouse: HTML Forms](https://teamtreehouse.com/library/html-forms)
 - [ ] [Treehouse: HTML Tables](https://teamtreehouse.com/library/html-tables)
 - [ ] [Treehouse: HTML Video and Audio](https://teamtreehouse.com/library/html-tables)
