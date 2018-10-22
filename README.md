@@ -301,6 +301,7 @@
 - [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
 - [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
+- [X] [Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)
 - [ ] [Treehouse: Console Foundations](https://teamtreehouse.com/library/console-foundations)
 - [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 - [ ] [Udacity: Linux Web Servers](https://www.udacity.com/courses/ud299)
