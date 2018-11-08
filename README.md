@@ -42,8 +42,10 @@
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [ ] [Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
 - [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
+- [ ] [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Launch School: Introduction to HTTP](https://launchschool.com/books/http)
+- [ ] [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [ ] [Udacity: Algebra Review](https://www.udacity.com/course/intro-algebra-review--ma004)
 - [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 - [ ] [Udacity: Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
@@ -57,8 +59,6 @@
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 - [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
-- [ ] [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
-- [ ] [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## Database
 - [X] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
@@ -273,14 +273,14 @@
 - [X] [Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
 - [X] [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [X] [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
-- [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
+- [X] [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
+- [X] [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
+- [X] [The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
 - [X] [The Millionaire Fastlane](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102)
 - [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
-- [X] [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
+- [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 - [X] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
 - [X] [Udacity: Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)
-- [X] [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
-- [X] [The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
 
 ## Software Engineering
 - [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
