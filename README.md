@@ -281,6 +281,7 @@
 - [X] [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
 - [X] [The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
 - [X] [The Millionaire Fastlane](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102)
+- [X] [The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
 - [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
 - [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 - [X] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
