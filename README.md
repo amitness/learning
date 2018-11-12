@@ -194,6 +194,7 @@
 - [X] [Pluralsight: HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture)
 - [X] [Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)
 - [X] [Pluralsight: Introduction to CSS](https://www.pluralsight.com/courses/css-intro)
+- [X] [Pluralsight: CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)
 - [ ] [Udacity: HTML and CSS Syntax](https://www.udacity.com/course/html-and-css-syntax--ud001)
 - [ ] [Udacity: Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 - [ ] [Udacity: HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
