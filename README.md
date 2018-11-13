@@ -83,7 +83,7 @@
 - [X] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 - [ ] [Datacamp: Data Visualization with Seaborn](https://www.datacamp.com/courses/data-visualization-with-seaborn)
 - [ ] [Datacamp: Intro to Portfolio Risk Management in Python](https://www.datacamp.com/courses/intro-to-portfolio-risk-management-in-python)
-- [ ] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+- [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 - [ ] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 - [ ] [Datacamp: Introduction to Time Series Analysis in Python](https://www.datacamp.com/courses/introduction-to-time-series-analysis-in-python)
 - [ ] [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
