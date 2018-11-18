@@ -290,6 +290,7 @@
 - [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 - [X] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
 - [X] [Udacity: Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)
+- [X] [Udacity: Full-Stack Interview Prep](https://www.udacity.com/course/full-stack-interview-prep--ud252)
 - [ ] [Thoughtbot: Analytics for Developers](https://thoughtbot.com/upcase/analytics-for-developers)
 
 ## Software Engineering
