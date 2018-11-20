@@ -286,6 +286,7 @@
 - [X] [The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
 - [X] [The Subtle Art of Not Giving a F\*\*k](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 - [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
+- [X] [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
 - [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
 - [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
 - [X] [Pluralsight: Productivity for Programmers](https://www.pluralsight.com/courses/productivity-for-programmers)
