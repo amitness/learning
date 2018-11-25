@@ -170,6 +170,9 @@
 - [ ] [The Math of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 - [ ] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Deeplizard: TensorFlow.js series](https://www.youtube.com/watch?v=HEQDRWMK6yY&list=PLZbbT5o_s2xr83l8w44N_g3pygvajLrJ-)
+- [ ] [RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
+- [ ] [How Deep Neural Networks work](https://www.youtube.com/watch?v=ILsA4nyG7I0&index=3&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
+- [ ] [How CNN works](https://www.youtube.com/watch?v=FmpDIaiMIeA&index=4&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 
 ## Deployment
 - [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
