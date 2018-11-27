@@ -285,6 +285,13 @@
 - [ ] [Try Django. Make a Landing Page](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
 - [ ] [Try Django. Launch with code](https://www.youtube.com/playlist?list=PLEsfXFp6DpzT5veidCTZ1mQriBX0Mu2LF)
 
+## Marketing
+- [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
+- [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
+- [X] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
+- [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
+- [ ] [Thoughtbot: Analytics for Developers](https://thoughtbot.com/upcase/analytics-for-developers)
+
 ## Non-Technical
 - [X] [Emotional Intelligence](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
 - [X] [Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
@@ -299,15 +306,11 @@
 - [X] [The Subtle Art of Not Giving a F\*\*k](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 - [ ] [The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
 - [X] [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
-- [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
-- [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
 - [X] [Pluralsight: Productivity for Programmers](https://www.pluralsight.com/courses/productivity-for-programmers)
-- [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 - [X] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
 - [X] [Udacity: Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)
 - [X] [Udacity: Data Science Interview Prep](https://www.udacity.com/course/data-science-interview-prep--ud944)
 - [X] [Udacity: Full-Stack Interview Prep](https://www.udacity.com/course/full-stack-interview-prep--ud252)
-- [ ] [Thoughtbot: Analytics for Developers](https://thoughtbot.com/upcase/analytics-for-developers)
 
 ## Software Engineering
 - [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
