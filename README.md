@@ -19,6 +19,19 @@
 - [ ] [Udacity: Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
 - [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
 
+## Business
+- [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
+- [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
+- [X] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
+- [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
+- [X] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
+- [ ] [Thoughtbot: Analytics for Developers](https://thoughtbot.com/upcase/analytics-for-developers)
+- [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
+- [ ] [Udacity: App Monetization](https://www.udacity.com/course/app-monetization--ud518)
+- [ ] [Udacity: Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
+- [ ] [Udacity: Engagement & Monetization | Mobile Games](https://www.udacity.com/course/engagement-monetization-mobile-games--ud407)
+- [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
+
 ## Computer Science
 - [ ] [CS50](https://cs50.harvard.edu/)
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
@@ -153,6 +166,21 @@
 - [ ] [Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/)
 - [ ] [Udacity: A Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
 - [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- [ ] [Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+- [ ] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [ ] [Udacity: Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+- [ ] [Udacity: Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
+- [ ] [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [ ] [Udacity: Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
+- [ ] [Udacity: Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+- [ ] [Udacity: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+- [ ] [Udacity: Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+- [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
+- [ ] [Udacity: Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
+- [ ] [Udacity: Classification Models](https://www.udacity.com/course/classification-models--ud978)
+- [ ] [Udacity: Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+- [ ] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
+- [ ] [Udacity: Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 - [ ] [Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)
 - [ ] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
 - [ ] [The Math of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
@@ -261,14 +289,6 @@
 - [ ] [Udacity: JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [ ] [Wes Bos: Javascript 30](https://javascript30.com/)
 - [X] [(ES6) - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
-
-## Marketing
-- [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
-- [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
-- [X] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
-- [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
-- [X] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
-- [ ] [Thoughtbot: Analytics for Developers](https://thoughtbot.com/upcase/analytics-for-developers)
 
 ## Non-Technical
 - [X] [Emotional Intelligence](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
