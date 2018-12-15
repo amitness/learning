@@ -29,8 +29,12 @@
 - [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 - [ ] [Udacity: App Monetization](https://www.udacity.com/course/app-monetization--ud518)
 - [ ] [Udacity: Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
+- [ ] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 - [ ] [Udacity: Engagement & Monetization | Mobile Games](https://www.udacity.com/course/engagement-monetization-mobile-games--ud407)
 - [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
+- [ ] [Udacity: Intro to Psychology](https://www.udacity.com/course/intro-to-psychology--ps001)
+- [ ] [Udacity: Human-Computer Interaction](https://www.udacity.com/course/human-computer-interaction--ud400)
+- [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 
 ## Computer Science
 - [ ] [CS50](https://cs50.harvard.edu/)
@@ -54,6 +58,7 @@
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 - [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+- [ ] [Udacity: Compilers: Theory and Practice](https://www.udacity.com/course/compilers-theory-and-practice--ud168)
 - [ ] [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
 
 ## Database
@@ -181,6 +186,8 @@
 - [ ] [Udacity: Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
 - [ ] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 - [ ] [Udacity: Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
+- [ ] [Udacity: Statistics](https://www.udacity.com/course/statistics--st095)
+- [ ] [Udaity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [ ] [Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)
 - [ ] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
 - [ ] [The Math of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
@@ -203,6 +210,8 @@
 - [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 - [ ] [Udacity: Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
 - [ ] [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+- [ ] [Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+- [ ] [Udacity: Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 - [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
 - [ ] [Udemy: AWS Essentials](https://www.udemy.com/aws-essentials/)
 - [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
@@ -242,6 +251,8 @@
 - [ ] [Udacity: Website Performance Optimization](https://www.udacity.com/courses/ud884)
 - [ ] [Udacity: Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [ ] [Udacity: Browser Rendering Optimization](https://www.udacity.com/courses/ud860)
+- [ ] [Udacity: Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
+- [ ] [Udacity: Intro to Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
 - [X] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
 - [ ] [Thoughtbot: Design for Developers](https://thoughtbot.com/upcase/design-for-developers)
 - [ ] [Thoughtbot: Bourbon Smash](https://thoughtbot.com/upcase/bourbon-smash)
@@ -309,6 +320,9 @@
 - [X] [Udacity: Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)
 - [X] [Udacity: Data Science Interview Prep](https://www.udacity.com/course/data-science-interview-prep--ud944)
 - [X] [Udacity: Full-Stack Interview Prep](https://www.udacity.com/course/full-stack-interview-prep--ud252)
+- [X] [Udacity: Front-End Interview Prep](https://www.udacity.com/course/front-end-interview-prep--ud250)
+- [ ] [Udacity: Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243)
+- [ ] [Udacity: Craft Your Cover Letter](https://www.udacity.com/course/craft-your-cover-letter--ud244)
 
 ## Programming Language
 - [X] [A Byte of Python](https://python.swaroopch.com)
@@ -340,11 +354,12 @@
 - [ ] [Treehouse: Functional Programming with Python](https://teamtreehouse.com/library/functional-python)
 - [ ] [Treehouse: Python Decorators](https://teamtreehouse.com/library/python-decorators)
 - [ ] [Treehouse: Write Better Python](https://teamtreehouse.com/library/write-better-python)
-- [ ] [Udacity: Introduction to Python](https://www.udacity.com/course/introduction-to-python--ud1110)
+- [ ] [Udacity: Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 - [ ] [Udacity: Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 - [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
 - [X] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [ ] [Udacity: Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
+- [ ] [Udacity: What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
 - [ ] [Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
 
 ## Software Engineering
@@ -362,6 +377,11 @@
 - [ ] [Udacity: Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [ ] [Udacity: Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [ ] [Udacity: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+- [ ] [Udacity: Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)
+- [ ] [Udacity: Introduction to Cybersecurity](https://www.udacity.com/course/introduction-to-cybersecurity--ud1337)
+- [ ] [Udacity: Network Security](https://www.udacity.com/course/network-security--ud199)
+- [ ] [Udacity: Intro to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459)
+- [ ] [Udacity: Localization Essentials](https://www.udacity.com/course/localization-essentials--ud610)
 
 ## Testing
 - [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
