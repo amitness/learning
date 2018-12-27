@@ -310,6 +310,7 @@
 - [X] [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
 - [X] [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 - [X] [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
+- [X] [The Airbnb Story](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669)
 - [X] [The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
 - [X] [The Millionaire Fastlane](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102)
 - [X] [The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
