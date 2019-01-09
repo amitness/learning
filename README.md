@@ -300,6 +300,7 @@
 - [ ] [Udacity: JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [ ] [Wes Bos: Javascript 30](https://javascript30.com/)
 - [X] [(ES6) - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+- [ ] [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Non-Technical
 - [X] [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
