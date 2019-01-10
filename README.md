@@ -309,6 +309,7 @@
 - [X] [Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
 - [X] [Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
 - [X] [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+- [X] [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 - [X] [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
 - [X] [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 - [X] [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
