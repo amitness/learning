@@ -217,6 +217,7 @@
 - [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
 - [ ] [Servers for Hackers Series](https://serversforhackers.com/)
 - [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+- [X] [Whitepaper: Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
 
 ## Frontend
 - [ ] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
