@@ -215,6 +215,7 @@
 - [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
 - [ ] [Udemy: AWS Essentials](https://www.udemy.com/aws-essentials/)
 - [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
+- [X] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
 - [ ] [Servers for Hackers Series](https://serversforhackers.com/)
 - [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 - [X] [Whitepaper: Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
