@@ -39,6 +39,7 @@
 ## Computer Science
 - [ ] [CS50](https://cs50.harvard.edu/)
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
+- [ ] [Crashcourse: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [ ] [Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
 - [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [ ] [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
