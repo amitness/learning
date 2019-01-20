@@ -211,6 +211,7 @@
 - [ ] [EDX: AWS Developer: Building on AWS](https://www.edx.org/course/aws-developer-building-on-aws)
 - [ ] [EDX: AWS Developer: Deploying on AWS](https://www.edx.org/course/aws-developer-deploying-on-aws)
 - [ ] [EDX: AWS Developer: Optimizing on AWS](https://www.edx.org/course/aws-developer-optimizing-on-aws)
+- [X] [Exam Readiness: AWS Certified Developer – Associate](https://www.aws.training/training/schedule?courseId=18953)
 - [ ] [Pluralsight: Hands-on Ansible](https://www.pluralsight.com/courses/hands-on-ansible)
 - [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
 - [X] [Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)
