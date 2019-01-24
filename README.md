@@ -163,6 +163,7 @@
 - [ ] [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - [ ] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
 - [ ] [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
+- [ ] [Paper: Tensorflow.js](https://arxiv.org/pdf/1901.05350.pdf)
 - [X] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
 - [X] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
 - [X] [Pluralsight: Understanding Algorithms for Recommendation Systems](https://www.pluralsight.com/courses/algorithms-recommendation-systems)
