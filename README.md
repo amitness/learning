@@ -218,6 +218,7 @@
 - [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
 - [X] [Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)
 - [X] [Pluralsight: AWS Networking Deep Dive: Virtual Private Cloud (VPC)](https://www.pluralsight.com/courses/aws-networking-deep-dive-vpc)
+- [X] [Pluralsight: Building Applications Using Elastic Beanstalk](https://www.pluralsight.com/courses/elastic-beanstalk-building-applications)
 - [ ] [The Hacker's Guide to Scaling Python](https://scaling-python.com/)
 - [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [ ] [Udacity: Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
