@@ -154,6 +154,7 @@
 - [ ] [Google: Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow)
 - [ ] [Google: Feature Engineering](https://www.coursera.org/learn/feature-engineering)
 - [ ] [Google: Art and Science of Machine Learning](https://www.coursera.org/learn/art-science-ml)
+- [ ] [Google: Keras Blog](https://medium.com/tensorflow/tagged/keras)
 - [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
 - [ ] [Jason Machine Learning 101 Slides](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g168a3288f7_0_58)
 - [ ] [Kaggle: Time Series with Siraj](https://www.kaggle.com/learn/time-series-with-siraj)
