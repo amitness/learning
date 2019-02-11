@@ -210,6 +210,7 @@
 - [X] [Introduction to AWS Marketplace - Machine Learning Category](https://www.aws.training/learningobject/video?id=27165)
 
 ## DevOps
+- [X] [Thirty Serverless Architectures in 30 Minutes](https://www.youtube.com/watch?v=xJcm9V2jagc)
 - [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
 - [ ] [EDX: AWS Developer: Building on AWS](https://www.edx.org/course/aws-developer-building-on-aws)
 - [ ] [EDX: AWS Developer: Deploying on AWS](https://www.edx.org/course/aws-developer-deploying-on-aws)
