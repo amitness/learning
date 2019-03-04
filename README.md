@@ -79,6 +79,13 @@
 - [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 
 ## Data Science
+- [X] [AWS: Introduction to Amazon Comprehend Medical](https://www.aws.training/learningobject/video?id=27159)
+- [X] [AWS: Introduction to Amazon Elastic Inference](https://www.aws.training/learningobject/video?id=27172)
+- [X] [AWS: Introduction to Amazon Forecast](https://www.aws.training/learningobject/video?id=27163)
+- [X] [AWS: Introduction to Amazon Personalize](https://www.aws.training/learningobject/video?id=27158)
+- [X] [AWS: Introduction to Amazon SageMaker Ground Truth](https://www.aws.training/learningobject/video?id=27162)
+- [X] [AWS: Introduction to Amazon SageMaker Neo](https://www.aws.training/learningobject/video?id=27160)
+- [X] [AWS: Introduction to AWS Marketplace - Machine Learning Category](https://www.aws.training/learningobject/video?id=27165)
 - [X] [AWS: Machine Learning Exam Basics](https://www.aws.training/learningobject/curriculum?id=27271)
 - [X] [AWS: Process Model: CRISP-DM on the AWS Stack](https://www.aws.training/learningobject/wbc?id=27200)
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
@@ -206,13 +213,6 @@
 - [ ] [RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [How Deep Neural Networks work](https://www.youtube.com/watch?v=ILsA4nyG7I0&index=3&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [How CNN works](https://www.youtube.com/watch?v=FmpDIaiMIeA&index=4&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
-- [X] [Introduction to Amazon Comprehend Medical](https://www.aws.training/learningobject/video?id=27159)
-- [X] [Introduction to Amazon Elastic Inference](https://www.aws.training/learningobject/video?id=27172)
-- [X] [Introduction to Amazon Forecast](https://www.aws.training/learningobject/video?id=27163)
-- [X] [Introduction to Amazon Personalize](https://www.aws.training/learningobject/video?id=27158)
-- [X] [Introduction to Amazon SageMaker Ground Truth](https://www.aws.training/learningobject/video?id=27162)
-- [X] [Introduction to Amazon SageMaker Neo](https://www.aws.training/learningobject/video?id=27160)
-- [X] [Introduction to AWS Marketplace - Machine Learning Category](https://www.aws.training/learningobject/video?id=27165)
 
 ## DevOps
 - [X] [Thirty Serverless Architectures in 30 Minutes](https://www.youtube.com/watch?v=xJcm9V2jagc)
