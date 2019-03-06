@@ -91,6 +91,7 @@
 - [X] [AWS: Introduction to AWS Marketplace - Machine Learning Category](https://www.aws.training/learningobject/video?id=27165)
 - [X] [AWS: Machine Learning Exam Basics](https://www.aws.training/learningobject/curriculum?id=27271)
 - [X] [AWS: Process Model: CRISP-DM on the AWS Stack](https://www.aws.training/learningobject/wbc?id=27200)
+- [X] [AWS: Semantic Segmentation Explained](https://www.aws.training/learningobject/video?id=27238)
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
