@@ -79,6 +79,7 @@
 - [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 
 ## Data Science
+- [X] [AWS: Hands-on Rekognition: Automated Video Editing](https://www.aws.training/learningobject/video?id=27229)
 - [X] [AWS: Introduction to Amazon Comprehend](https://www.aws.training/learningobject/video?id=16626)
 - [X] [AWS: Introduction to Amazon Comprehend Medical](https://www.aws.training/learningobject/video?id=27159)
 - [X] [AWS: Introduction to Amazon Elastic Inference](https://www.aws.training/learningobject/video?id=27172)
