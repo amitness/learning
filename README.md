@@ -341,6 +341,7 @@
 - [ ] [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Non-Technical
+- [X] [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
 - [X] [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 - [X] [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 - [X] [Emotional Intelligence](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
