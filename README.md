@@ -94,6 +94,7 @@
 - [X] [AWS: Introduction to Amazon Translate](https://www.aws.training/learningobject/video?id=19442)
 - [X] [AWS: Introduction to AWS Marketplace - Machine Learning Category](https://www.aws.training/learningobject/video?id=27165)
 - [X] [AWS: Machine Learning Exam Basics](https://www.aws.training/learningobject/curriculum?id=27271)
+- [X] [AWS: Neural Machine Translation with Sockeye](https://www.aws.training/learningobject/video?id=27236)
 - [X] [AWS: Process Model: CRISP-DM on the AWS Stack](https://www.aws.training/learningobject/wbc?id=27200)
 - [X] [AWS: Satellite Image Classification in SageMaker](https://www.aws.training/learningobject/video?id=27231)
 - [X] [AWS: Semantic Segmentation Explained](https://www.aws.training/learningobject/video?id=27238)
