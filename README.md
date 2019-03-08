@@ -87,6 +87,7 @@
 - [X] [AWS: Introduction to Amazon Comprehend Medical](https://www.aws.training/learningobject/video?id=27159)
 - [X] [AWS: Introduction to Amazon Elastic Inference](https://www.aws.training/learningobject/video?id=27172)
 - [X] [AWS: Introduction to Amazon Forecast](https://www.aws.training/learningobject/video?id=27163)
+- [X] [AWS: Introduction to Amazon Lex](https://www.aws.training/learningobject/video?id=16516)
 - [X] [AWS: Introduction to Amazon Personalize](https://www.aws.training/learningobject/video?id=27158)
 - [X] [AWS: Introduction to Amazon Polly](https://www.aws.training/learningobject/video?id=15886)
 - [X] [AWS: Introduction to Amazon SageMaker Ground Truth](https://www.aws.training/learningobject/video?id=27162)
