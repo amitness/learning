@@ -88,6 +88,7 @@
 - [X] [AWS: Introduction to Amazon Elastic Inference](https://www.aws.training/learningobject/video?id=27172)
 - [X] [AWS: Introduction to Amazon Forecast](https://www.aws.training/learningobject/video?id=27163)
 - [X] [AWS: Introduction to Amazon Personalize](https://www.aws.training/learningobject/video?id=27158)
+- [X] [AWS: Introduction to Amazon Polly](https://www.aws.training/learningobject/video?id=15886)
 - [X] [AWS: Introduction to Amazon SageMaker Ground Truth](https://www.aws.training/learningobject/video?id=27162)
 - [X] [AWS: Introduction to Amazon SageMaker Neo](https://www.aws.training/learningobject/video?id=27160)
 - [X] [AWS: Introduction to Amazon Transcribe](https://www.aws.training/learningobject/video?id=19443)
