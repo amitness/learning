@@ -5,7 +5,7 @@
   <img src="https://i.imgur.com/A5J6Qdb.png" width="395" height="365"/>
 </p>
 
-## Business / Domain Expertise
+## Business / Domain
 - [X] [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
 - [X] [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 - [X] [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
@@ -50,68 +50,6 @@
 - [ ] [Udacity: Intro to Psychology](https://www.udacity.com/course/intro-to-psychology--ps001)
 - [ ] [Udacity: Human-Computer Interaction](https://www.udacity.com/course/human-computer-interaction--ud400)
 - [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
-
-
-## Backend
-- [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
-- [ ] [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
-- [ ] [Learn Python Django Web](https://github.com/kabirbaidhya/learn-python-django-web)
-- [ ] [Rapid Development with Django, Python and Google App Engine](https://www.youtube.com/watch?v=v1gTI4BOPUw)
-- [ ] [Treehouse: Django Basics](https://teamtreehouse.com/library/Django-basics)
-- [ ] [Treehouse: Customizing Django Templates](https://teamtreehouse.com/library/customizing-django-templates)
-- [ ] [Two scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
-- [ ] [Hello Web App](https://hellowebapp.com/tutorial/intro/)
-- [ ] [PyLadies Django Workshop](http://eleyine.github.io/pyladies-django-workshop/#/43)
-- [ ] [Tango With Django](http://www.tangowithdjango.com/)
-- [ ] [Django by Example 1 week](http://lightbird.net/dbe/)
-- [ ] [Django Book](http://www.djangobook.com/en/2.0/chapter01.html)
-- [ ] [Try Django. Make a Landing Page](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
-- [ ] [Try Django. Launch with code](https://www.youtube.com/playlist?list=PLEsfXFp6DpzT5veidCTZ1mQriBX0Mu2LF)
-- [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-- [ ] [Udacity: Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
-- [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
-
-## Computer Science
-- [ ] [CS50](https://cs50.harvard.edu/)
-- [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
-- [ ] [Crashcourse: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
-- [ ] [Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
-- [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
-- [ ] [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
-- [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [ ] [Launch School: Introduction to HTTP](https://launchschool.com/books/http)
-- [ ] [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- [ ] [Udacity: Algebra Review](https://www.udacity.com/course/intro-algebra-review--ma004)
-- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
-- [ ] [Udacity: Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
-- [ ] [Udacity: Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222)
-- [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
-- [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
-- [ ] [Udacity: Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
-- [ ] [Udacity: Intro to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
-- [ ] [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/courses/cs313)
-- [ ] [Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
-- [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
-- [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
-- [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
-- [ ] [Udacity: Compilers: Theory and Practice](https://www.udacity.com/course/compilers-theory-and-practice--ud168)
-- [ ] [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
-
-## Database
-- [X] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
-- [ ] [Codecademy: SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
-- [ ] [Codecademy: SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
-- [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
-- [ ] [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
-- [ ] [Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
-- [X] [Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)
-- [ ] [Khan Academy: SQL](https://www.khanacademy.org/computing/computer-programming/sql)
-- [ ] [Launch School: Introduction to SQL](https://launchschool.com/books/sql)
-- [ ] [Learn SQL the hard way](http://sql.learncodethehardway.org/book/ex1.html)
-- [ ] [Treehouse: Using Databases in Python](https://teamtreehouse.com/library/using-databases-in-python)
-- [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-- [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
-- [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 
 ## Data Science
 - [X] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
@@ -269,7 +207,62 @@
 - [ ] [How Deep Neural Networks work](https://www.youtube.com/watch?v=ILsA4nyG7I0&index=3&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [How CNN works](https://www.youtube.com/watch?v=FmpDIaiMIeA&index=4&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 
-## DevOps
+## Software
+- [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
+- [ ] [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
+- [ ] [Learn Python Django Web](https://github.com/kabirbaidhya/learn-python-django-web)
+- [ ] [Rapid Development with Django, Python and Google App Engine](https://www.youtube.com/watch?v=v1gTI4BOPUw)
+- [ ] [Treehouse: Django Basics](https://teamtreehouse.com/library/Django-basics)
+- [ ] [Treehouse: Customizing Django Templates](https://teamtreehouse.com/library/customizing-django-templates)
+- [ ] [Two scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
+- [ ] [Hello Web App](https://hellowebapp.com/tutorial/intro/)
+- [ ] [PyLadies Django Workshop](http://eleyine.github.io/pyladies-django-workshop/#/43)
+- [ ] [Tango With Django](http://www.tangowithdjango.com/)
+- [ ] [Django by Example 1 week](http://lightbird.net/dbe/)
+- [ ] [Django Book](http://www.djangobook.com/en/2.0/chapter01.html)
+- [ ] [Try Django. Make a Landing Page](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
+- [ ] [Try Django. Launch with code](https://www.youtube.com/playlist?list=PLEsfXFp6DpzT5veidCTZ1mQriBX0Mu2LF)
+- [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+- [ ] [Udacity: Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
+- [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+- [ ] [CS50](https://cs50.harvard.edu/)
+- [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
+- [ ] [Crashcourse: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [ ] [Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
+- [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
+- [ ] [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+- [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Launch School: Introduction to HTTP](https://launchschool.com/books/http)
+- [ ] [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [ ] [Udacity: Algebra Review](https://www.udacity.com/course/intro-algebra-review--ma004)
+- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+- [ ] [Udacity: Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
+- [ ] [Udacity: Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222)
+- [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
+- [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+- [ ] [Udacity: Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
+- [ ] [Udacity: Intro to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
+- [ ] [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/courses/cs313)
+- [ ] [Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+- [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
+- [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
+- [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+- [ ] [Udacity: Compilers: Theory and Practice](https://www.udacity.com/course/compilers-theory-and-practice--ud168)
+- [ ] [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+- [X] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
+- [ ] [Codecademy: SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
+- [ ] [Codecademy: SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
+- [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+- [ ] [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+- [ ] [Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+- [X] [Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)
+- [ ] [Khan Academy: SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+- [ ] [Launch School: Introduction to SQL](https://launchschool.com/books/sql)
+- [ ] [Learn SQL the hard way](http://sql.learncodethehardway.org/book/ex1.html)
+- [ ] [Treehouse: Using Databases in Python](https://teamtreehouse.com/library/using-databases-in-python)
+- [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+- [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 - [X] [Thirty Serverless Architectures in 30 Minutes](https://www.youtube.com/watch?v=xJcm9V2jagc)
 - [X] [Acloudguru: AWS Certification Preparation Guide](https://acloud.guru/learn/aws-certification-preparation)
 - [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
@@ -305,8 +298,6 @@
 - [X] [Whitepaper: Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
 - [X] [Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
 - [X] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
-
-## Frontend
 - [ ] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
 - [ ] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
 - [ ] [Codecademy: Introduction to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
@@ -390,8 +381,6 @@
 - [ ] [Wes Bos: Javascript 30](https://javascript30.com/)
 - [X] [(ES6) - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
 - [ ] [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-
-## Programming Language
 - [X] [A Byte of Python](https://python.swaroopch.com)
 - [ ] [Automate the boring stuff with python](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 - [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
@@ -428,8 +417,6 @@
 - [ ] [Udacity: Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 - [ ] [Udacity: What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
 - [ ] [Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
-
-## Software Engineering
 - [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
 - [X] [Pluralsight: Product Owner Fundamentals](https://www.pluralsight.com/courses/product-owner-fundamentals-foundations)
 - [X] [Pluralsight: Scrum Master Fundamentals - Foundations](https://www.pluralsight.com/courses/scrum-master-fundamentals-foundations)
@@ -449,8 +436,6 @@
 - [ ] [Udacity: Network Security](https://www.udacity.com/course/network-security--ud199)
 - [ ] [Udacity: Intro to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459)
 - [ ] [Udacity: Localization Essentials](https://www.udacity.com/course/localization-essentials--ud610)
-
-## Testing
 - [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
 - [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 - [ ] [Treehouse: Python Testing](https://teamtreehouse.com/library/python-testing)
@@ -459,8 +444,6 @@
 - [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 - [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
-
-## Version Control
 - [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 - [ ] [Codeschool: Try Git](https://try.github.io/levels/1/challenges/1)
 - [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
@@ -476,8 +459,6 @@
 - [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
-
-## Workflow
 - [ ] [Bash Academy](http://guide.bash.academy)
 - [ ] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
@@ -500,3 +481,4 @@
 - [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
 - [ ] [Udacity: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
+
