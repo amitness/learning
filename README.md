@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/A5J6Qdb.png" width="395" height="365"/>
+  <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
 </p>
 
 ## Business / Domain
