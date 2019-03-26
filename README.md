@@ -111,7 +111,7 @@
 - [ ] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
 - [X] [Datacamp: Preprocessing for Machine Learning in Python](https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python)
 - [ ] [Datacamp: Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python)
-- [ ] [Datacamp: Intro to Financial Concepts using Python](https://www.datacamp.com/courses/intro-to-financial-concepts-using-python)
+- [X] [Datacamp: Intro to Financial Concepts using Python](https://www.datacamp.com/courses/intro-to-financial-concepts-using-python)
 - [ ] [Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
 - [X] [Datacamp: Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)
