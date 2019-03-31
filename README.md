@@ -210,6 +210,7 @@
 - [ ] [How CNN works](https://www.youtube.com/watch?v=FmpDIaiMIeA&index=4&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 
 ## Software
+- [X] [Acloudguru: AWS Certified Developer - Associate](https://acloud.guru/learn/aws-certified-developer-associate-june-2018)
 - [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
 - [ ] [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
 - [ ] [Learn Python Django Web](https://github.com/kabirbaidhya/learn-python-django-web)
