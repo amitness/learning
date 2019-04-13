@@ -63,14 +63,6 @@
 - [X] [Pluralsight: How to Think About Machine Learning Algorithms](https://www.pluralsight.com/courses/machine-learning-algorithms)
 - [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 
-### Understand in big picture the landscape of AI
-- [X] [AWS: Semantic Segmentation Explained](https://www.aws.training/learningobject/video?id=27238)
-- [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
-- [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
-- [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
-- [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
-- [X] [Pluralsight: Deep Learning: The Big Picture](https://www.pluralsight.com/courses/deep-learning-big-picture)
-
 ### Be able to manipulate vectors with Numpy
 - [X] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [X] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
@@ -178,6 +170,9 @@
 - [ ] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
 ### Be familiar with available models and algorithms
+- [X] [AWS: Semantic Segmentation Explained](https://www.aws.training/learningobject/video?id=27238)
+- [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
+- [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
 - [ ] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
@@ -191,6 +186,8 @@
 - [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 1)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-1)
 - [ ] [Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
 - [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
+- [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
+- [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
 - [X] [edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)
 - [X] [Google: ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
 - [ ] [Google: Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning)
@@ -200,6 +197,7 @@
 - [ ] [Jason Machine Learning 101 Slides](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g168a3288f7_0_58)
 - [ ] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
 - [X] [Pluralsight: Understanding Algorithms for Recommendation Systems](https://www.pluralsight.com/courses/algorithms-recommendation-systems)
+- [X] [Pluralsight: Deep Learning: The Big Picture](https://www.pluralsight.com/courses/deep-learning-big-picture)
 - [ ] [RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [Udacity: A Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
 - [ ] [Udacity: Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
