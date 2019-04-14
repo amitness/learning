@@ -325,6 +325,7 @@
 - [ ] [Book: Dive into Python 3](http://www.diveintopython3.net/)
 - [X] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
 - [ ] [Book: Python 201](https://leanpub.com/python201)
+- [ ] [Book: Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 - [ ] [Book: Real Python](https://www.goodreads.com/book/show/20750754-real-python)
 - [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
 - [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
