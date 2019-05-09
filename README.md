@@ -14,6 +14,7 @@
 - [X] [Book: How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [X] [Book: How Google Works](https://www.howgoogleworks.net/)
 - [X] [Book: Leaders Eat Last: Why Some Teams Pull Together and Others Don't](https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591848016)
+- [X] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
 - [X] [Book: Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395)
 - [X] [Book: Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 - [X] [Book: Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
