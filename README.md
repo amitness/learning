@@ -251,6 +251,7 @@
 - [ ] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 - [X] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 - [X] [Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
+- [X] [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
 - [ ] [Google: Keras Blog](https://medium.com/tensorflow/tagged/keras)
 - [ ] [Google: Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow)
 - [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
