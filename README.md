@@ -186,6 +186,7 @@
 - [ ] [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
 - [ ] [Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
 - [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 1)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-1)
+- [X] [Elements of AI](https://www.elementsofai.com)
 - [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
 - [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
 - [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
