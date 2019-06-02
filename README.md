@@ -35,6 +35,7 @@
 - [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
 - [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
 - [X] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
+- [ ] [Google: Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
 - [X] [Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
 - [X] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
 - [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
