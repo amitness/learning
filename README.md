@@ -181,7 +181,6 @@
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
-- [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 - [ ] [Datacamp: Clustering Methods](https://www.datacamp.com/courses/clustering-methods-with-scipy)
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 - [ ] [Datacamp: Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
@@ -299,6 +298,13 @@
 - [X] [AWS: Satellite Image Classification in SageMaker](https://www.aws.training/learningobject/video?id=27231)
 - [X] [edX: Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)
 
+### Be able to structure machine learning projects
+- [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+- [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
+- [ ] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
+- [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
+- [ ] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
+
 ### Be able to perform A/B test
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
 - [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
@@ -318,7 +324,7 @@
 - [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
 - [X] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
 
-### Be able to scale and deploy services
+### Be able to scale and deploy ML services
 - [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
 - [ ] [Pluralsight: Hands-on Ansible](https://www.pluralsight.com/courses/hands-on-ansible)
 - [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
@@ -354,7 +360,6 @@
 - [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
 - [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
 - [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
-- [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
 - [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
 - [X] [Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
 - [X] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
@@ -521,7 +526,6 @@
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
 ### Follow software engineering process
-- [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
 - [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
 - [X] [Pluralsight: Product Owner Fundamentals](https://www.pluralsight.com/courses/product-owner-fundamentals-foundations)
 - [X] [Pluralsight: Scrum Master Fundamentals - Foundations](https://www.pluralsight.com/courses/scrum-master-fundamentals-foundations)
