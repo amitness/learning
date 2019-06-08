@@ -180,7 +180,6 @@
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
-- [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 - [ ] [Datacamp: Clustering Methods](https://www.datacamp.com/courses/clustering-methods-with-scipy)
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 - [ ] [Datacamp: Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
@@ -269,6 +268,10 @@
 - [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [X] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
 - [X] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
+### Be able to optimize model performance
+- [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+- [ ] [Datacamp: Introduction to Tensorflow](https://www.datacamp.com/courses/model-validation-in-python)
 
 ### Be able to implement models in PyTorch
 - [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
