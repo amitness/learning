@@ -235,6 +235,7 @@
 - [ ] [RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)
 - [ ] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
+- [ ] [Treehouse: Regular expression](https://teamtreehouse.com/library/regular-expressions-in-python)
 
 ### Be able to implement models for finance
 - [ ] [Datacamp: Machine Learning for Finance in Python](https://www.datacamp.com/courses/machine-learning-for-finance-in-python)
@@ -304,6 +305,8 @@
 - [ ] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
 - [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
 - [ ] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
+- [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-up-a-local-python-environment-windows)
+- [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 
 ### Be able to perform A/B test
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
@@ -344,7 +347,6 @@
 - [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 - [ ] [Thoughtbot: Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
 - [ ] [Treehouse: Python Testing](https://teamtreehouse.com/library/python-testing)
-- [ ] [Udacity: Javascript Testing](https://www.udacity.com/courses/ud549)
 - [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 - [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
@@ -372,10 +374,8 @@
 - [ ] [Google's Python Class](https://developers.google.com/edu/python/)
 - [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
 - [ ] [Treehouse: Python collections](https://teamtreehouse.com/library/python-collections-2)
-- [ ] [Treehouse: Date and time](https://teamtreehouse.com/library/dates-and-times-in-python)
+- [ ] [Treehouse: Date and Time](https://teamtreehouse.com/library/dates-and-times-in-python)
 - [ ] [Treehouse: CSV And JSON](https://teamtreehouse.com/library/csv-and-json-in-python)
-- [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-up-a-local-python-environment-windows)
-- [ ] [Treehouse: Regular expression](https://teamtreehouse.com/library/regular-expressions-in-python)
 - [X] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
 - [ ] [Treehouse: Functional Programming with Python](https://teamtreehouse.com/library/functional-python)
 - [ ] [Treehouse: Python Decorators](https://teamtreehouse.com/library/python-decorators)
@@ -388,6 +388,7 @@
 - [ ] [Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
 
 ### Be familiar with compiled languages
+- [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
 - [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
 - [X] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [ ] [Udacity: Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
@@ -407,7 +408,6 @@
 - [X] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 - [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-- [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 
 ### Be able to implement web applications and APIs
 - [ ] [Book: Hello Web App](https://hellowebapp.com/tutorial/intro/)
@@ -428,7 +428,6 @@
 - [X] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
 - [ ] [Codecademy: Jquery Iterators](https://www.codecademy.com/learn/learn-jquery-iterators)
 - [X] [Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)
-- [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
 - [X] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 - [X] [Code School: Fundamentals of Design](https://www.pluralsight.com/courses/code-school-fundamentals-of-design)
 - [X] [Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)
