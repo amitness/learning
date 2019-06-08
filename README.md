@@ -354,6 +354,7 @@
 - [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
 - [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
 - [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
+- [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
 - [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
 - [X] [Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
 - [X] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
