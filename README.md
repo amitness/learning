@@ -77,7 +77,8 @@
 - [X] [Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
 - [X] [Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
 - [ ] [Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
-- [ ] [Datacam: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)
+- [ ] [Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)
+- [ ] [Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)
 
 ### Be able to manipulate data in spreadsheets
 - [X] [Datacamp: Spreadsheet basics](https://www.datacamp.com/courses/spreadsheet-basics)
@@ -184,7 +185,6 @@
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 - [ ] [Datacamp: Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
-- [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [ ] [Datacamp: Introduction to PySpark](https://www.datacamp.com/courses/introduction-to-pyspark)
 - [ ] [Datacamp: Building Recommendation Engines with PySpark](https://www.datacamp.com/courses/recommendation-engines-in-pyspark)
 - [ ] [Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
@@ -197,7 +197,6 @@
 - [ ] [Google: Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning)
 - [ ] [Google: Clustering](https://developers.google.com/machine-learning/clustering)
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
-- [ ] [Google: Testing and Debugging](https://developers.google.com/machine-learning/testing-debugging)
 - [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
 - [ ] [How Deep Neural Networks work](https://www.youtube.com/watch?v=ILsA4nyG7I0&index=3&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [How CNN works](https://www.youtube.com/watch?v=FmpDIaiMIeA&index=4&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
@@ -271,7 +270,9 @@
 
 ### Be able to optimize model performance
 - [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
-- [ ] [Datacamp: Introduction to Tensorflow](https://www.datacamp.com/courses/model-validation-in-python)
+- [ ] [Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)
+- [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
+- [ ] [Google: Testing and Debugging](https://developers.google.com/machine-learning/testing-debugging)
 
 ### Be able to implement models in PyTorch
 - [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
@@ -308,6 +309,8 @@
 - [ ] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
 - [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
 - [ ] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
+- [ ] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
+- [X] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
 - [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-up-a-local-python-environment-windows)
 - [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 
@@ -379,7 +382,6 @@
 - [ ] [Treehouse: Python collections](https://teamtreehouse.com/library/python-collections-2)
 - [ ] [Treehouse: Date and Time](https://teamtreehouse.com/library/dates-and-times-in-python)
 - [ ] [Treehouse: CSV And JSON](https://teamtreehouse.com/library/csv-and-json-in-python)
-- [X] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
 - [ ] [Treehouse: Functional Programming with Python](https://teamtreehouse.com/library/functional-python)
 - [ ] [Treehouse: Python Decorators](https://teamtreehouse.com/library/python-decorators)
 - [ ] [Treehouse: Write Better Python](https://teamtreehouse.com/library/write-better-python)
