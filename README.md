@@ -171,6 +171,7 @@
 - [ ] [Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
 - [ ] [Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 - [ ] [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [ ] [MIT: 18.06 Linear Algebra (Professor Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [ ] [The Math of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 - [ ] [Udacity: Algebra Review](https://www.udacity.com/course/intro-algebra-review--ma004)
 - [ ] [Udacity: Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222)
