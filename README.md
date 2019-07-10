@@ -240,6 +240,7 @@
 - [ ] [Datacamp: Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)
 - [X] [Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
 - [ ] [Datacamp: Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
+- [ ] [fast.ai Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 - [ ] [RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)
 - [ ] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
