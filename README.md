@@ -21,6 +21,7 @@
 - [X] [Book: Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
 - [X] [Book: Rework](https://www.goodreads.com/book/show/6732019-rework)
 - [X] [Book: Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
+- [X] [Book: The Power of Broke](https://www.goodreads.com/book/show/25430691-the-power-of-broke)
 - [X] [Book: The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
 - [X] [Book: The Airbnb Story](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669)
 - [X] [Book: The Millionaire Fastlane](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102)
