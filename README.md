@@ -211,6 +211,7 @@
 - [ ] [How CNN works](https://www.youtube.com/watch?v=FmpDIaiMIeA&index=4&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [Jason Machine Learning 101 Slides](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g168a3288f7_0_58)
 - [ ] [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
+- [ ] [MIT: 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/#schedule)
 - [X] [Pluralsight: Understanding Algorithms for Recommendation Systems](https://www.pluralsight.com/courses/algorithms-recommendation-systems)
 - [X] [Pluralsight: Deep Learning: The Big Picture](https://www.pluralsight.com/courses/deep-learning-big-picture)
 - [ ] [Udacity: A Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
