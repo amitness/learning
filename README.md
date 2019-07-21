@@ -27,10 +27,8 @@
 - [X] [Book: The Millionaire Fastlane](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102)
 - [X] [Book: The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
 - [X] [Book: The Subtle Art of Not Giving a F\*\*k](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
-- [ ] [Book: The Passionate Programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer)
 - [X] [Book: Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
 - [X] [Pluralsight: Productivity for Programmers](https://www.pluralsight.com/courses/productivity-for-programmers)
-- [ ] [Udacity: Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 
 ### Understand functioning of a Business
 - [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
@@ -154,7 +152,6 @@
 - [X] [Paper: Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [X] [Paper: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [ ] [Paper: XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
-- [ ] [Paper: Tensorflow.js](https://arxiv.org/pdf/1901.05350.pdf)
 - [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 - [X] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 - [X] [Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
@@ -226,6 +223,17 @@
 - [ ] [Udacity: Classification Models](https://www.udacity.com/course/classification-models--ud978)
 - [ ] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 
+### Be able to structure machine learning projects
+- [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+- [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
+- [ ] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
+- [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
+- [ ] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
+- [ ] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
+- [X] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
+- [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-up-a-local-python-environment-windows)
+- [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+
 ### Be able to implement computer vision models
 - [ ] [Book: Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
 - [ ] [Book: Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/)
@@ -282,12 +290,6 @@
 - [X] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
 - [X] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
-### Be able to optimize model performance
-- [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
-- [ ] [Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)
-- [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
-- [ ] [Google: Testing and Debugging](https://developers.google.com/machine-learning/testing-debugging)
-
 ### Be able to implement models in PyTorch
 - [ ] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
 - [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
@@ -318,21 +320,11 @@
 - [X] [AWS: Satellite Image Classification in SageMaker](https://www.aws.training/learningobject/video?id=27231)
 - [X] [edX: Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)
 
-### Be able to structure machine learning projects
-- [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
-- [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
-- [ ] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
-- [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
-- [ ] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
-- [ ] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
-- [X] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
-- [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-up-a-local-python-environment-windows)
-- [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
-
-### Be able to perform A/B test
-- [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
-- [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
-- [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
+### Be able to optimize model performance
+- [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+- [ ] [Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)
+- [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
+- [ ] [Google: Testing and Debugging](https://developers.google.com/machine-learning/testing-debugging)
 
 ### Be able to leverage Cloud Computing
 - [X] [Acloudguru: AWS Certified Machine Learning - Specialty](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
@@ -362,6 +354,11 @@
 - [ ] [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [ ] [Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 - [ ] [Udacity: Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+
+### Be able to perform A/B test
+- [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
+- [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
+- [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 
 ### Be able to write unit tests
 - [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
@@ -411,14 +408,12 @@
 - [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
 - [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
 - [X] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
-- [ ] [Udacity: Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 
 ### Be able to utilize version control
 - [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 - [ ] [Codeschool: Try Git](https://try.github.io/levels/1/challenges/1)
 - [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
 - [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
-- [ ] [Girls in Technology: Git Branching](https://www.youtube.com/watch?v=ewoWxGq97g4&index=4&list=PLzHu92VkS9CG0LRI8O653JNGuZVFw1o8Q)
 - [ ] [Git-Game](https://www.git-game.com/)
 - [ ] [Git Immersion](http://gitimmersion.com/index.html)
 - [ ] [Launch School: Intro to Git and GitHub](https://launchschool.com/books/git)
@@ -429,7 +424,7 @@
 - [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
-### Be able to implement web applications and APIs
+### Be able to implement Services and APIs
 - [ ] [Book: Hello Web App](https://hellowebapp.com/tutorial/intro/)
 - [ ] [Book: Two scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
 - [ ] [Book: Refactoring UI](https://refactoringui.com/book/)
@@ -442,7 +437,6 @@
 - [X] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
 - [ ] [Codecademy: Learn responsive design](https://www.codecademy.com/learn/learn-responsive-design)
 - [X] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
-- [ ] [Codecademy: Make an interactive website](https://www.codecademy.com/en/skills/make-an-interactive-website)
 - [X] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
 - [X] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
 - [X] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
