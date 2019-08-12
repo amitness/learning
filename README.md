@@ -193,6 +193,7 @@
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
 - [ ] [Book: Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning)
+- [ ] [Book: Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence](https://www.deeplearningillustrated.com/)
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [ ] [Datacamp: Clustering Methods](https://www.datacamp.com/courses/clustering-methods-with-scipy)
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
