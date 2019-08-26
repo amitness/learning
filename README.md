@@ -138,6 +138,7 @@
 
 ### Be able to visualize data
 - [ ] [Datacamp: Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
+- [X] [Datacamp: Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)
 - [ ] [Datacamp: Data Visualization with Seaborn](https://www.datacamp.com/courses/data-visualization-with-seaborn)
 - [ ] [Datacamp: Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python)
 - [ ] [Datacamp: Visualizing Geospatial Data in Python](https://www.datacamp.com/courses/visualizing-geospatial-data-in-python)
