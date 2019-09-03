@@ -258,7 +258,7 @@
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 - [X] [Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)
-- [ ] [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
+- [X] [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
 - [X] [Datacamp: Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)
 - [X] [Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
 - [ ] [Datacamp: Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
