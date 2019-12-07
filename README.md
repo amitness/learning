@@ -163,6 +163,7 @@
 - [X] [Paper: Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
 - [X] [Paper: Neural Factorization Machines for Sparse Predictive Analytics](https://l.facebook.com/l.php?u=https%3A%2F%2Farxiv.org%2Fpdf%2F1708.05027.pdf&h=AT3VuDk1rSqAkgo1x79wl9FXtb7SFMT01B1MXLMvp0O8syX2BuHYB70EJkMwVngQtShj0yTTn6laoRQ3I7StkJQJ9j1b8DiHM7gXNv7dWvL9S_khSF4wWZA9No70BhewiggJ8a8Pa0jTnq4_ppOIsk-qDYVkyJM5QuoSSg)
 - [X] [Paper: Multiword Expressions: A Pain in the Neck for NLP](http://lingo.stanford.edu/pubs/WP-2001-03.pdf)
+- [X] [Paper: PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/pdf/1912.01703.pdf)
 - [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 - [X] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 - [X] [Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
