@@ -340,29 +340,24 @@
 ### Be able to optimize model performance
 - [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 - [ ] [Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)
-- [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [ ] [Google: Testing and Debugging](https://developers.google.com/machine-learning/testing-debugging)
 - [ ] [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 
-### Be able to leverage Cloud Computing
+### Be able to serve and scale ML models
 - [X] [Acloudguru: AWS Certified Machine Learning - Specialty](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
 - [X] [Acloudguru: AWS Certified Developer - Associate](https://acloud.guru/learn/aws-certified-developer-associate-june-2018)
 - [X] [Acloudguru: AWS Certification Preparation Guide](https://acloud.guru/learn/aws-certification-preparation)
 - [X] [AWS: Exam Readiness: AWS Certified Developer – Associate](https://www.aws.training/training/schedule?courseId=18953)
 - [X] [AWS: Thirty Serverless Architectures in 30 Minutes](https://www.youtube.com/watch?v=xJcm9V2jagc)
+- [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
+- [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
+- [ ] [Pluralsight: Hands-on Ansible](https://www.pluralsight.com/courses/hands-on-ansible)
+- [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
+- [X] [Pluralsight: Docker and Kubernetes: The Big Picture](https://www.pluralsight.com/courses/docker-kubernetes-big-picture)
 - [X] [Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)
 - [X] [Pluralsight: AWS Networking Deep Dive: Virtual Private Cloud (VPC)](https://www.pluralsight.com/courses/aws-networking-deep-dive-vpc)
 - [X] [Pluralsight: AWS VPC Operations](https://www.pluralsight.com/courses/aws-vpc-operations)
 - [X] [Pluralsight: Building Applications Using Elastic Beanstalk](https://www.pluralsight.com/courses/elastic-beanstalk-building-applications)
-- [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
-- [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
-- [X] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
-
-### Be able to scale and deploy ML services
-- [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
-- [ ] [Pluralsight: Hands-on Ansible](https://www.pluralsight.com/courses/hands-on-ansible)
-- [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
-- [X] [Pluralsight: Docker and Kubernetes: The Big Picture](https://www.pluralsight.com/courses/docker-kubernetes-big-picture)
 - [ ] [Servers for Hackers Series](https://serversforhackers.com/)
 - [ ] [The Hacker's Guide to Scaling Python](https://scaling-python.com/)
 - [ ] [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
@@ -372,6 +367,9 @@
 - [ ] [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [ ] [Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 - [ ] [Udacity: Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+- [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
+- [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
+- [X] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
 
 ### Be able to perform A/B test
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
@@ -542,7 +540,7 @@
 - [X] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
 - [ ] [Wes Bos: Javascript 30](https://javascript30.com/)
 
-### Know Computer Science Concepts
+### Be familiar with fundamental Computer Science concepts
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [ ] [Crashcourse: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
@@ -557,7 +555,7 @@
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
-### Follow software engineering process
+### Be able to aply proper software engineering process
 - [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
 - [X] [Pluralsight: Product Owner Fundamentals](https://www.pluralsight.com/courses/product-owner-fundamentals-foundations)
 - [X] [Pluralsight: Scrum Master Fundamentals - Foundations](https://www.pluralsight.com/courses/scrum-master-fundamentals-foundations)
@@ -577,7 +575,7 @@
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
 - [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
 
-### Learn the Hiring Process
+### Be familiar with the hiring pipeline
 - [X] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
 - [X] [Udacity: Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)
 - [X] [Udacity: Data Science Interview Prep](https://www.udacity.com/course/data-science-interview-prep--ud944)
