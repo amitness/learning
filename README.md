@@ -285,7 +285,7 @@
 - [ ] [Udacity: Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - [ ] [Udacity: Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 
-### Be able to implement ML models with Scikit-learn
+### Be able to implement ML models with scikit-learn
 - [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 - [ ] [Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
 - [ ] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
@@ -342,6 +342,7 @@
 - [ ] [Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)
 - [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [ ] [Google: Testing and Debugging](https://developers.google.com/machine-learning/testing-debugging)
+- [ ] [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 
 ### Be able to leverage Cloud Computing
 - [X] [Acloudguru: AWS Certified Machine Learning - Specialty](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
