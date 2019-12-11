@@ -259,6 +259,7 @@
 
 ### Be able to implement NLP models
 - [ ] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+- [ ] [Book: Natural Language Processing with TensorFlow](https://www.packtpub.com/application-development/natural-language-processing-tensorflow)
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 - [X] [Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)
