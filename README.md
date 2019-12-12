@@ -265,6 +265,7 @@
 - [X] [Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)
 - [X] [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
 - [X] [Datacamp: Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)
+- [X] [Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)
 - [X] [Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
 - [X] [Datacamp: RNN for Language Modeling](https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python)
 - [ ] [Datacamp: Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
