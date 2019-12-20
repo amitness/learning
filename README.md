@@ -119,6 +119,7 @@
 - [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
 - [ ] [Udacity: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
+- [ ] [Working with Linux - Terminal, Zsh & Oh My Zsh](https://www.youtube.com/watch?v=4KBuPCeF9Gc)
 
 ### Be able to perform feature engineering
 - [ ] [Datacamp: Analyzing Social Media Data in Python](https://www.datacamp.com/courses/analyzing-social-media-data-in-python)
