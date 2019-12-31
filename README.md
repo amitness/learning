@@ -87,6 +87,11 @@
 - [ ] [Datacamp: Data Analysis with Spreadsheets](https://www.datacamp.com/courses/data-analysis-with-spreadsheets)
 - [ ] [Datacamp: Intermediate Spreadsheets for Data Science](https://www.datacamp.com/courses/intermediate-spreadsheets-for-data-science)
 - [ ] [Datacamp: Pivot Tables with Spreadsheets](https://www.datacamp.com/courses/pivot-tables-with-spreadsheets)
+- [ ] [Datacamp: Data Visualization in Spreadsheets](https://www.datacamp.com/courses/data-visualization-in-spreadsheets)
+- [ ] [Datacamp: Introduction to Statistics in Spreadsheets](https://www.datacamp.com/courses/statistics-in-spreadsheets)
+- [ ] [Datacamp: Conditional Formatting in Spreadsheets](https://www.datacamp.com/courses/conditional-formatting-in-spreadsheets)
+- [ ] [Datacamp: Marketing Analytics in Spreadsheets](https://www.datacamp.com/courses/marketing-analytics-in-spreadsheets)
+- [ ] [Datacamp: Error and Uncertainty in Spreadsheets](https://www.datacamp.com/courses/error-and-uncertainty-in-spreadsheets)
 - [X] [edX: Analyzing and Visualizing Data with Excel](https://www.edx.org/course/analyzing-visualizing-data-excel-microsoft-dat206x-7)
 
 ### Be able to manipulate data in databases
