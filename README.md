@@ -374,6 +374,7 @@
 ### Be able to optimize model performance
 - [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 - [ ] [Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)
+- [X] [Datacamp: Hyperparameter Tuning in Python](https://www.datacamp.com/courses/hyperparameter-tuning-in-python)
 - [ ] [Google: Testing and Debugging](https://developers.google.com/machine-learning/testing-debugging)
 - [ ] [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 
