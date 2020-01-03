@@ -312,6 +312,7 @@
 - [ ] [Datacamp: Intro to Portfolio Risk Management in Python](https://www.datacamp.com/courses/intro-to-portfolio-risk-management-in-python)
 - [ ] [Datacamp: Financial Forecasting in Python](https://www.datacamp.com/courses/financial-forecasting-in-python)
 - [X] [Datacamp: Intro to Financial Concepts using Python](https://www.datacamp.com/courses/intro-to-financial-concepts-using-python)
+- [X] [Datacamp: Fraud Detection in Python](https://www.datacamp.com/courses/fraud-detection-in-python)
 - [ ] [Kaggle: Time Series with Siraj](https://www.kaggle.com/learn/time-series-with-siraj)
 - [ ] [Udacity: Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - [ ] [Udacity: Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
