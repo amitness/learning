@@ -267,7 +267,7 @@
 - [X] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
 - [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
 - [ ] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
-- [ ] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
+- [X] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
 - [ ] [Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)
 - [ ] [Datacamp: Introduction to Data Engineering](https://www.datacamp.com/courses/introduction-to-data-engineering)
 - [ ] [Full Stack Deep Learning](https://fullstackdeeplearning.com/march2019)
