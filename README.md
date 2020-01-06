@@ -226,7 +226,6 @@
 - [ ] [Book: Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence](https://www.deeplearningillustrated.com/)
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [X] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
-- [ ] [Datacamp: Clustering Methods](https://www.datacamp.com/courses/clustering-methods-with-scipy)
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 - [ ] [Datacamp: Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
