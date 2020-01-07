@@ -137,7 +137,7 @@
 
 ### Be able to perform feature engineering
 - [ ] [Datacamp: Analyzing Social Media Data in Python](https://www.datacamp.com/courses/analyzing-social-media-data-in-python)
-- [ ] [Datacamp: Dimensionality Reduction in Python](https://www.datacamp.com/courses/dimensionality-reduction-in-python)
+- [X] [Datacamp: Dimensionality Reduction in Python](https://www.datacamp.com/courses/dimensionality-reduction-in-python)
 - [X] [Datacamp: Preprocessing for Machine Learning in Python](https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python)
 - [X] [Datacamp: Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)
 - [ ] [Datacamp: Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
