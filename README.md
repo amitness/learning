@@ -293,6 +293,7 @@
 - [X] [Datacamp: Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)
 - [X] [Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)
 - [X] [Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
+- [X] [Datacamp: Natural Language Generation in Python](https://www.datacamp.com/courses/natural-language-generation-in-python)
 - [X] [Datacamp: RNN for Language Modeling](https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python)
 - [ ] [Datacamp: Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
 - [X] [Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)
