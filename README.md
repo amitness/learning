@@ -333,6 +333,7 @@
 - [X] [Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
 - [X] [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
 - [X] [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
+- [X] [Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
 - [ ] [Google: Keras Blog](https://medium.com/tensorflow/tagged/keras)
 - [ ] [Google: Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow)
 - [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
