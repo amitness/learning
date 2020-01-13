@@ -311,7 +311,7 @@
 - [ ] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
 - [ ] [Treehouse: Regular expression](https://teamtreehouse.com/library/regular-expressions-in-python)
 
-### Be able to implement models for finance
+### Be able to implement models for timeseries and forecasting
 - [ ] [Datacamp: Machine Learning for Finance in Python](https://www.datacamp.com/courses/machine-learning-for-finance-in-python)
 - [ ] [Datacamp: Introduction to Time Series Analysis in Python](https://www.datacamp.com/courses/introduction-to-time-series-analysis-in-python)
 - [ ] [Datacamp: Machine Learning for Time Series Data in Python](https://www.datacamp.com/courses/machine-learning-for-time-series-data-in-python)
@@ -319,7 +319,11 @@
 - [ ] [Datacamp: Financial Forecasting in Python](https://www.datacamp.com/courses/financial-forecasting-in-python)
 - [X] [Datacamp: Intro to Financial Concepts using Python](https://www.datacamp.com/courses/intro-to-financial-concepts-using-python)
 - [X] [Datacamp: Fraud Detection in Python](https://www.datacamp.com/courses/fraud-detection-in-python)
-- [ ] [Udacity: Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+- [ ] [Datacamp: Forecasting Using ARIMA Models in Python](https://www.datacamp.com/courses/forecasting-using-arima-models-in-python)
+- [ ] [Datacamp: Introduction to Portfolio Analysis in Python](https://www.datacamp.com/courses/introduction-to-portfolio-analysis-in-python)
+- [ ] [Datacamp: Credit Risk Modeling in Python](https://www.datacamp.com/courses/credit-risk-modeling-in-python)
+- [ ] [Datacamp: Machine Learning for Marketing in Python](https://www.datacamp.com/courses/machine-learning-for-marketing-in-python)
+- [ ] [Udacity: Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)0
 - [ ] [Udacity: Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 
 ### Be able to implement ML models with scikit-learn
