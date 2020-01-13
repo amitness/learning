@@ -101,6 +101,7 @@
 - [ ] [Codecademy: SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
 - [ ] [Codecademy: SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
 - [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+- [ ] [Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)
 - [ ] [Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)
 - [ ] [Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)
 - [ ] [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
