@@ -316,6 +316,7 @@
 - [ ] [Datacamp: Machine Learning for Time Series Data in Python](https://www.datacamp.com/courses/machine-learning-for-time-series-data-in-python)
 - [ ] [Datacamp: Intro to Portfolio Risk Management in Python](https://www.datacamp.com/courses/intro-to-portfolio-risk-management-in-python)
 - [ ] [Datacamp: Financial Forecasting in Python](https://www.datacamp.com/courses/financial-forecasting-in-python)
+- [X] [Datacamp: Predicting CTR with Machine Learning in Python](https://www.datacamp.com/courses/predicting-ctr-with-machine-learning-in-python)
 - [X] [Datacamp: Intro to Financial Concepts using Python](https://www.datacamp.com/courses/intro-to-financial-concepts-using-python)
 - [X] [Datacamp: Fraud Detection in Python](https://www.datacamp.com/courses/fraud-detection-in-python)
 - [ ] [Datacamp: Forecasting Using ARIMA Models in Python](https://www.datacamp.com/courses/forecasting-using-arima-models-in-python)
