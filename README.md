@@ -1,4 +1,4 @@
-# learning-plan
+# learning
 
 
 <p align="center">
