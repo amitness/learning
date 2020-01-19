@@ -312,7 +312,7 @@
 
 ### Be able to implement models for timeseries and forecasting
 - [ ] [Datacamp: Machine Learning for Finance in Python](https://www.datacamp.com/courses/machine-learning-for-finance-in-python)
-- [ ] [Datacamp: Introduction to Time Series Analysis in Python](https://www.datacamp.com/courses/introduction-to-time-series-analysis-in-python)
+- [X] [Datacamp: Introduction to Time Series Analysis in Python](https://www.datacamp.com/courses/introduction-to-time-series-analysis-in-python)
 - [ ] [Datacamp: Machine Learning for Time Series Data in Python](https://www.datacamp.com/courses/machine-learning-for-time-series-data-in-python)
 - [ ] [Datacamp: Intro to Portfolio Risk Management in Python](https://www.datacamp.com/courses/intro-to-portfolio-risk-management-in-python)
 - [ ] [Datacamp: Financial Forecasting in Python](https://www.datacamp.com/courses/financial-forecasting-in-python)
