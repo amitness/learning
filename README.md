@@ -155,7 +155,7 @@
 - [ ] [Google: Feature Engineering](https://www.coursera.org/learn/feature-engineering)
 - [ ] [Udacity: Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 
-### Be able to use Jupyter Notebook
+### Be able to experiment in notebook
 - [X] [Pluralsight: Getting Started with Jupyter Notebook and Python](https://www.pluralsight.com/courses/jupyter-notebook-python)
 
 ### Be able to visualize data
@@ -169,7 +169,7 @@
 - [ ] [Datacamp: Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
 - [ ] [Udacity: Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
 
-### Develop ability to read Research Papers
+### Be able to to read Research Papers
 - [X] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [ ] [Paper: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - [X] [Paper: Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
@@ -198,7 +198,7 @@
 - [X] [Whitepaper: Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
 - [X] [Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
 
-### Develop strong mathematical foundation
+### Be able to model problems mathematically
 - [ ] [Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
 - [ ] [Book: Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
 - [ ] [Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
