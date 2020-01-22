@@ -207,6 +207,7 @@
 - [ ] [Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
 - [X] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
 - [ ] [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [ ] [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [ ] [Khan Academy: Precalculus](https://www.khanacademy.org/math/precalculus)
 - [ ] [Khan Academy: Probability](https://www.khanacademy.org/mission/probability)
 - [ ] [Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
