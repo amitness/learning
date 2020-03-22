@@ -236,6 +236,7 @@
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
 - [ ] [Book: Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning)
 - [ ] [Book: Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence](https://www.deeplearningillustrated.com/)
+- [ ] [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [X] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
 - [X] [Datacamp: Winning a Kaggle Competition in Python](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
