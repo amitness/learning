@@ -350,6 +350,8 @@
 ### Be able to implement neural networks in Tensorflow and Keras
 - [X] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
 - [X] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+- [ ] [Coursera: Getting Started With Tensorflow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
+- [ ] [Coursera: Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
 - [X] [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 - [ ] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 - [X] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
