@@ -36,6 +36,7 @@
 - [X] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
 - [ ] [Google: Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
 - [X] [Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
+- [X] [Moz: The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
 - [X] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
 - [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 - [X] [The Personal MBA: Master the Art of Business](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)
