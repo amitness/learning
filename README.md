@@ -200,6 +200,7 @@
 - [X] [Paper: Self-Labelling via Simultaneous Clustering and Representation Learning](https://www.robots.ox.ac.uk/~vgg/research/self-label/)
 - [ ] [Paper: A Survey on Contextual Embeddings](https://arxiv.org/abs/2003.07278v1)
 - [X] [Paper: A survey on Semi-, Self- and Unsupervised Techniques in Image Classification](https://arxiv.org/abs/2002.08721)
+- [ ] [Paper: Shortcut Learning in Deep Neural Networks](https://arxiv.org/abs/2004.07780)
 - [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 - [X] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 - [X] [Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
