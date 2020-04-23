@@ -226,7 +226,7 @@
 - [ ] [Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
 - [ ] [Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 - [ ] [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-- [X] [MIT: 18.06 Linear Algebra (Professor Strang): Lec 1,2,3,4,5,6,9,11,14](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [X] [MIT: 18.06 Linear Algebra (Professor Strang): Lec 1,2,3,4,5,6,9,11,14, 15, 16, 17](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [ ] [Udacity: Algebra Review](https://www.udacity.com/course/intro-algebra-review--ma004)
 - [ ] [Udacity: Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222)
 - [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
