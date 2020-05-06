@@ -258,8 +258,6 @@
 - [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
 - [X] [edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)
 - [ ] [Google: Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning)
-- [ ] [Google: Clustering](https://developers.google.com/machine-learning/clustering)
-- [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
 - [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
 - [ ] [How Deep Neural Networks work](https://www.youtube.com/watch?v=ILsA4nyG7I0&index=3&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
 - [ ] [How CNN works](https://www.youtube.com/watch?v=FmpDIaiMIeA&index=4&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
@@ -276,7 +274,6 @@
 - [ ] [Udacity: Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 - [ ] [Udacity: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [ ] [Udacity: Classification Models](https://www.udacity.com/course/classification-models--ud978)
-- [ ] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 
 ### Be able to structure machine learning projects
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
@@ -326,9 +323,14 @@
 - [ ] [Treehouse: Regular expression](https://teamtreehouse.com/library/regular-expressions-in-python)
 - [X] [Youtube: BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
 
-### Be able to model network data
+### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 - [ ] [Datacamp: Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
+
+### Be able to apply unsupervised learning algorithms
+- [ ] [Google: Clustering](https://developers.google.com/machine-learning/clustering)
+- [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
+- [ ] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 
 ### Be able to implement models for timeseries and forecasting
 - [ ] [Datacamp: Machine Learning for Finance in Python](https://www.datacamp.com/courses/machine-learning-for-finance-in-python)
