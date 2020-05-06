@@ -330,7 +330,7 @@
 ### Be able to apply unsupervised learning algorithms
 - [ ] [Google: Clustering](https://developers.google.com/machine-learning/clustering)
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
-- [ ] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
+- [X] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 
 ### Be able to implement models for timeseries and forecasting
 - [ ] [Datacamp: Machine Learning for Finance in Python](https://www.datacamp.com/courses/machine-learning-for-finance-in-python)
