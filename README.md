@@ -24,7 +24,7 @@
 - [X] [Book: The Subtle Art of Not Giving a F\*\*k](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 - [X] [Pluralsight: Productivity for Programmers](https://www.pluralsight.com/courses/productivity-for-programmers)
 
-### Understand functioning of a Business
+### Get understanding of how business work
 - [X] [Book: Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
 - [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
 - [X] [Book: How Google Works](https://www.howgoogleworks.net)
