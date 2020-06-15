@@ -204,6 +204,7 @@
 - [X] [Paper: Train Once, Test Anywhere: Zero-Shot Learning for Text Classification](https://arxiv.org/abs/1712.05972)
 - [X] [Paper: Zero-shot Text Classification With Generative Language Models](https://arxiv.org/abs/1912.10165)
 - [X] [Paper: How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
+- [X] [Paper: Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
 - [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 - [X] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 - [X] [Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
