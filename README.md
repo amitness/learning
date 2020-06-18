@@ -277,6 +277,7 @@
 - [ ] [Udacity: Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 - [ ] [Udacity: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [ ] [Udacity: Classification Models](https://www.udacity.com/course/classification-models--ud978)
+- [ ] [Youtube: BYOL: Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning (Paper Explained)](https://www.youtube.com/watch?v=YPfUiOMYOEE&feature=youtu.be)
 
 ### Be able to structure machine learning projects
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
