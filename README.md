@@ -315,6 +315,7 @@
 - [ ] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
 - [ ] [Treehouse: Regular expression](https://teamtreehouse.com/library/regular-expressions-in-python)
 - [X] [Youtube: BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
+- [X] [YouTube: Intro to NLP with Spacy](https://www.youtube.com/playlist?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)
 - [X] [Talk: Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/)
 
 ### Be able to model graphs and network data
