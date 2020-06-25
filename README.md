@@ -5,24 +5,7 @@
   <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
 </p>
 
-### Broaden Perspective and Domain Knowledge
-- [X] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
-- [X] [Book: Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
-- [X] [Book: Emotional Intelligence](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
-- [X] [Book: How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
-- [X] [Book: Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence)
-- [X] [Book: Leaders Eat Last: Why Some Teams Pull Together and Others Don't](https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591848016)
-- [X] [Book: Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395)
-- [X] [Book: Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
-- [X] [Book: Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
-- [X] [Book: Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
-- [X] [Book: The Power of Broke](https://www.goodreads.com/book/show/25430691-the-power-of-broke)
-- [X] [Book: The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
-- [X] [Book: The Millionaire Fastlane](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102)
-- [X] [Book: The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
-- [X] [Book: The Subtle Art of Not Giving a F\*\*k](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
-
-### Get understanding of how business work
+### Develop a business acumen
 - [X] [Book: Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
 - [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
 - [X] [Book: How Google Works](https://www.howgoogleworks.net)
@@ -594,8 +577,15 @@
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
 - [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
 
-### Be able to communicate insights
+### Be able to communicate and collaborate well
 - [ ] [Google: Technical Writing](https://developers.google.com/tech-writing)
+- [X] [Book: Emotional Intelligence](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
+- [X] [Book: How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+- [X] [Book: Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence)
+- [X] [Book: Leaders Eat Last: Why Some Teams Pull Together and Others Don't](https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591848016)
+- [X] [Book: Multipliers: How the Best Leaders Make Everyone Smarter](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395)
+- [X] [Book: Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
+- [X] [Book: The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
 
 ### Be familiar with the hiring pipeline
 - [ ] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
@@ -609,3 +599,13 @@
 - [ ] [Udacity: Craft Your Cover Letter](https://www.udacity.com/course/craft-your-cover-letter--ud244)
 - [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [ ] [Youtube: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
+
+### Broaden Perspective
+- [X] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+- [X] [Book: Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+- [X] [Book: Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
+- [X] [Book: Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
+- [X] [Book: The Power of Broke](https://www.goodreads.com/book/show/25430691-the-power-of-broke)
+- [X] [Book: The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
+- [X] [Book: The Millionaire Fastlane](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102)
+- [X] [Book: The Subtle Art of Not Giving a F\*\*k](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
