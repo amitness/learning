@@ -245,6 +245,8 @@
 - [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
 - [X] [edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)
 - [X] [DeepMind: Inefficient Data Efficiency](https://www.facebook.com/wdeepvision2020/videos/893497114486588/)
+- [ ] [DeepMind: DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+  - [X] [Lecture 7: Deep Learning for Natural Language Processing](https://www.youtube.com/watch?feature=youtu.be&v=8zAP2qWAsKg&app=desktop)
 - [ ] [Google: Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning)
 - [ ] [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
 - [ ] [How Deep Neural Networks work](https://www.youtube.com/watch?v=ILsA4nyG7I0&index=3&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
