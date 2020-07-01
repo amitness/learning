@@ -439,7 +439,7 @@
 - [ ] [Google: Testing and Debugging](https://developers.google.com/machine-learning/testing-debugging)
 - [ ] [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 
-### Be able to serve and scale ML models
+### Be able to serve and scale ML services
 - [X] [Acloudguru: AWS Certified Machine Learning - Specialty](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
 - [X] [Acloudguru: AWS Certified Developer - Associate](https://acloud.guru/learn/aws-certified-developer-associate-june-2018)
 - [X] [Acloudguru: AWS Certification Preparation Guide](https://acloud.guru/learn/aws-certification-preparation)
@@ -535,9 +535,8 @@
 - [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
-### Be able to implement Services and APIs
+### Be able to implement APIs and services
 - [ ] [Book: Hello Web App](https://hellowebapp.com/tutorial/intro/)
-- [ ] [Book: Two scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
 - [ ] [Book: Refactoring UI](https://refactoringui.com/book/)
 - [ ] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
 - [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
@@ -561,8 +560,6 @@
 - [X] [Pluralsight: CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)
 - [X] [Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)
 - [ ] [Thoughtbot: Design for Developers](https://thoughtbot.com/upcase/design-for-developers)
-- [ ] [Treehouse: Django Basics](https://teamtreehouse.com/library/Django-basics)
-- [ ] [Treehouse: Customizing Django Templates](https://teamtreehouse.com/library/customizing-django-templates)
 - [X] [Treehouse: HTML](https://teamtreehouse.com/library/html)
 - [X] [Treehouse: Javascript Booleans](https://teamtreehouse.com/library/javascript-booleans)
 - [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
@@ -573,6 +570,7 @@
 - [X] [Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)
 - [X] [Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)
 - [X] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
+- [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
 
 ### Be familiar with fundamental Computer Science concepts
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
