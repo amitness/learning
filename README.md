@@ -5,6 +5,8 @@
   <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
 </p>
 
+**Learning Philosophy**: [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement), [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
+
 ### Develop a business acumen
 - [X] [Book: Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
 - [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
