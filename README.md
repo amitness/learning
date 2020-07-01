@@ -256,7 +256,6 @@
 - [X] [Elements of AI](https://www.elementsofai.com)
 - [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
 - [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
-- [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
 - [X] [edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)
 - [X] [DeepMind: Inefficient Data Efficiency](https://www.facebook.com/wdeepvision2020/videos/893497114486588/)
 - [ ] [DeepMind: DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
@@ -324,7 +323,7 @@
 - [X] [Google: ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
 - [ ] [Udacity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
-### Be able to implement NLU/NLP models
+### Be able to implement NLP models
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
@@ -505,7 +504,7 @@
 - [ ] [Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
 - [X] [edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)
 - [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
-- [ ] [Google's Python Class](https://developers.google.com/edu/python/)
+- [X] [Google's Python Class](https://developers.google.com/edu/python/)
 - [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
 - [ ] [Treehouse: Python collections](https://teamtreehouse.com/library/python-collections-2)
 - [ ] [Treehouse: Date and Time](https://teamtreehouse.com/library/dates-and-times-in-python)
@@ -580,10 +579,8 @@
 - [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- [ ] [Udacity: Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
-- [ ] [Udacity: Intro to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
 - [ ] [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/courses/cs313)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
