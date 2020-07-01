@@ -571,6 +571,7 @@
 - [X] [Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)
 - [X] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
 - [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
+- [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
 
 ### Be familiar with fundamental Computer Science concepts
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
