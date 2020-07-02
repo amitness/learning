@@ -342,6 +342,7 @@
 - [X] [Talk: Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/)
 - [ ] [YouTube: Level 3 AI Assistant Conference 2020](https://www.youtube.com/playlist?list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86)
   - [X] [Youtube: Conversation Analysis Theory in Chatbots | Michael Szul](https://youtu.be/osQChzuhUiU?list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86)
+  - [X] [Youtube: Designing Practical NLP Solutions | Ines Montani](https://youtu.be/JpkzK58lkmA?list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86)
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
