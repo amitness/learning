@@ -371,8 +371,11 @@
 - [ ] [Datacamp: Introduction to Portfolio Analysis in Python](https://www.datacamp.com/courses/introduction-to-portfolio-analysis-in-python)
 - [ ] [Datacamp: Credit Risk Modeling in Python](https://www.datacamp.com/courses/credit-risk-modeling-in-python)
 - [ ] [Datacamp: Machine Learning for Marketing in Python](https://www.datacamp.com/courses/machine-learning-for-marketing-in-python)
-- [ ] [Udacity: Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)0
+- [ ] [Udacity: Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - [ ] [Udacity: Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
+
+### Be familiar with Reinforcement Learning
+- [X] [DeepLizard: Reinforcement Learning - Goal Oriented Intelligence](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 
 ### Be able to implement ML models with scikit-learn
 - [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
