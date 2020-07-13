@@ -1,4 +1,4 @@
-# learning ![](https://hits.dwyl.com/amitness/amitness.svg)
+# learning ![](https://hits.dwyl.com/amitness/learning.svg)
 
 
 <p align="center">
