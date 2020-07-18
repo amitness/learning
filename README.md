@@ -278,6 +278,7 @@
 - [X] [Youtube: DETR: End-to-End Object Detection with Transformers (Paper Explained)](https://www.youtube.com/watch?v=T35ba_VXkMY)
 - [X] [Youtube: Sebastian Ruder: Neural Semi-supervised Learning under Domain Shift](https://www.youtube.com/watch?v=tpAr5-Y4JxU)
 - [X] [Youtube: Yuki Asano | Self-Supervision | Self-Labelling | Labelling Unlabelled videos | CV | CTDS.Show #81](https://youtu.be/LPdbnasJ9wI)
+- [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
 
 ### Be able to structure machine learning projects
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
@@ -349,6 +350,10 @@
   - [X] [Youtube: Designing Practical NLP Solutions | Ines Montani](https://youtu.be/JpkzK58lkmA?list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86)
 - [X] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
 - [X] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
+- [X] [Youtube: A brief history of the Transformer architecture in NLP](https://www.youtube.com/watch?v=iH-wmtxHunk)
+- [X] [Youtube: The Transformer neural network architecture explained. “Attention is all you need” (NLP)](https://www.youtube.com/watch?v=FWFA4DGuzSc)
+- [X] [Youtube: How does a Transformer architecture combine Vision and Language? ViLBERT - NLP meets Computer Vision](https://www.youtube.com/watch?v=dd7nE4nbxN0)
+- [X] [Youtube: Strategies for pre-training the BERT-based Transformer architecture – language (and vision)](https://www.youtube.com/watch?v=dabFOBE4eZI)
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
