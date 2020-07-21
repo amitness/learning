@@ -53,6 +53,7 @@
 - [ ] [Microsoft: Introduction to AI technology for business leaders](https://aischool.microsoft.com/en-us/business/learning-paths/introduction-to-ai-technology-for-business-leaders)
 - [X] [Pluralsight: How to Think About Machine Learning Algorithms](https://www.pluralsight.com/courses/machine-learning-algorithms)
 - [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
+- [X] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
 
 ### Be able to manipulate data with Numpy
 - [X] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
@@ -355,6 +356,7 @@
 - [X] [Youtube: How does a Transformer architecture combine Vision and Language? ViLBERT - NLP meets Computer Vision](https://www.youtube.com/watch?v=dd7nE4nbxN0)
 - [X] [Youtube: Strategies for pre-training the BERT-based Transformer architecture – language (and vision)](https://www.youtube.com/watch?v=dabFOBE4eZI)
 - [X] [Youtube: Ilya Sutskever - GPT-2](https://youtu.be/T0I88NhR_9M)
+- [X] [Youtube: NLP Masterclass | Modeling Fallacies in NLP](https://youtu.be/f2m6Mon0VE8?t=223)
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
