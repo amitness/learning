@@ -354,6 +354,7 @@
 - [X] [Youtube: The Transformer neural network architecture explained. “Attention is all you need” (NLP)](https://www.youtube.com/watch?v=FWFA4DGuzSc)
 - [X] [Youtube: How does a Transformer architecture combine Vision and Language? ViLBERT - NLP meets Computer Vision](https://www.youtube.com/watch?v=dd7nE4nbxN0)
 - [X] [Youtube: Strategies for pre-training the BERT-based Transformer architecture – language (and vision)](https://www.youtube.com/watch?v=dabFOBE4eZI)
+- [X] [Youtube: Ilya Sutskever - GPT-2](https://youtu.be/T0I88NhR_9M)
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
