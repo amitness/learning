@@ -55,6 +55,11 @@
 - [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 - [X] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
 
+### Be able to annotate data efficiently
+- [X] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
+- [X] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
+- [X] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
+
 ### Be able to manipulate data with Numpy
 - [X] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [X] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
@@ -354,8 +359,6 @@
   - [X] [Youtube: Transformer Policies that improve Dialogues: A Live Demo by Vincent Warmerdam](https://youtu.be/P5SUS3V50zQ?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
   - [X] [Youtube: From Research to Production – Our Process at Rasa | Tanja Bunk](https://youtu.be/5_lRfLFjfEs?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
   - [X] [Youtube: Keynote: Perspective on the 5 Levels of Conversational AI | Alan Nichol](https://youtu.be/bAkToyQhWyo?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
-- [X] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
-- [X] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
 - [X] [Youtube: A brief history of the Transformer architecture in NLP](https://www.youtube.com/watch?v=iH-wmtxHunk)
 - [X] [Youtube: The Transformer neural network architecture explained. “Attention is all you need” (NLP)](https://www.youtube.com/watch?v=FWFA4DGuzSc)
 - [X] [Youtube: How does a Transformer architecture combine Vision and Language? ViLBERT - NLP meets Computer Vision](https://www.youtube.com/watch?v=dd7nE4nbxN0)
