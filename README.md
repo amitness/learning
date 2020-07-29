@@ -197,6 +197,7 @@
 - [X] [Paper: Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
 - [X] [Paper: Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
 - [ ] [Paper: Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
+- [X] [Paper: Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)
 - [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 - [X] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 - [X] [Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
