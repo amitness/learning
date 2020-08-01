@@ -414,7 +414,7 @@
 - [X] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
 - [ ] [Youtube: Applied Machine Learning 2020](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
 
-### Be able to implement neural networks in Tensorflow and Keras
+### Be able to implement models in Tensorflow and Keras
 - [X] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
 - [X] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 - [ ] [Coursera: Getting Started With Tensorflow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
@@ -435,9 +435,6 @@
 - [X] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 - [X] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
 - [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
-
-### Be able to implement edge inference
-- [ ] [Deeplizard: TensorFlow.js series](https://www.youtube.com/watch?v=HEQDRWMK6yY&list=PLZbbT5o_s2xr83l8w44N_g3pygvajLrJ-)
 
 ### Be able to use managed ML services on the cloud
 - [X] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
@@ -493,6 +490,7 @@
 - [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
 - [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
 - [X] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
+- [X] [Youtube: ML Research and Production Pipelines with Chip Huyen](https://www.youtube.com/watch?v=6adNHwE5PHY)
 
 ### Be able to perform A/B test
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
