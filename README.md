@@ -380,6 +380,7 @@
 - [X] [Youtube: NLP Masterclass | Modeling Fallacies in NLP](https://youtu.be/f2m6Mon0VE8?t=223)
 - [X] [Youtube: What is GPT-3? Showcase, possibilities, and implications](https://youtu.be/5fqxPOaaqi0)
 - [X] [Youtube: TextAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
+- [X] [Youtube: Learning to Rank: From Theory to Production - Malvina Josephidou & Diego Ceccarelli, Bloomberg](https://youtu.be/eMuepJpjUjI)
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
