@@ -28,6 +28,7 @@
 - [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [ ] [Udacity: Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
 - [ ] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+- [ ] [Youtube: SEO Unlocked! Free SEO Course with Neil Patel](https://youtu.be/Q_lySNxCag0?list=PLJR61fXkAx11Oi6EpqJ9Es4rVOIZhwlSG)
 
 ### Be able to frame a ML problem
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
