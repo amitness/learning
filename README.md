@@ -322,6 +322,41 @@
 - [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
 - [X] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
 
+### Be able to implement models in scikit-learn
+- [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+- [X] [Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
+- [X] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+- [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
+- [X] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
+- [ ] [Datacamp: Generalized Linear Models in Python](https://www.datacamp.com/courses/generalized-linear-models-in-python)
+- [X] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
+- [ ] [Youtube: Applied Machine Learning 2020](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
+
+### Be able to implement models in Tensorflow and Keras
+- [X] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
+- [X] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+- [ ] [Coursera: Getting Started With Tensorflow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
+- [ ] [Coursera: Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
+- [X] [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+- [ ] [Book: Deep Learning with Python (Page: 276)](https://www.manning.com/books/deep-learning-with-python)
+- [X] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+- [X] [Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
+- [X] [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
+- [X] [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
+- [X] [Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
+- [ ] [Google: Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow)
+- [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [X] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
+- [X] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
+### Be able to implement models in PyTorch
+- [X] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
+- [X] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+- [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- [ ] [Youtube: PyTorch Lightning 101](https://www.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+  - [X] [Training a classification model on MNIST with PyTorch](https://youtu.be/OMDn66kM9Qc?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+  - [X] [From PyTorch to PyTorch Lightning](https://youtu.be/DbESHcCoWbM?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+
 ### Be able to apply unsupervised learning algorithms
 - [ ] [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 - [ ] [Datacamp: Customer Segmentation in Python](https://www.datacamp.com/courses/customer-segmentation-in-python)
@@ -411,38 +446,6 @@
 
 ### Be familiar with Reinforcement Learning
 - [X] [DeepLizard: Reinforcement Learning - Goal Oriented Intelligence](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
-
-### Be able to implement ML models with scikit-learn
-- [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
-- [X] [Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
-- [X] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
-- [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
-- [X] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
-- [ ] [Datacamp: Generalized Linear Models in Python](https://www.datacamp.com/courses/generalized-linear-models-in-python)
-- [X] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
-- [ ] [Youtube: Applied Machine Learning 2020](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
-
-### Be able to implement models in Tensorflow and Keras
-- [X] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
-- [X] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
-- [ ] [Coursera: Getting Started With Tensorflow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
-- [ ] [Coursera: Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
-- [X] [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
-- [ ] [Book: Deep Learning with Python (Page: 276)](https://www.manning.com/books/deep-learning-with-python)
-- [X] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
-- [X] [Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
-- [X] [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
-- [X] [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
-- [X] [Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
-- [ ] [Google: Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow)
-- [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-- [X] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
-- [X] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
-
-### Be able to implement models in PyTorch
-- [X] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
-- [X] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
-- [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ### Be able to use managed ML services on the cloud
 - [X] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
