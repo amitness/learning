@@ -8,8 +8,8 @@
 **Learning Philosophy**: [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement), [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
 
 ### Develop a business acumen
-- [X] [Book: Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
-- [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
+- [X] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
+- [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
 - [X] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
 - [X] [Book: How Google Works](https://www.howgoogleworks.net)
 - [X] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
@@ -28,7 +28,7 @@
 - [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [ ] [Udacity: Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
 - [ ] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
-- [ ] [Youtube: SEO Unlocked! Free SEO Course with Neil Patel](https://youtu.be/Q_lySNxCag0?list=PLJR61fXkAx11Oi6EpqJ9Es4rVOIZhwlSG)
+- [ ] [Youtube: SEO Unlocked](https://youtu.be/Q_lySNxCag0?list=PLJR61fXkAx11Oi6EpqJ9Es4rVOIZhwlSG)
 
 ### Be able to frame a ML problem
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
@@ -668,6 +668,6 @@
 - [X] [Book: Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 - [X] [Book: Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
 - [X] [Book: The Power of Broke](https://www.goodreads.com/book/show/25430691-the-power-of-broke)
-- [X] [Book: The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
+- [X] [Book: The 10X Rule](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
 - [X] [Book: The Millionaire Fastlane](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102)
 - [X] [Book: The Subtle Art of Not Giving a F\*\*k](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
