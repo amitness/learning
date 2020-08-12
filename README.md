@@ -424,6 +424,7 @@
 - [X] [Youtube: Learning "Learning to Rank"](https://youtu.be/7teudGhdnqo)
 - [X] [Youtube: Learning to rank search results - Byron Voorbach & Jettro Coenradie [DevCon 2018]](https://youtu.be/TG7aNLgzIcM)
 - [X] [Article: How the Embedding Layers in BERT Were Implemented](https://medium.com%2F@medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a)
+- [X] [Youtube: Easy Data Augmentation for Text Classification](https://www.youtube.com/watch?v=3w92peJtYNQ&feature=youtu.be)
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
