@@ -368,6 +368,7 @@
 - [X] [Youtube: Week 10 – Lecture: Self-supervised learning (SSL) in computer vision (CV)](https://www.youtube.com/watch?v=0KeR6i1_56g&feature=youtu.be)
 - [X] [Youtube: CVPR 2020 Tutorial: Towards Annotation-Efficient Learning](https://youtu.be/MaGudzppu3I)
 - [X] [Youtube: Yuki Asano | Self-Supervision | Self-Labelling | Labelling Unlabelled videos | CV | CTDS.Show #81](https://youtu.be/LPdbnasJ9wI)
+- [X] [Youtube: Contrastive Clustering with SwAV](https://youtu.be/jCg97EAVsy8)
 
 ### Be able to implement computer vision models
 - [ ] [Book: Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
