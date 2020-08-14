@@ -378,6 +378,7 @@
 - [ ] [Datacamp: Image Processing in Python](https://www.datacamp.com/courses/image-processing-in-python)
 - [X] [Google: ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
 - [ ] [Udacity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+- [X] [Youtube: Deep Residual Learning for Image Recognition (Paper Explained)](https://www.youtube.com/watch?v=GWt6Fu05voI)
 
 ### Be able to implement NLP models
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
