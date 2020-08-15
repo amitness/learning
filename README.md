@@ -385,6 +385,31 @@
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
+- [ ] [CMU: Neural Nets for NLP 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ)
+	- [X] [CMU Neural Nets for NLP 2020 (1): Introduction](https://www.youtube.com/watch?v=D7o2Z1tAuQc) `1:11:38`
+	- [ ] [CMU Neural Nets for NLP 2020 (2): Language Modeling, Efficiency/Training Tricks](https://www.youtube.com/watch?v=aTxfVIzyN4o) `1:18:31`
+	- [ ] [CMU Neural Nets for NLP 2020 (3): Convolutional Neural Networks for Text](https://www.youtube.com/watch?v=UirRyzNq3nM) `0:54:45`
+	- [ ] [CMU Neural Nets for NLP 2020 (4): Recurrent Neural Networks](https://www.youtube.com/watch?v=wD-mB2clN_0) `1:11:28`
+	- [ ] [CMU Neural Nets for NLP 2020 (5): Efficiency Tricks for Neural Nets](https://www.youtube.com/watch?v=eokkF3qv8_U) `1:05:37`
+	- [ ] [CMU Neural Nets for NLP 2020 (7): Attention](https://www.youtube.com/watch?v=jDaJYOmF2iQ) `1:05:26`
+	- [ ] [CMU Neural Nets for NLP 2020 (8): Distributional Semantics and Word Vectors](https://www.youtube.com/watch?v=RRaU7pz2eT4) `1:10:45`
+	- [ ] [CMU Neural Nets for NLP 2020 (9): Sentence and Contextual Word Representations](https://www.youtube.com/watch?v=EjoTMiZPVC8) `1:16:19`
+	- [ ] [CMU Neural Nets for NLP 2020 (10): Debugging Neural Nets (for NLP)](https://www.youtube.com/watch?v=-I-3qRg3ExI) `1:15:26`
+	- [ ] [CMU Neural Nets for NLP 2020 (11): Structured Prediction with Local Independence Assumptions](https://www.youtube.com/watch?v=ry-__6gNSqE) `1:08:38`
+	- [ ] [CMU Neural Nets for NLP 2020 (12): Generating Trees Incrementally](https://www.youtube.com/watch?v=-bG-QfVrsYw) `1:14:13`
+	- [ ] [CMU Neural Nets for NLP 2020 (13): Generating Trees Incrementally](https://www.youtube.com/watch?v=8f_IzoafNgc) `0:51:58`
+	- [ ] [CMU Neural Nets for NLP 2020 (14): Search-based Structured Prediction](https://www.youtube.com/watch?v=9OA8IybwI00) `1:06:19`
+	- [ ] [CMU Neural Nets for NLP 2020 (15): Minimum Risk Training and Reinforcement Learning](https://www.youtube.com/watch?v=W_x7BL-8VZc) `1:09:16`
+	- [ ] [CMU Neural Nets for NLP 2020 (16): Advanced Search Algorithms](https://www.youtube.com/watch?v=mfOCPBOHVjY) `1:03:02`
+	- [ ] [CMU Neural Nets for NLP 2020 (17): Adversarial Methods](https://www.youtube.com/watch?v=4SjdBB64mjo) `1:14:55`
+	- [ ] [CMU Neural Nets for NLP 2020 (18): Models w/ Latent Random Variables](https://www.youtube.com/watch?v=5OL1_YECHvM) `1:13:16`
+	- [ ] [CMU Neural Nets for NLP 2020 (19): Unsupervised and Semi-supervised Learning of Structure](https://www.youtube.com/watch?v=rpAzfgr3OGc) `1:12:47`
+	- [ ] [CMU Neural Nets for NLP 2020 (20): Multitask and Multilingual Learning](https://www.youtube.com/watch?v=6_gMeW_cunQ) `1:02:46`
+	- [ ] [CMU Neural Nets for NLP 2020 (21): Document Level Models](https://www.youtube.com/watch?v=K72U5dlPwkY) `0:52:04`
+	- [ ] [CMU Neural Nets for NLP 2020 (22): Neural Nets + Knowledge Bases](https://www.youtube.com/watch?v=Lcb5YKE21P8) `1:18:39`
+	- [ ] [CMU Neural Nets for NLP 2020 (23): Machine Reading w/ Neural Nets](https://www.youtube.com/watch?v=cGHVNwgVLRY) `1:06:11`
+	- [ ] [CMU Neural Nets for NLP 2020 (24): Natural Language Generation](https://www.youtube.com/watch?v=dyXTVhDCwCQ) `1:21:48`
+	- [ ] [CMU Neural Nets for NLP 2020 (25): Model Interpretation](https://www.youtube.com/watch?v=ePEJqqj7Y8M) `1:04:11`
 - [X] [Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)
 - [X] [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
 - [X] [Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)
