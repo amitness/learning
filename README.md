@@ -824,6 +824,7 @@
 - [ ] [Youtube: The Future of Natural Language Processing](https://youtu.be/G5lmya6eKtc)
 - [ ] [Youtube: Sentiment Analysis: Key Milestones, Challenges and New Directions](https://www.youtube.com/watch?v=YAqjf7to-lU)
 - [ ] [Youtube: Simple and Efficient Deep Learning for Natural Language Processing, with Moshe Wasserblat, Intel AI](https://www.youtube.com/watch?v=Bgr684dPJ6U)
+- [X] [Youtube: Why not solve biological problems with a Transformer? BERTology meets Biology](https://www.youtube.com/watch?v=pFf4PltQ9LY)
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
