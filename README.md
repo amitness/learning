@@ -407,6 +407,16 @@
 - [ ] [Book: Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
 - [ ] [Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
 - [ ] [MIT: 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/#schedule)
+	- [ ] [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk) `0:52:51`
+	- [ ] [Recurrent Neural Networks | MIT 6.S191](https://www.youtube.com/watch?v=SEnXr6v2ifU) `0:45:28`
+	- [ ] [Convolutional Neural Networks | MIT 6.S191](https://www.youtube.com/watch?v=iaSUYvmCekI) `0:37:20`
+	- [ ] [Deep Generative Modeling | MIT 6.S191](https://www.youtube.com/watch?v=rZufA635dq4) `0:40:39`
+	- [ ] [Reinforcement Learning | MIT 6.S191](https://www.youtube.com/watch?v=nZfaHIxDD5w) `0:44:11`
+	- [ ] [Deep Learning New Frontiers | MIT 6.S191](https://www.youtube.com/watch?v=tfM_DdbGTLs) `0:38:10`
+	- [ ] [Neurosymbolic AI | MIT 6.S191](https://www.youtube.com/watch?v=4PuuziOgSU4) `0:41:10`
+	- [ ] [Generalizable Autonomy for Robot Manipulation | MIT 6.S191](https://www.youtube.com/watch?v=8Kn4Gi8iSYQ) `0:47:00`
+	- [ ] [Neural Rendering | MIT 6.S191](https://www.youtube.com/watch?v=BCZ56MU-KhQ) `0:36:44`
+	- [ ] [Machine Learning for Scent | MIT 6.S191](https://www.youtube.com/watch?v=Z5Pw5eWItiw) `0:38:51`
 - [X] [Pluralsight: Understanding Algorithms for Recommendation Systems](https://www.pluralsight.com/courses/algorithms-recommendation-systems)
 - [X] [Pluralsight: Deep Learning: The Big Picture](https://www.pluralsight.com/courses/deep-learning-big-picture)
 - [ ] [Udacity: A Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
