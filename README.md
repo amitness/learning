@@ -457,7 +457,12 @@
 - [ ] [Youtube: Curiosity in AI](https://www.youtube.com/watch?v=xPCCyiw8M2U) `0:06:16`
 - [ ] [Youtube: DropBlock - A BETTER DROPOUT for Neural Networks](https://www.youtube.com/watch?v=GcvGxXePI2g) `0:07:45`
 - [ ] [Youtube: Neural Voice Cloning](https://www.youtube.com/watch?v=gVehTbi6Ipc) `0:19:56`
-
+- [ ] [Youtube: Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+	- [ ] [Neural Networks from Scratch - P.1 Intro and Neuron Code](https://www.youtube.com/watch?v=Wo5dMEP_BbI) `0:16:59`
+	- [ ] [Neural Networks from Scratch - P.2 Coding a Layer](https://www.youtube.com/watch?v=lGLto9Xd7bU) `0:15:06`
+	- [ ] [Neural Networks from Scratch - P.3 The Dot Product](https://www.youtube.com/watch?v=tMrbN67U9d4) `0:25:17`
+	- [ ] [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4) `0:33:46`
+	- [ ] [Neural Networks from Scratch - P.5 Hidden Layer Activation Functions](https://www.youtube.com/watch?v=gmjzbpSVY1A) `0:40:05`
 
 ### Be able to implement models in scikit-learn
 - [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
