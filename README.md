@@ -174,6 +174,9 @@
 - [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 
 ### Be able to perform feature engineering
+- [ ] [Article: Preparing data for a machine learning model](https://www.jeremyjordan.me/preparing-data-for-a-machine-learning-model/)
+- [ ] [Article: Feature selection for a machine learning model](https://www.jeremyjordan.me/feature-selection/)
+- [ ] [Article: Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
 - [ ] [Datacamp: Analyzing Social Media Data in Python](https://www.datacamp.com/courses/analyzing-social-media-data-in-python)
 - [X] [Datacamp: Dimensionality Reduction in Python](https://www.datacamp.com/courses/dimensionality-reduction-in-python)
 - [X] [Datacamp: Preprocessing for Machine Learning in Python](https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python)
@@ -341,6 +344,8 @@
 
 
 ### Be able to structure machine learning projects
+- [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
+- [ ] [Article: Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 - [X] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
 - [ ] [Datacamp: Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
@@ -385,6 +390,21 @@
 
 ### Be familiar with a breadth of models and algorithms
 - [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
+- [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
+- [ ] [Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)
+- [ ] [Article: Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/)
+- [ ] [Article: Logistic regression](https://www.jeremyjordan.me/logistic-regression/)
+- [ ] [Article: Decision trees](https://www.jeremyjordan.me/decision-trees/)
+- [ ] [Article: K-nearest neighbors](https://www.jeremyjordan.me/k-nearest-neighbors/)
+- [ ] [Article: Support Vector Machines](https://www.jeremyjordan.me/support-vector-machines/)
+- [ ] [Article: Random forests](https://www.jeremyjordan.me/random-forests/)
+- [ ] [Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)
+- [ ] [Article: Neural networks: activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/)
+- [ ] [Article: Neural networks: training with backpropagation](https://www.jeremyjordan.me/neural-networks-training/)
+- [ ] [Article: Gradient descent](https://www.jeremyjordan.me/gradient-descent/)
+- [ ] [Article: Setting the learning rate of your neural network](https://www.jeremyjordan.me/nn-learning-rate/)
+- [ ] [Article: Deep neural networks: preventing overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/)
+- [ ] [Article: Normalizing your data (specifically, input and batch normalization)](https://www.jeremyjordan.me/batch-normalization/)
 - [X] [AWS: Semantic Segmentation Explained](https://www.aws.training/learningobject/video?id=27238)
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
@@ -527,7 +547,12 @@
   - [X] [From PyTorch to PyTorch Lightning](https://youtu.be/DbESHcCoWbM?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
 
 ### Be able to apply unsupervised learning algorithms
-- [ ] [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+- [ ] [Article: Grouping data points with k-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/)
+- [ ] [Article: Soft clustering with Gaussian mixed models (EM)](https://www.jeremyjordan.me/gaussian-mixed-models/)
+- [ ] [Article: Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
+- [ ] [Article: Variational autoencoders](https://www.jeremyjordan.me/variational-autoencoders/)
+- [ ] [Article: Principal components analysis (PCA)](https://www.jeremyjordan.me/principal-components-analysis/)
+- [ ] [Berkeley: Deep Unsupervised Learning Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 	- [X] [L1 Introduction -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=V9Roouqfu-M) `1:10:02`
 	- [X] [L2 Autoregressive Models -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=iyEOk8KCRUw) `2:27:23`
 	- [ ] [L3 Flow Models -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley -- Spring 2020](https://www.youtube.com/watch?v=JBb5sSC0JoY) `1:56:53`
@@ -559,6 +584,14 @@
 - [ ] [Article: DenseNet Architecture Explained with PyTorch Implementation from TorchVision](https://amaarora.github.io/2020/08/02/densenets.html)
 - [ ] [Article: EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://amaarora.github.io/2020/08/13/efficientnet.html)
 - [ ] [Article: Group Normalization](https://amaarora.github.io/2020/08/09/groupnorm.html)
+- [ ] [Article: A Short Introduction to Generative Adversarial Networks](https://sthalles.github.io/semi-supervised-learning-with-gans/)
+- [ ] [Article: Semi-supervised Learning with GANs](https://sthalles.github.io/intro-to-gans/)
+- [ ] [Article: Densely Connected Convolutional Networks in Tensorflow](https://sthalles.github.io/densely-connected-conv-nets/)
+- [ ] [Article: Convolutional neural networks](https://www.jeremyjordan.me/convolutional-neural-networks/)
+- [ ] [Article: Common architectures in convolutional neural networks](https://www.jeremyjordan.me/convnet-architectures/)
+- [ ] [Article: An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/)
+- [ ] [Article: Evaluating image segmentation models](https://www.jeremyjordan.me/evaluating-image-segmentation-models/)
+- [ ] [Article: An overview of object detection: one-stage methods](https://www.jeremyjordan.me/object-detection-one-stage/)
 - [ ] [Book: Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
 - [ ] [Book: Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/)
 - [ ] [Coursera: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
@@ -600,6 +633,7 @@
 
 ### Be able to implement NLP models
 - [ ] [Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
+- [ ] [Article: Introduction to recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/)
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
@@ -851,6 +885,8 @@
 - [X] [edX: Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)
 
 ### Be able to optimize model performance
+- [ ] [Article: Evaluating a machine learning model](https://www.jeremyjordan.me/evaluating-a-machine-learning-model/)
+- [ ] [Article: Hyperparameter tuning for machine learning models](https://www.jeremyjordan.me/hyperparameter-tuning/)
 - [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 - [X] [Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)
 - [X] [Datacamp: Hyperparameter Tuning in Python](https://www.datacamp.com/courses/hyperparameter-tuning-in-python)
