@@ -56,6 +56,9 @@
 - [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 - [X] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
 - [X] [Youtube: Making Money from AI by Predicting Sales - Jay's Intro to AI Part 2](https://youtu.be/V4-lXSs3jrk)
+- [ ] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
+- [ ] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
+- [ ] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
 
 ### Be able to annotate data efficiently
 - [X] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
@@ -247,6 +250,13 @@
 - [ ] [Udacity: Statistics](https://www.udacity.com/course/statistics--st095)
 - [ ] [Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [ ] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [ ] [Youtube: History of Calculus - Animated](https://www.youtube.com/watch?v=IMj5dgGWxSM) `0:06:43`
+- [ ] [Youtube: Principal Component Analysis (PCA) - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=9oSkUej63yk) `0:10:06`
+- [ ] [Youtube: Support Vector Machines - THE MATH YOU  SHOULD KNOW](https://www.youtube.com/watch?v=05VABNfa1ds) `0:11:21`
+- [ ] [Youtube: The Kernel Trick - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=wBVSbVktLIY) `0:07:29`
+- [ ] [Youtube: Logistic Regression - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=YMJtsYIp4kg) `0:09:14`
+- [ ] [Youtube: But what *is* a Neural Network? - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=oB3gmT8GAgI) `0:19:07`
+
 
 ### Be able to structure machine learning projects
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
@@ -332,6 +342,22 @@
 - [X] [Youtube: Sebastian Ruder: Neural Semi-supervised Learning under Domain Shift](https://www.youtube.com/watch?v=tpAr5-Y4JxU)
 - [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
 - [X] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
+- [ ] [Youtube: AI fabricates music in a celebrity's voice (JukeboxAI)](https://www.youtube.com/watch?v=7IEEKvcudrA) `0:15:54`
+- [ ] [Youtube: Activation Functions - EXPLAINED!](https://www.youtube.com/watch?v=s-V7gKrsels) `0:10:05`
+- [ ] [Youtube: Batch Normalization - EXPLAINED!](https://www.youtube.com/watch?v=DtEq44FTPM4) `0:08:48`
+- [ ] [Youtube: Optimizers - EXPLAINED!](https://www.youtube.com/watch?v=mdKjMPmcWjY) `0:07:22`
+- [ ] [Youtube: Loss Functions - EXPLAINED!](https://www.youtube.com/watch?v=QBbC3Cjsnjg) `0:08:30`
+- [ ] [Youtube: Boosting - EXPLAINED!](https://www.youtube.com/watch?v=MIPkK5ZAsms) `0:17:31`
+- [ ] [Youtube: Gradient Descent - THE MATH YOU SHOULD KNOW](https://www.youtube.com/watch?v=-p1ldISb90Q) `0:20:08`
+- [ ] [Youtube: Logistic Regression - VISUALIZED!](https://www.youtube.com/watch?v=slBI5YuVUTM) `0:18:31`
+- [ ] [Youtube: Linear Regression and Multiple Regression](https://www.youtube.com/watch?v=K_EH2abOp00) `0:12:54`
+- [ ] [Youtube: Precision, Recall & F-Measure](https://www.youtube.com/watch?v=j-EB6RqqjGI) `0:13:42`
+- [ ] [Youtube: Bootstrapping, Bagging and Random Forests](https://www.youtube.com/watch?v=3R0AW-vrPEw) `0:21:45`
+- [ ] [Youtube: Deep Mind's AlphaGo Zero - EXPLAINED](https://www.youtube.com/watch?v=NJBLx29JuHs) `0:11:13`
+- [ ] [Youtube: Curiosity in AI](https://www.youtube.com/watch?v=xPCCyiw8M2U) `0:06:16`
+- [ ] [Youtube: DropBlock - A BETTER DROPOUT for Neural Networks](https://www.youtube.com/watch?v=GcvGxXePI2g) `0:07:45`
+- [ ] [Youtube: Neural Voice Cloning](https://www.youtube.com/watch?v=gVehTbi6Ipc) `0:19:56`
+
 
 ### Be able to implement models in scikit-learn
 - [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
@@ -402,6 +428,7 @@
 - [X] [Youtube: CVPR 2020 Tutorial: Towards Annotation-Efficient Learning](https://youtu.be/MaGudzppu3I)
 - [X] [Youtube: Yuki Asano | Self-Supervision | Self-Labelling | Labelling Unlabelled videos | CV | CTDS.Show #81](https://youtu.be/LPdbnasJ9wI)
 - [X] [Youtube: Contrastive Clustering with SwAV](https://youtu.be/jCg97EAVsy8)
+- [ ] [Youtube: Variational Autoencoders - EXPLAINED!](https://www.youtube.com/watch?v=fcvYpzHmhvA) `0:17:36`
 
 ### Be able to implement computer vision models
 - [ ] [Book: Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
@@ -413,6 +440,19 @@
 - [ ] [Udacity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [X] [Youtube: Deep Residual Learning for Image Recognition (Paper Explained)](https://www.youtube.com/watch?v=GWt6Fu05voI)
 - [X] [Youtube: Implementing ResNet from scratch](https://www.youtube.com/playlist?list=PLbMqOoYQ3MxywF4R6MOJO7i9jFEeSGSSC)
+- [ ] [Youtube: ConvNets Scaled Efficiently](https://www.youtube.com/watch?v=fC39F8AqPo0) `0:13:19`
+- [ ] [Youtube: Building an Image Captioner with Neural Networks](https://www.youtube.com/watch?v=c_bVBYxX5EU) `0:12:54`
+- [ ] [Youtube: Evolution of Face Generation |  Evolution of GANs](https://www.youtube.com/watch?v=C1YUYWP-6rE) `0:12:23`
+- [ ] [Youtube: Autoencoders - EXPLAINED](https://www.youtube.com/watch?v=7mRfwaGGAPg) `0:10:53`
+- [ ] [Youtube: Unpaired Image-Image Translation using CycleGANs](https://www.youtube.com/watch?v=NyAosnNQv_U) `0:16:22`
+- [ ] [Youtube: AI creates Image Classifiers…by DRAWING?](https://www.youtube.com/watch?v=BeYbQkbKox8) `0:09:04`
+- [ ] [Youtube: The Evolution of Convolution Neural Networks](https://www.youtube.com/watch?v=Y2Tna77k1aI) `0:24:02`
+- [ ] [Youtube: Depthwise Separable Convolution - A FASTER CONVOLUTION!](https://www.youtube.com/watch?v=T7o3xvJLuHk) `0:12:43`
+- [ ] [Youtube: Mask Region based Convolution Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=4tkgOzQ9yyo) `0:09:34`
+- [ ] [Youtube: Sound play with Convolution Neural Networks](https://www.youtube.com/watch?v=GNza2ncnMfA) `0:11:57`
+- [ ] [Youtube: Convolution Neural Networks - EXPLAINED](https://www.youtube.com/watch?v=m8pOnJxOcqY) `0:19:20`
+- [ ] [Youtube: Generative Adversarial Networks - FUTURISTIC & FUN AI !](https://www.youtube.com/watch?v=O8LAi6ksC80) `0:14:20`
+
 
 ### Be able to implement NLP models
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
@@ -578,6 +618,12 @@
 - [X] [Article: How the Embedding Layers in BERT Were Implemented](https://medium.com%2F@medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a)
 - [X] [Youtube: Easy Data Augmentation for Text Classification](https://www.youtube.com/watch?v=3w92peJtYNQ&feature=youtu.be)
 - [X] [Youtube: Webinar: Special NLP Session with Hugging Face](https://www.youtube.com/watch?v=SUqi_E_Lyjs)
+- [ ] [Youtube: BERT Neural Network - EXPLAINED!](https://www.youtube.com/watch?v=xI0HHN5XKDo) `0:11:36`
+- [ ] [Youtube: NLP with Neural Networks & Transformers](https://www.youtube.com/watch?v=BGKumht1qLA) `0:10:45`
+- [ ] [Youtube: Transformer Neural Networks - EXPLAINED! (Attention is all you need)](https://www.youtube.com/watch?v=TQQlZhbC5ps) `0:13:05`
+- [ ] [Youtube: LSTM Networks - EXPLAINED!](https://www.youtube.com/watch?v=QciIcRxJvsM) `0:16:12`
+- [ ] [Youtube: Recurrent Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=yZv_yRgOvMg) `0:17:05`
+- [ ] [Youtube: Attention in Neural Networks](https://www.youtube.com/watch?v=W2rWgXJBZhU) `0:11:18`
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
@@ -631,6 +677,8 @@
 - [X] [Datacamp: Hyperparameter Tuning in Python](https://www.datacamp.com/courses/hyperparameter-tuning-in-python)
 - [ ] [Google: Testing and Debugging](https://developers.google.com/machine-learning/testing-debugging)
 - [ ] [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
+- [ ] [Youtube: How do GPUs speed up Neural Network training?](https://www.youtube.com/watch?v=EKD1kEMNeeU) `0:08:19`
+- [ ] [Youtube: Why use GPU with Neural Networks?](https://www.youtube.com/watch?v=GRRMi7UfZHg) `0:09:43`
 
 ### Be able to serve and scale ML services
 - [X] [Acloudguru: AWS Certified Machine Learning - Specialty](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
@@ -662,6 +710,8 @@
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
 - [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 - [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
+- [ ] [Youtube: A/B Testing - Simply Explained](https://www.youtube.com/watch?v=pRTAiluUP-8) `0:02:45`
+- [ ] [Youtube: Hypothesis testing with Applications in Data Science](https://www.youtube.com/watch?v=kx-pcQAPvoc) `0:10:33`
 
 ### Be able to write unit tests
 - [X] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
