@@ -49,6 +49,9 @@
 	- [ ] [A Deep Dive Into Branding, Data & Experience - Module 7 - Part 1 - SEO Unlocked](https://www.youtube.com/watch?v=738TjOhTq3k) `0:14:03`
 	- [ ] [How To Create A Compelling Brand - Module 7 - Part 2 - SEO Unlocked](https://www.youtube.com/watch?v=ttT3IbkZ_Qo) `0:05:52`
 	- [ ] [Designing Your Customer Experience & Case Studies - Module 7 - Part 3 - SEO Unlocked](https://www.youtube.com/watch?v=CRz0pn3N5bs) `0:07:32`
+- [ ] [Youtube: Webinars From The Future | Session One: Design Thinking](https://youtu.be/DDYo8Wmy60c)
+- [ ] [Youtube: Webinars From The Future | Session Two: Interaction Design](https://youtu.be/snUT7_XRW6Q)
+
 
 ### Be able to frame a ML problem
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
@@ -771,6 +774,7 @@
 	- [X] [McKenzie Marshall: NLP in Asset Management (spaCy IRL 2019)](https://www.youtube.com/watch?v=kX14Ycieju8) `0:20:32`
 	- [X] [David Dodson: spaCy in the News: Quartz's NLP pipeline (spaCy IRL 2019)](https://www.youtube.com/watch?v=azrVX8JksMU) `0:20:56`
 	- [X] [Matthew Honnibal & Ines Montani: spaCy and Explosion: past, present & future (spaCy IRL 2019)](https://www.youtube.com/watch?v=Jk9y17lvltY) `0:54:13`
+- [ ] [The Future of Natural Language Processing](https://youtu.be/G5lmya6eKtc)
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
