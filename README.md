@@ -401,7 +401,7 @@
 - [X] [Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)
 - [ ] [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 - [ ] [Stanford CS224N: Stanford CS224N: NLP with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-  - [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 1 – Introduction and Word Vectors](https://www.youtube.com/watch?v=8rXD5-xhemo)
+	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 1 – Introduction and Word Vectors](https://www.youtube.com/watch?v=8rXD5-xhemo)
 	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 2 – Word Vectors and Word Senses](https://www.youtube.com/watch?v=kEMJRjEdNzM)
 	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 3 – Neural Networks](https://www.youtube.com/watch?v=8CWyBNX6eDo)
 	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 4 – Backpropagation](https://www.youtube.com/watch?v=yLYHDSv-288)
