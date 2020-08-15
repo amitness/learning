@@ -552,6 +552,7 @@
 - [ ] [Article: Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
 - [ ] [Article: Variational autoencoders](https://www.jeremyjordan.me/variational-autoencoders/)
 - [ ] [Article: Principal components analysis (PCA)](https://www.jeremyjordan.me/principal-components-analysis/)
+- [ ] [Article: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://medium.com/@nainaakash012/unsupervised-learning-of-visual-features-by-contrasting-cluster-assignments-fbedc8b9c3db)
 - [ ] [Berkeley: Deep Unsupervised Learning Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 	- [X] [L1 Introduction -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=V9Roouqfu-M) `1:10:02`
 	- [X] [L2 Autoregressive Models -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=iyEOk8KCRUw) `2:27:23`
