@@ -517,7 +517,19 @@
   - [X] [From PyTorch to PyTorch Lightning](https://youtu.be/DbESHcCoWbM?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
 
 ### Be able to apply unsupervised learning algorithms
-- [ ] [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+- [ ] [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+	- [X] [L1 Introduction -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=V9Roouqfu-M) `1:10:02`
+	- [X] [L2 Autoregressive Models -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=iyEOk8KCRUw) `2:27:23`
+	- [ ] [L3 Flow Models -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley -- Spring 2020](https://www.youtube.com/watch?v=JBb5sSC0JoY) `1:56:53`
+	- [ ] [L4 Latent Variable Models (VAE) -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley](https://www.youtube.com/watch?v=FMuvUZXMzKM) `2:19:33`
+	- [ ] [Lecture 5 Implicit Models -- GANs  Part I --- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=1CT-kxjYbFU) `2:32:32`
+	- [ ] [Lecture 6  Implicit Models / GANs part II --- CS294-158-SP20 Deep Unsupervised Learning -- Berkeley](https://www.youtube.com/watch?v=0W1dixJfKL4) `2:09:14`
+	- [X] [Lecture 7 Self-Supervised Learning -- UC Berkeley Spring 2020 - CS294-158 Deep Unsupervised Learning](https://www.youtube.com/watch?v=dMUes74-nYY) `2:20:41`
+	- [ ] [L8 Round-up of Strengths and Weaknesses of Unsupervised Learning Methods -- UC Berkeley SP20](https://www.youtube.com/watch?v=1sJuWg5dULg) `0:41:51`
+	- [X] [L9 Semi-Supervised Learning and Unsupervised Distribution Alignment -- CS294-158-SP20 UC Berkeley](https://www.youtube.com/watch?v=PXOhi6m09bA) `2:16:00`
+	- [ ] [L10 Compression -- UC Berkeley, Spring 2020, CS294-158 Deep Unsupervised Learning](https://www.youtube.com/watch?v=pPyOlGvWoXA) `3:09:49`
+	- [X] [L11 Language Models -- guest instructor: Alec Radford (OpenAI) --- Deep Unsupervised Learning SP20](https://www.youtube.com/watch?v=BnpB3GrpsfM) `2:38:19`
+	- [ ] [L12 Representation Learning for Reinforcement Learning --- CS294-158 UC Berkeley Spring 2020](https://www.youtube.com/watch?v=YqvhDPd1UEw) `2:01:56`
 - [ ] [Datacamp: Customer Segmentation in Python](https://www.datacamp.com/courses/customer-segmentation-in-python)
 - [ ] [Google: Clustering](https://developers.google.com/machine-learning/clustering)
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
@@ -529,6 +541,7 @@
 - [X] [Youtube: Yuki Asano | Self-Supervision | Self-Labelling | Labelling Unlabelled videos | CV | CTDS.Show #81](https://youtu.be/LPdbnasJ9wI)
 - [X] [Youtube: Contrastive Clustering with SwAV](https://youtu.be/jCg97EAVsy8)
 - [ ] [Youtube: Variational Autoencoders - EXPLAINED!](https://www.youtube.com/watch?v=fcvYpzHmhvA) `0:17:36`
+- [ ] [Youtube: OptaProAnalyticsForum– Learning to watch football: Self-supervised representations for tracking data](https://youtu.be/H1iho17lnoI)
 
 ### Be able to implement computer vision models
 - [ ] [Book: Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
