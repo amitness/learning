@@ -29,6 +29,27 @@
 - [ ] [Udacity: Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
 - [ ] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 - [ ] [Youtube: SEO Unlocked](https://youtu.be/Q_lySNxCag0?list=PLJR61fXkAx11Oi6EpqJ9Es4rVOIZhwlSG)
+	- [ ] [Welcome to the SEO Unlocked! Free SEO Course with Neil Patel | SEO Training](https://www.youtube.com/watch?v=Q_lySNxCag0) `0:10:09`
+	- [ ] [Introduction to SEO and Why It's Important - SEO Unlocked - Free SEO Course with Neil Patel](https://www.youtube.com/watch?v=pIbQfOcsEsE) `0:10:29`
+	- [ ] [Keyword Research Part 1 - SEO Unlocked - Free SEO Course with Neil Patel](https://www.youtube.com/watch?v=CYicoAcAi0A) `0:19:20`
+	- [ ] [Keyword Research Part 2 - SEO Unlocked - Free SEO Course with Neil Patel](https://www.youtube.com/watch?v=U655ixy-sdE) `0:09:56`
+	- [ ] [On-page and technical SEO Part 1 - SEO Unlocked - Free SEO Course with Neil Patel](https://www.youtube.com/watch?v=PXDPqXHLSOY) `0:22:58`
+	- [ ] [On-page and technical SEO Part 2 - SEO Unlocked - Free SEO Course with Neil Patel](https://www.youtube.com/watch?v=utLaKIJKygA) `0:12:16`
+	- [ ] [Mastering Technical SEO Audits - On-page SEO Part 3 - SEO Unlocked - Free SEO Course with Neil Patel](https://www.youtube.com/watch?v=k04rHijEPSw) `0:16:35`
+	- [ ] [Content Marketing Part 1 - SEO Unlocked - Free SEO Course with Neil Patel](https://www.youtube.com/watch?v=zks1MFJsyUc) `0:24:09`
+	- [ ] [Advanced Content Marketing Tactics - Content Marketing Part 1 - Lesson 2 - SEO Unlocked](https://www.youtube.com/watch?v=cJbKV2_B-xc) `0:09:54`
+	- [ ] [The 10 Commandments of Content Marketing - Content Marketing Part 2 - Lesson 1 -  SEO Unlocked](https://www.youtube.com/watch?v=28MeI9YccNY) `0:19:01`
+	- [ ] [How to Edit Your Content For SEO - Content Marketing Part 2 -  SEO Unlocked](https://www.youtube.com/watch?v=-1hw7akbdBQ) `0:10:59`
+	- [ ] [Discover Your Competitive Strategy - Content Marketing Part 2 - Lesson 3 - SEO Unlocked](https://www.youtube.com/watch?v=aNBotpi7J98) `0:09:12`
+	- [ ] [Over 4 Million Backlinks Built With This Simple Process - Module 05 - Lesson 1 - SEO Unlocked](https://www.youtube.com/watch?v=h-4ksx-b_ns) `0:11:09`
+	- [ ] [How to Get POWERFUL Backlinks for Faster Rankings - Module 05 - Lesson 2 - SEO Unlocked](https://www.youtube.com/watch?v=qO5xeRYk20Q) `0:09:40`
+	- [ ] [Get THOUSANDS of Backlinks On Semi-Autopilot - Module 05 - Lesson 3 - SEO Unlocked](https://www.youtube.com/watch?v=SbDIDbiVPzs) `0:06:32`
+	- [ ] [How To Get The Most Out Of Google Analytics - Module 06 - Lesson 1 - SEO Unlocked](https://www.youtube.com/watch?v=a9yVBuk5Amo) `0:07:45`
+	- [ ] [How to Setup Google Search Console - Module 06 - Lesson 2 - SEO Unlocked](https://www.youtube.com/watch?v=7TKyZR5XQqQ) `0:09:21`
+	- [ ] [How to Use Advanced Features in Google Analytics - Module 06 - Lesson 3 - SEO Unlocked](https://www.youtube.com/watch?v=hAkiH_3hC9E) `0:10:52`
+	- [ ] [A Deep Dive Into Branding, Data & Experience - Module 7 - Part 1 - SEO Unlocked](https://www.youtube.com/watch?v=738TjOhTq3k) `0:14:03`
+	- [ ] [How To Create A Compelling Brand - Module 7 - Part 2 - SEO Unlocked](https://www.youtube.com/watch?v=ttT3IbkZ_Qo) `0:05:52`
+	- [ ] [Designing Your Customer Experience & Case Studies - Module 7 - Part 3 - SEO Unlocked](https://www.youtube.com/watch?v=CRz0pn3N5bs) `0:07:32`
 
 ### Be able to frame a ML problem
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
