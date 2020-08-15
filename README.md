@@ -23,7 +23,6 @@
 - [X] [Moz: The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
 - [X] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
 - [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
-- [ ] [Thoughtbot: Analytics for Developers](https://thoughtbot.com/upcase/analytics-for-developers)
 - [ ] [Udacity: App Monetization](https://www.udacity.com/course/app-monetization--ud518)
 - [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [ ] [Udacity: Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
@@ -137,10 +136,7 @@
 - [ ] [UWData: Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum)
 
 ### Be able to manipulate data in databases
-- [ ] [Book: Learn SQL the hard way](http://sql.learncodethehardway.org/book/ex1.html)
 - [X] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
-- [ ] [Codecademy: SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
-- [ ] [Codecademy: SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
 - [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [ ] [Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)
 - [ ] [Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)
@@ -153,9 +149,6 @@
 - [ ] [Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)
 - [ ] [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)
 - [ ] [Datacamp: Database Design](https://www.datacamp.com/courses/database-design)
-- [ ] [Khan Academy: SQL](https://www.khanacademy.org/computing/computer-programming/sql)
-- [ ] [Launch School: Introduction to SQL](https://launchschool.com/books/sql)
-- [ ] [Treehouse: Using Databases in Python](https://teamtreehouse.com/library/using-databases-in-python)
 - [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 - [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
