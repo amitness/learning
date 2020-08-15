@@ -135,8 +135,6 @@
 - [ ] [Datacamp: Marketing Analytics in Spreadsheets](https://www.datacamp.com/courses/marketing-analytics-in-spreadsheets)
 - [ ] [Datacamp: Error and Uncertainty in Spreadsheets](https://www.datacamp.com/courses/error-and-uncertainty-in-spreadsheets)
 - [X] [edX: Analyzing and Visualizing Data with Excel](https://www.edx.org/course/analyzing-visualizing-data-excel-microsoft-dat206x-7)
-- [ ] [Youtube: Jake VanderPlas - Exploratory Data Visualization with Vega, Vega-Lite, and Altair - PyCon 2018](https://www.youtube.com/watch?v=ms29ZPUKxbU)
-- [ ] [UWData: Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum)
 
 ### Be able to manipulate data in databases
 - [X] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
@@ -173,6 +171,10 @@
 - [ ] [Udacity: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 
+### Be able to import data from multiple sources
+- [X] [Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
+- [ ] [Datacamp: Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)
+
 ### Be able to perform feature engineering
 - [ ] [Article: Preparing data for a machine learning model](https://www.jeremyjordan.me/preparing-data-for-a-machine-learning-model/)
 - [ ] [Article: Feature selection for a machine learning model](https://www.jeremyjordan.me/feature-selection/)
@@ -183,11 +185,9 @@
 - [X] [Datacamp: Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)
 - [X] [Datacamp: Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
 - [X] [Datacamp: Feature Engineering for Machine Learning in Python](https://www.datacamp.com/courses/feature-engineering-for-machine-learning-in-python)
-- [X] [Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
 - [ ] [Datacamp: Importing & Managing Financial Data in Python](https://www.datacamp.com/courses/importing-managing-financial-data-in-python)
 - [ ] [Datacamp: Manipulating Time Series Data in Python](https://www.datacamp.com/courses/manipulating-time-series-data-in-python)
 - [ ] [Datacamp: Working with Geospatial Data in Python](https://www.datacamp.com/courses/working-with-geospatial-data-in-python)
-- [ ] [Datacamp: Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)
 - [ ] [Datacamp: Analyzing IoT Data in Python](https://www.datacamp.com/courses/analyzing-iot-data-in-python)
 - [ ] [Datacamp: Dealing with Missing Data in Python](https://www.datacamp.com/courses/dealing-with-missing-data-in-python)
 - [ ] [Datacamp: Exploratory Data Analysis in Python](https://www.datacamp.com/courses/exploratory-data-analysis-in-python)
@@ -208,6 +208,8 @@
 - [ ] [Datacamp: Visualizing Geospatial Data in Python](https://www.datacamp.com/courses/visualizing-geospatial-data-in-python)
 - [ ] [Datacamp: Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
 - [ ] [Udacity: Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+- [ ] [Youtube: Jake VanderPlas - Exploratory Data Visualization with Vega, Vega-Lite, and Altair - PyCon 2018](https://www.youtube.com/watch?v=ms29ZPUKxbU)
+- [ ] [UWData: Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum)
 
 ### Be able to to read research papers
 - [X] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
