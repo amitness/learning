@@ -59,6 +59,15 @@
 - [ ] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
 - [ ] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
 - [ ] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
+- [X] [Youtube: The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
+	- [X] [How Far is Too Far? | The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8) `0:34:39`
+	- [X] [Healed through A.I. | The Age of A.I.](https://www.youtube.com/watch?v=V5aZjsWM2wo) `0:39:55`
+	- [X] [Using A.I. to build a better human | The Age of A.I.](https://www.youtube.com/watch?v=lrv8ga02VNg) `0:44:27`
+	- [X] [Love, art and stories: decoded | The Age of A.I.](https://www.youtube.com/watch?v=Kr1fmKVY3cA) `0:38:57`
+	- [X] [The 'Space Architects' of Mars | The Age of A.I.](https://www.youtube.com/watch?v=lIvrIKaNCRE) `0:30:10`
+	- [X] [Will a robot take my job? | The Age of A.I.](https://www.youtube.com/watch?v=f2aocKWrPG8) `0:36:14`
+	- [X] [Saving the world one algorithm at a time | The Age of A.I.](https://www.youtube.com/watch?v=0wy4u34fii4) `0:46:37`
+	- [X] [How A.I. is searching for Aliens | The Age of A.I.](https://www.youtube.com/watch?v=VwtC_4t2g5M) `0:36:12`
 
 ### Be able to annotate data efficiently
 - [X] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
