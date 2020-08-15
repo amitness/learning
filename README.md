@@ -774,7 +774,9 @@
 	- [X] [McKenzie Marshall: NLP in Asset Management (spaCy IRL 2019)](https://www.youtube.com/watch?v=kX14Ycieju8) `0:20:32`
 	- [X] [David Dodson: spaCy in the News: Quartz's NLP pipeline (spaCy IRL 2019)](https://www.youtube.com/watch?v=azrVX8JksMU) `0:20:56`
 	- [X] [Matthew Honnibal & Ines Montani: spaCy and Explosion: past, present & future (spaCy IRL 2019)](https://www.youtube.com/watch?v=Jk9y17lvltY) `0:54:13`
-- [ ] [The Future of Natural Language Processing](https://youtu.be/G5lmya6eKtc)
+- [ ] [Youtube: The Future of Natural Language Processing](https://youtu.be/G5lmya6eKtc)
+- [ ] [Youtube: Sentiment Analysis: Key Milestones, Challenges and New Directions](https://www.youtube.com/watch?v=YAqjf7to-lU)
+- [ ] [Youtube: Simple and Efficient Deep Learning for Natural Language Processing, with Moshe Wasserblat, Intel AI](https://www.youtube.com/watch?v=Bgr684dPJ6U)
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
