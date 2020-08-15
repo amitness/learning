@@ -672,6 +672,24 @@
 
 ### Be familiar with Reinforcement Learning
 - [X] [DeepLizard: Reinforcement Learning - Goal Oriented Intelligence](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
+	- [X] [Reinforcement Learning Series Intro - Syllabus Overview](https://www.youtube.com/watch?v=nyjbcRQ-uQ8) `0:05:51`
+	- [X] [Markov Decision Processes (MDPs) - Structuring a Reinforcement Learning Problem](https://www.youtube.com/watch?v=my207WNoeyA) `0:06:34`
+	- [X] [Expected Return - What Drives a Reinforcement Learning Agent in an MDP](https://www.youtube.com/watch?v=a-SnJtmBtyA) `0:06:47`
+	- [X] [Policies and Value Functions - Good Actions for a Reinforcement Learning Agent](https://www.youtube.com/watch?v=eMxOGwbdqKY) `0:06:52`
+	- [X] [What do Reinforcement Learning Algorithms Learn - Optimal Policies](https://www.youtube.com/watch?v=rP4oEpQbDm4) `0:06:21`
+	- [X] [Q-Learning Explained - A Reinforcement Learning Technique](https://www.youtube.com/watch?v=qhRNvCVVJaA) `0:08:37`
+	- [X] [Exploration vs. Exploitation - Learning the Optimal Reinforcement Learning Policy](https://www.youtube.com/watch?v=mo96Nqlo1L8) `0:10:06`
+	- [X] [OpenAI Gym and Python for Q-learning - Reinforcement Learning Code Project](https://www.youtube.com/watch?v=QK_PP_2KgGE) `0:07:52`
+	- [X] [Train Q-learning Agent with Python - Reinforcement Learning Code Project](https://www.youtube.com/watch?v=HGeI30uATws) `0:08:59`
+	- [X] [Watch Q-learning Agent Play Game with Python - Reinforcement Learning Code Project](https://www.youtube.com/watch?v=ZaILVnqZFCg) `0:07:22`
+	- [X] [Deep Q-Learning - Combining Neural Networks and Reinforcement Learning](https://www.youtube.com/watch?v=wrBUkpiRvCA) `0:10:50`
+	- [X] [Replay Memory Explained - Experience for Deep Q-Network Training](https://www.youtube.com/watch?v=Bcuj2fTH4_4) `0:06:21`
+	- [X] [Training a Deep Q-Network - Reinforcement Learning](https://www.youtube.com/watch?v=0bt0SjbS3xc) `0:09:07`
+	- [X] [Training a Deep Q-Network with Fixed Q-targets - Reinforcement Learning](https://www.youtube.com/watch?v=xVkPh9E9GfE) `0:07:35`
+	- [X] [Deep Q-Network Code Project Intro - Reinforcement Learning](https://www.youtube.com/watch?v=FU-sNVew9ZA) `0:06:26`
+	- [X] [Build Deep Q-Network - Reinforcement Learning Code Project](https://www.youtube.com/watch?v=PyQNfsGUnQA) `0:16:51`
+	- [X] [Deep Q-Network Image Processing and Environment Management - Reinforcement Learning Code Project](https://www.youtube.com/watch?v=jkdXDinWfo8) `0:21:53`
+	- [X] [Deep Q-Network Training Code - Reinforcement Learning Code Project](https://www.youtube.com/watch?v=ewRw996uevM) `0:19:46`
 
 ### Be able to use managed ML services on the cloud
 - [X] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
