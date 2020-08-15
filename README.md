@@ -286,6 +286,11 @@
 	- [ ] [Change of basis | Essence of linear algebra, chapter 13](https://www.youtube.com/watch?v=P2LTAUO1TdA) `0:12:50`
 	- [ ] [Eigenvectors and eigenvalues | Essence of linear algebra, chapter 14](https://www.youtube.com/watch?v=PFDu9oVAE-g) `0:17:15`
 	- [ ] [Abstract vector spaces | Essence of linear algebra, chapter 15](https://www.youtube.com/watch?v=TgKwz5Ikpc8) `0:16:46`
+- [ ] [3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+	- [ ] [But what is a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk) `0:19:13`
+	- [ ] [Gradient descent, how neural networks learn | Deep learning, chapter 2](https://www.youtube.com/watch?v=IHZwWFHWa-w) `0:21:01`
+	- [ ] [What is backpropagation really doing? | Deep learning, chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U) `0:13:54`
+	- [ ] [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8) `0:10:17`
 - [X] [Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
 - [ ] [Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
 - [ ] [Book: Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
