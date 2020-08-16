@@ -456,7 +456,7 @@
 	- [ ] [Machine Learning for Scent | MIT 6.S191](https://www.youtube.com/watch?v=Z5Pw5eWItiw) `0:38:51`
 - [X] [Pluralsight: Understanding Algorithms for Recommendation Systems](https://www.pluralsight.com/courses/algorithms-recommendation-systems)
 - [X] [Pluralsight: Deep Learning: The Big Picture](https://www.pluralsight.com/courses/deep-learning-big-picture)
-- [ ] [StaQuest: Machine Learning]
+- [ ] [StaQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 	- [ ] [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI) `0:12:45`
 	- [ ] [Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw) `0:06:04`
 	- [ ] [Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o) `0:07:12`
