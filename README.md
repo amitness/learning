@@ -330,6 +330,50 @@
 	- [ ] [30. Linear Transformations and Their Matrices](https://www.youtube.com/watch?v=Ts3o2I8_Mxc) `0:49:27`
 	- [ ] [31. Change of Basis; Image Compression](https://www.youtube.com/watch?v=0h43aV4aH7I) `0:50:13`
 	- [ ] [33. Left and Right Inverses; Pseudoinverse](https://www.youtube.com/watch?v=Go2aLo7ZOlU) `0:41:52`
+- [ ] [StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+	- [ ] [StatQuest: Histograms, Clearly Explained](https://www.youtube.com/watch?v=qBigTkBLU6g) `0:03:42`
+	- [ ] [StatQuest:  What is a statistical distribution?](https://www.youtube.com/watch?v=oI3hZJqXJuc) `0:05:14`
+	- [ ] [StatQuest: The Normal Distribution, Clearly Explained!!!](https://www.youtube.com/watch?v=rzFX5NWojp0) `0:05:12`
+	- [ ] [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU) `0:14:31`
+	- [ ] [Statistics Fundamentals: The Mean, Variance and Standard Deviation](https://www.youtube.com/watch?v=SzZ6GpcfoQY) `0:14:22`
+	- [ ] [StatQuest: What is a statistical model?](https://www.youtube.com/watch?v=yQhTtdq_y9M) `0:03:45`
+	- [ ] [StatQuest: Sampling A Distribution](https://www.youtube.com/watch?v=XLCWeSVzHUU) `0:03:48`
+	- [ ] [Hypothesis Testing and The Null Hypothesis](https://www.youtube.com/watch?v=0oc49DyA3hU) `0:14:40`
+	- [ ] [Alternative Hypotheses: Main Ideas!!!](https://www.youtube.com/watch?v=5koKb5B_YWo) `0:09:49`
+	- [ ] [p-values: What they are and how to interpret them](https://www.youtube.com/watch?v=vemZtEM63GY) `0:11:22`
+	- [ ] [How to calculate p-values](https://www.youtube.com/watch?v=JQc3yx0-Q9E) `0:25:15`
+	- [ ] [p-hacking: What it is and how to avoid it!](https://www.youtube.com/watch?v=HDCOUXE3HMM) `0:13:44`
+	- [ ] [Statistical Power, Clearly Explained!!!](https://www.youtube.com/watch?v=Rsc5znwR5FA) `0:08:19`
+	- [ ] [Power Analysis, Clearly Explained!!!](https://www.youtube.com/watch?v=VX_M3tIyiYk) `0:16:44`
+	- [ ] [Covariance and Correlation Part 1: Covariance](https://www.youtube.com/watch?v=qtaqvPAeEJY) `0:22:23`
+	- [ ] [Covariance and Correlation Part 2: Pearson's Correlation](https://www.youtube.com/watch?v=xZ_z8KWkhXE) `0:19:13`
+	- [ ] [StatQuest: R-squared explained](https://www.youtube.com/watch?v=2AQKmw14mHM) `0:11:01`
+	- [ ] [The Central Limit Theorem](https://www.youtube.com/watch?v=YAlJCEDH2uY) `0:07:35`
+	- [ ] [StatQuickie: Standard Deviation vs Standard Error](https://www.youtube.com/watch?v=A82brFpdr9g) `0:02:52`
+	- [ ] [StatQuest: The standard error](https://www.youtube.com/watch?v=XNgt7F6FqDU) `0:11:43`
+	- [ ] [Bam!!! Clearly Explained!!!](https://www.youtube.com/watch?v=i4iUvjsGCMc) `0:02:49`
+	- [ ] [StatQuest: Technical and Biological Replicates](https://www.youtube.com/watch?v=Exk0OoRG0PQ) `0:05:27`
+	- [ ] [StatQuest - Sample Size and Effective Sample Size, Clearly Explained](https://www.youtube.com/watch?v=67zCIqdeXpo) `0:06:32`
+	- [ ] [Bar Charts Are Better than Pie Charts](https://www.youtube.com/watch?v=RiEZ_hEf96A) `0:01:45`
+	- [ ] [StatQuest: Boxplots, Clearly Explained](https://www.youtube.com/watch?v=fHLhBnmwUM0) `0:02:33`
+	- [ ] [StatQuest: Logs (logarithms), clearly explained](https://www.youtube.com/watch?v=VSi0Z04fWj0) `0:15:37`
+	- [ ] [StatQuest: Confidence Intervals](https://www.youtube.com/watch?v=TqOeMYtOc1w) `0:06:41`
+	- [ ] [StatQuickie: Thresholds for Significance](https://www.youtube.com/watch?v=KEofcJ1tfkI) `0:06:40`
+	- [ ] [StatQuickie: Which t test to use](https://www.youtube.com/watch?v=nnBJeb_I-q8) `0:05:10`
+	- [ ] [StatQuest:  One or Two Tailed P-Values](https://www.youtube.com/watch?v=bsZGt-caXO4) `0:07:05`
+	- [ ] [The Binomial Distribution and Test, Clearly Explained!!!](https://www.youtube.com/watch?v=J8jNoF-K8E8) `0:15:46`
+	- [ ] [StatQuest: Quantiles and Percentiles, Clearly Explained!!!](https://www.youtube.com/watch?v=IFKQLDmRK0Y) `0:06:30`
+	- [ ] [StatQuest: Quantile-Quantile Plots (QQ plots), Clearly Explained](https://www.youtube.com/watch?v=okjYjClSjOg) `0:06:55`
+	- [ ] [StatQuest: Quantile Normalization](https://www.youtube.com/watch?v=ecjN6Xpv6SE) `0:04:51`
+	- [ ] [StatQuest: Probability vs Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4) `0:05:01`
+	- [ ] [StatQuest: Maximum Likelihood, clearly explained!!!](https://www.youtube.com/watch?v=XepXtl9YKwc) `0:06:12`
+	- [ ] [Maximum Likelihood for the Exponential Distribution, Clearly Explained! V2.0](https://www.youtube.com/watch?v=p3T-_LMrvBc) `0:09:39`
+	- [ ] [Why Dividing By N Underestimates the Variance](https://www.youtube.com/watch?v=sHRBg6BhKjI) `0:17:14`
+	- [ ] [Maximum Likelihood for the Binomial Distribution, Clearly Explained!!!](https://www.youtube.com/watch?v=4KKV9yZCoM4) `0:11:24`
+	- [ ] [Maximum Likelihood For the Normal Distribution, step-by-step!](https://www.youtube.com/watch?v=Dn6b9fCIUpM) `0:19:50`
+	- [ ] [StatQuest: Odds and Log(Odds), Clearly Explained!!!](https://www.youtube.com/watch?v=ARfXDSkQf1Y) `0:11:30`
+	- [ ] [StatQuest: Odds Ratios and Log(Odds Ratios), Clearly Explained!!!](https://www.youtube.com/watch?v=8nm0G-1uJzA) `0:16:20`
+	- [ ] [Live 2020-04-20!!! Expected Values](https://www.youtube.com/watch?v=fU2PuYKsr6M) `0:33:00`
 - [ ] [Udacity: Algebra Review](https://www.udacity.com/course/intro-algebra-review--ma004)
 - [ ] [Udacity: Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222)
 - [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
@@ -456,7 +500,7 @@
 	- [ ] [Machine Learning for Scent | MIT 6.S191](https://www.youtube.com/watch?v=Z5Pw5eWItiw) `0:38:51`
 - [X] [Pluralsight: Understanding Algorithms for Recommendation Systems](https://www.pluralsight.com/courses/algorithms-recommendation-systems)
 - [X] [Pluralsight: Deep Learning: The Big Picture](https://www.pluralsight.com/courses/deep-learning-big-picture)
-- [ ] [StaQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+- [ ] [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 	- [ ] [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI) `0:12:45`
 	- [ ] [Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw) `0:06:04`
 	- [ ] [Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o) `0:07:12`
@@ -521,7 +565,6 @@
 	- [ ] [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU) `0:14:31`
 	- [ ] [Principal Component Analysis (PCA) clearly explained (2015)](https://www.youtube.com/watch?v=_UVHneBUBW0) `0:20:16`
 	- [ ] [Decision Trees in Python from Start to Finish](https://www.youtube.com/watch?v=q90UDEgYqeI) `1:06:23`
-
 - [ ] [Udacity: A Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
 - [ ] [Udacity: Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 - [ ] [Udacity: Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
