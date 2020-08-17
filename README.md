@@ -433,8 +433,7 @@
 - [X] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
 - [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-utorialtorialp-a-local-python-environment-windows)
 - [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
-- [ ] [Youtube: Weights and Biases Tutorial[(https://www.youtube.com/playlist?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
-	- [X] [Welcome to Weights & Biases - Introduction Walkthrough (2020)](https://youtu.be/91HhNtmb0B4?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
+- [X] [Youtube: Weights and Biases Tutorial](https://www.youtube.com/playlist?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
 
 ### Be familiar with a breadth of models and algorithms
 - [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
