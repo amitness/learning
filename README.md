@@ -692,6 +692,17 @@
 - [X] [Youtube: OptaProAnalyticsForum– Learning to watch football: Self-supervised representations for tracking data](https://youtu.be/H1iho17lnoI)
 - [X] [Youtube: Can a Neural Net tell if an image is mirrored? – Visual Chirality](https://youtu.be/rbg1Mdo2LZM)
 - [X] [Youtube: Deep InfoMax: Learning deep representations by mutual information estimation and maximization](https://www.youtube.com/watch?v=o1HIkn8LEsw)
+- [ ] Deep Learning Lecture Summer 2020
+    - [ ] [Deep Learning: Unsupervised Learning - Part 1](https://www.youtube.com/watch?v=aoOE4bJxybA&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=47&t=0s)
+    - [ ] [Deep Learning: Unsupervised Learning - Part 2](https://www.youtube.com/watch?v=GpAHm7dvP_k&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=48&t=0s)
+    - [ ] [Deep Learning: Unsupervised Learning - Part 3](https://www.youtube.com/watch?v=fXO1fOXnOTI&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=49&t=0s)
+    - [ ] [Deep Learning: Unsupervised Learning - Part 4](https://www.youtube.com/watch?v=K27a_doRoxw&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=50&t=0s)
+    - [ ] [Deep Learning: Unsupervised Learning - Part 5](https://www.youtube.com/watch?v=4Ot22wkEdfU&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=51&t=0s)
+    - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 1](https://www.youtube.com/watch?v=Vj_JeSZG1EA&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=57&t=0s)
+    - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 2](https://www.youtube.com/watch?v=KjcSfpLin7U&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=58&t=0s)
+    - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 3](https://www.youtube.com/watch?v=EqMwbP7Smxg&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=59&t=0s)
+    - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 4](https://www.youtube.com/watch?v=zIDdTstAqWU&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=60&t=0s)
+
 
 ### Be able to implement computer vision models
 - [ ] [Article: What is Focal Loss and when should you use it?](https://amaarora.github.io/2020/06/29/FocalLoss.html)
