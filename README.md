@@ -601,7 +601,6 @@
 
 ### Be able to implement models in scikit-learn
 - [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
-- [X] [Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
 - [X] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 - [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
 - [X] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
@@ -678,6 +677,7 @@
 	- [X] [L11 Language Models -- guest instructor: Alec Radford (OpenAI) --- Deep Unsupervised Learning SP20](https://www.youtube.com/watch?v=BnpB3GrpsfM) `2:38:19`
 	- [ ] [L12 Representation Learning for Reinforcement Learning --- CS294-158 UC Berkeley Spring 2020](https://www.youtube.com/watch?v=YqvhDPd1UEw) `2:01:56`
 - [ ] [Datacamp: Customer Segmentation in Python](https://www.datacamp.com/courses/customer-segmentation-in-python)
+- [X] [Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
 - [ ] [Google: Clustering](https://developers.google.com/machine-learning/clustering)
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
 - [X] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
@@ -701,7 +701,13 @@
     - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 2](https://www.youtube.com/watch?v=KjcSfpLin7U&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=58&t=0s)
     - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 3](https://www.youtube.com/watch?v=EqMwbP7Smxg&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=59&t=0s)
     - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 4](https://www.youtube.com/watch?v=zIDdTstAqWU&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=60&t=0s)
-
+- [ ] [ECCV 2020: New Frontiers for Learning with Limited Labels or Data]
+    - [ ] [Introduction to New Frontiers on Learning with Limited Labels or Data](https://youtu.be/lHsLUYk80z4)
+    - [ ] [Self-Supervised Part and Viewpoint Discovery from Image Collections](https://youtu.be/5kzU6NkvGX4)
+    - [ ] [Learning Visual Correspondences across Instances and Video Frames](https://youtu.be/_Sug0ICzKlk)
+    - [ ] [Limitless Labels in a Labelless World: Weak Supervision with Noisy Labels](https://youtu.be/UtxQkIoei0o)
+    - [ ] [Inverting Neural Networks for Data-free Knowledge Transfer](https://youtu.be/ddEtea4ntEU)
+    - [ ] [Learning Efficiently with Biologically Inspired Feedback](https://youtu.be/8N9AF8V52-E)
 
 ### Be able to implement computer vision models
 - [ ] [Article: What is Focal Loss and when should you use it?](https://amaarora.github.io/2020/06/29/FocalLoss.html)
