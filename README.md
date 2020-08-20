@@ -105,6 +105,18 @@
 	- [ ] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
 	- [ ] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
 
+### Understand data ethics better  
+- [ ] [Practical Data Ethics]
+    - [ ] [Lesson 1: Disinformation](http://ethics.fast.ai/videos/?lesson=1)
+    - [ ] [Lesson 2: Bias & Fairness](http://ethics.fast.ai/videos/?lesson=2)
+    - [ ] [Lesson 3: Ethical Foundations & Practical Tools](http://ethics.fast.ai/videos/?lesson=3)
+    - [ ] [Lesson 4: Privacy and surveillance](http://ethics.fast.ai/videos/?lesson=4)
+    - [ ] [Lesson 4 continued: Privacy and surveillance](http://ethics.fast.ai/videos/?lesson=5)
+    - [ ] [Lesson 5.1: The problem with metrics](http://ethics.fast.ai/videos/?lesson=6)
+    - [ ] [Lesson 5.2: Our Ecosystem, Venture Capital, & Hypergrowth](http://ethics.fast.ai/videos/?lesson=7)
+    - [ ] [Lesson 5.3: Losing the Forest for the Trees, guest lecture by Ali Alkhatib](http://ethics.fast.ai/videos/?lesson=8)
+    - [ ] [Lesson 6: Algorithmic Colonialism, and Next Steps](http://ethics.fast.ai/videos/?lesson=9)
+
 ### Be able to annotate data efficiently
 - [X] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
 - [X] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
