@@ -680,6 +680,8 @@
 - [ ] [Article: Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
 - [ ] [Article: Variational autoencoders](https://www.jeremyjordan.me/variational-autoencoders/)
 - [ ] [Article: Principal components analysis (PCA)](https://www.jeremyjordan.me/principal-components-analysis/)
+- [ ] [Article: Deep Inside Autoencoders](https://nathanhubens.github.io/posts/deep%20learning/2018/02/25/deep-inside-autoencoders.html)
+- [ ] [Article: Build a simple Image Retrieval System with an Autoencoder](https://nathanhubens.github.io/posts/deep%20learning/2018/08/24/image-retrieval.html)
 - [ ] [Article: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://medium.com/@nainaakash012/unsupervised-learning-of-visual-features-by-contrasting-cluster-assignments-fbedc8b9c3db)
 - [ ] [Berkeley: Deep Unsupervised Learning Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 	- [X] [L1 Introduction -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=V9Roouqfu-M) `1:10:02`
@@ -1034,7 +1036,7 @@
 - [X] [AWS: Satellite Image Classification in SageMaker](https://www.aws.training/learningobject/video?id=27231)
 - [X] [edX: Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)
 
-### Be able to optimize model performance
+### Be able to optimize model metrics
 - [ ] [Article: Evaluating a machine learning model](https://www.jeremyjordan.me/evaluating-a-machine-learning-model/)
 - [ ] [Article: Hyperparameter tuning for machine learning models](https://www.jeremyjordan.me/hyperparameter-tuning/)
 - [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
@@ -1044,6 +1046,10 @@
 - [ ] [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 - [ ] [Youtube: How do GPUs speed up Neural Network training?](https://www.youtube.com/watch?v=EKD1kEMNeeU) `0:08:19`
 - [ ] [Youtube: Why use GPU with Neural Networks?](https://www.youtube.com/watch?v=GRRMi7UfZHg) `0:09:43`
+
+### Be able to optimize models for production
+- [ ] [Article: Neural Network Pruning](https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html)
+- [ ] [Article: FasterAI](https://nathanhubens.github.io/posts/deep%20learning/2020/08/17/FasterAI.html)
 
 ### Be able to serve and scale ML services
 - [X] [Acloudguru: AWS Certified Machine Learning - Specialty](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
