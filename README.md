@@ -107,7 +107,7 @@
 	- [ ] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
 
 ### Understand data ethics better  
-- [ ] [Practical Data Ethics]
+- [ ] [Practical Data Ethics](http://ethics.fast.ai/)
     - [ ] [Lesson 1: Disinformation](http://ethics.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2: Bias & Fairness](http://ethics.fast.ai/videos/?lesson=2)
     - [ ] [Lesson 3: Ethical Foundations & Practical Tools](http://ethics.fast.ai/videos/?lesson=3)
