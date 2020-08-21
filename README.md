@@ -711,7 +711,7 @@
 - [X] [Youtube: OptaProAnalyticsForum– Learning to watch football: Self-supervised representations for tracking data](https://youtu.be/H1iho17lnoI)
 - [X] [Youtube: Can a Neural Net tell if an image is mirrored? – Visual Chirality](https://youtu.be/rbg1Mdo2LZM)
 - [X] [Youtube: Deep InfoMax: Learning deep representations by mutual information estimation and maximization](https://www.youtube.com/watch?v=o1HIkn8LEsw)
-- [ ] Deep Learning Lecture Summer 2020
+- [ ] [Deep Learning Lecture Summer 2020](https://www.youtube.com/playlist?list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj)
     - [ ] [Deep Learning: Unsupervised Learning - Part 1](https://www.youtube.com/watch?v=aoOE4bJxybA&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=47&t=0s)
     - [ ] [Deep Learning: Unsupervised Learning - Part 2](https://www.youtube.com/watch?v=GpAHm7dvP_k&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=48&t=0s)
     - [ ] [Deep Learning: Unsupervised Learning - Part 3](https://www.youtube.com/watch?v=fXO1fOXnOTI&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=49&t=0s)
@@ -721,7 +721,7 @@
     - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 2](https://www.youtube.com/watch?v=KjcSfpLin7U&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=58&t=0s)
     - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 3](https://www.youtube.com/watch?v=EqMwbP7Smxg&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=59&t=0s)
     - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 4](https://www.youtube.com/watch?v=zIDdTstAqWU&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=60&t=0s)
-- [ ] [ECCV 2020: New Frontiers for Learning with Limited Labels or Data]
+- [ ] [ECCV 2020: New Frontiers for Learning with Limited Labels or Data](https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/)
     - [ ] [Introduction to New Frontiers on Learning with Limited Labels or Data](https://youtu.be/lHsLUYk80z4)
     - [ ] [Self-Supervised Part and Viewpoint Discovery from Image Collections](https://youtu.be/5kzU6NkvGX4)
     - [ ] [Learning Visual Correspondences across Instances and Video Frames](https://youtu.be/_Sug0ICzKlk)
