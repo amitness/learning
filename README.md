@@ -795,6 +795,8 @@
 - [ ] [Article: Introduction to recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/)
 - [ ] [Article: Aspect-Based Opinion Mining (NLP with Python)](https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800)
 - [X] [Article: The Transformer Explained](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
+- [X] [Article: Controlling Text Generation with Plug and Play Language Models](https://eng.uber.com/pplm/)
+- [X] [Article: What makes a good conversation?](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html)
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
@@ -910,6 +912,8 @@
 	- [ ] [Introduction to the Transformer (NLP video 17)](https://www.youtube.com/watch?v=AFkGPmU16QA) `0:22:54`
 	- [ ] [The Transformer for language translation (NLP video 18)](https://www.youtube.com/watch?v=KzfyftiH7R8) `0:55:17`
 	- [ ] [What you need to know about Disinformation (NLP video 19)](https://www.youtube.com/watch?v=vbva2RN-rbQ) `0:51:21`
+    - [ ] [Article: Zero to Hero with fastai - Beginner](https://muellerzr.github.io/fastblog/2020/08/20/_08_21-beginner.html)
+    - [ ] [Article: Zero to Hero with fastai - Intermediate](https://muellerzr.github.io/fastblog/2020/08/20/_08_21-intermediate.html)
 - [X] [Youtube: BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
 - [X] [YouTube: Intro to NLP with Spacy](https://www.youtube.com/playlist?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)
 - [X] [Talk: Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/)
@@ -980,6 +984,16 @@
 - [ ] [Youtube: Sentiment Analysis: Key Milestones, Challenges and New Directions](https://www.youtube.com/watch?v=YAqjf7to-lU)
 - [ ] [Youtube: Simple and Efficient Deep Learning for Natural Language Processing, with Moshe Wasserblat, Intel AI](https://www.youtube.com/watch?v=Bgr684dPJ6U)
 - [X] [Youtube: Why not solve biological problems with a Transformer? BERTology meets Biology](https://www.youtube.com/watch?v=pFf4PltQ9LY)
+- [ ] [Youtube: Introduction to NLP](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)
+    - [ ] [Introduction to NLP | Bag of Words Model](https://www.youtube.com/watch?v=8Mlc4-3tgzc) `0:22:23`
+    - [ ] [Introduction to NLP | TF-IDF](https://www.youtube.com/watch?v=aOIHiclLDrc) `0:10:55`
+    - [ ] [Introduction to NLP | Text Cleaning and Preprocessing](https://www.youtube.com/watch?v=p6yvuST_6oQ) `0:14:02`
+    - [ ] [Introduction to NLP | Word Embeddings & Word2Vec Model](https://www.youtube.com/watch?v=_Rt4LjasO34) `0:23:09`
+    - [ ] [Introduction to NLP | GloVe Model Explained](https://www.youtube.com/watch?v=Fn_U2OG1uqI) `0:23:15`
+    - [ ] [Introduction to NLP | GloVe & Word2Vec Transfer Learning](https://www.youtube.com/watch?v=oMd7sMlxYFk) `0:21:12`
+    - [ ] [Introduction to NLP | How to Train Custom Word Vectors](https://www.youtube.com/watch?v=-Y_tldJX9jk) `0:13:48`
+    - [ ] [Sarcasm is Very Easy to Detect! GloVe + LSTM](https://www.youtube.com/watch?v=pMjT8GIX0co) `0:17:07`
+    - [ ] [Text Summarization & Keyword Extraction | Introduction to NLP](https://www.youtube.com/watch?v=XO97Uon83Os) `0:14:59`
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
