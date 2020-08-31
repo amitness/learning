@@ -136,7 +136,7 @@
 - [ ] [Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)
 - [ ] [Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)
 - [ ] [Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)
-- [ ] [Article: Modern Pandas]
+- [ ] [Article: Modern Pandas](https://tomaugspurger.github.io)
     - [ ] [Modern Pandas (Part 1)](https://tomaugspurger.github.io/modern-1-intro.html)
     - [ ] [Modern Pandas (Part 2)](https://tomaugspurger.github.io/method-chaining.html)
     - [ ] [Modern Pandas (Part 3)](https://tomaugspurger.github.io/modern-3-indexes.html)
