@@ -693,6 +693,7 @@
   - [X] [Training a classification model on MNIST with PyTorch](https://youtu.be/OMDn66kM9Qc?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
   - [X] [From PyTorch to PyTorch Lightning](https://youtu.be/DbESHcCoWbM?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
   - [X] [Lightning Data Modules](https://youtu.be/L---MBeSXFw)
+- [X] [Youtube: SimCLR with PyTorch Lightning](https://www.youtube.com/playlist?list=PLaMu-SDt_RB4k8VXiB3hOdsn0Y3GoXo1k)
 - [ ] [Youtube: PyTorch Performance Tuning Guide](https://youtu.be/9mS1fIYj1So) `26:41:00`
 
 ### Be able to apply unsupervised learning algorithms
