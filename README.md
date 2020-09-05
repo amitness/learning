@@ -469,6 +469,7 @@
     - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://youtu.be/xPncjKH6SPk?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `14:12:00`
 
 ### Be able to utilize version control
+- [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
 - [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 - [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
 - [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
@@ -727,6 +728,15 @@
   - [X] [PyTorch Dropout, Batch size and interactive debugging](https://youtu.be/vD5iQkdqMqU)
 - [X] [Youtube: SimCLR with PyTorch Lightning](https://www.youtube.com/playlist?list=PLaMu-SDt_RB4k8VXiB3hOdsn0Y3GoXo1k)
 - [ ] [Youtube: PyTorch Performance Tuning Guide](https://youtu.be/9mS1fIYj1So) `26:41:00`
+- [ ] [Youtube: Insincere Question Classification with PyTorch](https://www.youtube.com/playlist?list=PLUH_l3HbfEW3Nyst9FTbPiRosViWQRZDL&app=desktop)
+    - [ ] [[PART 1] Insincere Question Classification with PyTorch](https://www.youtube.com/watch?v=mmUttpXu7oE) `0:22:34`
+    - [ ] [[PART 2] Insincere Question Classification with PyTorch](https://www.youtube.com/watch?v=m3JGRoNSdqE) `0:33:53`
+    - [ ] [[PART 3] Insincere Question Classification with PyTorch](https://www.youtube.com/watch?v=-bfYCBznJ6s) `0:23:49`
+    - [ ] [[PART 4] Insincere Question Classification with PyTorch](https://www.youtube.com/watch?v=e9CxGeQZTVA) `0:14:25`
+- [ ] [Youtube: Skin Cancer Detection with PyTorch](https://www.youtube.com/playlist?list=PLUH_l3HbfEW0wP7ZOKUxmlnG6sntCQpHX)
+    - [ ] [[PART 1] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=6LdS9n_L7u4) `0:10:21`
+    - [ ] [[PART 2] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=wspdT8hRCWs) `0:21:57`
+    - [ ] [[PART 3] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=zFqsuXs6-Us) `0:22:24`
 
 ### Be able to apply unsupervised learning algorithms
 - [ ] [Article: Grouping data points with k-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/)
@@ -1198,6 +1208,8 @@
 - [ ] [Article: How to Unit Test Deep Learning: Tests in TensorFlow, mocking and test coverage](https://theaisummer.com/unit-test-deep-learning/)
 - [ ] [Article: Best practices to write Deep Learning code: Project structure, OOP, Type checking and documentation](https://theaisummer.com/best-practices-deep-learning-code/)
 - [ ] [Article: Deep Learning in Production: Laptop set up and system design](https://theaisummer.com/deep-learning-production/)
+- [ ] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
+- [ ] [Article: How to properly ship and deploy your machine learning model](https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4)
 - [ ] [Luigi Patruno: ML in Production](https://mlinproduction.com/)
     - [ ] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
     - [ ] [Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)
