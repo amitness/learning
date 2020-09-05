@@ -461,6 +461,16 @@
     - [ ] [MLOps Tutorial #2: When data is too big for Git](https://youtu.be/kZKAuShWF0s?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `10:51:00`
     - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://youtu.be/xPncjKH6SPk?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `14:12:00`
 
+### Be able to utilize version control
+- [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+- [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
+- [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+- [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
+- [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
+- [X] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+- [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+
 ### Be familiar with a breadth of models and algorithms
 - [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
 - [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
@@ -1124,6 +1134,14 @@
 - [ ] [Article: Neural Network Pruning](https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html)
 - [ ] [Article: FasterAI](https://nathanhubens.github.io/posts/deep%20learning/2020/08/17/FasterAI.html)
 
+### Be able to implement APIs and services
+- [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
+- [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+- [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+- [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
+- [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
+
 ### Be able to serve and scale ML services
 - [X] [Acloudguru: AWS Certified Machine Learning - Specialty](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
 - [X] [Acloudguru: AWS Certified Developer - Associate](https://acloud.guru/learn/aws-certified-developer-associate-june-2018)
@@ -1149,7 +1167,7 @@
 - [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
 - [X] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
 
-### Be able to perform A/B test
+### Be able to perform A/B testing
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
 - [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 - [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
@@ -1209,19 +1227,8 @@
 - [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
 - [X] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 
-### Be able to utilize version control
-- [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
-- [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
-- [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
-- [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
-- [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
-- [X] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
-- [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-- [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-
-### Be able to implement APIs and services
+### Have a general understanding of other parts of the stack
 - [ ] [Book: Refactoring UI](https://refactoringui.com/book/)
-- [ ] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
 - [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [ ] [Codecademy: Learn Color Design](https://www.codecademy.com/learn/learn-color-design)
 - [X] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
@@ -1233,7 +1240,6 @@
 - [X] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 - [X] [Code School: Fundamentals of Design](https://www.pluralsight.com/courses/code-school-fundamentals-of-design)
 - [X] [Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)
-- [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
 - [X] [(ES6) - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
 - [X] [Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)
 - [X] [Pluralsight: HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture)
@@ -1245,16 +1251,11 @@
 - [ ] [Thoughtbot: Design for Developers](https://thoughtbot.com/upcase/design-for-developers)
 - [X] [Treehouse: HTML](https://teamtreehouse.com/library/html)
 - [X] [Treehouse: Javascript Booleans](https://teamtreehouse.com/library/javascript-booleans)
-- [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-- [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
-- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 - [X] [Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
 - [X] [Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
 - [X] [Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)
 - [X] [Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)
 - [X] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
-- [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
-- [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
 
 ### Be familiar with fundamental Computer Science concepts
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
