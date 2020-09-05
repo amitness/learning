@@ -478,6 +478,7 @@
 - [ ] [Article: Setting the learning rate of your neural network](https://www.jeremyjordan.me/nn-learning-rate/)
 - [ ] [Article: Deep neural networks: preventing overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/)
 - [ ] [Article: Normalizing your data (specifically, input and batch normalization)](https://www.jeremyjordan.me/batch-normalization/)
+- [ ] [Article: Batch Normalization](https://e2eml.school/batch_normalization.html)
 - [X] [AWS: Semantic Segmentation Explained](https://www.aws.training/learningobject/video?id=27238)
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
@@ -707,6 +708,10 @@
 - [ ] [Article: Deep Inside Autoencoders](https://nathanhubens.github.io/posts/deep%20learning/2018/02/25/deep-inside-autoencoders.html)
 - [ ] [Article: Build a simple Image Retrieval System with an Autoencoder](https://nathanhubens.github.io/posts/deep%20learning/2018/08/24/image-retrieval.html)
 - [ ] [Article: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://medium.com/@nainaakash012/unsupervised-learning-of-visual-features-by-contrasting-cluster-assignments-fbedc8b9c3db)
+- [ ] [Article: A Framework For Contrastive Self-Supervised Learning And Designing A New Approach](https://towardsdatascience.com/a-framework-for-contrastive-self-supervised-learning-and-designing-a-new-approach-3caab5d29619)
+- [ ] [Article: Understanding self-supervised and contrastive learning with "Bootstrap Your Own Latent" (BYOL)](https://untitled-ai.github.io/understanding-self-supervised-contrastive-learning.html)
+- [ ] [Article: Affinity Propagation Algorithm Explained](https://towardsdatascience.com/unsupervised-machine-learning-affinity-propagation-algorithm-explained-d1fef85f22c8)
+- [ ] [Article: Algorithm Breakdown: Affinity Propagation](https://www.ritchievink.com/blog/2018/05/18/algorithm-breakdown-affinity-propagation/)
 - [ ] [Berkeley: Deep Unsupervised Learning Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 	- [X] [L1 Introduction -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=V9Roouqfu-M) `1:10:02`
 	- [X] [L2 Autoregressive Models -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=iyEOk8KCRUw) `2:27:23`
@@ -821,6 +826,12 @@
 - [X] [Article: Controlling Text Generation with Plug and Play Language Models](https://eng.uber.com/pplm/)
 - [X] [Article: What makes a good conversation?](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html)
 - [X] [Article: NLP for Supervised Learning - A Brief Survey](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
+- [ ] [Article: Generating Questions Using Transformers](https://amontgomerie.github.io/2020/07/30/question-generator.html)
+- [ ] [Article: Neural Language Models as Domain-Specific Knowledge Bases](https://www.statestitle.com/resource/neural-language-models-as-domain-specific-knowledge-bases/)
+- [ ] [Article: Understanding BERT’s Semantic Interpretations](https://www.statestitle.com/resource/understanding-berts-semantic-interpretations/)
+- [ ] [Article: Using NLP (BERT) to improve OCR accuracy](https://www.statestitle.com/resource/using-nlp-bert-to-improve-ocr-accuracy/)
+- [ ] [Article: Hyperparameter Optimization for 🤗Transformers: A guide](https://medium.com/distributed-computing-with-ray/hyperparameter-optimization-for-transformers-a-guide-c4e32c6c989b)
+- [ ] [Article: Faster and smaller quantized NLP with Hugging Face and ONNX Runtime](https://medium.com/microsoftazure/faster-and-smaller-quantized-nlp-with-hugging-face-and-onnx-runtime-ec5525473bb7)
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
@@ -1027,6 +1038,12 @@
     - [ ] [Sarcasm is Very Easy to Detect! GloVe + LSTM](https://www.youtube.com/watch?v=pMjT8GIX0co) `0:17:07`
     - [ ] [Text Summarization & Keyword Extraction | Introduction to NLP](https://www.youtube.com/watch?v=XO97Uon83Os) `0:14:59`
 - [ ] [Youtube: Self-attention step-by-step | How to get meaning from text](https://youtu.be/-9vVhYEXeyQ)
+- [ ] [Youtube: Chat Bot with PyTorch](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
+- [ ] [Youtube: NLP with Friends Talks](https://www.youtube.com/playlist?list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C)
+    - [ ] [NLP with Friends, Featured Friend: Tom McCoy](https://www.youtube.com/watch?v=2w1jZyLHzsc) `0:36:48`
+    - [ ] [NLP with Friends, Featured Friend: Maarten Sap](https://www.youtube.com/watch?v=1bSk00tEpaM) `0:36:11`
+    - [ ] [NLP with Friends, featured friend: Nitika Mathur](https://www.youtube.com/watch?v=w4zyfZV5Q8I) `1:01:42`
+    - [ ] [NLP with Friends, Featured Friend: Sabrina J Mielke](https://www.youtube.com/watch?v=4-ulM2moEWg) `1:01:28`
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
