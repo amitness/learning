@@ -316,6 +316,10 @@
 	- [ ] [What is backpropagation really doing? | Deep learning, chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U) `0:13:54`
 	- [ ] [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8) `0:10:17`
 - [X] [Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
+- [ ] [Article: Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
+- [ ] [Article: You Could Have Come Up With Eigenvectors - Here's How](https://www.dhruvonmath.com/2019/02/25/eigenvectors/)
+- [ ] [Article: PageRank - How Eigenvectors Power the Algorithm Behind Google Search](https://www.dhruvonmath.com/2019/03/20/pagerank/)
+- [ ] [Article: Interactive Visualization of Why Eigenvectors Matter](https://www.dhruvonmath.com/2020/07/26/who-cares-about-eigenvectors/)
 - [ ] [Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
 - [ ] [Book: Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
 - [ ] [Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
@@ -489,6 +493,8 @@
 - [ ] [Article: Deep neural networks: preventing overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/)
 - [ ] [Article: Normalizing your data (specifically, input and batch normalization)](https://www.jeremyjordan.me/batch-normalization/)
 - [ ] [Article: Batch Normalization](https://e2eml.school/batch_normalization.html)
+- [ ] [Article: Baidu Deep Voice explained: Part 1 — the Inference Pipeline](https://blog.athelas.com/paper-1-baidus-deep-voice-675a323705df)
+- [ ] [Article: Baidu Deep Voice explained Part 2 — Training](https://blog.athelas.com/baidu-deep-voice-explained-part-2-training-810e87d20047)
 - [X] [AWS: Semantic Segmentation Explained](https://www.aws.training/learningobject/video?id=27238)
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
@@ -790,6 +796,7 @@
 - [ ] [Article: An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/)
 - [ ] [Article: Evaluating image segmentation models](https://www.jeremyjordan.me/evaluating-image-segmentation-models/)
 - [ ] [Article: An overview of object detection: one-stage methods](https://www.jeremyjordan.me/object-detection-one-stage/)
+- [ ] [Article: A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 - [ ] [Book: Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
 - [ ] [Book: Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/)
 - [ ] [Coursera: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
