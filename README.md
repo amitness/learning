@@ -446,7 +446,7 @@
   - [X] [Lecture 13: Research Directions](https://youtu.be/vF7UgqaegVI)
   - [X] [Lecture 14: Jeremy Howard](https://youtu.be/hZd3X_nGdew)
   - [X] [Lecture 15: Richard Socher](https://youtu.be/yvMgcLKuvVg)
-  - [ ] [Guest Lecture - Chip Huyen - Machine Learning Interviews - Full Stack Deep Learning](https://youtu.be/pli1K75PSa8)
+  - [X] [Guest Lecture - Chip Huyen - Machine Learning Interviews - Full Stack Deep Learning](https://youtu.be/pli1K75PSa8)
 - [ ] [MIT: The Missing Semester of CS Education](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 	- [ ] [Lecture 1: Course Overview + The Shell (2020)](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) `0:48:16`
 	- [ ] [Lecture 2: Shell Tools and Scripting (2020)](https://www.youtube.com/watch?v=kgII-YWo3Zw) `0:48:55`
