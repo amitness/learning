@@ -1310,6 +1310,7 @@
 - [X] [Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
 - [X] [Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
 - [ ] [Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
+- [X] [Datacamp: Object-Oriented Programming in Python](https://datacamp.com/courses/object-oriented-programming-in-python)
 - [X] [edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)
 - [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
 - [X] [Google's Python Class](https://developers.google.com/edu/python/)
