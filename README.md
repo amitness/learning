@@ -226,7 +226,7 @@
 ### Be able to visualize data
 - [ ] [Datacamp: Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
 - [X] [Datacamp: Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)
-- [ ] [Datacamp: Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib)
+- [X] [Datacamp: Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib)
 - [ ] [Datacamp: Intermediate Data Visualization with Seaborn](https://www.datacamp.com/courses/data-visualization-with-seaborn)
 - [ ] [Datacamp: Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python)
 - [ ] [Datacamp: Improving Your Data Visualizations in Python](https://www.datacamp.com/courses/improving-your-data-visualizations-in-python)
