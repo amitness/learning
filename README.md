@@ -5,7 +5,11 @@
   <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
 </p>
 
-**Learning Philosophy**: [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement), [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
+**Learning Philosophy**: 
+- [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
+- [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)
+- [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
+- [Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
 
 ### Develop a business acumen
 - [X] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
