@@ -803,7 +803,7 @@
     - [ ] [Inverting Neural Networks for Data-free Knowledge Transfer](https://youtu.be/ddEtea4ntEU)
     - [ ] [Learning Efficiently with Biologically Inspired Feedback](https://youtu.be/8N9AF8V52-E)
 - [ ] [Youtube: Self-Supervised Learning - What is Next? - Workshop at ECCV 2020, August 28th](https://www.youtube.com/playlist?list=PL53R9Jy9Cc0zdv9OqvJ5YsZH2-AMKo9gM)
-    - [ ] [Next Challenges for Self-Supervised Learning - Aäron van den Oord](https://www.youtube.com/watch?v=jJozjCG8Cqs) `0:20:13`
+    - [X] [Next Challenges for Self-Supervised Learning - Aäron van den Oord](https://www.youtube.com/watch?v=jJozjCG8Cqs) `0:20:13`
     - [ ] [Perspectives on Unsupervised Representation Learning - Paolo Favaro](https://www.youtube.com/watch?v=APwHDZZcLuY) `0:42:41`
     - [ ] [Learning and Transferring Visual Representations with Few Labels - Carl Doersch](https://www.youtube.com/watch?v=RWCc0nZOSBw) `0:32:53`
     - [ ] [Multi-view Invariance and Grouping for Self-Supervised Learning - Ishan Misra](https://www.youtube.com/watch?v=gbziPIn9uDI) `0:36:31`
