@@ -813,7 +813,7 @@
 - [ ] [Youtube: Self-Supervised Learning - What is Next? - Workshop at ECCV 2020, August 28th](https://www.youtube.com/playlist?list=PL53R9Jy9Cc0zdv9OqvJ5YsZH2-AMKo9gM)
     - [X] [Next Challenges for Self-Supervised Learning - Aäron van den Oord](https://www.youtube.com/watch?v=jJozjCG8Cqs) `0:20:13`
     - [ ] [Perspectives on Unsupervised Representation Learning - Paolo Favaro](https://www.youtube.com/watch?v=APwHDZZcLuY) `0:42:41`
-    - [ ] [Learning and Transferring Visual Representations with Few Labels - Carl Doersch](https://www.youtube.com/watch?v=RWCc0nZOSBw) `0:32:53`
+    - [X] [Learning and Transferring Visual Representations with Few Labels - Carl Doersch](https://www.youtube.com/watch?v=RWCc0nZOSBw) `0:32:53`
     - [ ] [Multi-view Invariance and Grouping for Self-Supervised Learning - Ishan Misra](https://www.youtube.com/watch?v=gbziPIn9uDI) `0:36:31`
     - [ ] [Representation Learning beyond Instance Discrimination and Semantic Categorization - Stella Yu](https://www.youtube.com/watch?v=F5mt4z-w_Mk) `0:43:09`
     - [ ] [Self-Supervision as a Path to a Post-Dataset Era - Alexei Alyosha Efros](https://www.youtube.com/watch?v=iTbfEXFwDJc) `0:38:06`
