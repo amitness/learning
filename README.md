@@ -19,7 +19,7 @@
 - [X] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
 - [X] [Book: Rework](https://www.goodreads.com/book/show/6732019-rework)
 - [X] [Book: The Airbnb Story](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669)
-- [X] [Book: The Personal MBA - Master the Art of Business](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)
+- [X] [Book: The Personal MBA](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)
 - [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
 - [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
 - [X] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
@@ -182,10 +182,7 @@
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
 ### Be able to use the command line
-- [ ] [Bash Academy](http://guide.bash.academy)
-- [ ] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-- [ ] [CONQUERING THE COMMAND LINE](http://conqueringthecommandline.com/book)
 - [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
 - [ ] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
 - [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
@@ -332,13 +329,11 @@
 - [ ] [Article: Why Randomness Is Information?](https://medium.com/swlh/why-randomness-is-information-f2468966b29d)
 - [ ] [Article: Basic Probability Theory](https://medium.com/swlh/probability-for-machine-learning-and-data-science-cccd4f4f1df1)
 - [ ] [Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
-- [ ] [Book: Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
 - [ ] [Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
 - [ ] [Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 - [ ] [Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
 - [ ] [Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
 - [X] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
-- [ ] [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [ ] [Khan Academy: Precalculus](https://www.khanacademy.org/math/precalculus)
 - [ ] [Khan Academy: Probability](https://www.khanacademy.org/mission/probability)
@@ -419,7 +414,6 @@
 - [ ] [Udacity: Statistics](https://www.udacity.com/course/statistics--st095)
 - [ ] [Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [ ] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-- [ ] [Youtube: History of Calculus - Animated](https://www.youtube.com/watch?v=IMj5dgGWxSM) `0:06:43`
 - [ ] [Youtube: Principal Component Analysis (PCA) - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=9oSkUej63yk) `0:10:06`
 - [ ] [Youtube: Support Vector Machines - THE MATH YOU  SHOULD KNOW](https://www.youtube.com/watch?v=05VABNfa1ds) `0:11:21`
 - [ ] [Youtube: The Kernel Trick - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=wBVSbVktLIY) `0:07:29`
@@ -582,7 +576,6 @@
 	- [ ] [Machine Learning Fundamentals: Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aMoz4v8) `0:11:46`
 	- [ ] [Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA) `0:06:36`
 	- [ ] [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) `0:16:26`
-	- [ ] [ROC and AUC in R](https://www.youtube.com/watch?v=qcvAqAH60Yw) `0:15:12`
 	- [ ] [StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`
 	- [ ] [StatQuest: Linear Models Pt.1 - Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo) `0:27:26`
 	- [ ] [StatQuest: Odds and Log(Odds), Clearly Explained!!!](https://www.youtube.com/watch?v=ARfXDSkQf1Y) `0:11:30`
@@ -592,21 +585,17 @@
 	- [ ] [Logistic Regression Details Pt 2: Maximum Likelihood](https://www.youtube.com/watch?v=BfKanl1aSG0) `0:10:23`
 	- [ ] [Logistic Regression Details Pt 3: R-squared and p-value](https://www.youtube.com/watch?v=xxFYro8QuXA) `0:15:25`
 	- [ ] [Saturated Models and Deviance](https://www.youtube.com/watch?v=9T0wlKdew6I) `0:18:39`
-	- [ ] [Logistic Regression in R, Clearly Explained!!!!](https://www.youtube.com/watch?v=C4N3_XJJ-jU) `0:17:15`
 	- [ ] [Deviance Residuals](https://www.youtube.com/watch?v=JC56jS2gVUE) `0:06:18`
 	- [ ] [Regularization Part 1: Ridge (L2) Regression](https://www.youtube.com/watch?v=Q81RR3yKn30) `0:20:26`
 	- [ ] [Regularization Part 2: Lasso (L1) Regression](https://www.youtube.com/watch?v=NGf0voTMlcs) `0:08:19`
 	- [ ] [Ridge vs Lasso Regression, Visualized!!!](https://www.youtube.com/watch?v=Xm2C_gTAl8c) `0:09:05`
 	- [ ] [Regularization Part 3: Elastic Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) `0:05:19`
-	- [ ] [Ridge, Lasso and Elastic-Net Regression in R](https://www.youtube.com/watch?v=ctmNq7FgbvI) `0:17:51`
 	- [ ] [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ) `0:21:57`
 	- [ ] [StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08) `0:06:04`
 	- [ ] [StatQuest: PCA - Practical Tips](https://www.youtube.com/watch?v=oRvgq966yZg) `0:08:19`
-	- [ ] [StatQuest: PCA in R](https://www.youtube.com/watch?v=0Jp4gsfOLMs) `0:08:57`
 	- [ ] [StatQuest: PCA in Python](https://www.youtube.com/watch?v=Lsue2gEM9D0) `0:11:37`
 	- [ ] [StatQuest: Linear Discriminant Analysis (LDA) clearly explained.](https://www.youtube.com/watch?v=azXCzI57Yfc) `0:15:12`
 	- [ ] [StatQuest: MDS and PCoA](https://www.youtube.com/watch?v=GEn-_dAyYME) `0:08:18`
-	- [ ] [StatQuest: MDS and PCoA in R](https://www.youtube.com/watch?v=pGAUHhLYp5Q) `0:07:44`
 	- [ ] [StatQuest: t-SNE, Clearly Explained](https://www.youtube.com/watch?v=NEaUSP4YerM) `0:11:47`
 	- [ ] [StatQuest: Hierarchical Clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo) `0:11:19`
 	- [ ] [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA) `0:08:57`
@@ -619,7 +608,6 @@
 	- [ ] [How to Prune Regression Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=D0efHEJsfHo) `0:16:15`
 	- [ ] [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) `0:09:54`
 	- [ ] [StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=sQ870aTKqiM) `0:11:53`
-	- [ ] [StatQuest: Random Forests in R](https://www.youtube.com/watch?v=6EXPYzbfLCE) `0:15:09`
 	- [ ] [The Chain Rule](https://www.youtube.com/watch?v=wl1myxrtQHQ) `0:18:23`
 	- [ ] [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8) `0:23:54`
 	- [ ] [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI) `0:10:53`
