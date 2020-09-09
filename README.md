@@ -328,6 +328,9 @@
 - [ ] [Article: You Could Have Come Up With Eigenvectors - Here's How](https://www.dhruvonmath.com/2019/02/25/eigenvectors/)
 - [ ] [Article: PageRank - How Eigenvectors Power the Algorithm Behind Google Search](https://www.dhruvonmath.com/2019/03/20/pagerank/)
 - [ ] [Article: Interactive Visualization of Why Eigenvectors Matter](https://www.dhruvonmath.com/2020/07/26/who-cares-about-eigenvectors/)
+- [ ] [Article: Cross-Entropy and KL Divergence](https://medium.com/swlh/cross-entropy-and-kl-divergence-522d9f71bd3d)
+- [ ] [Article: Why Randomness Is Information?](https://medium.com/swlh/why-randomness-is-information-f2468966b29d)
+- [ ] [Article: Basic Probability Theory](https://medium.com/swlh/probability-for-machine-learning-and-data-science-cccd4f4f1df1)
 - [ ] [Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
 - [ ] [Book: Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
 - [ ] [Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
@@ -905,6 +908,7 @@
 - [ ] [Article: 3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)
 - [ ] [Article: Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 - [ ] [Article: Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [ ] [Article: 74 Summaries of Machine Learning and NLP Research](http://www.marekrei.com/blog/74-summaries-of-machine-learning-and-nlp-research/)
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
@@ -1296,6 +1300,7 @@
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
 ### Be proficient in Python
+- [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
 - [X] [Book: A Byte of Python](https://python.swaroopch.com)
 - [X] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
 - [ ] [Book: Python 201](https://leanpub.com/python201)
