@@ -59,7 +59,7 @@
 
 ### Be able to frame a ML problem
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
-- [ ] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
+- [X] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
 - [X] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
 - [X] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
 - [X] [Book: The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
@@ -85,9 +85,9 @@
 - [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 - [X] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
 - [X] [Youtube: Making Money from AI by Predicting Sales - Jay's Intro to AI Part 2](https://youtu.be/V4-lXSs3jrk)
-- [ ] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
-- [ ] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
-- [ ] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
+- [X] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
+- [X] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
+- [X] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
 - [X] [Youtube: The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 	- [X] [How Far is Too Far? | The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8) `0:34:39`
 	- [X] [Healed through A.I. | The Age of A.I.](https://www.youtube.com/watch?v=V5aZjsWM2wo) `0:39:55`
