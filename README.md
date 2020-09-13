@@ -1114,6 +1114,9 @@
     - [X] [[PART 2] Insincere Question Classification with PyTorch](https://www.youtube.com/watch?v=m3JGRoNSdqE) `0:33:53`
     - [X] [[PART 3] Insincere Question Classification with PyTorch](https://www.youtube.com/watch?v=-bfYCBznJ6s) `0:23:49`
     - [X] [[PART 4] Insincere Question Classification with PyTorch](https://www.youtube.com/watch?v=e9CxGeQZTVA) `0:14:25`
+- [ ] [Crash Course: Linguistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW)
+    - [X] [Crash Course Linguistics Preview](https://www.youtube.com/watch?v=eDop3FDoUzk) `0:02:50`
+    - [X] [What is Linguistics?: Crash Course Linguistics #1](https://www.youtube.com/watch?v=3yLXNzDUH58) `0:11:11`
 
 
 ### Be able to model graphs and network data
