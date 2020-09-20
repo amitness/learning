@@ -110,6 +110,7 @@
 	- [X] [Rachael Tatman - Conversational A.I. and Linguistics](https://www.youtube.com/watch?v=n_CTGZSq4m0) `0:36:51`
 	- [ ] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
 	- [ ] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
+- [X] [Youtube: Accuracy as a Failure](https://youtu.be/YGuVuZpTop0)
 
 ### Understand data ethics better  
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
