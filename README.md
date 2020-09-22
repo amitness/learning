@@ -416,6 +416,7 @@
 ### Be able to structure machine learning projects
 - [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
 - [ ] [Article: Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
+- [X] [Article: Simple considerations for simple people building fancy neural networks](https://medium.com/huggingface/simple-considerations-for-simple-people-building-fancy-neural-networks-7abc3c0f0bd7)
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 - [X] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
 - [ ] [Datacamp: Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
