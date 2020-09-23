@@ -867,6 +867,7 @@
 - [ ] [Youtube: Sound play with Convolution Neural Networks](https://www.youtube.com/watch?v=GNza2ncnMfA) `0:11:57`
 - [ ] [Youtube: Convolution Neural Networks - EXPLAINED](https://www.youtube.com/watch?v=m8pOnJxOcqY) `0:19:20`
 - [ ] [Youtube: Generative Adversarial Networks - FUTURISTIC & FUN AI !](https://www.youtube.com/watch?v=O8LAi6ksC80) `0:14:20`
+- [ ] [Youtube: How Convolution Works](https://www.youtube.com/watch?v=B-M5q51U8SM&feature=youtu.be)
 
 ### Be able to implement NLP models
 - [ ] [Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
