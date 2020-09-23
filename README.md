@@ -1435,3 +1435,4 @@
 - [X] [Book: The 10X Rule](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
 - [X] [Book: The Millionaire Fastlane](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102)
 - [X] [Book: The Subtle Art of Not Giving a F\*\*k](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
+- [X] [Youtube: Why specializing early doesn't always mean career success | David Epstein](https://www.youtube.com/watch?v=B6lBtiQZSho)
