@@ -801,6 +801,7 @@
     - [ ] [Representation Learning beyond Instance Discrimination and Semantic Categorization - Stella Yu](https://www.youtube.com/watch?v=F5mt4z-w_Mk) `0:43:09`
     - [X] [Self-Supervision as a Path to a Post-Dataset Era - Alexei Alyosha Efros](https://www.youtube.com/watch?v=iTbfEXFwDJc) `0:38:06`
     - [ ] [Self-Supervision & Modularity: Cornerstones for Generalization in Embodied Agents - Deepak Pathak](https://www.youtube.com/watch?v=fUMpC_hoedA) `0:41:56`
+- [X] [Youtube: Marco Cuturi - A Primer on Optimal Transport](https://youtu.be/6iR1E6t1MMQ)
 
 ### Be able to implement computer vision models
 - [ ] [Article: What is Focal Loss and when should you use it?](https://amaarora.github.io/2020/06/29/FocalLoss.html)
