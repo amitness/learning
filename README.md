@@ -894,6 +894,7 @@
 - [ ] [Article: Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 - [ ] [Article: Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [ ] [Article: 74 Summaries of Machine Learning and NLP Research](http://www.marekrei.com/blog/74-summaries-of-machine-learning-and-nlp-research/)
+- [X] [Smart Batching Tutorial - Speed Up BERT Training](https://mccormickml.com/2020/07/29/smart-batching-tutorial/)
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
