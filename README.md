@@ -276,6 +276,7 @@
 - [ ] [Paper: Boosting Self-Supervised Learning via Knowledge Transfer](https://arxiv.org/abs/1805.00385)
 - [X] [Paper: Follow-up Question Generation](https://essay.utwente.nl/79491/1/Mandasari_MA_EEMCS.pdf)
 - [X] [Paper: The Hardware Lottery](https://arxiv.org/abs/2009.06489)
+- [X] [Paper: Question Generation via Overgenerating Transformations and Ranking](http://www.cs.cmu.edu/~mheilman/papers/heilman-smith-qg-tech-report.pdf)
 
 ### Be able to model problems mathematically
 - [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
