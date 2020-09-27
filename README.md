@@ -221,6 +221,7 @@
 
 ### Be able to experiment in notebook
 - [X] [Pluralsight: Getting Started with Jupyter Notebook and Python](https://www.pluralsight.com/courses/jupyter-notebook-python)
+- [X] [Youtube: William Horton - A Brief History of Jupyter Notebooks](https://www.youtube.com/watch?v=kFhhCOeYcGw)
 
 ### Be able to visualize data
 - [ ] [Datacamp: Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
@@ -1037,11 +1038,11 @@
   - [X] [Youtube: From Research to Production – Our Process at Rasa | Tanja Bunk](https://youtu.be/5_lRfLFjfEs?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
   - [X] [Youtube: Keynote: Perspective on the 5 Levels of Conversational AI | Alan Nichol](https://youtu.be/bAkToyQhWyo?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
 - [ ] [Youtube: RASA Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
-	- [ ] [Introducing The Algorithm Whiteboard](https://www.youtube.com/watch?v=wWNMST6t1TA) `0:01:16`
-	- [ ] [Rasa Algorithm Whiteboard - Diet Architecture 1: How it Works](https://www.youtube.com/watch?v=vWStcJDuOUk) `0:23:27`
+	- [X] [Introducing The Algorithm Whiteboard](https://www.youtube.com/watch?v=wWNMST6t1TA) `0:01:16`
+	- [] [Rasa Algorithm Whiteboard - Diet Architecture 1: How it Works](https://www.youtube.com/watch?v=vWStcJDuOUk) `0:23:27`
 	- [ ] [Rasa Algorithm Whiteboard - Diet Architecture 2: Design Decisions](https://www.youtube.com/watch?v=KUGGuJ0aTL8) `0:15:06`
 	- [ ] [Rasa Algorithm Whiteboard - Diet Architecture 3: Benchmarking](https://www.youtube.com/watch?v=oj5oPGDlep4) `0:22:34`
-	- [ ] [Rasa Algorithm Whiteboard - Embeddings 1: Just Letters](https://www.youtube.com/watch?v=mWvnlVw_LiY) `0:13:48`
+	- [X] [Rasa Algorithm Whiteboard - Embeddings 1: Just Letters](https://www.youtube.com/watch?v=mWvnlVw_LiY) `0:13:48`
 	- [ ] [Rasa Algorithm Whiteboard - Embeddings 2: CBOW and Skip Gram](https://www.youtube.com/watch?v=BWaHLmG1lak) `0:19:24`
 	- [ ] [Rasa Algorithm Whiteboard - Embeddings 3: GloVe](https://www.youtube.com/watch?v=QoUYlxl1RGI) `0:19:12`
 	- [ ] [Rasa Algorithm Whiteboard - Embeddings 4: Whatlies](https://www.youtube.com/watch?v=FwkwC7IJWO0) `0:14:03`
