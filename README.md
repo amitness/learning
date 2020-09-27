@@ -1434,6 +1434,7 @@
 - [X] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 - [X] [Book: Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 - [X] [Book: Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
+- [X] [Book: Platform: The Art and Science of Personal Branding](https://www.amazon.com/Platform-Art-Science-Personal-Branding/dp/0399581375)
 - [X] [Book: Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
 - [X] [Book: The Power of Broke](https://www.goodreads.com/book/show/25430691-the-power-of-broke)
 - [X] [Book: The 10X Rule](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603)
