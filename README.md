@@ -836,6 +836,7 @@
 - [ ] [Article: Localization and Object Detection with Deep Learning](https://theaisummer.com/Localization_and_Object_Detection/)
 - [ ] [Article: Semantic Segmentation in the era of Neural Networks](https://theaisummer.com/Semantic_Segmentation/)
 - [ ] [Article: ECCV 2020: Some Highlights](https://yassouali.github.io/ml-blog/eccv2020/)
+- [X] [Article: Looking Inside The Blackbox — How To Trick A Neural Network](https://towardsdatascience.com/peering-inside-the-blackbox-how-to-trick-a-neural-network-757c90a88a73)
 - [ ] [Book: Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
 - [ ] [Book: Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/)
 - [ ] [Coursera: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
