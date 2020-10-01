@@ -121,6 +121,7 @@
     - [ ] [Lesson 6: Algorithmic Colonialism, and Next Steps](http://ethics.fast.ai/videos/?lesson=9)
 
 ### Be able to annotate data efficiently
+- [ ] [Article: Weak Supervision for Online Discussions](https://trishalaneeraj.github.io/2020-07-05/weak-supervision)
 - [X] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
 - [X] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
 - [X] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
