@@ -732,6 +732,8 @@
     - [ ] [[PART 3] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=zFqsuXs6-Us) `0:22:24`
 
 ### Be able to apply unsupervised learning algorithms
+- [X] [Article: From Research to Production with Deep Semi-Supervised Learning](https://towardsdatascience.com/from-research-to-production-with-deep-semi-supervised-learning-7caaedc39093)
+- [X] [Article: RecSys 2020 - Takeaways and Notable Papers](https://eugeneyan.com/writing/recsys2020/)
 - [ ] [Article: Grouping data points with k-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/)
 - [ ] [Article: Soft clustering with Gaussian mixed models (EM)](https://www.jeremyjordan.me/gaussian-mixed-models/)
 - [ ] [Article: Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
