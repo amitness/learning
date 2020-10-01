@@ -58,6 +58,7 @@
 ### Be able to frame a ML problem
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
 - [X] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
+- [X] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
 - [X] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
 - [X] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
 - [X] [Book: The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
