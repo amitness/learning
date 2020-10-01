@@ -814,6 +814,7 @@
 - [X] [Youtube: Marco Cuturi - A Primer on Optimal Transport](https://youtu.be/6iR1E6t1MMQ)
 
 ### Be able to implement computer vision models
+- [X] [Article: The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 - [ ] [Article: What is Focal Loss and when should you use it?](https://amaarora.github.io/2020/06/29/FocalLoss.html)
 - [ ] [Article: Squeeze and Excitation Networks Explained with PyTorch Implementation](https://amaarora.github.io/2020/07/24/SeNet.html)
 - [ ] [Article: DenseNet Architecture Explained with PyTorch Implementation from TorchVision](https://amaarora.github.io/2020/08/02/densenets.html)
@@ -882,6 +883,10 @@
 
 ### Be able to implement NLP models
 - [ ] [Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
+- [X] [Article: Adapting Text Augmentation to Industry problems](https://gitlost-murali.github.io/blogs/nlp/augmentation/exploiting-contextual-models-for-data)
+- [X] [Article: How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
+- [X] [Article: Semantic Entailment](https://trishalaneeraj.github.io/2017-12-22/semantic-entailment)
+- [X] [Article: Feature-based Approach with BERT](https://trishalaneeraj.github.io/2020-04-04/feature-based-approach-with-bert)
 - [ ] [Article: Introduction to recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/)
 - [ ] [Article: Aspect-Based Opinion Mining (NLP with Python)](https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800)
 - [X] [Article: The Transformer Explained](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
@@ -1112,7 +1117,7 @@
 - [X] [Youtube: Self-attention step-by-step | How to get meaning from text](https://youtu.be/-9vVhYEXeyQ)
 - [X] [Youtube: Chat Bot with PyTorch](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
 - [ ] [Youtube: NLP with Friends Talks](https://www.youtube.com/playlist?list=PL0zsOCvKa2iEqmPV6WGhjuP-tsrUy102C)
-    - [ ] [NLP with Friends, Featured Friend: Tom McCoy](https://www.youtube.com/watch?v=2w1jZyLHzsc) `0:36:48`
+    - [X] [NLP with Friends, Featured Friend: Tom McCoy](https://www.youtube.com/watch?v=2w1jZyLHzsc) `0:36:48`
     - [ ] [NLP with Friends, Featured Friend: Maarten Sap](https://www.youtube.com/watch?v=1bSk00tEpaM) `0:36:11`
     - [ ] [NLP with Friends, featured friend: Nitika Mathur](https://www.youtube.com/watch?v=w4zyfZV5Q8I) `1:01:42`
     - [ ] [NLP with Friends, Featured Friend: Sabrina J Mielke](https://www.youtube.com/watch?v=4-ulM2moEWg) `1:01:28`
