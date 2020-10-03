@@ -1232,7 +1232,7 @@
 - [ ] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
 - [ ] [Article: How to properly ship and deploy your machine learning model](https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4)
 - [ ] [Luigi Patruno: ML in Production](https://mlinproduction.com/)
-    - [ ] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
+    - [X] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
     - [ ] [Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)
     - [ ] [Article: Docker for Machine Learning – Part II](https://mlinproduction.com/docker-for-ml-part-2/)
     - [ ] [Article: Docker for Machine Learning – Part III](https://mlinproduction.com/docker-for-ml-part-3/)
