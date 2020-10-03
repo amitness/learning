@@ -639,7 +639,7 @@
 - [X] [Youtube: Deep Double Descent](https://youtu.be/R29awq6jvUw)
 - [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
 
-## Be familiar with a breadth of new techniques
+### Be familiar with a breadth of new techniques
 - [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
 - [X] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
 
