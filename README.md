@@ -71,6 +71,8 @@
 - [X] [Datacamp: Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)
 - [X] [Datacamp: Machine Learning for Everyone](https://www.datacamp.com/courses/machine-learning-for-everyone)
 - [X] [Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
+- [ ] [Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)
+- [ ] [Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)
 - [X] [Datacamp: Data Science for Managers](https://www.datacamp.com/courses/data-science-for-managers)
 - [X] [Facebook: Field Guide to Machine Learning](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 - [X] [Google: Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
@@ -485,9 +487,7 @@
 - [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
-### Be familiar with a breadth of models and algorithms
-- [X] [Article: The Last 5 Years In Deep Learning](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
-- [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
+### Be familiar with fundamental ML algorithms
 - [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
 - [ ] [Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)
 - [ ] [Article: Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/)
@@ -497,83 +497,15 @@
 - [ ] [Article: Support Vector Machines](https://www.jeremyjordan.me/support-vector-machines/)
 - [ ] [Article: Random forests](https://www.jeremyjordan.me/random-forests/)
 - [ ] [Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)
-- [ ] [Article: Neural networks: activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/)
-- [ ] [Article: Neural networks: training with backpropagation](https://www.jeremyjordan.me/neural-networks-training/)
-- [ ] [Article: Gradient descent](https://www.jeremyjordan.me/gradient-descent/)
-- [ ] [Article: Setting the learning rate of your neural network](https://www.jeremyjordan.me/nn-learning-rate/)
-- [ ] [Article: Deep neural networks: preventing overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/)
-- [ ] [Article: Normalizing your data (specifically, input and batch normalization)](https://www.jeremyjordan.me/batch-normalization/)
-- [ ] [Article: Batch Normalization](https://e2eml.school/batch_normalization.html)
-- [ ] [Article: Baidu Deep Voice explained: Part 1 — the Inference Pipeline](https://blog.athelas.com/paper-1-baidus-deep-voice-675a323705df)
-- [ ] [Article: Baidu Deep Voice explained Part 2 — Training](https://blog.athelas.com/baidu-deep-voice-explained-part-2-training-810e87d20047)
 - [ ] [Article: Hacker's Guide to Fundamental Machine Learning Algorithms with Python](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)
-- [ ] [Article: Are Deep Neural Networks Dramatically Overfitted?](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)
-- [ ] [Article: Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
-- [ ] [Article: How to Explain the Prediction of a Machine Learning Model?](https://lilianweng.github.io/lil-log/2017/08/01/how-to-explain-the-prediction-of-a-machine-learning-model.html)
-- [ ] [Article: Neural Network from scratch-part 1](https://theaisummer.com/Neural_Network_from_scratch/)
-- [ ] [Article: Neural Network from scratch-part 2](https://theaisummer.com/Neural_Network_from_scratch_part2/)
-- [ ] [Article: Explain Neural Arithmetic Logic Units (NALU)](https://theaisummer.com/NALU/)
-- [ ] [Article: Predict Bitcoin price with Long sort term memory Networks (LSTM)](https://theaisummer.com/Bitcon_prediction_LSTM/)
-- [ ] [Article: Graph Neural Networks - An overview](https://theaisummer.com/Graph_Neural_Networks/)
-- [ ] [Article: Deep Learning Algorithms - The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)
-- [X] [AWS: Semantic Segmentation Explained](https://www.aws.training/learningobject/video?id=27238)
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
-- [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
-- [ ] [Book: Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning)
-- [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [X] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
-- [X] [Datacamp: Kaggle Competition](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
-- [ ] [Datacamp: Introduction to PySpark](https://www.datacamp.com/courses/introduction-to-pyspark)
-- [ ] [Datacamp: Building Recommendation Engines with PySpark](https://www.datacamp.com/courses/recommendation-engines-in-pyspark)
-- [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 1)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-1)
-- [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 2)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-2)
 - [X] [Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)
-- [ ] [Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)
-- [ ] [Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)
 - [X] [Elements of AI](https://www.elementsofai.com)
 - [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
 - [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
 - [X] [edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)
-- [X] [DeepMind: Inefficient Data Efficiency](https://www.facebook.com/wdeepvision2020/videos/893497114486588/)
-- [ ] [DeepMind: DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
-	- [ ] [DeepMind x UCL | Deep Learning Lectures | 1/12 | Intro to Machine Learning & AI](https://www.youtube.com/watch?v=7R52wiUgxZI) `1:25:17`
-	- [ ] [DeepMind x UCL | Deep Learning Lectures | 2/12 |  Neural Networks Foundations](https://www.youtube.com/watch?v=FBggC-XVF4M) `1:24:12`
-	- [ ] [DeepMind x UCL | Deep Learning Lectures | 3/12 | Convolutional Neural Networks for Image Recognition](https://www.youtube.com/watch?v=shVKhOmT0HE) `1:20:19`
-	- [ ] [DeepMind x UCL | Deep Learning Lectures | 4/12 |  Advanced Models for Computer Vision](https://www.youtube.com/watch?v=_aUq7lmMfxo) `1:33:37`
-	- [ ] [DeepMind x UCL | Deep Learning Lectures | 5/12 |  Optimization for Machine Learning](https://www.youtube.com/watch?v=kVU8zTI-Od0) `1:30:21`
-	- [ ] [DeepMind x UCL | Deep Learning Lectures | 6/12 | Sequences and Recurrent Networks](https://www.youtube.com/watch?v=87kLfzmYBy8) `1:20:27`
-	- [X] [DeepMind x UCL | Deep Learning Lectures | 7/12 |  Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=8zAP2qWAsKg) `1:32:29`
-	- [ ] [DeepMind x UCL | Deep Learning Lectures | 8/12 |  Attention and Memory in Deep Learning](https://www.youtube.com/watch?v=AIiwuClvH6k) `1:36:04`
-	- [ ] [DeepMind x UCL | Deep Learning Lectures | 9/12 |  Generative Adversarial Networks](https://www.youtube.com/watch?v=wFsI2WqUfdA) `1:42:26`
-	- [ ] [DeepMind x UCL | Deep Learning Lectures | 10/12 |  Unsupervised Representation Learning](https://www.youtube.com/watch?v=f0s-uvvXvWg) `1:44:40`
-	- [ ] [DeepMind x UCL | Deep Learning Lectures | 11/12 | Modern Latent Variable Models](https://www.youtube.com/watch?v=7Pcvdo4EJeo) `1:28:26`
-	- [ ] [DeepMind x UCL | Deep Learning Lectures | 12/12 |  Responsible Innovation](https://www.youtube.com/watch?v=MhNcWxUs-PQ) `1:02:28`
-- [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
-    - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
-    - [X] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
-    - [ ] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
-    - [ ] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
-    - [ ] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
-    - [ ] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
-    - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
-    - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
-- [ ] [Google: Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning)
-- [ ] [Book: Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
-- [ ] [Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
-- [ ] [MIT: 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/#schedule)
-	- [ ] [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk) `0:52:51`
-	- [ ] [Recurrent Neural Networks | MIT 6.S191](https://www.youtube.com/watch?v=SEnXr6v2ifU) `0:45:28`
-	- [ ] [Convolutional Neural Networks | MIT 6.S191](https://www.youtube.com/watch?v=iaSUYvmCekI) `0:37:20`
-	- [ ] [Deep Generative Modeling | MIT 6.S191](https://www.youtube.com/watch?v=rZufA635dq4) `0:40:39`
-	- [ ] [Reinforcement Learning | MIT 6.S191](https://www.youtube.com/watch?v=nZfaHIxDD5w) `0:44:11`
-	- [ ] [Deep Learning New Frontiers | MIT 6.S191](https://www.youtube.com/watch?v=tfM_DdbGTLs) `0:38:10`
-	- [ ] [Neurosymbolic AI | MIT 6.S191](https://www.youtube.com/watch?v=4PuuziOgSU4) `0:41:10`
-	- [ ] [Generalizable Autonomy for Robot Manipulation | MIT 6.S191](https://www.youtube.com/watch?v=8Kn4Gi8iSYQ) `0:47:00`
-	- [ ] [Neural Rendering | MIT 6.S191](https://www.youtube.com/watch?v=BCZ56MU-KhQ) `0:36:44`
-	- [ ] [Machine Learning for Scent | MIT 6.S191](https://www.youtube.com/watch?v=Z5Pw5eWItiw) `0:38:51`
-- [X] [Pluralsight: Understanding Algorithms for Recommendation Systems](https://www.pluralsight.com/courses/algorithms-recommendation-systems)
-- [X] [Pluralsight: Deep Learning: The Big Picture](https://www.pluralsight.com/courses/deep-learning-big-picture)
 - [ ] [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 	- [X] [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI) `0:12:45`
 	- [X] [Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw) `0:06:04`
@@ -637,10 +569,72 @@
 - [ ] [Udacity: Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 - [ ] [Udacity: Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
 - [ ] [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-- [ ] [Udacity: Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
-- [ ] [Udacity: Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
-- [ ] [Udacity: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [ ] [Udacity: Classification Models](https://www.udacity.com/course/classification-models--ud978)
+
+### Be familiar with fundamentals of deep learning
+- [X] [Article: The Last 5 Years In Deep Learning](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
+- [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
+- [ ] [Article: Neural networks: activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/)
+- [ ] [Article: Neural networks: training with backpropagation](https://www.jeremyjordan.me/neural-networks-training/)
+- [ ] [Article: Gradient descent](https://www.jeremyjordan.me/gradient-descent/)
+- [ ] [Article: Setting the learning rate of your neural network](https://www.jeremyjordan.me/nn-learning-rate/)
+- [ ] [Article: Deep neural networks: preventing overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/)
+- [ ] [Article: Normalizing your data (specifically, input and batch normalization)](https://www.jeremyjordan.me/batch-normalization/)
+- [ ] [Article: Batch Normalization](https://e2eml.school/batch_normalization.html)
+- [ ] [Article: Are Deep Neural Networks Dramatically Overfitted?](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)
+- [ ] [Article: Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+- [ ] [Article: How to Explain the Prediction of a Machine Learning Model?](https://lilianweng.github.io/lil-log/2017/08/01/how-to-explain-the-prediction-of-a-machine-learning-model.html)
+- [ ] [Article: Neural Network from scratch-part 1](https://theaisummer.com/Neural_Network_from_scratch/)
+- [ ] [Article: Neural Network from scratch-part 2](https://theaisummer.com/Neural_Network_from_scratch_part2/)
+- [ ] [Article: Deep Learning Algorithms - The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)
+- [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
+- [ ] [Book: Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning)
+- [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 1)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-1)
+- [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 2)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-2)
+- [ ] [DeepMind: DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 1/12 | Intro to Machine Learning & AI](https://www.youtube.com/watch?v=7R52wiUgxZI) `1:25:17`
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 2/12 |  Neural Networks Foundations](https://www.youtube.com/watch?v=FBggC-XVF4M) `1:24:12`
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 3/12 | Convolutional Neural Networks for Image Recognition](https://www.youtube.com/watch?v=shVKhOmT0HE) `1:20:19`
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 4/12 |  Advanced Models for Computer Vision](https://www.youtube.com/watch?v=_aUq7lmMfxo) `1:33:37`
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 5/12 |  Optimization for Machine Learning](https://www.youtube.com/watch?v=kVU8zTI-Od0) `1:30:21`
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 6/12 | Sequences and Recurrent Networks](https://www.youtube.com/watch?v=87kLfzmYBy8) `1:20:27`
+	- [X] [DeepMind x UCL | Deep Learning Lectures | 7/12 |  Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=8zAP2qWAsKg) `1:32:29`
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 8/12 |  Attention and Memory in Deep Learning](https://www.youtube.com/watch?v=AIiwuClvH6k) `1:36:04`
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 9/12 |  Generative Adversarial Networks](https://www.youtube.com/watch?v=wFsI2WqUfdA) `1:42:26`
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 10/12 |  Unsupervised Representation Learning](https://www.youtube.com/watch?v=f0s-uvvXvWg) `1:44:40`
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 11/12 | Modern Latent Variable Models](https://www.youtube.com/watch?v=7Pcvdo4EJeo) `1:28:26`
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 12/12 |  Responsible Innovation](https://www.youtube.com/watch?v=MhNcWxUs-PQ) `1:02:28`
+- [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
+    - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
+    - [X] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
+    - [ ] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
+    - [ ] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
+    - [ ] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
+    - [ ] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
+    - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
+    - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
+- [ ] [Book: Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
+- [ ] [Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
+- [ ] [MIT: 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/#schedule)
+	- [ ] [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk) `0:52:51`
+	- [ ] [Recurrent Neural Networks | MIT 6.S191](https://www.youtube.com/watch?v=SEnXr6v2ifU) `0:45:28`
+	- [ ] [Convolutional Neural Networks | MIT 6.S191](https://www.youtube.com/watch?v=iaSUYvmCekI) `0:37:20`
+	- [ ] [Deep Generative Modeling | MIT 6.S191](https://www.youtube.com/watch?v=rZufA635dq4) `0:40:39`
+	- [ ] [Reinforcement Learning | MIT 6.S191](https://www.youtube.com/watch?v=nZfaHIxDD5w) `0:44:11`
+	- [ ] [Deep Learning New Frontiers | MIT 6.S191](https://www.youtube.com/watch?v=tfM_DdbGTLs) `0:38:10`
+	- [ ] [Neurosymbolic AI | MIT 6.S191](https://www.youtube.com/watch?v=4PuuziOgSU4) `0:41:10`
+	- [ ] [Generalizable Autonomy for Robot Manipulation | MIT 6.S191](https://www.youtube.com/watch?v=8Kn4Gi8iSYQ) `0:47:00`
+	- [ ] [Neural Rendering | MIT 6.S191](https://www.youtube.com/watch?v=BCZ56MU-KhQ) `0:36:44`
+	- [ ] [Machine Learning for Scent | MIT 6.S191](https://www.youtube.com/watch?v=Z5Pw5eWItiw) `0:38:51`
+- [X] [Pluralsight: Deep Learning: The Big Picture](https://www.pluralsight.com/courses/deep-learning-big-picture)
+- [ ] [Udacity: Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+
+## Be familiar with breath of algorithms and models
+- [ ] [Article: Baidu Deep Voice explained: Part 1 — the Inference Pipeline](https://blog.athelas.com/paper-1-baidus-deep-voice-675a323705df)
+- [ ] [Article: Baidu Deep Voice explained Part 2 — Training](https://blog.athelas.com/baidu-deep-voice-explained-part-2-training-810e87d20047)
+- [ ] [Article: Neural Arithmetic Logic Units (NALU)](https://theaisummer.com/NALU/)
+- [ ] [Article: Graph Neural Networks - An overview](https://theaisummer.com/Graph_Neural_Networks/)
 - [X] [Youtube: DETR: End-to-End Object Detection with Transformers (Paper Explained)](https://www.youtube.com/watch?v=T35ba_VXkMY)
 - [X] [Youtube: Sebastian Ruder: Neural Semi-supervised Learning under Domain Shift](https://www.youtube.com/watch?v=tpAr5-Y4JxU)
 - [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
@@ -762,8 +756,8 @@
 	- [ ] [L12 Representation Learning for Reinforcement Learning --- CS294-158 UC Berkeley Spring 2020](https://www.youtube.com/watch?v=YqvhDPd1UEw) `2:01:56`
 - [ ] [Datacamp: Customer Segmentation in Python](https://www.datacamp.com/courses/customer-segmentation-in-python)
 - [X] [Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
+- [X] [DeepMind: Inefficient Data Efficiency](https://www.facebook.com/wdeepvision2020/videos/893497114486588/)
 - [ ] [Google: Clustering](https://developers.google.com/machine-learning/clustering)
-- [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
 - [X] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 - [X] [Wandb: Unsupervised Visual Representation Learning with SwAV](https://app.wandb.ai/authors/swav-tf/reports/Unsupervised-Visual-Representation-Learning-with-SwAV--VmlldzoyMjg3Mzg)
 - [X] [Youtube: BYOL: Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning (Paper Explained)](https://www.youtube.com/watch?v=YPfUiOMYOEE&feature=youtu.be)
@@ -832,6 +826,7 @@
 - [ ] [Article: Semantic Segmentation in the era of Neural Networks](https://theaisummer.com/Semantic_Segmentation/)
 - [ ] [Article: ECCV 2020: Some Highlights](https://yassouali.github.io/ml-blog/eccv2020/)
 - [X] [Article: Looking Inside The Blackbox — How To Trick A Neural Network](https://towardsdatascience.com/peering-inside-the-blackbox-how-to-trick-a-neural-network-757c90a88a73)
+- [X] [AWS: Semantic Segmentation Explained](https://www.aws.training/learningobject/video?id=27238)
 - [ ] [Book: Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
 - [ ] [Book: Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/)
 - [ ] [Coursera: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
@@ -870,6 +865,13 @@
 - [ ] [Youtube: Convolution Neural Networks - EXPLAINED](https://www.youtube.com/watch?v=m8pOnJxOcqY) `0:19:20`
 - [ ] [Youtube: Generative Adversarial Networks - FUTURISTIC & FUN AI !](https://www.youtube.com/watch?v=O8LAi6ksC80) `0:14:20`
 - [ ] [Youtube: How Convolution Works](https://www.youtube.com/watch?v=B-M5q51U8SM&feature=youtu.be)
+
+### Be familiar with Recommendation Systems
+- [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
+- [X] [Pluralsight: Understanding Algorithms for Recommendation Systems](https://www.pluralsight.com/courses/algorithms-recommendation-systems)
+- [X] [Youtube: Learning to Rank: From Theory to Production - Malvina Josephidou & Diego Ceccarelli, Bloomberg](https://youtu.be/eMuepJpjUjI)
+- [X] [Youtube: Learning "Learning to Rank"](https://youtu.be/7teudGhdnqo)
+- [X] [Youtube: Learning to rank search results - Byron Voorbach & Jettro Coenradie [DevCon 2018]](https://youtu.be/TG7aNLgzIcM)
 
 ### Be able to implement NLP models
 - [ ] [Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
@@ -1072,9 +1074,6 @@
 - [X] [Youtube: NLP Masterclass | Modeling Fallacies in NLP](https://youtu.be/f2m6Mon0VE8?t=223)
 - [X] [Youtube: What is GPT-3? Showcase, possibilities, and implications](https://youtu.be/5fqxPOaaqi0)
 - [X] [Youtube: TextAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
-- [X] [Youtube: Learning to Rank: From Theory to Production - Malvina Josephidou & Diego Ceccarelli, Bloomberg](https://youtu.be/eMuepJpjUjI)
-- [X] [Youtube: Learning "Learning to Rank"](https://youtu.be/7teudGhdnqo)
-- [X] [Youtube: Learning to rank search results - Byron Voorbach & Jettro Coenradie [DevCon 2018]](https://youtu.be/TG7aNLgzIcM)
 - [X] [Article: How the Embedding Layers in BERT Were Implemented](https://medium.com%2F@medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a)
 - [X] [Youtube: Easy Data Augmentation for Text Classification](https://www.youtube.com/watch?v=3w92peJtYNQ&feature=youtu.be)
 - [X] [Youtube: Webinar: Special NLP Session with Hugging Face](https://www.youtube.com/watch?v=SUqi_E_Lyjs)
@@ -1122,7 +1121,6 @@
     - [X] [What is Linguistics?: Crash Course Linguistics #1](https://www.youtube.com/watch?v=3yLXNzDUH58) `0:11:11`
 - [X] [Talk: Recent Advances in Language Pretraining and Generation](https://docs.google.com/presentation/d/1_a232oAGzI6yRFoZTD_cwRTY8ryL8VIud13s0oNDQhA/mobilepresent?slide=id.g7ec93c1fdb_0_2269)
 - [X] [Youtube: Talks # 3: Lorenzo Ampil - Introduction to T5 for Sentiment Span Extraction](https://www.youtube.com/watch?v=4LYw_UIdd4A)
-
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
@@ -1420,6 +1418,7 @@
 ### Be familiar with the hiring pipeline
 - [ ] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
 - [ ] [Datacamp: Preparing for Coding Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-coding-interview-questions-in-python)
+- [X] [Datacamp: Kaggle Competition](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
 - [X] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
 - [X] [Udacity: Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)
 - [X] [Udacity: Data Science Interview Prep](https://www.udacity.com/course/data-science-interview-prep--ud944)
