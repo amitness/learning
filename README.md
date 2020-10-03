@@ -423,6 +423,10 @@
 - [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
 - [ ] [Article: Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
 - [X] [Article: Simple considerations for simple people building fancy neural networks](https://medium.com/huggingface/simple-considerations-for-simple-people-building-fancy-neural-networks-7abc3c0f0bd7)
+- [ ] [Article: Logging and Debugging in Machine Learning - How to use Python debugger and the logging module to find errors in your AI application](https://theaisummer.com/logging-debugging/)
+- [ ] [Article: How to Unit Test Deep Learning: Tests in TensorFlow, mocking and test coverage](https://theaisummer.com/unit-test-deep-learning/)
+- [ ] [Article: Best practices to write Deep Learning code: Project structure, OOP, Type checking and documentation](https://theaisummer.com/best-practices-deep-learning-code/)
+- [ ] [Article: Deep Learning in Production: Laptop set up and system design](https://theaisummer.com/deep-learning-production/)
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 - [X] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
 - [ ] [Datacamp: Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
@@ -641,21 +645,6 @@
 - [X] [Youtube: Sebastian Ruder: Neural Semi-supervised Learning under Domain Shift](https://www.youtube.com/watch?v=tpAr5-Y4JxU)
 - [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
 - [X] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
-- [ ] [Youtube: AI fabricates music in a celebrity's voice (JukeboxAI)](https://www.youtube.com/watch?v=7IEEKvcudrA) `0:15:54`
-- [ ] [Youtube: Activation Functions - EXPLAINED!](https://www.youtube.com/watch?v=s-V7gKrsels) `0:10:05`
-- [ ] [Youtube: Batch Normalization - EXPLAINED!](https://www.youtube.com/watch?v=DtEq44FTPM4) `0:08:48`
-- [ ] [Youtube: Optimizers - EXPLAINED!](https://www.youtube.com/watch?v=mdKjMPmcWjY) `0:07:22`
-- [ ] [Youtube: Loss Functions - EXPLAINED!](https://www.youtube.com/watch?v=QBbC3Cjsnjg) `0:08:30`
-- [ ] [Youtube: Boosting - EXPLAINED!](https://www.youtube.com/watch?v=MIPkK5ZAsms) `0:17:31`
-- [ ] [Youtube: Gradient Descent - THE MATH YOU SHOULD KNOW](https://www.youtube.com/watch?v=-p1ldISb90Q) `0:20:08`
-- [ ] [Youtube: Logistic Regression - VISUALIZED!](https://www.youtube.com/watch?v=slBI5YuVUTM) `0:18:31`
-- [ ] [Youtube: Linear Regression and Multiple Regression](https://www.youtube.com/watch?v=K_EH2abOp00) `0:12:54`
-- [ ] [Youtube: Precision, Recall & F-Measure](https://www.youtube.com/watch?v=j-EB6RqqjGI) `0:13:42`
-- [ ] [Youtube: Bootstrapping, Bagging and Random Forests](https://www.youtube.com/watch?v=3R0AW-vrPEw) `0:21:45`
-- [ ] [Youtube: Deep Mind's AlphaGo Zero - EXPLAINED](https://www.youtube.com/watch?v=NJBLx29JuHs) `0:11:13`
-- [ ] [Youtube: Curiosity in AI](https://www.youtube.com/watch?v=xPCCyiw8M2U) `0:06:16`
-- [ ] [Youtube: DropBlock - A BETTER DROPOUT for Neural Networks](https://www.youtube.com/watch?v=GcvGxXePI2g) `0:07:45`
-- [ ] [Youtube: Neural Voice Cloning](https://www.youtube.com/watch?v=gVehTbi6Ipc) `0:19:56`
 - [ ] [Youtube: Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 	- [ ] [Neural Networks from Scratch - P.1 Intro and Neuron Code](https://www.youtube.com/watch?v=Wo5dMEP_BbI) `0:16:59`
 	- [ ] [Neural Networks from Scratch - P.2 Coding a Layer](https://www.youtube.com/watch?v=lGLto9Xd7bU) `0:15:06`
@@ -1218,17 +1207,33 @@
 - [X] [Article: Sparse Neural Networks (2/N): Understanding GPU Performance.](https://medium.com/huggingface/sparse-neural-networks-2-n-gpu-performance-b8bc9ce950fc)
 - [X] [Article: Block Sparse Matrices for Smaller and Faster Language Models](https://huggingface.co/blog/pytorch_block_sparse)
 
+### Be able to write unit tests
+- [X] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml)
+- [X] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
+- [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
+- [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+- [ ] [Thoughtbot: Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
+- [ ] [Treehouse: Python Testing](https://teamtreehouse.com/library/python-testing)
+- [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
+- [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
+- [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+
+### Be able to develop REST APIs
+- [ ] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
+- [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
+- [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+- [ ] [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+- [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+- [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
+- [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
+
 ### Be able to deploy model to production
 - [X] [Acloudguru: AWS Certified Machine Learning - Specialty](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
 - [X] [Acloudguru: AWS Certified Developer - Associate](https://acloud.guru/learn/aws-certified-developer-associate-june-2018)
 - [X] [Acloudguru: AWS Certification Preparation Guide](https://acloud.guru/learn/aws-certification-preparation)
 - [X] [AWS: Exam Readiness: AWS Certified Developer – Associate](https://www.aws.training/training/schedule?courseId=18953)
 - [X] [AWS: Thirty Serverless Architectures in 30 Minutes](https://www.youtube.com/watch?v=xJcm9V2jagc)
-- [ ] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
-- [ ] [Article: Logging and Debugging in Machine Learning - How to use Python debugger and the logging module to find errors in your AI application](https://theaisummer.com/logging-debugging/)
-- [ ] [Article: How to Unit Test Deep Learning: Tests in TensorFlow, mocking and test coverage](https://theaisummer.com/unit-test-deep-learning/)
-- [ ] [Article: Best practices to write Deep Learning code: Project structure, OOP, Type checking and documentation](https://theaisummer.com/best-practices-deep-learning-code/)
-- [ ] [Article: Deep Learning in Production: Laptop set up and system design](https://theaisummer.com/deep-learning-production/)
 - [ ] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
 - [ ] [Article: How to properly ship and deploy your machine learning model](https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4)
 - [ ] [Luigi Patruno: ML in Production](https://mlinproduction.com/)
@@ -1268,7 +1273,6 @@
 - [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
 - [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [X] [Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)
-- [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
 - [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
 - [X] [Pluralsight: Docker and Kubernetes: The Big Picture](https://www.pluralsight.com/courses/docker-kubernetes-big-picture)
 - [X] [Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)
@@ -1277,19 +1281,12 @@
 - [X] [Pluralsight: Building Applications Using Elastic Beanstalk](https://www.pluralsight.com/courses/elastic-beanstalk-building-applications)
 - [ ] [Servers for Hackers Series](https://serversforhackers.com/)
 - [ ] [The Hacker's Guide to Scaling Python](https://scaling-python.com/)
-- [ ] [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
 - [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [ ] [Udacity: Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
 - [ ] [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [ ] [Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 - [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
 - [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
 - [X] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
-- [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-- [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
-- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
-- [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
-- [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
 - [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 - [X] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 - [X] [Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
@@ -1306,19 +1303,7 @@
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
 - [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 - [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
-- [ ] [Youtube: A/B Testing - Simply Explained](https://www.youtube.com/watch?v=pRTAiluUP-8) `0:02:45`
 - [ ] [Youtube: Hypothesis testing with Applications in Data Science](https://www.youtube.com/watch?v=kx-pcQAPvoc) `0:10:33`
-
-### Be able to write unit tests
-- [X] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml)
-- [X] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
-- [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
-- [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-- [ ] [Thoughtbot: Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
-- [ ] [Treehouse: Python Testing](https://teamtreehouse.com/library/python-testing)
-- [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
-- [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
-- [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
 ### Be proficient in Python
 - [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
@@ -1357,7 +1342,6 @@
 - [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
 - [ ] [Udacity: Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 - [ ] [Udacity: Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
-- [ ] [Udacity: What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
 
 ### Be familiar with compiled languages
 - [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
@@ -1406,9 +1390,6 @@
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
 ### Be able to apply proper software engineering process
-- [ ] [Launch School: Agile Planning](https://launchschool.com/books/agile_planning)
-- [X] [Pluralsight: Product Owner Fundamentals](https://www.pluralsight.com/courses/product-owner-fundamentals-foundations)
-- [X] [Pluralsight: Scrum Master Fundamentals - Foundations](https://www.pluralsight.com/courses/scrum-master-fundamentals-foundations)
 - [X] [Pluralsight: Security Awareness: Basic Concepts and Terminology](https://app.pluralsight.com/library/courses/security-awareness-basic-concepts-terminology)
 - [X] [Pluralsight: Secure Software Development](https://www.pluralsight.com/courses/software-development-secure)
 - [X] [Pluralsight: Clean Architecture: Patterns, Practices, and Principles](https://www.pluralsight.com/courses/clean-architecture-patterns-practices-principles)
