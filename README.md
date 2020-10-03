@@ -933,7 +933,7 @@
 	- [ ] [CMU Neural Nets for NLP 2020 (2): Language Modeling, Efficiency/Training Tricks](https://www.youtube.com/watch?v=aTxfVIzyN4o) `1:18:31`
 	- [ ] [CMU Neural Nets for NLP 2020 (3): Convolutional Neural Networks for Text](https://www.youtube.com/watch?v=UirRyzNq3nM) `0:54:45`
 	- [ ] [CMU Neural Nets for NLP 2020 (4): Recurrent Neural Networks](https://www.youtube.com/watch?v=wD-mB2clN_0) `1:11:28`
-	- [ ] [CMU Neural Nets for NLP 2020 (5): Efficiency Tricks for Neural Nets](https://www.youtube.com/watch?v=eokkF3qv8_U) `1:05:37`
+	- [X] [CMU Neural Nets for NLP 2020 (5): Efficiency Tricks for Neural Nets](https://www.youtube.com/watch?v=eokkF3qv8_U) `1:05:37`
 	- [ ] [CMU Neural Nets for NLP 2020 (6): Conditioned Generation](https://www.youtube.com/watch?v=Og3_LngQE_4) `1:07:13`
 	- [ ] [CMU Neural Nets for NLP 2020 (7): Attention](https://www.youtube.com/watch?v=jDaJYOmF2iQ) `1:05:26`
 	- [ ] [CMU Neural Nets for NLP 2020 (8): Distributional Semantics and Word Vectors](https://www.youtube.com/watch?v=RRaU7pz2eT4) `1:10:45`
