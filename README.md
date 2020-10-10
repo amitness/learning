@@ -817,6 +817,7 @@
 - [X] [Youtube: Sebastian Ruder: Neural Semi-supervised Learning under Domain Shift](https://www.youtube.com/watch?v=tpAr5-Y4JxU)
 
 ### Be able to implement NLP models
+- [ ] [Article: Under the Hood of RNNs](https://wandb.ai/authors/rnn-viz/reports/Under-the-Hood-of-RNNs--VmlldzoyNTQ4MjY)
 - [ ] [Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
 - [X] [Article: Adapting Text Augmentation to Industry problems](https://gitlost-murali.github.io/blogs/nlp/augmentation/exploiting-contextual-models-for-data)
 - [X] [Article: How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
@@ -1189,6 +1190,7 @@
 - [ ] [Article: Evaluating a machine learning model](https://www.jeremyjordan.me/evaluating-a-machine-learning-model/)
 - [ ] [Article: Hyperparameter tuning for machine learning models](https://www.jeremyjordan.me/hyperparameter-tuning/)
 - [ ] [Article: Hacker's Guide to Hyperparameter Tuning](https://www.curiousily.com/posts/hackers-guide-to-hyperparameter-tuning/)
+- [ ] [Article: Environment and Distribution Shift](http://d2l.ai/chapter_multilayer-perceptrons/environment.html#types-of-distribution-shift)
 - [ ] [Coursera: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 - [X] [Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)
 - [X] [Datacamp: Hyperparameter Tuning in Python](https://www.datacamp.com/courses/hyperparameter-tuning-in-python)
@@ -1214,6 +1216,7 @@
 - [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 - [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+- [X] [Youtube: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList | AISC](https://www.youtube.com/watch?v=A0od6RosVSA)
 
 ### Be able to develop REST APIs
 - [ ] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
