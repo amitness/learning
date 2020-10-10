@@ -1064,6 +1064,7 @@
     - [X] [What is Linguistics?: Crash Course Linguistics #1](https://www.youtube.com/watch?v=3yLXNzDUH58) `0:11:11`
 - [X] [Talk: Recent Advances in Language Pretraining and Generation](https://docs.google.com/presentation/d/1_a232oAGzI6yRFoZTD_cwRTY8ryL8VIud13s0oNDQhA/mobilepresent?slide=id.g7ec93c1fdb_0_2269)
 - [X] [Youtube: Talks # 3: Lorenzo Ampil - Introduction to T5 for Sentiment Span Extraction](https://www.youtube.com/watch?v=4LYw_UIdd4A)
+- [X] [Frontiers in ML: Learning from Limited Labeled Data: Challenges and Opportunities for NLP](https://www.youtube.com/watch?v=MD2fYFt5_5E)
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
