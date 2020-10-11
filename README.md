@@ -610,7 +610,7 @@
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
     - [X] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
     - [X] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
-    - [ ] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
+    - [X] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
     - [ ] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
     - [ ] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
     - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
