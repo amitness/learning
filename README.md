@@ -110,6 +110,7 @@
 	- [X] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
 	- [X] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
 - [X] [Youtube: Accuracy as a Failure](https://youtu.be/YGuVuZpTop0)
+- [X] [Youtube: Using Intent Data to Optimize the Self-Solve Experience](https://lucidworks.com/post/using-intent-data-to-optimize-the-self-solve-experience/)
 
 ### Understand data ethics better  
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
