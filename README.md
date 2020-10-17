@@ -1227,6 +1227,8 @@
 
 ### Be able to optimize models for production
 - [X] [Article: A Survey of Methods for Model Compression in NLP](https://www.pragmatic.ml/a-survey-of-methods-for-model-compression-in-nlp/)
+- [X] [Article: How to deploy PyTorch Lightning models to production](https://www.cortex.dev/post/deploy-pytorch-lightning-models)
+- [X] [Article: Why you should convert your NLP pipelines to ONNX](https://towardsdatascience.com/why-you-should-convert-your-nlp-pipelines-to-onnx-2c4a3433325f)
 - [ ] [Article: Neural Network Pruning](https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html)
 - [ ] [Article: FasterAI](https://nathanhubens.github.io/posts/deep%20learning/2020/08/17/FasterAI.html)
 - [X] [Article: Is the future of Neural Networks Sparse? An Introduction (1/N)](https://medium.com/huggingface/is-the-future-of-neural-networks-sparse-an-introduction-1-n-d03923ecbd70)
