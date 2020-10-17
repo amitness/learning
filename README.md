@@ -59,6 +59,10 @@
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
 - [X] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
 - [X] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
+- [X] [Article: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+- [ ] [Article: A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
+- [ ] [Article: How to deliver on Machine Learning projects](https://mlpowered.com/posts/how-to-deliver-on-machine-learning-projects/)
+- [ ] [Article: Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
 - [X] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
 - [X] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
 - [X] [Book: The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
@@ -429,7 +433,9 @@
 
 ### Be able to structure machine learning projects
 - [X] [Article: I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
+- [ ] [Article: Always start with a stupid model, no exceptions.](https://mlpowered.com/posts/start-with-a-stupid-model/)
 - [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
+- [ ] [Article: Most impactful AI trends of 2018: the rise of ML Engineering](https://mlpowered.com/posts/2019-ml-trends/)
 - [ ] [Article: Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
 - [X] [Article: Simple considerations for simple people building fancy neural networks](https://medium.com/huggingface/simple-considerations-for-simple-people-building-fancy-neural-networks-7abc3c0f0bd7)
 - [ ] [Article: Logging and Debugging in Machine Learning - How to use Python debugger and the logging module to find errors in your AI application](https://theaisummer.com/logging-debugging/)
@@ -837,11 +843,19 @@
 - [X] [Article: Transformer-based Encoder-Decoder Models](https://colab.research.google.com/github/patrickvonplaten/notebooks/blob/master/Encoder_Decoder_Model.ipynb)
 - [X] [Article: Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
 - [X] [Article: Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- [X] [Article: Text Data Cleanup - Dynamic Embedding Visualisation](https://www.ntentional.com/nlp/visualization/bokeh/clustering/2020/06/29/Text-Cleaning-With-Clustering.html)
 - [X] [Article: The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
 - [X] [Article: Intuition & Use-Cases of Embeddings in NLP & beyond](https://jalammar.github.io/skipgram-recommender-talk/)
 - [X] [Article: The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 - [X] [Article: The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
-- [ ] [Article: The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [ ] [Article: How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
+- [ ] [Article: How To Create Data Products That Are Magical Using Sequence-to-Sequence Models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
+- [ ] [Article: State-of-the-Art Language Models in 2020](https://jinglescode.github.io/2020/05/28/state-of-the-art-language-models-2020/)
+- [X] [Article: UNDERSTANDING WORD2VEC THROUGH CULTURAL DIMENSIONS](https://cameronraymond.me/blog/word2vec-cultural-dims/)
+- [X] [Article: How to solve 90% of NLP problems: a step-by-step guide](https://mlpowered.com/posts/how-to-solve-90-nlp/)
+- [ ] [Article: The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [ ] [Article: How to Apply BERT to Arabic and Other Languages](https://mccormickml.com/2020/10/05/multilingual-bert/)
+- [X] [Article: The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [ ] [Article: Under the Hood of RNNs](https://wandb.ai/authors/rnn-viz/reports/Under-the-Hood-of-RNNs--VmlldzoyNTQ4MjY)
 - [ ] [Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
 - [X] [Article: Adapting Text Augmentation to Industry problems](https://gitlost-murali.github.io/blogs/nlp/augmentation/exploiting-contextual-models-for-data)
@@ -1088,9 +1102,10 @@
 - [ ] [Crash Course: Linguistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW)
     - [X] [Crash Course Linguistics Preview](https://www.youtube.com/watch?v=eDop3FDoUzk) `0:02:50`
     - [X] [What is Linguistics?: Crash Course Linguistics #1](https://www.youtube.com/watch?v=3yLXNzDUH58) `0:11:11`
-- [X] [Talk: Recent Advances in Language Pretraining and Generation](https://docs.google.com/presentation/d/1_a232oAGzI6yRFoZTD_cwRTY8ryL8VIud13s0oNDQhA/mobilepresent?slide=id.g7ec93c1fdb_0_2269)
+- [X] [Youtube: Recent Advances in Language Pretraining and Generation](https://docs.google.com/presentation/d/1_a232oAGzI6yRFoZTD_cwRTY8ryL8VIud13s0oNDQhA/mobilepresent?slide=id.g7ec93c1fdb_0_2269)
 - [X] [Youtube: Talks # 3: Lorenzo Ampil - Introduction to T5 for Sentiment Span Extraction](https://www.youtube.com/watch?v=4LYw_UIdd4A)
-- [X] [Frontiers in ML: Learning from Limited Labeled Data: Challenges and Opportunities for NLP](https://www.youtube.com/watch?v=MD2fYFt5_5E)
+- [X] [Youtube: Frontiers in ML: Learning from Limited Labeled Data: Challenges and Opportunities for NLP](https://www.youtube.com/watch?v=MD2fYFt5_5E)
+- [X] [Youtube: DeepLearning.ai NLP talk: Chris Manning](https://www.youtube.com/watch?v=H343JRrncfc&feature=youtu.be)
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
@@ -1102,6 +1117,8 @@
 ### Be able to implement computer vision models
 - [X] [Article: The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 - [ ] [Article: What is Focal Loss and when should you use it?](https://amaarora.github.io/2020/06/29/FocalLoss.html)
+- [ ] [Article: Breaking Linear Classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/)
+- [ ] [Article: Building an image search service from scratch](https://mlpowered.com/posts/image-search/)
 - [ ] [Article: Squeeze and Excitation Networks Explained with PyTorch Implementation](https://amaarora.github.io/2020/07/24/SeNet.html)
 - [ ] [Article: DenseNet Architecture Explained with PyTorch Implementation from TorchVision](https://amaarora.github.io/2020/08/02/densenets.html)
 - [ ] [Article: EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://amaarora.github.io/2020/08/13/efficientnet.html)
@@ -1212,6 +1229,7 @@
 	- [X] [Deep Q-Network Training Code - Reinforcement Learning Code Project](https://www.youtube.com/watch?v=ewRw996uevM) `0:19:46`
 
 ### Be able to optimize performance metric
+- [X] [A recipe for training neural networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [ ] [Article: Evaluating a machine learning model](https://www.jeremyjordan.me/evaluating-a-machine-learning-model/)
 - [ ] [Article: Hyperparameter tuning for machine learning models](https://www.jeremyjordan.me/hyperparameter-tuning/)
 - [ ] [Article: Hacker's Guide to Hyperparameter Tuning](https://www.curiousily.com/posts/hackers-guide-to-hyperparameter-tuning/)
@@ -1268,7 +1286,9 @@
 - [X] [AWS: Exam Readiness: AWS Certified Developer – Associate](https://www.aws.training/training/schedule?courseId=18953)
 - [X] [AWS: Thirty Serverless Architectures in 30 Minutes](https://www.youtube.com/watch?v=xJcm9V2jagc)
 - [X] [Article: Getting machine learning to production](http://veekaybee.github.io/2020/06/09/ml-in-prod/)
+- [X] [Article: A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 - [ ] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
+- [ ] [Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [ ] [Article: How to properly ship and deploy your machine learning model](https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4)
 - [ ] [Luigi Patruno: ML in Production](https://mlinproduction.com/)
     - [X] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
