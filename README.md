@@ -293,6 +293,7 @@
 - [X] [Paper: The Hardware Lottery](https://arxiv.org/abs/2009.06489)
 - [X] [Paper: Question Generation via Overgenerating Transformations and Ranking](http://www.cs.cmu.edu/~mheilman/papers/heilman-smith-qg-tech-report.pdf)
 - [X] [Paper: Good Question! Statistical Ranking for Question Generation](https://www.aclweb.org/anthology/N10-1086.pdf)
+- [ ] [Paper: Towards ML Engineering: A Brief History Of TensorFlow Extended (TFX)](https://arxiv.org/pdf/2010.02013v2.pdf)
 - [ ] [Paper: Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf)
 
 ### Be able to model problems mathematically
@@ -512,6 +513,7 @@
 - [ ] [Article: Random forests](https://www.jeremyjordan.me/random-forests/)
 - [ ] [Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)
 - [ ] [Article: Hacker's Guide to Fundamental Machine Learning Algorithms with Python](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)
+- [ ] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
 - [X] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
@@ -601,6 +603,7 @@
 - [ ] [Article: Neural Network from scratch-part 1](https://theaisummer.com/Neural_Network_from_scratch/)
 - [ ] [Article: Neural Network from scratch-part 2](https://theaisummer.com/Neural_Network_from_scratch_part2/)
 - [ ] [Article: Deep Learning Algorithms - The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)
+- [ ] [Article: In-layer normalization techniques for training very deep neural networks](https://theaisummer.com/normalization/)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
 - [ ] [Book: Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning)
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
@@ -726,10 +729,10 @@
   - [X] [PyTorch Dropout, Batch size and interactive debugging](https://youtu.be/vD5iQkdqMqU)
 - [X] [Youtube: SimCLR with PyTorch Lightning](https://www.youtube.com/playlist?list=PLaMu-SDt_RB4k8VXiB3hOdsn0Y3GoXo1k)
 - [ ] [Youtube: PyTorch Performance Tuning Guide](https://youtu.be/9mS1fIYj1So) `26:41:00`
-- [ ] [Youtube: Skin Cancer Detection with PyTorch](https://www.youtube.com/playlist?list=PLUH_l3HbfEW0wP7ZOKUxmlnG6sntCQpHX)
-    - [ ] [[PART 1] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=6LdS9n_L7u4) `0:10:21`
-    - [ ] [[PART 2] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=wspdT8hRCWs) `0:21:57`
-    - [ ] [[PART 3] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=zFqsuXs6-Us) `0:22:24`
+- [X] [Youtube: Skin Cancer Detection with PyTorch](https://www.youtube.com/playlist?list=PLUH_l3HbfEW0wP7ZOKUxmlnG6sntCQpHX)
+    - [X] [[PART 1] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=6LdS9n_L7u4) `0:10:21`
+    - [X] [[PART 2] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=wspdT8hRCWs) `0:21:57`
+    - [X] [[PART 3] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=zFqsuXs6-Us) `0:22:24`
 - [X] [Youtube: Learn with Lightning](https://www.pytorchlightning.ai/tutorials)
 
 ### Be able to implement models using cloud services
@@ -848,6 +851,7 @@
 - [X] [Article: Intuition & Use-Cases of Embeddings in NLP & beyond](https://jalammar.github.io/skipgram-recommender-talk/)
 - [X] [Article: The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 - [X] [Article: The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
+- [ ] [Article: Character level language model RNN](https://arig23498.github.io/char-level-language-model)
 - [ ] [Article: How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
 - [ ] [Article: How To Create Data Products That Are Magical Using Sequence-to-Sequence Models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
 - [ ] [Article: State-of-the-Art Language Models in 2020](https://jinglescode.github.io/2020/05/28/state-of-the-art-language-models-2020/)
@@ -889,6 +893,9 @@
 - [X] [Article: GPU Benchmarks for Fine-Tuning BERT](https://mccormickml.com/2020/07/21/gpu-benchmarks-for-fine-tuning-bert/)
 - [X] [Article: Existing Tools for Named Entity Recognition](https://mccormickml.com/2020/05/19/existing-ner-tools/)
 - [X] [Article: Domain-Specific BERT Models](https://mccormickml.com/2020/06/22/domain-specific-bert-tutorial/)
+- [ ] [Article: Search (Pt 1) — A Gentle Introduction](https://towardsdatascience.com/search-pt-1-a-gentle-introduction-335656c0f814)
+- [ ] [Article: Search (Pt 2) — A Semantic Horse Race](https://towardsdatascience.com/search-pt-2-semantic-horse-race-5128cae7ce8d)
+- [ ] [Article: Search (Pt 3) — Elastic Transformers](https://towardsdatascience.com/elastic-transformers-ae011e8f5b88)
 - [ ] [Article: How to Implement a Beam Search Decoder for Natural Language Processing](https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/)
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Book: Embeddings in Natural Language Processing](http://josecamachocollados.com/book_embNLP_draft.pdf)
@@ -1106,6 +1113,9 @@
 - [X] [Youtube: Talks # 3: Lorenzo Ampil - Introduction to T5 for Sentiment Span Extraction](https://www.youtube.com/watch?v=4LYw_UIdd4A)
 - [X] [Youtube: Frontiers in ML: Learning from Limited Labeled Data: Challenges and Opportunities for NLP](https://www.youtube.com/watch?v=MD2fYFt5_5E)
 - [X] [Youtube: DeepLearning.ai NLP talk: Chris Manning](https://www.youtube.com/watch?v=H343JRrncfc&feature=youtu.be)
+- [X] [Youtube: DeepLearning.ai NLP talk: Oren Etzioni](https://www.youtube.com/watch?v=PiF2Aln-L3w&feature=youtu.be)
+- [X] [Youtube: DeepLearning.ai NLP talk: Quoc Le](https://www.youtube.com/watch?v=KGI7K_ehHsU)
+- [X] [Youtube: What can MIR learn from transfer learning in NLP?](https://www.youtube.com/watch?v=9ufD9Who00Y&t=13m26s)
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
@@ -1117,6 +1127,7 @@
 ### Be able to implement computer vision models
 - [X] [Article: The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 - [ ] [Article: What is Focal Loss and when should you use it?](https://amaarora.github.io/2020/06/29/FocalLoss.html)
+- [ ] [Article: Part 1: Deep Representations, a way towards neural style transfer](https://wandb.ai/authors/nerual_style_transfer/reports/Part-1-Deep-Representations-a-way-towards-neural-style-transfer--VmlldzoyMjQzNDY)
 - [ ] [Article: Breaking Linear Classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/)
 - [ ] [Article: Building an image search service from scratch](https://mlpowered.com/posts/image-search/)
 - [ ] [Article: Squeeze and Excitation Networks Explained with PyTorch Implementation](https://amaarora.github.io/2020/07/24/SeNet.html)
