@@ -295,6 +295,10 @@
 - [X] [Paper: Good Question! Statistical Ranking for Question Generation](https://www.aclweb.org/anthology/N10-1086.pdf)
 - [ ] [Paper: Towards ML Engineering: A Brief History Of TensorFlow Extended (TFX)](https://arxiv.org/pdf/2010.02013v2.pdf)
 - [ ] [Paper: Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf)
+- [X] [Paper: Neural Text Generation: A Practical Guide](https://cs.stanford.edu/~zxie/textgen.pdf)
+- [ ] [Paper: Pest Management In Cotton Farms: An AI-System Case Study from the Global South](https://dl.acm.org/doi/10.1145/3394486.3403363)
+- [ ] [Paper: BERT2DNN: BERT Distillation with Massive Unlabeled Data for Online E-Commerce Search](https://arxiv.org/abs/2010.10442)
+- [ ] [Paper: On the surprising similarities between supervised and self-supervised models](https://arxiv.org/abs/2010.08377)
 
 ### Be able to model problems mathematically
 - [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
