@@ -1129,6 +1129,7 @@
 - [X] [Youtube: DeepLearning.ai NLP talk: Oren Etzioni](https://www.youtube.com/watch?v=PiF2Aln-L3w&feature=youtu.be)
 - [X] [Youtube: DeepLearning.ai NLP talk: Quoc Le](https://www.youtube.com/watch?v=KGI7K_ehHsU)
 - [X] [Youtube: What can MIR learn from transfer learning in NLP?](https://www.youtube.com/watch?v=9ufD9Who00Y&t=13m26s)
+- [X] [Youtube: The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM)
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
