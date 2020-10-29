@@ -1140,6 +1140,8 @@
 
 ### Be able to implement computer vision models
 - [X] [Article: The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+- [X] [Article: How to extract Key-Value pairs from Documents using deep learning](https://nanonets.com/blog/key-value-pair-extraction-from-documents-using-ocr-and-deep-learning/)
+- [ ] [Article: Essential Pil (Pillow) Image Tutorial (for Machine Learning People)](https://neptune.ai/blog/pil-image-tutorial-for-machine-learning)
 - [ ] [Article: What is Focal Loss and when should you use it?](https://amaarora.github.io/2020/06/29/FocalLoss.html)
 - [ ] [Article: Part 1: Deep Representations, a way towards neural style transfer](https://wandb.ai/authors/nerual_style_transfer/reports/Part-1-Deep-Representations-a-way-towards-neural-style-transfer--VmlldzoyMjQzNDY)
 - [ ] [Article: Breaking Linear Classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/)
@@ -1293,6 +1295,7 @@
 ### Be able to develop REST APIs
 - [ ] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
 - [X] [Article: Deploy BERT for Sentiment Analysis as REST API using PyTorch, Transformers by Hugging Face and FastAPI](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
+- [ ] [Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)
 - [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
 - [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 - [ ] [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
@@ -1393,6 +1396,7 @@
 ### Be proficient in Python
 - [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
 - [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
+- [X] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
 - [X] [Book: A Byte of Python](https://python.swaroopch.com)
 - [X] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
 - [ ] [Book: Python 201](https://leanpub.com/python201)
