@@ -501,6 +501,7 @@
 - [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
 - [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 - [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
+- [ ] [Learn Git Branching](https://learngitbranching.js.org)
 - [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
 - [X] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 - [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
