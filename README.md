@@ -742,6 +742,7 @@
     - [X] [[PART 2] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=wspdT8hRCWs) `0:21:57`
     - [X] [[PART 3] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=zFqsuXs6-Us) `0:22:24`
 - [X] [Youtube: Learn with Lightning](https://www.pytorchlightning.ai/tutorials)
+- [X] [Youtube: PyTorch Tutorial - RNN & LSTM & GRU - Recurrent Neural Nets](https://www.youtube.com/watch?v=0_PgWWmauHk) `00:15:51`
 
 ### Be able to implement models using cloud services
 - [X] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
