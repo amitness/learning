@@ -492,6 +492,8 @@
 - [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-utorialtorialp-a-local-python-environment-windows)
 - [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 - [X] [Youtube: Weights and Biases Tutorial](https://www.youtube.com/playlist?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
+- [X] [Youtube: Integrate Weights & Biases with PyTorch](https://www.youtube.com/watch?v=G7GH0SeNBMA&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=2)
+- [X] [Youtube: Log (Almost) Anything with Weights & Biases](https://www.youtube.com/watch?v=96MxRvx15Ts&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=3)
 - [ ] [Youtube: MLOps Tutorials](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
     - [ ] [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://youtu.be/9BgIDqAzfuA?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `17:44:00`
     - [ ] [MLOps Tutorial #2: When data is too big for Git](https://youtu.be/kZKAuShWF0s?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `10:51:00`
