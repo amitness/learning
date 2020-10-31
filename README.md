@@ -496,6 +496,7 @@
     - [ ] [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://youtu.be/9BgIDqAzfuA?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `17:44:00`
     - [ ] [MLOps Tutorial #2: When data is too big for Git](https://youtu.be/kZKAuShWF0s?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `10:51:00`
     - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://youtu.be/xPncjKH6SPk?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `14:12:00`
+- [X] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
 
 ### Be able to utilize version control
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
