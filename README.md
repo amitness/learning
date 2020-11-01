@@ -813,6 +813,7 @@
 	- [ ] [L12 Representation Learning for Reinforcement Learning --- CS294-158 UC Berkeley Spring 2020](https://www.youtube.com/watch?v=YqvhDPd1UEw) `2:01:56`
 - [ ] [Datacamp: Customer Segmentation in Python](https://www.datacamp.com/courses/customer-segmentation-in-python)
 - [X] [Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)
+- [X] [Deck: Demystifying Self-Supervised Learning for Visual Recognition](https://docs.google.com/presentation/d/14CjZoX1V--XrIKAlpCFpIsHPjtV_P-OxObRdR5vVljY/edit#slide=id.g94fcc32373_0_58)
 - [X] [DeepMind: Inefficient Data Efficiency](https://www.facebook.com/wdeepvision2020/videos/893497114486588/)
 - [ ] [Google: Clustering](https://developers.google.com/machine-learning/clustering)
 - [X] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
