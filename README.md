@@ -441,6 +441,7 @@
 
 ### Be able to structure machine learning projects
 - [X] [Article: I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
+- [X] [Article: pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a)
 - [ ] [Article: Always start with a stupid model, no exceptions.](https://mlpowered.com/posts/start-with-a-stupid-model/)
 - [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
 - [ ] [Article: Most impactful AI trends of 2018: the rise of ML Engineering](https://mlpowered.com/posts/2019-ml-trends/)
