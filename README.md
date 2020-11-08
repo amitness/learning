@@ -503,6 +503,7 @@
     - [ ] [MLOps Tutorial #2: When data is too big for Git](https://youtu.be/kZKAuShWF0s?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `10:51:00`
     - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://youtu.be/xPncjKH6SPk?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `14:12:00`
 - [X] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
+- [ ] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)
 
 ### Be able to utilize version control
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
