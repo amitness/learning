@@ -752,6 +752,20 @@
     - [X] [[PART 3] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=zFqsuXs6-Us) `0:22:24`
 - [X] [Youtube: Learn with Lightning](https://www.pytorchlightning.ai/tutorials)
 - [X] [Youtube: PyTorch Tutorial - RNN & LSTM & GRU - Recurrent Neural Nets](https://www.youtube.com/watch?v=0_PgWWmauHk) `00:15:51`
+- [X] [Youtube: Pytorch Zero to All](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
+    - [X] [PyTorch Lecture 01: Overview](https://www.youtube.com/watch?v=SKq-pmkekTk) `0:10:18`
+    - [X] [PyTorch Lecture 02: Linear Model](https://www.youtube.com/watch?v=l-Fe9Ekxxj4) `0:12:52`
+    - [X] [PyTorch Lecture 03: Gradient Descent](https://www.youtube.com/watch?v=b4Vyma9wPHo) `0:08:24`
+    - [X] [PyTorch Lecture 04: Back-propagation and Autograd](https://www.youtube.com/watch?v=ma2KXWblllc) `0:15:25`
+    - [X] [PyTorch Lecture 05: Linear Regression in the PyTorch way](https://www.youtube.com/watch?v=113b7O3mabY) `0:11:50`
+    - [X] [PyTorch Lecture 06: Logistic Regression](https://www.youtube.com/watch?v=GAKTBQn7yKo) `0:10:41`
+    - [X] [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M) `0:10:37`
+    - [X] [PyTorch Lecture 08: PyTorch DataLoader](https://www.youtube.com/watch?v=zN49HdDxHi8) `0:06:41`
+    - [X] [PyTorch Lecture 09: Softmax Classifier](https://www.youtube.com/watch?v=lvNdl7yg4Pg) `0:18:47`
+    - [X] [PyTorch Lecture 10: Basic CNN](https://www.youtube.com/watch?v=LgFNRIFxuUo) `0:15:52`
+    - [X] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE) `0:12:58`
+    - [X] [PyTorch Lecture 12: RNN1 - Basics](https://www.youtube.com/watch?v=ogZi5oIo4fI) `0:28:47`
+    - [X] [PyTorch Lecture 13: RNN 2 - Classification](https://www.youtube.com/watch?v=1vGOQAel2yU) `0:17:22`
 
 ### Be able to implement models using cloud services
 - [X] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
