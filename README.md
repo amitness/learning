@@ -1063,10 +1063,10 @@
     - [ ] [Backtrace for Computing Alignments](https://www.youtube.com/watch?v=MnE10oJ2jX4) `0:05:56`
     - [ ] [Weighted Minimum Edit Distance](https://www.youtube.com/watch?v=9G-EwniAaPA) `0:02:48`
     - [ ] [Minimum Edit Distance in Computational Biology](https://www.youtube.com/watch?v=96pL6xTP3W8) `0:09:30`
-    - [ ] [Introduction to N grams](https://www.youtube.com/watch?v=Saq1QagC8KY) `0:08:41`
-    - [ ] [Estimating N gram Probabilities](https://www.youtube.com/watch?v=paCMAZ-lKq8) `0:09:38`
-    - [ ] [Evaluation and Perplexity](https://www.youtube.com/watch?v=b6nwdc_fGfA) `0:11:09`
-    - [ ] [Generalization and Zeros](https://www.youtube.com/watch?v=6NeUDr7YDiw) `0:05:15`
+    - [X] [Introduction to N grams](https://www.youtube.com/watch?v=Saq1QagC8KY) `0:08:41`
+    - [X] [Estimating N gram Probabilities](https://www.youtube.com/watch?v=paCMAZ-lKq8) `0:09:38`
+    - [X] [Evaluation and Perplexity](https://www.youtube.com/watch?v=b6nwdc_fGfA) `0:11:09`
+    - [X] [Generalization and Zeros](https://www.youtube.com/watch?v=6NeUDr7YDiw) `0:05:15`
     - [ ] [Smoothing Add One](https://www.youtube.com/watch?v=ZbHFLgBWgdQ) `0:06:31`
     - [ ] [Interpolation](https://www.youtube.com/watch?v=naNezonMA7k) `0:10:25`
     - [ ] [Good Turing Smoothing](https://www.youtube.com/watch?v=fhvDgKBZa1U) `0:15:35`
