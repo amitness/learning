@@ -135,6 +135,7 @@
 - [ ] [Datacamp: Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)
 
 ### Be able to annotate data efficiently
+- [X] [Article: Create A Synthetic Image Dataset — The “What”, The “Why” and The “How”](https://towardsdatascience.com/create-a-synthetic-image-dataset-the-what-the-why-and-the-how-f820e6b6f718)
 - [ ] [Article: Weak Supervision for Online Discussions](https://trishalaneeraj.github.io/2020-07-05/weak-supervision)
 - [X] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
 - [X] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
@@ -149,6 +150,7 @@
 ### Be able to manipulate data with Pandas
 - [X] [Article: Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
 - [X] [Article: A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
+- [ ] [Article: Comprehensive Guide to Grouping and Aggregating with Pandas](https://pbpython.com/groupby-agg.html)
 - [X] [Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
 - [X] [Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)
 - [X] [Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
