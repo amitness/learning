@@ -1102,9 +1102,9 @@
     - [X] [Estimating N gram Probabilities](https://www.youtube.com/watch?v=paCMAZ-lKq8) `0:09:38`
     - [X] [Evaluation and Perplexity](https://www.youtube.com/watch?v=b6nwdc_fGfA) `0:11:09`
     - [X] [Generalization and Zeros](https://www.youtube.com/watch?v=6NeUDr7YDiw) `0:05:15`
-    - [ ] [Smoothing Add One](https://www.youtube.com/watch?v=ZbHFLgBWgdQ) `0:06:31`
-    - [ ] [Interpolation](https://www.youtube.com/watch?v=naNezonMA7k) `0:10:25`
-    - [ ] [Good Turing Smoothing](https://www.youtube.com/watch?v=fhvDgKBZa1U) `0:15:35`
+    - [X] [Smoothing Add One](https://www.youtube.com/watch?v=ZbHFLgBWgdQ) `0:06:31`
+    - [X] [Interpolation](https://www.youtube.com/watch?v=naNezonMA7k) `0:10:25`
+    - [X] [Good Turing Smoothing](https://www.youtube.com/watch?v=fhvDgKBZa1U) `0:15:35`
     - [ ] [Kneser Ney Smoothing](https://www.youtube.com/watch?v=eNLUo3AIvcQ) `0:08:59`
     - [ ] [The Spelling Correction Task](https://www.youtube.com/watch?v=iYFqYL9RsRs) `0:05:40`
     - [ ] [The Noisy Channel Model of Spelling](https://www.youtube.com/watch?v=q6BFerSaUEA) `0:19:31`
