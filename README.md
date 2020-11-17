@@ -1575,6 +1575,12 @@
 - [ ] [Youtube: Human-Centric Machine Learning Infrastructure @Netflix](https://www.youtube.com/watch?v=XV5VGddmP24&feature=youtu.be)
 - [ ] [Youtube: Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)
 - [ ] [Youtube: OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.youtube.com/watch?v=hBMHohkRgAA)
+- [ ] [Youtube: Applied ML in Production](https://www.youtube.com/playlist?list=PLqy_sIcckLC2jrxQhyqWDhL_9Uwxz8UFq)
+    - [X] [Objective · Applied ML in Production](https://www.youtube.com/watch?v=_sYrVHGRqPo) `0:02:38`
+    - [X] [Solution · Applied ML in Production](https://www.youtube.com/watch?v=Gi1VlFV8e_k) `0:08:53`
+    - [X] [Evaluation · Applied ML in Production](https://www.youtube.com/watch?v=AwajdDVR_C4) `0:04:02`
+    - [X] [Iteration · Applied ML in Production](https://www.youtube.com/watch?v=Bit1IUVWrkY) `0:04:35`
+    - [X] [Annotation · Applied ML in Production](https://www.youtube.com/watch?v=Kj_5ZO6nsfk) `0:14:34`
 
 ### Be able to perform A/B testing
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
