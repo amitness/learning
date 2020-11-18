@@ -203,6 +203,7 @@
 ### Be able to use the command line
 - [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+- [X] [Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)
 - [ ] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
 - [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
 - [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
