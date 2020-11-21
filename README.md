@@ -1282,7 +1282,7 @@
 	- [X] [David Dodson: spaCy in the News: Quartz's NLP pipeline (spaCy IRL 2019)](https://www.youtube.com/watch?v=azrVX8JksMU) `0:20:56`
 	- [X] [Matthew Honnibal & Ines Montani: spaCy and Explosion: past, present & future (spaCy IRL 2019)](https://www.youtube.com/watch?v=Jk9y17lvltY) `0:54:13`
 - [ ] [Youtube: The Future of Natural Language Processing](https://youtu.be/G5lmya6eKtc)
-- [ ] [Youtube: Sentiment Analysis: Key Milestones, Challenges and New Directions](https://www.youtube.com/watch?v=YAqjf7to-lU)
+- [X] [Youtube: Sentiment Analysis: Key Milestones, Challenges and New Directions](https://www.youtube.com/watch?v=YAqjf7to-lU)
 - [ ] [Youtube: Simple and Efficient Deep Learning for Natural Language Processing, with Moshe Wasserblat, Intel AI](https://www.youtube.com/watch?v=Bgr684dPJ6U)
 - [X] [Youtube: Why not solve biological problems with a Transformer? BERTology meets Biology](https://www.youtube.com/watch?v=pFf4PltQ9LY)
 - [ ] [Youtube: Introduction to NLP](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)
