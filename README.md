@@ -356,6 +356,7 @@
 - [ ] [Article: Why Randomness Is Information?](https://medium.com/swlh/why-randomness-is-information-f2468966b29d)
 - [ ] [Article: Basic Probability Theory](https://medium.com/swlh/probability-for-machine-learning-and-data-science-cccd4f4f1df1)
 - [ ] [Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
+- [X] [Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
 - [ ] [Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
 - [ ] [Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 - [ ] [Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
