@@ -514,6 +514,13 @@
     - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://youtu.be/xPncjKH6SPk?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `14:12:00`
 - [X] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
 - [ ] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)
+- [ ] [Youtube: MLSys Seminars Fall 2020](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+    - [ ] [Stanford MLSys Seminar Episode 0: ML + Systems](https://www.youtube.com/watch?v=OEiNnfdxBRE) `0:11:49`
+    - [ ] [Stanford MLSys Seminar Episode 1: Marco Tulio Ribeiro](https://www.youtube.com/watch?v=VqiTtdY58Ts) `1:00:38`
+    - [ ] [Stanford MLSys Seminar Episode 2: Matei Zaharia](https://www.youtube.com/watch?v=nCQ9WqXPIS4) `0:59:44`
+    - [ ] [Stanford MLSys Seminar Episode 3: Virginia Smith](https://www.youtube.com/watch?v=laCyJICLyWg) `1:00:55`
+    - [ ] [Stanford MLSys Seminar Episode 4: Alex Ratner](https://www.youtube.com/watch?v=pDVV4zKNqIE) `1:13:34`
+    - [ ] [Stanford MLSys Seminar Episode 5: Chip Huyen](https://www.youtube.com/watch?v=c_AUuTuPA5k) `1:06:44`
 
 ### Be able to utilize version control
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
