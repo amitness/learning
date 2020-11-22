@@ -1327,6 +1327,26 @@
 - [X] [Youtube: The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM)
 - [X] [Youtube: spaCy v3.0: Bringing State-of-the-art NLP from Prototype to Production](https://globalai.live/october-sessions-natural-language-processing/keynote-2/) `00:22:40`
 - [X] [Youtube: Conversational AI with Transformers and Rule-Based Systems](https://www.youtube.com/watch?v=_-rCUnPBlME) `1:53:24`
+- [ ] [Talk: High Performance Natural Language Processing](https://slideslive.com/38940826)
+- [ ] [Youtube: Research Paper Walkthrough](https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc)
+    - [ ] [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings | Research Paper Walkthrough](https://www.youtube.com/watch?v=ykClwtoLER8) `0:21:23`
+    - [ ] [Leveraging BERT for Extractive Text Summarization on Lectures | Research Paper Walkthrough](https://www.youtube.com/watch?v=JU6eSLsp6vI) `0:20:10`
+    - [ ] [Data Augmentation Techniques for Text Classification in NLP | Research Paper Walkthrough](https://www.youtube.com/watch?v=-1unNLkwImw) `0:14:33`
+    - [ ] [CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery | Research Paper Walkthrough](https://www.youtube.com/watch?v=AxMSd4EPVVc) `0:23:47`
+    - [ ] [Data Augmentation using Pre-trained Transformer Model (BERT, GPT2, etc) | Research Paper Walkthrough](https://www.youtube.com/watch?v=9O9scQb4sNo) `0:17:43`
+    - [ ] [A Supervised Approach to Extractive Summarisation of Scientific Papers | Research Paper Walkthrough](https://www.youtube.com/watch?v=73uWfopdjoc) `0:19:01`
+    - [ ] [BLEURT: Learning Robust Metrics for Text Generation | Research Paper Walkthrough](https://www.youtube.com/watch?v=9lWxwfMKAdM) `0:13:38`
+    - [ ] [DeepWalk: Online Learning of Social Representations | ML with Graphs | Research Paper Walkthrough](https://www.youtube.com/watch?v=-uJL_ANy1jc) `0:17:44`
+    - [ ] [LSBert: A Simple Framework for Lexical Simplification | Research Paper Walkthrough](https://www.youtube.com/watch?v=uhnKsGDyhEg) `0:20:27`
+    - [ ] [SpanBERT: Improving Pre-training by Representing and Predicting Spans | Research Paper Walkthrough](https://www.youtube.com/watch?v=QUP3rMrA1mk) `0:14:21`
+    - [ ] [Text Summarization of COVID-19 Medical Articles using BERT and GPT-2 | Research Paper Walkthrough](https://www.youtube.com/watch?v=kC5kP1dPAzc) `0:21:52`
+    - [ ] [Extractive & Abstractive Summarization with Transformer Language Models | Research Paper Walkthrough](https://www.youtube.com/watch?v=2IzXW3Ypks0) `0:16:58`
+    - [ ] [Unsupervised Multi-Document Summarization using Neural Document Model | Research Paper Walkthrough](https://www.youtube.com/watch?v=qOoAlI5hpFk) `0:15:11`
+    - [ ] [SummPip: Multi-Document Summarization with Sentence Graph Compression | Research Paper Walkthrough](https://www.youtube.com/watch?v=1jwUOMQVCo4) `0:16:54`
+    - [ ] [Combining BERT with Static Word Embedding for Categorizing Social Media | Research Paper Walkthrough](https://www.youtube.com/watch?v=VqlA_ALWQdM) `0:13:51`
+    - [ ] [Reformulating Unsupervised Style Transfer as Paraphrase Generation | Research Paper Walkthrough](https://www.youtube.com/watch?v=cjnk3PJljDs) `0:19:41`
+    - [ ] [PEGASUS: Pre-training with Gap-Sentences for Abstractive Summarization | Research Paper Walkthrough](https://www.youtube.com/watch?v=QY8oZxS0txs) `0:15:04`
+    - [ ] [Evaluation of Text Generation: A Survey | Human-Centric Evaluations | Research Paper Walkthrough](https://www.youtube.com/watch?v=-CIlz-5um7U) `0:15:54`
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
