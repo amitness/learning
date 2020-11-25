@@ -61,6 +61,7 @@
 - [X] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
 - [X] [Article: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 - [X] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
+- [X] [Article: Highlights from ICML 2020](https://lewtun.github.io/blog/research/conference/2020/07/31/icml2020.html)
 - [ ] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
 - [ ] [Article: A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
 - [ ] [Article: How to deliver on Machine Learning projects](https://mlpowered.com/posts/how-to-deliver-on-machine-learning-projects/)
@@ -1336,7 +1337,7 @@
 - [X] [Youtube: The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM)
 - [X] [Youtube: spaCy v3.0: Bringing State-of-the-art NLP from Prototype to Production](https://globalai.live/october-sessions-natural-language-processing/keynote-2/) `00:22:40`
 - [X] [Youtube: Conversational AI with Transformers and Rule-Based Systems](https://www.youtube.com/watch?v=_-rCUnPBlME) `1:53:24`
-- [ ] [Talk: High Performance Natural Language Processing](https://slideslive.com/38940826)
+- [X] [Talk: High Performance Natural Language Processing](https://slideslive.com/38940826)
 - [ ] [Talk: EmoTag1200: Understanding the Association between Emojis and Emotions](https://slideslive.com/38939357/emotag1200-understanding-the-association-between-emojis-and-emotions)
 - [ ] [Youtube: Research Paper Walkthrough](https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc)
     - [ ] [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings | Research Paper Walkthrough](https://www.youtube.com/watch?v=ykClwtoLER8) `0:21:23`
