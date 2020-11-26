@@ -772,6 +772,7 @@
   - [X] [From PyTorch to PyTorch Lightning](https://youtu.be/DbESHcCoWbM?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
   - [X] [Lightning Data Modules](https://youtu.be/L---MBeSXFw)
   - [X] [PyTorch Dropout, Batch size and interactive debugging](https://youtu.be/vD5iQkdqMqU)
+  - [X] [Episode 4: Implementing a PyTorch Trainer: PyTorch Lightning Trainer and callbacks under-the-hood](https://www.youtube.com/watch?v=tgp56S2eGFE)
 - [X] [Youtube: SimCLR with PyTorch Lightning](https://www.youtube.com/playlist?list=PLaMu-SDt_RB4k8VXiB3hOdsn0Y3GoXo1k)
 - [ ] [Youtube: PyTorch Performance Tuning Guide](https://youtu.be/9mS1fIYj1So) `26:41:00`
 - [X] [Youtube: Skin Cancer Detection with PyTorch](https://www.youtube.com/playlist?list=PLUH_l3HbfEW0wP7ZOKUxmlnG6sntCQpHX)
