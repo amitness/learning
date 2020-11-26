@@ -204,6 +204,7 @@
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
 ### Be able to use the command line
+- [X] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
 - [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
 - [X] [Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)
@@ -1655,6 +1656,8 @@
 - [ ] [Book: Real Python](https://www.goodreads.com/book/show/20750754-real-python)
 - [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
 - [ ] [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
+- [X] [Calmcode: logging](https://calmcode.io/logging/introduction.html)
+- [X] [Calmcode: tqdm](https://calmcode.io/tqdm/making-a-progress-bar.html)
 - [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
 - [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 - [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
