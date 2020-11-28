@@ -1072,9 +1072,9 @@
 - [X] [Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)
 - [ ] [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 	- [X] [Lecture 1  – Course Overview | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=tZ_Jrc_nRJY) `1:12:59`
-	- [ ] [Lecture 2  – Word Vectors 1 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=IYMYI9AJpQs) `1:17:10`
-	- [ ] [Lecture 3  – Word Vectors 2 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=nH4rn3X8i0c) `1:16:52`
-	- [ ] [Lecture 4  – Word Vectors 3 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=pip8h9vjTHY) `0:38:20`
+	- [X] [Lecture 2  – Word Vectors 1 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=IYMYI9AJpQs) `1:17:10`
+	- [X] [Lecture 3  – Word Vectors 2 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=nH4rn3X8i0c) `1:16:52`
+	- [X] [Lecture 4  – Word Vectors 3 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=pip8h9vjTHY) `0:38:20`
 	- [X] [Lecture 5 – Sentiment Analysis 1 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=O1Xh3H1uEYY) `1:10:44`
 	- [X] [Lecture 6 – Sentiment Analysis 2 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=6-4pJt1M18s) `1:03:23`
 	- [X] [Lecture 7 – Relation Extraction | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=pO3Jsr31s_Q) `1:19:04`
