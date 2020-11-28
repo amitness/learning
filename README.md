@@ -929,6 +929,7 @@
 - [X] [Article: The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)
 - [X] [Article: Long Short-Term Memory: From Zero to Hero with PyTorch](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/)
 - [X] [Article: Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp)
+- [X] [Article: Google mT5 multilingual text-to-text transformer: A Brief Paper Analysis](https://medium.com/ai-in-plain-english/google-mt5-multilingual-text-to-text-transformer-a-brief-paper-analysis-30591a3cb7d5)
 - [X] [Article: Attention? An Other Perspective!: Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
 - [ ] [Article: Attention? An Other Perspective!: Part 2](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part2/)
 - [ ] [Article: Attention? An Other Perspective!: Part 3](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part3/)
@@ -1074,11 +1075,11 @@
 	- [ ] [Lecture 2  – Word Vectors 1 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=IYMYI9AJpQs) `1:17:10`
 	- [ ] [Lecture 3  – Word Vectors 2 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=nH4rn3X8i0c) `1:16:52`
 	- [ ] [Lecture 4  – Word Vectors 3 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=pip8h9vjTHY) `0:38:20`
-	- [ ] [Lecture 5 – Sentiment Analysis 1 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=O1Xh3H1uEYY) `1:10:44`
-	- [ ] [Lecture 6 – Sentiment Analysis 2 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=6-4pJt1M18s) `1:03:23`
-	- [ ] [Lecture 7 – Relation Extraction | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=pO3Jsr31s_Q) `1:19:04`
-	- [ ] [Lecture 8 – NLI 1 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=M_VPUF9ResU) `1:15:02`
-	- [ ] [Lecture 9 – NLI 2 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=JXtH_ABQFX0) `1:15:35`
+	- [X] [Lecture 5 – Sentiment Analysis 1 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=O1Xh3H1uEYY) `1:10:44`
+	- [X] [Lecture 6 – Sentiment Analysis 2 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=6-4pJt1M18s) `1:03:23`
+	- [X] [Lecture 7 – Relation Extraction | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=pO3Jsr31s_Q) `1:19:04`
+	- [X] [Lecture 8 – NLI 1 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=M_VPUF9ResU) `1:15:02`
+	- [X] [Lecture 9 – NLI 2 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=JXtH_ABQFX0) `1:15:35`
 	- [ ] [Lecture 10 – Grounding | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=7b2_3dDTKMc) `1:23:15`
 	- [ ] [Lecture 11 – Semantic Parsing | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=C5bdflsg7rs) `1:07:05`
 	- [X] [Lecture 12 – Evaluation Methods | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=3UGti9Ju5j8) `1:18:32`
@@ -1092,7 +1093,7 @@
 	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 4 – Backpropagation](https://www.youtube.com/watch?v=yLYHDSv-288) `1:22:15`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 5 – Dependency Parsing](https://www.youtube.com/watch?v=nC9_RfjYwqA) `1:20:22`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 6 – Language Models and RNNs](https://www.youtube.com/watch?v=iWea12EAu6U) `1:08:25`
-	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 7 – Vanishing Gradients, Fancy RNNs](https://www.youtube.com/watch?v=QEw0qEa0E50) `1:13:23`
+	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 7 – Vanishing Gradients, Fancy RNNs](https://www.youtube.com/watch?v=QEw0qEa0E50) `1:13:23`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 8 – Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=XXtpJxZBa2c) `1:16:56`
 	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 9 – Practical Tips for Projects](https://www.youtube.com/watch?v=fyqm8fRDgl0) `1:22:39`
 	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 10 – Question Answering](https://www.youtube.com/watch?v=yIdF-17HwSk) `1:21:01`
@@ -1658,6 +1659,7 @@
 - [ ] [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
 - [X] [Calmcode: logging](https://calmcode.io/logging/introduction.html)
 - [X] [Calmcode: tqdm](https://calmcode.io/tqdm/making-a-progress-bar.html)
+- [X] [Calmcode: virtualenv](https://calmcode.io/virtualenv/intro.html)
 - [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
 - [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 - [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
