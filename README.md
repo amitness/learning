@@ -1095,8 +1095,8 @@
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 6 – Language Models and RNNs](https://www.youtube.com/watch?v=iWea12EAu6U) `1:08:25`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 7 – Vanishing Gradients, Fancy RNNs](https://www.youtube.com/watch?v=QEw0qEa0E50) `1:13:23`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 8 – Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=XXtpJxZBa2c) `1:16:56`
-	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 9 – Practical Tips for Projects](https://www.youtube.com/watch?v=fyqm8fRDgl0) `1:22:39`
-	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 10 – Question Answering](https://www.youtube.com/watch?v=yIdF-17HwSk) `1:21:01`
+	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 9 – Practical Tips for Projects](https://www.youtube.com/watch?v=fyqm8fRDgl0) `1:22:39`
+	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 10 – Question Answering](https://www.youtube.com/watch?v=yIdF-17HwSk) `1:21:01`
 	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 11 – Convolutional Networks for NLP](https://www.youtube.com/watch?v=EAJoRA0KX7I) `1:20:18`
 	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 12 – Subword Models](https://www.youtube.com/watch?v=9oTHFx0Gg3Q) `1:15:30`
 	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 13 – Contextual Word Embeddings](https://www.youtube.com/watch?v=S-CspeZ8FHc) `1:20:18`
