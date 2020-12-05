@@ -796,6 +796,7 @@
     - [X] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE) `0:12:58`
     - [X] [PyTorch Lecture 12: RNN1 - Basics](https://www.youtube.com/watch?v=ogZi5oIo4fI) `0:28:47`
     - [X] [PyTorch Lecture 13: RNN 2 - Classification](https://www.youtube.com/watch?v=1vGOQAel2yU) `0:17:22`
+- [X] [PyTorch Developer Day 2020 | Full Livestream](https://www.youtube.com/watch?v=jaPVoObpdO0)
 
 ### Be able to implement models using cloud services
 - [X] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
@@ -1105,7 +1106,7 @@
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 15 – Natural Language Generation](https://www.youtube.com/watch?v=4uG1NMKNWCU) `1:19:37`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 16 – Coreference Resolution](https://www.youtube.com/watch?v=i19m4GzBhfc) `1:19:20`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 17 – Multitask Learning](https://www.youtube.com/watch?v=M8dsZsEtEsg) `1:11:54`
-	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 18 – Constituency Parsing, TreeRNNs](https://www.youtube.com/watch?v=6Z4A3RSf-HY) `1:20:37`
+	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 18 – Constituency Parsing, TreeRNNs](https://www.youtube.com/watch?v=6Z4A3RSf-HY) `1:20:37`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 19 – Bias in AI](https://www.youtube.com/watch?v=XR8YSRcuVLE) `0:56:03`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 20 – Future of NLP + Deep Learning](https://www.youtube.com/watch?v=3wWZBGN-iX8) `1:19:15`
 - [ ] [Stanford: Natural Language Processing | Dan Jurafsky, Christopher Manning](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
