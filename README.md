@@ -1090,11 +1090,11 @@
 	- [X] [Lecture 13 – Evaluation Metrics | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=YygGzfkhtJc) `1:11:32`
 	- [X] [Lecture 14 – Contextual Vectors | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=lzBB7xoZ3Q8) `1:14:33`
 	- [X] [Lecture 15 – Presenting Your Work | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=WXLb4h2A724) `1:15:11`
-- [ ] [Stanford CS224N: Stanford CS224N: NLP with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+- [X] [Stanford CS224N: Stanford CS224N: NLP with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 1 – Introduction and Word Vectors](https://www.youtube.com/watch?v=8rXD5-xhemo) `1:21:52`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 2 – Word Vectors and Word Senses](https://www.youtube.com/watch?v=kEMJRjEdNzM) `1:20:43`
-	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 3 – Neural Networks](https://www.youtube.com/watch?v=8CWyBNX6eDo) `1:18:50`
-	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 4 – Backpropagation](https://www.youtube.com/watch?v=yLYHDSv-288) `1:22:15`
+	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 3 – Neural Networks](https://www.youtube.com/watch?v=8CWyBNX6eDo) `1:18:50`
+	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 4 – Backpropagation](https://www.youtube.com/watch?v=yLYHDSv-288) `1:22:15`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 5 – Dependency Parsing](https://www.youtube.com/watch?v=nC9_RfjYwqA) `1:20:22`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 6 – Language Models and RNNs](https://www.youtube.com/watch?v=iWea12EAu6U) `1:08:25`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 7 – Vanishing Gradients, Fancy RNNs](https://www.youtube.com/watch?v=QEw0qEa0E50) `1:13:23`
