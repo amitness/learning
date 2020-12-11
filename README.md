@@ -1117,10 +1117,10 @@
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 19 – Bias in AI](https://www.youtube.com/watch?v=XR8YSRcuVLE) `0:56:03`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 20 – Future of NLP + Deep Learning](https://www.youtube.com/watch?v=3wWZBGN-iX8) `1:19:15`
 - [ ] [Stanford: Natural Language Processing | Dan Jurafsky, Christopher Manning](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
-    - [ ] [Course Introduction](https://www.youtube.com/watch?v=3Dt_yh1mf_U) `0:12:52`
-    - [ ] [Regular Expressions](https://www.youtube.com/watch?v=zfH2ADGtzJQ) `0:11:25`
-    - [ ] [Regular Expressions in Practical NLP](https://www.youtube.com/watch?v=k242_PpMEsQ) `0:06:05`
-    - [ ] [Word Tokenization](https://www.youtube.com/watch?v=f9o514a-kuc) `0:14:26`
+    - [X] [Course Introduction](https://www.youtube.com/watch?v=3Dt_yh1mf_U) `0:12:52`
+    - [X] [Regular Expressions](https://www.youtube.com/watch?v=zfH2ADGtzJQ) `0:11:25`
+    - [X] [Regular Expressions in Practical NLP](https://www.youtube.com/watch?v=k242_PpMEsQ) `0:06:05`
+    - [X] [Word Tokenization](https://www.youtube.com/watch?v=f9o514a-kuc) `0:14:26`
     - [ ] [Word Normalization and Stemming](https://www.youtube.com/watch?v=ZhyLgPnOeh0) `0:11:48`
     - [ ] [Sentence Segmentation](https://www.youtube.com/watch?v=UL4Ez56AMVo) `0:05:34`
     - [ ] [Defining Minimum Edit Distance](https://www.youtube.com/watch?v=-XRJL2R0SCg) `0:07:05`
