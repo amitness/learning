@@ -1707,6 +1707,7 @@
 - [X] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
 - [X] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
 - [ ] [Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)
+- [ ] [Youtube: Tutorial: Santiago Basulto - Python Concurrency: from beginner to pro](https://www.youtube.com/watch?v=18B1pznaU1o&feature=youtu.be)
 
 ### Be familiar with compiled languages
 - [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
