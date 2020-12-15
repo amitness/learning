@@ -121,7 +121,8 @@
 - [X] [Youtube: Using Intent Data to Optimize the Self-Solve Experience](https://lucidworks.com/post/using-intent-data-to-optimize-the-self-solve-experience/)
 - [X] [Youtube: Trillions of Questions, No Easy Answers: A (home) movie about how Google Search works](https://www.youtube.com/watch?v=tFq6Q_muwG0)
 
-### Understand data ethics better  
+### Understand data ethics better
+- [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
     - [ ] [Lesson 1: Disinformation](http://ethics.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2: Bias & Fairness](http://ethics.fast.ai/videos/?lesson=2)
@@ -221,6 +222,7 @@
 - [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 
 ### Be able to perform feature engineering
+- [X] [Article: Tips for Advanced Feature Engineering](https://www.maartengrootendorst.com/blog/feature-engineering/)
 - [ ] [Article: Preparing data for a machine learning model](https://www.jeremyjordan.me/preparing-data-for-a-machine-learning-model/)
 - [ ] [Article: Feature selection for a machine learning model](https://www.jeremyjordan.me/feature-selection/)
 - [ ] [Article: Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
@@ -546,6 +548,7 @@
 - [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 ### Be familiar with fundamental ML algorithms
+- [X] [Article: Validating your Machine Learning Model](https://www.maartengrootendorst.com/blog/validate/)
 - [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
 - [ ] [Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)
 - [ ] [Article: Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/)
@@ -705,6 +708,7 @@
 - [X] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
 
 ### Be able to implement models in scikit-learn
+- [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
 - [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 - [X] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 - [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
@@ -768,6 +772,9 @@
 - [X] [Article: How Wadhwani AI Uses PyTorch To Empower Cotton Farmers](https://medium.com/pytorch/how-wadhwani-ai-uses-pytorch-to-empower-cotton-farmers-14397f4c9f2b)
 - [X] [Article: PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
 - [X] [Article: Supercharge your Training with Pytorch Lightning + Weights & Biases](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch-lightning/Supercharge_your_Training_with_Pytorch_Lightning_%2B_Weights_%26_Biases.ipynb)
+- [X] [Article: Sharded: A New Technique To Double The Size Of PyTorch Models](https://towardsdatascience.com/sharded-a-new-technique-to-double-the-size-of-pytorch-models-3af057466dba)
+- [X] [Article: Introducing PyTorch Lightning Sharded: Train SOTA Models, With Half The Memory](https://seannaren.medium.com/introducing-pytorch-lightning-sharded-train-sota-models-with-half-the-memory-7bcc8b4484f2)
+- [X] [Article: Transform your ML-model to Pytorch with Hummingbird](https://www.maartengrootendorst.com/blog/humming/)
 - [ ] [Article: Distributed model training in PyTorch using DistributedDataParallel](https://spell.ml/blog/pytorch-distributed-data-parallel-XvEaABIAAB8Ars0e)
 - [X] [Article: Taming LSTMs: Variable-sized mini-batches and why PyTorch is good for your health](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)
 - [X] [Article: Pad pack sequences for Pytorch batch processing with DataLoader](https://suzyahyah.github.io/pytorch/2019/07/01/DataLoader-Pad-Pack-Sequence.html)
@@ -834,6 +841,7 @@
 - [X] [Article: RecSys 2020 - Takeaways and Notable Papers](https://eugeneyan.com/writing/recsys2020/)
 - [X] [Article: Paper Summary: DeViSE: A Deep Visual-Semantic Embedding Model](https://medium.com/@hyponymous/paper-summary-devise-a-deep-visual-semantic-embedding-model-c5f308d5ff98)
 - [X] [Article: An overview of proxy-label approaches for semi-supervised learning](https://ruder.io/semi-supervised/)
+- [X] [Article: Create, Visualize and Interpret Customer Segments](https://www.maartengrootendorst.com/blog/customer/)
 - [ ] [Article: Grouping data points with k-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/)
 - [ ] [Article: Soft clustering with Gaussian mixed models (EM)](https://www.jeremyjordan.me/gaussian-mixed-models/)
 - [ ] [Article: Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
@@ -940,6 +948,10 @@
 - [X] [Article: Long Short-Term Memory: From Zero to Hero with PyTorch](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/)
 - [X] [Article: Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp)
 - [X] [Article: Google mT5 multilingual text-to-text transformer: A Brief Paper Analysis](https://medium.com/ai-in-plain-english/google-mt5-multilingual-text-to-text-transformer-a-brief-paper-analysis-30591a3cb7d5)
+- [X] [Article: String Matching with BERT, TF-IDF, and more!](https://www.maartengrootendorst.com/blog/polyfuzz/)
+- [X] [Article: Keyword Extraction with BERT](https://www.maartengrootendorst.com/blog/keybert/)
+- [X] [Article: Creating a class-based TF-IDF with Scikit-Learn](https://www.maartengrootendorst.com/blog/ctfidf/)
+- [X] [Article: Topic Modeling with BERT](https://www.maartengrootendorst.com/blog/bertopic/)
 - [ ] [Article: Automatic Topic Labeling in 2018: History and Trends](https://medium.com/datadriveninvestor/automatic-topic-labeling-in-2018-history-and-trends-29c128cec17)
 - [ ] [Article: The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [X] [Article: Attention? An Other Perspective!: Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
@@ -1524,6 +1536,7 @@
 - [X] [Youtube: Auto-Tuning Hyperparameters with Optuna and PyTorch](https://www.youtube.com/watch?v=P6NwZVl8ttc&t)
 
 ### Be familiar with literature on model interpretability
+- [X] [Article: How to leverage Explainable Machine Learning](https://www.maartengrootendorst.com/blog/black-boxes/)
 - [ ] [NeurIPS 2020: Tutorial on Explaining ML Predictions: State-of-the-art, Challenges, and Opportunities](https://www.youtube.com/watch?v=EbpU4p_0hes&feature=emb_logo)
 
 ### Be able to optimize models for production
@@ -1538,6 +1551,7 @@
 
 ### Be able to write unit tests
 - [X] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml)
+- [X] [Article: Unit Testing for Data Scientists](https://www.maartengrootendorst.com/blog/unit/)
 - [X] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
 - [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
 - [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
@@ -1561,7 +1575,8 @@
 - [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
 
 ### Be able to setup interactive webapps for models
-- [X] [New layout options for Streamlit](https://blog.streamlit.io/introducing-new-layout-options-for-streamlit/)
+- [X] [Article: Build and Deploy a Dashboard with Streamlit](https://www.maartengrootendorst.com/blog/streamlit/)
+- [X] [Article: New layout options for Streamlit](https://blog.streamlit.io/introducing-new-layout-options-for-streamlit/)
 
 ### Be able to deploy model to production
 - [X] [Acloudguru: AWS Certified Machine Learning - Specialty](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
@@ -1573,6 +1588,9 @@
 - [X] [Article: A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 - [X] [Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)
 - [X] [Article: How to put machine learning models into production](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)
+- [X] [Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)
+- [X] [Article: How to Deploy a Machine Learning Model](https://www.maartengrootendorst.com/blog/deploy/)
+- [X] [Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)
 - [ ] [Article: Machine Learning to Production](https://vikramriyer.github.io/machine-learning-to-production/#)
 - [ ] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
 - [ ] [Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
@@ -1769,6 +1787,10 @@
 - [ ] [Udacity: Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 
 ### Be able to efficiently use a text editor
+- [X] [Article: Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
+- [X] [Article: Python remote debugging with PyCharm, CUDA, and Conda](https://medium.com/@n1r44/python-remote-debugging-with-pycharm-cuda-and-conda-87d27695634c)
+- [X] [Article: How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)
+- [X] [Article: Docker as Remote Interpreter for PyCharm Professional](https://www.inovex.de/blog/docker-remote-interpreter-pycharm-professional/)
 - [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
 - [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
 - [ ] [Video: Pycharm Tips](https://www.jetbrains.com/pycharm/guide/tips/)
