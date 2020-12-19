@@ -1081,7 +1081,7 @@
 	- [ ] [CMU Neural Nets for NLP 2020 (25): Model Interpretation](https://www.youtube.com/watch?v=ePEJqqj7Y8M) `1:04:11`
 - [ ] [CMU Multilingual NLP 2020](http://demo.clab.cs.cmu.edu/11737fa20/)
 	- [X] [CMU Multilingual NLP 2020 (1): Introduction](https://www.youtube.com/watch?v=xeu7LKIT194) `1:17:29`
-	- [ ] [CMU Multilingual NLP 2020 (2): Typology - The Space of Language](https://www.youtube.com/watch?v=4QilRTLxvCc) `0:37:13`
+	- [X] [CMU Multilingual NLP 2020 (2): Typology - The Space of Language](https://www.youtube.com/watch?v=4QilRTLxvCc) `0:37:13`
 	- [ ] [CMU Multilingual NLP 2020 (3): Words, Parts of Speech, Morphology](https://www.youtube.com/watch?v=kaSCjn7oMDw) `0:38:58`
 	- [ ] [CMU Multilingual NLP 2020 (4): Text Classification and Sequence Labeling](https://www.youtube.com/watch?v=aDvI8-iE0pM) `0:45:56`
 	- [ ] [CMU Multilingual NLP 2020 (5): Advanced Text Classification/Labeling](https://www.youtube.com/watch?v=A6gluAlxPMg) `0:49:40`
