@@ -1388,7 +1388,7 @@
     - [ ] [Evaluation of Text Generation: A Survey | Human-Centric Evaluations | Research Paper Walkthrough](https://www.youtube.com/watch?v=-CIlz-5um7U) `0:15:54`
 - [ ] [NLP Summit 2020](https://www.youtube.com/playlist?list=PL5zieHHAlvAr2QkDyP-BfEVmaIC5BAq4q)
     - [X] [The 2020 Trends for Applied Natural Language Processing | NLP Summit 2020](https://www.youtube.com/watch?v=bAPVJJIPMy0) `0:21:10`
-    - [ ] [NLP Industry Survey Analysis: the landscape of natural language use cases in 2020 | NLP Summit 2020](https://www.youtube.com/watch?v=93BJyr60DIE) `0:20:23`
+    - [X] [NLP Industry Survey Analysis: the landscape of natural language use cases in 2020 | NLP Summit 2020](https://www.youtube.com/watch?v=93BJyr60DIE) `0:20:23`
     - [ ] [Auto NLP: Pretrain, Tune & Deploy State-of-the-art Models Without Coding](https://www.youtube.com/watch?v=-ud0zz2ttwU) `0:19:57`
     - [X] [Proof-of-Concept Delight | NLP Summit 2020](https://www.youtube.com/watch?v=gWap5pmzye0) `0:16:50`
     - [ ] [Distributed Natural Language Processing Apps for Financial Engineering | NLP Summit 2020](https://www.youtube.com/watch?v=SZJPV6QLmTI) `0:34:49`
