@@ -1151,11 +1151,11 @@
     - [X] [Smoothing Add One](https://www.youtube.com/watch?v=ZbHFLgBWgdQ) `0:06:31`
     - [X] [Interpolation](https://www.youtube.com/watch?v=naNezonMA7k) `0:10:25`
     - [X] [Good Turing Smoothing](https://www.youtube.com/watch?v=fhvDgKBZa1U) `0:15:35`
-    - [ ] [Kneser Ney Smoothing](https://www.youtube.com/watch?v=eNLUo3AIvcQ) `0:08:59`
-    - [ ] [The Spelling Correction Task](https://www.youtube.com/watch?v=iYFqYL9RsRs) `0:05:40`
-    - [ ] [The Noisy Channel Model of Spelling](https://www.youtube.com/watch?v=q6BFerSaUEA) `0:19:31`
-    - [ ] [Real Word Spelling Correction](https://www.youtube.com/watch?v=bZNU2FwTXDc) `0:09:20`
-    - [ ] [State of the Art Systems](https://www.youtube.com/watch?v=aAvOOZRsby8) `0:07:10`
+    - [X] [Kneser Ney Smoothing](https://www.youtube.com/watch?v=eNLUo3AIvcQ) `0:08:59`
+    - [X] [The Spelling Correction Task](https://www.youtube.com/watch?v=iYFqYL9RsRs) `0:05:40`
+    - [X] [The Noisy Channel Model of Spelling](https://www.youtube.com/watch?v=q6BFerSaUEA) `0:19:31`
+    - [X] [Real Word Spelling Correction](https://www.youtube.com/watch?v=bZNU2FwTXDc) `0:09:20`
+    - [X] [State of the Art Systems](https://www.youtube.com/watch?v=aAvOOZRsby8) `0:07:10`
     - [ ] [What is Text Classification](https://www.youtube.com/watch?v=kxImnFg4ZiQ) `0:08:12`
     - [ ] [Naive Bayes](https://www.youtube.com/watch?v=j39c7Gjx2gE) `0:03:20`
     - [ ] [Formalizing the Naive Bayes Classifier](https://www.youtube.com/watch?v=VNEdufXVMaU) `0:09:29`
