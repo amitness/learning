@@ -1386,15 +1386,15 @@
     - [ ] [Reformulating Unsupervised Style Transfer as Paraphrase Generation | Research Paper Walkthrough](https://www.youtube.com/watch?v=cjnk3PJljDs) `0:19:41`
     - [ ] [PEGASUS: Pre-training with Gap-Sentences for Abstractive Summarization | Research Paper Walkthrough](https://www.youtube.com/watch?v=QY8oZxS0txs) `0:15:04`
     - [ ] [Evaluation of Text Generation: A Survey | Human-Centric Evaluations | Research Paper Walkthrough](https://www.youtube.com/watch?v=-CIlz-5um7U) `0:15:54`
-- [ ] [NLP Summit 2020](https://www.youtube.com/playlist?list=PL5zieHHAlvAr2QkDyP-BfEVmaIC5BAq4q)
+- [X] [NLP Summit 2020](https://www.youtube.com/playlist?list=PL5zieHHAlvAr2QkDyP-BfEVmaIC5BAq4q)
     - [X] [The 2020 Trends for Applied Natural Language Processing | NLP Summit 2020](https://www.youtube.com/watch?v=bAPVJJIPMy0) `0:21:10`
     - [X] [NLP Industry Survey Analysis: the landscape of natural language use cases in 2020 | NLP Summit 2020](https://www.youtube.com/watch?v=93BJyr60DIE) `0:20:23`
-    - [ ] [Auto NLP: Pretrain, Tune & Deploy State-of-the-art Models Without Coding](https://www.youtube.com/watch?v=-ud0zz2ttwU) `0:19:57`
+    - [X] [Auto NLP: Pretrain, Tune & Deploy State-of-the-art Models Without Coding](https://www.youtube.com/watch?v=-ud0zz2ttwU) `0:19:57`
     - [X] [Proof-of-Concept Delight | NLP Summit 2020](https://www.youtube.com/watch?v=gWap5pmzye0) `0:16:50`
     - [ ] [Distributed Natural Language Processing Apps for Financial Engineering | NLP Summit 2020](https://www.youtube.com/watch?v=SZJPV6QLmTI) `0:34:49`
     - [X] [Bleeding Edge Applications of 2020 Transformers | NLP Summit 2020](https://www.youtube.com/watch?v=C1-408G3WO8) `0:33:34`
-    - [ ] [How Freshworks Freddy AI leverages NLP for Ethics-First Customer Experiences | NLP Summit 2020](https://www.youtube.com/watch?v=FxG92XXbnD8) `0:26:49`
-    - [ ] [NLP for Recruitment Automation: Building a Chatbot from the Job Description | NLP Summit 2020](https://www.youtube.com/watch?v=i6-RMbE_auQ) `0:22:31`
+    - [X] [How Freshworks Freddy AI leverages NLP for Ethics-First Customer Experiences | NLP Summit 2020](https://www.youtube.com/watch?v=FxG92XXbnD8) `0:26:49`
+    - [X] [NLP for Recruitment Automation: Building a Chatbot from the Job Description | NLP Summit 2020](https://www.youtube.com/watch?v=i6-RMbE_auQ) `0:22:31`
 - [ ] [Youtube: Explainability for Natural Language Processing](https://www.youtube.com/watch?v=3tnrGe_JA0s)
 
 ### Be familiar with Recommendation Systems
