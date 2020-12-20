@@ -1086,7 +1086,7 @@
 	- [X] [CMU Multilingual NLP 2020 (4): Text Classification and Sequence Labeling](https://www.youtube.com/watch?v=aDvI8-iE0pM) `0:45:56`
 	- [X] [CMU Multilingual NLP 2020 (5): Advanced Text Classification/Labeling](https://www.youtube.com/watch?v=A6gluAlxPMg) `0:49:40`
 	- [X] [CMU Multilingual NLP 2020 (6): Translation, Evaluation, and Datasets](https://www.youtube.com/watch?v=PP5poDIzI8A) `0:46:17`
-	- [ ] [CMU Multilingual NLP 2020 (7): Machine Translation/Sequence-to-sequence Models](https://www.youtube.com/watch?v=grVAzbNt4Kk) `0:43:51`
+	- [X] [CMU Multilingual NLP 2020 (7): Machine Translation/Sequence-to-sequence Models](https://www.youtube.com/watch?v=grVAzbNt4Kk) `0:43:51`
 	- [ ] [CMU Multilingual NLP 2020 (8): Data Augmentation for Machine Translation](https://www.youtube.com/watch?v=RqNobMjb6IQ) `0:24:42`
 	- [ ] [CMU Multilingual NLP 2020 (9): Language Contact and Similarity Across Languages](https://www.youtube.com/watch?v=brGaYr6bxoY) `0:30:25`
 	- [ ] [CMU Multilingual NLP 2020 (10): Multilingual Training and Cross-lingual Transfer](https://www.youtube.com/watch?v=hB4x7a1SDX8) `0:39:58`
