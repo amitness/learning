@@ -1089,8 +1089,8 @@
 	- [X] [CMU Multilingual NLP 2020 (7): Machine Translation/Sequence-to-sequence Models](https://www.youtube.com/watch?v=grVAzbNt4Kk) `0:43:51`
 	- [X] [CMU Multilingual NLP 2020 (8): Data Augmentation for Machine Translation](https://www.youtube.com/watch?v=RqNobMjb6IQ) `0:24:42`
 	- [X] [CMU Multilingual NLP 2020 (9): Language Contact and Similarity Across Languages](https://www.youtube.com/watch?v=brGaYr6bxoY) `0:30:25`
-	- [ ] [CMU Multilingual NLP 2020 (10): Multilingual Training and Cross-lingual Transfer](https://www.youtube.com/watch?v=hB4x7a1SDX8) `0:39:58`
-	- [ ] [CMU Multilingual NLP 2020 (11): Unsupervised Translation](https://www.youtube.com/watch?v=Z0e3pHZ96No) `0:51:17`
+	- [X] [CMU Multilingual NLP 2020 (10): Multilingual Training and Cross-lingual Transfer](https://www.youtube.com/watch?v=hB4x7a1SDX8) `0:39:58`
+	- [X] [CMU Multilingual NLP 2020 (11): Unsupervised Translation](https://www.youtube.com/watch?v=Z0e3pHZ96No) `0:51:17`
 	- [ ] [CMU Multilingual NLP 2020 (12): Code Switching, Pidgins, and Creoles](https://www.youtube.com/watch?v=-jUvZNfkpGQ) `0:46:37`
 	- [ ] [CMU Multilingual NLP 2020 (13): Speech](https://www.youtube.com/watch?v=cNaXzF8OKcQ) `0:41:16`
 	- [ ] [CMU Multilingual NLP 2020 (14): Automatic Speech Recognition](https://www.youtube.com/watch?v=T2F5fyuk3Jk) `0:39:33`
@@ -1099,7 +1099,7 @@
 	- [ ] [CMU Multilingual NLP 2020 (17): Morphological Analysis and Inflection](https://www.youtube.com/watch?v=y9sVFrmGu0w) `0:45:22`
 	- [ ] [CMU Multilingual NLP 2020 (18): Dependency Parsing](https://www.youtube.com/watch?v=dhlb2F1NyvE) `0:38:15`
 	- [ ] [CMU Multilingual NLP 2020 (19): Data Annotation](https://www.youtube.com/watch?v=NP5f0TL_xLU) `0:53:08`
-	- [ ] [CMU Multilingual NLP 2020 (20): Active Learning](https://www.youtube.com/watch?v=S4lYp3Si3NI) `0:28:37`
+	- [X] [CMU Multilingual NLP 2020 (20): Active Learning](https://www.youtube.com/watch?v=S4lYp3Si3NI) `0:28:37`
 	- [ ] [CMU Multilingual NLP 2020 (21): Information Extraction](https://www.youtube.com/watch?v=uNIy-v2DUgc) `0:41:00`
 	- [ ] [CMU Multilingual NLP 2020 (22): Multilingual NLP for Indigenous Languages](https://www.youtube.com/watch?v=wilwuzgLWdk) `1:21:58`
 	- [ ] [CMU Multilingual NLP 2020 (23): Universal Translation at Scale](https://www.youtube.com/watch?v=mcl--ktVpjg) `1:27:33`
