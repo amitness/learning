@@ -1098,9 +1098,9 @@
 	- [ ] [CMU Multilingual NLP 2020 (16): Text to Speech](https://www.youtube.com/watch?v=dkGkw-Qxbdw) `0:39:00`
 	- [ ] [CMU Multilingual NLP 2020 (17): Morphological Analysis and Inflection](https://www.youtube.com/watch?v=y9sVFrmGu0w) `0:45:22`
 	- [ ] [CMU Multilingual NLP 2020 (18): Dependency Parsing](https://www.youtube.com/watch?v=dhlb2F1NyvE) `0:38:15`
-	- [ ] [CMU Multilingual NLP 2020 (19): Data Annotation](https://www.youtube.com/watch?v=NP5f0TL_xLU) `0:53:08`
+	- [X] [CMU Multilingual NLP 2020 (19): Data Annotation](https://www.youtube.com/watch?v=NP5f0TL_xLU) `0:53:08`
 	- [X] [CMU Multilingual NLP 2020 (20): Active Learning](https://www.youtube.com/watch?v=S4lYp3Si3NI) `0:28:37`
-	- [ ] [CMU Multilingual NLP 2020 (21): Information Extraction](https://www.youtube.com/watch?v=uNIy-v2DUgc) `0:41:00`
+	- [X] [CMU Multilingual NLP 2020 (21): Information Extraction](https://www.youtube.com/watch?v=uNIy-v2DUgc) `0:41:00`
 	- [ ] [CMU Multilingual NLP 2020 (22): Multilingual NLP for Indigenous Languages](https://www.youtube.com/watch?v=wilwuzgLWdk) `1:21:58`
 	- [ ] [CMU Multilingual NLP 2020 (23): Universal Translation at Scale](https://www.youtube.com/watch?v=mcl--ktVpjg) `1:27:33`
 - [X] [Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)
