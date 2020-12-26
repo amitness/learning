@@ -1079,7 +1079,7 @@
 	- [ ] [CMU Neural Nets for NLP 2020 (23): Machine Reading w/ Neural Nets](https://www.youtube.com/watch?v=cGHVNwgVLRY) `1:06:11`
 	- [ ] [CMU Neural Nets for NLP 2020 (24): Natural Language Generation](https://www.youtube.com/watch?v=dyXTVhDCwCQ) `1:21:48`
 	- [ ] [CMU Neural Nets for NLP 2020 (25): Model Interpretation](https://www.youtube.com/watch?v=ePEJqqj7Y8M) `1:04:11`
-- [ ] [CMU Multilingual NLP 2020](http://demo.clab.cs.cmu.edu/11737fa20/)
+- [X] [CMU Multilingual NLP 2020](http://demo.clab.cs.cmu.edu/11737fa20/)
 	- [X] [CMU Multilingual NLP 2020 (1): Introduction](https://www.youtube.com/watch?v=xeu7LKIT194) `1:17:29`
 	- [X] [CMU Multilingual NLP 2020 (2): Typology - The Space of Language](https://www.youtube.com/watch?v=4QilRTLxvCc) `0:37:13`
 	- [X] [CMU Multilingual NLP 2020 (3): Words, Parts of Speech, Morphology](https://www.youtube.com/watch?v=kaSCjn7oMDw) `0:38:58`
@@ -1091,18 +1091,18 @@
 	- [X] [CMU Multilingual NLP 2020 (9): Language Contact and Similarity Across Languages](https://www.youtube.com/watch?v=brGaYr6bxoY) `0:30:25`
 	- [X] [CMU Multilingual NLP 2020 (10): Multilingual Training and Cross-lingual Transfer](https://www.youtube.com/watch?v=hB4x7a1SDX8) `0:39:58`
 	- [X] [CMU Multilingual NLP 2020 (11): Unsupervised Translation](https://www.youtube.com/watch?v=Z0e3pHZ96No) `0:51:17`
-	- [ ] [CMU Multilingual NLP 2020 (12): Code Switching, Pidgins, and Creoles](https://www.youtube.com/watch?v=-jUvZNfkpGQ) `0:46:37`
-	- [ ] [CMU Multilingual NLP 2020 (13): Speech](https://www.youtube.com/watch?v=cNaXzF8OKcQ) `0:41:16`
-	- [ ] [CMU Multilingual NLP 2020 (14): Automatic Speech Recognition](https://www.youtube.com/watch?v=T2F5fyuk3Jk) `0:39:33`
-	- [ ] [CMU Multilingual NLP 2020 (15): Low Resource ASR](https://www.youtube.com/watch?v=wSl61Fuk6R8) `0:43:38`
-	- [ ] [CMU Multilingual NLP 2020 (16): Text to Speech](https://www.youtube.com/watch?v=dkGkw-Qxbdw) `0:39:00`
-	- [ ] [CMU Multilingual NLP 2020 (17): Morphological Analysis and Inflection](https://www.youtube.com/watch?v=y9sVFrmGu0w) `0:45:22`
-	- [ ] [CMU Multilingual NLP 2020 (18): Dependency Parsing](https://www.youtube.com/watch?v=dhlb2F1NyvE) `0:38:15`
+	- [X] [CMU Multilingual NLP 2020 (12): Code Switching, Pidgins, and Creoles](https://www.youtube.com/watch?v=-jUvZNfkpGQ) `0:46:37`
+	- [X] [CMU Multilingual NLP 2020 (13): Speech](https://www.youtube.com/watch?v=cNaXzF8OKcQ) `0:41:16`
+	- [X] [CMU Multilingual NLP 2020 (14): Automatic Speech Recognition](https://www.youtube.com/watch?v=T2F5fyuk3Jk) `0:39:33`
+	- [X] [CMU Multilingual NLP 2020 (15): Low Resource ASR](https://www.youtube.com/watch?v=wSl61Fuk6R8) `0:43:38`
+	- [X] [CMU Multilingual NLP 2020 (16): Text to Speech](https://www.youtube.com/watch?v=dkGkw-Qxbdw) `0:39:00`
+	- [X] [CMU Multilingual NLP 2020 (17): Morphological Analysis and Inflection](https://www.youtube.com/watch?v=y9sVFrmGu0w) `0:45:22`
+	- [X] [CMU Multilingual NLP 2020 (18): Dependency Parsing](https://www.youtube.com/watch?v=dhlb2F1NyvE) `0:38:15`
 	- [X] [CMU Multilingual NLP 2020 (19): Data Annotation](https://www.youtube.com/watch?v=NP5f0TL_xLU) `0:53:08`
 	- [X] [CMU Multilingual NLP 2020 (20): Active Learning](https://www.youtube.com/watch?v=S4lYp3Si3NI) `0:28:37`
 	- [X] [CMU Multilingual NLP 2020 (21): Information Extraction](https://www.youtube.com/watch?v=uNIy-v2DUgc) `0:41:00`
-	- [ ] [CMU Multilingual NLP 2020 (22): Multilingual NLP for Indigenous Languages](https://www.youtube.com/watch?v=wilwuzgLWdk) `1:21:58`
-	- [ ] [CMU Multilingual NLP 2020 (23): Universal Translation at Scale](https://www.youtube.com/watch?v=mcl--ktVpjg) `1:27:33`
+	- [X] [CMU Multilingual NLP 2020 (22): Multilingual NLP for Indigenous Languages](https://www.youtube.com/watch?v=wilwuzgLWdk) `1:21:58`
+	- [X] [CMU Multilingual NLP 2020 (23): Universal Translation at Scale](https://www.youtube.com/watch?v=mcl--ktVpjg) `1:27:33`
 - [X] [Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)
 - [X] [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
 - [X] [Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)
