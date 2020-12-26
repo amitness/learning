@@ -1047,7 +1047,7 @@
 - [ ] [CMU: Low-resource NLP Bootcamp 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)
 	- [X] [CMU Low resource NLP Bootcamp 2020 (1): NLP Tasks](https://www.youtube.com/watch?v=glIbcpay1-I) `1:46:06`
 	- [ ] [CMU Low resource NLP Bootcamp 2020 (2): Linguistics - Phonology and Morphology](https://www.youtube.com/watch?v=KGOYGONxypA) `1:24:08`
-	- [ ] [CMU Low resource NLP Bootcamp 2020 (3): Machine Translation](https://www.youtube.com/watch?v=SIZfkGzyVRc) `1:55:59`
+	- [X] [CMU Low resource NLP Bootcamp 2020 (3): Machine Translation](https://www.youtube.com/watch?v=SIZfkGzyVRc) `1:55:59`
 	- [ ] [CMU Low resource NLP Bootcamp 2020 (4): Linguistics - Syntax and Morphosyntax](https://www.youtube.com/watch?v=j2vd3bTfrIA) `2:00:21`
 	- [ ] [CMU Low resource NLP Bootcamp 2020 (5): Neural Representation Learning](https://www.youtube.com/watch?v=FgYg1ZH5Io8) `1:19:57`
 	- [ ] [CMU Low resource NLP Bootcamp 2020 (6): Multilingual NLP](https://www.youtube.com/watch?v=wWE4db9XgHA) `2:04:34`
