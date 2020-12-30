@@ -206,6 +206,7 @@
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
 ### Be able to use the command line
+- [ ] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
 - [X] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
 - [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
@@ -954,6 +955,7 @@
 - [X] [Article: Keyword Extraction with BERT](https://www.maartengrootendorst.com/blog/keybert/)
 - [X] [Article: Creating a class-based TF-IDF with Scikit-Learn](https://www.maartengrootendorst.com/blog/ctfidf/)
 - [X] [Article: Topic Modeling with BERT](https://www.maartengrootendorst.com/blog/bertopic/)
+- [X] [Article: NLP Year In Review](https://pakodas.substack.com/p/nlp-year-in-review)
 - [ ] [Article: Automatic Topic Labeling in 2018: History and Trends](https://medium.com/datadriveninvestor/automatic-topic-labeling-in-2018-history-and-trends-29c128cec17)
 - [ ] [Article: The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [X] [Article: Attention? An Other Perspective!: Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
