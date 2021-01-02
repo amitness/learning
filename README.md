@@ -149,6 +149,7 @@
 
 ### Be able to manipulate data with Numpy
 - [X] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+- [ ] [Article: NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 - [X] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [X] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
 
@@ -956,6 +957,12 @@
 - [X] [Article: Creating a class-based TF-IDF with Scikit-Learn](https://www.maartengrootendorst.com/blog/ctfidf/)
 - [X] [Article: Topic Modeling with BERT](https://www.maartengrootendorst.com/blog/bertopic/)
 - [X] [Article: NLP Year In Review](https://pakodas.substack.com/p/nlp-year-in-review)
+- [X] [Article: Using an NLP Q&A System To Study Climate Hazards and Nature-Based Solutions](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)
+- [ ] [Article: Part of Speech Tagging with Hidden Markov Chain Models](https://towardsdatascience.com/part-of-speech-tagging-with-hidden-markov-chain-models-e9fccc835c0e)
+- [ ] [Article: Automatically Summarize Trump’s State of the Union Address](https://towardsdatascience.com/automatically-summarize-trumps-state-of-the-union-address-6757c6af6534)
+- [ ] [Article: ColumnTransformer Meets Natural Language Processing](https://towardsdatascience.com/columntransformer-meets-natural-language-processing-da1f116dd69f)
+- [ ] [Article: Explain NLP models with LIME & SHAP](https://towardsdatascience.com/explain-nlp-models-with-lime-shap-5c5a9f84d59b)
+- [ ] [Article: When Topic Modeling is Part of the Text Pre-processing](https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-processing-294b58d35514)
 - [ ] [Article: Automatic Topic Labeling in 2018: History and Trends](https://medium.com/datadriveninvestor/automatic-topic-labeling-in-2018-history-and-trends-29c128cec17)
 - [ ] [Article: The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [X] [Article: Attention? An Other Perspective!: Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
@@ -1591,6 +1598,8 @@
 - [ ] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
 - [X] [Article: Deploy BERT for Sentiment Analysis as REST API using PyTorch, Transformers by Hugging Face and FastAPI](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
 - [ ] [Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)
+- [ ] [Article: Selecting gunicorn worker types for different python web applications.](https://medium.com/@nhudinhtuan/gunicorn-worker-types-practice-advice-for-better-performance-7a299bb8f929)
+- [ ] [Article: Better performance by optimizing Gunicorn config](https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7)
 - [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
 - [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 - [ ] [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
@@ -1617,6 +1626,7 @@
 - [X] [Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)
 - [X] [Article: How to Deploy a Machine Learning Model](https://www.maartengrootendorst.com/blog/deploy/)
 - [X] [Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)
+- [ ] [Article: Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
 - [ ] [Article: Machine Learning to Production](https://vikramriyer.github.io/machine-learning-to-production/#)
 - [ ] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
 - [ ] [Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
@@ -1693,6 +1703,56 @@
     - [X] [Iteration · Applied ML in Production](https://www.youtube.com/watch?v=Bit1IUVWrkY) `0:04:35`
     - [X] [Annotation · Applied ML in Production](https://www.youtube.com/watch?v=Kj_5ZO6nsfk) `0:14:34`
     - [X] [Exploratory Data Analysis (EDA) · Applied ML in Production](https://www.youtube.com/watch?v=3Vrlvrjigvs&feature=emb_logo) `0:09:02`
+- [ ] [MLOps Community Talks](https://www.youtube.com/playlist?list=PL3vkEKxWd-uutUO2zB0diYlANmsnbGizD)
+	- [ ] [Our 1st MLOps Meetup - Luke Marsden](https://www.youtube.com/watch?v=P5cNwyeq0_c) `0:56:11`
+	- [ ] [MLOps Community  Meetup #3: Hierarchy of Machine Learning Needs with Phil Winder](https://www.youtube.com/watch?v=MRES5IxVnME) `0:58:25`
+	- [ ] [MLOps Community March 25 2020 featuring Charles Radclyffe](https://www.youtube.com/watch?v=l52sRMVPVk0) `1:03:42`
+	- [ ] [MLOps #4: Shubhi Jain - Building an ML Platform @SurveyMonkey](https://www.youtube.com/watch?v=oq1g4s2dUHE) `0:55:42`
+	- [ ] [MLOps Meetup #6: Mid-Scale Production Feature Engineering with Dr. Venkata Pingali](https://www.youtube.com/watch?v=1CcYuVVwOGg) `1:01:35`
+	- [ ] [MLOps meetup #5 High Stakes ML with Flavio CLesio](https://www.youtube.com/watch?v=9g4deV1uNZo) `0:55:27`
+	- [ ] [MLOps meetup #7 Alex Spanos // TrueLayer 's MLOps Pipeline](https://www.youtube.com/watch?v=cUxK28ocZcw) `0:56:17`
+	- [ ] [#8 Optimizing your ML workflow with kubeflow 1.0](https://www.youtube.com/watch?v=jXRbj5xnBy4) `1:03:41`
+	- [ ] [#10 MLOps the Elephant and the Blind Men with Saurav Chakravorty](https://www.youtube.com/watch?v=RTBq7e3FhEw) `0:55:02`
+	- [ ] [#11 Machine Learning at scale in Mercado Libre with Carlos de la Torre](https://www.youtube.com/watch?v=ypySVdT9U7Q) `0:59:28`
+	- [ ] [MLOps meetup #12 // Why data scientists should know data engineering with Dan Sullivan](https://www.youtube.com/watch?v=LdnmC6PDBuY) `0:58:28`
+	- [ ] [#13 Maximizing job opportunities as a data scientists with Anthony Kelly](https://www.youtube.com/watch?v=-xAyfWL_HXs) `0:58:24`
+	- [ ] [MLOps #14: Kubeflow vs MLflow with Byron Allen](https://www.youtube.com/watch?v=TsGQZ0D3688) `0:54:57`
+	- [ ] [MLOps #15 - Scaling Human in the Loop Machine Learning with Robert Munro](https://www.youtube.com/watch?v=LwbbGsuNpao) `0:55:04`
+	- [ ] [#16 Venture Capital In Machine Learning Startups with John Spindler](https://www.youtube.com/watch?v=v9OvXxTUBtg) `1:05:41`
+	- [ ] [MLOps #17 // The challenges of ML Operations and how Hermione helps along the way](https://www.youtube.com/watch?v=cDRXLqKJ6I0) `1:01:30`
+	- [ ] [MLOps #18 // Nubank - Running a fintech on ML](https://www.youtube.com/watch?v=ry_P5D_d7XA) `0:53:19`
+	- [ ] [MLOps #19 // DataOps and Data versioning in ML](https://www.youtube.com/watch?v=ojV1tK9jXH8) `1:01:55`
+	- [ ] [MLOps #21 Build vs Buy an ML platform // Diego Oppenheimer - CEO Algorithmia](https://www.youtube.com/watch?v=1bHQE11Qq0k) `0:57:20`
+	- [ ] [MLOps #22 Deep Dive on Paperspace Tooling // Misha Kutsovsky - Senior ML Architect at Paperspace](https://www.youtube.com/watch?v=qMHUE5b1Ee4) `1:07:15`
+	- [ ] [Feature Stores: An essential part of the ML stack to build great data / Kevin Stumpf - CTO at Tecton](https://www.youtube.com/watch?v=IjO8VUCIZxc) `1:05:46`
+	- [ ] [MLOps #24 Monitoring the ML stack // Lina Weichbrodt](https://www.youtube.com/watch?v=Un30yb1WlpU) `0:55:32`
+	- [ ] [MLOps #25 - How to become a better data scientist: the definite guide // Alexey Grigorev](https://www.youtube.com/watch?v=f531HULH8KA) `1:00:42`
+	- [ ] [MLOps #25 - How to become a better data scientist: the definite guide // Alexey Grigorev](https://www.youtube.com/watch?v=f531HULH8KA) `1:00:42`
+	- [ ] [MLOps #26 Python and Dask: Scaling the DataFrame // Dan Gerlanc - Founder of Enplus Advisors](https://www.youtube.com/watch?v=wUokn3RQ9_A) `1:28:56`
+	- [ ] [#27 How to Leverage ML Tooling Ecosystem  Mariya Davydova   Head of Product at Neu ro](https://www.youtube.com/watch?v=kZ4F48Er__k) `0:55:57`
+	- [ ] [MLOps #28 ML Observability // Aparna Dhinakaran - Chief Product Officer at Arize AI](https://www.youtube.com/watch?v=joTF9BRwWp4) `0:55:04`
+	- [ ] [MLOps #29 Continuous Evaluation & Model Experimentation // Danny Ma - Founder of Sydney Data Science](https://www.youtube.com/watch?v=i4QNpM20QOc) `1:00:46`
+	- [ ] [MLOps Coffee Sessions #6 Continuous Integration for ML // Featuring Elle O'Brien](https://www.youtube.com/watch?v=L98VxJDHXMM) `1:01:46`
+	- [ ] [MLOps #30 Scaling ML Capabilities in Large Organizations // Bertjan Broeksema & Axel Goblet](https://www.youtube.com/watch?v=aeYnfU26WGk) `1:02:47`
+	- [ ] [MLOps #31 Path to Production and Monetizing Machine Learning // Vin Vashishta - Data Scientist](https://www.youtube.com/watch?v=voO0B0_BsuQ) `0:56:35`
+	- [ ] [MLOps #32 Creating Beautiful Ambient Music with Google Brain’s Music Transformer // Daniel Jeffries](https://www.youtube.com/watch?v=z95ciIqMuRo) `0:55:52`
+	- [ ] [MLOps #33 Building Say Less: An AI-Powered Summarization App // Yoav Zimmerman - Model Zoo](https://www.youtube.com/watch?v=RoYl0waMfMc) `0:53:08`
+	- [ ] [MLOps #34 Owned By Statistics: How Kubeflow & MLOps Can Help Secure ML Workloads // David Aronchick](https://www.youtube.com/watch?v=ml4vlXzVFeE) `0:56:18`
+	- [ ] [MLOps #35: Streaming Machine Learning with Apache Kafka and Tiered Storage // Kai Waehner, Confluent](https://www.youtube.com/watch?v=Ur969-WX1BY) `0:52:50`
+	- [ ] [Bring Your On-Prem ML Use Cases to Production on Google Cloud using Kubeflow](https://www.youtube.com/watch?v=JZAc_yZgByg) `0:20:28`
+	- [ ] [Moving deep learning from research to prod using DeterminedAI and Kubeflow // David Hershey](https://www.youtube.com/watch?v=-UymDRk5ISY) `0:56:06`
+	- [ ] [MLOps Coffee Sessions #11: Analyzing “Continuous Delivery and Automation Pipelines in ML" // Part 3](https://www.youtube.com/watch?v=sL2Z_s0ZkPo) `1:06:28`
+	- [ ] [MLOps Coffee Sessions #14 Conversation with the creators of Dask // Hugo Bowne and Matthew Rocklin](https://www.youtube.com/watch?v=tXckHqfkPqg) `0:56:27`
+	- [ ] [When You Say Data Scientist Do You Mean Data Engineer? Lessons Learned From Start Up Life](https://www.youtube.com/watch?v=v2HzCcAT1t8) `1:00:43`
+	- [ ] [Scalable Python for Everyone, Everywhere // Matthew Rocklin // MLOps  Meetup #37](https://www.youtube.com/watch?v=FIJuh4PXkrk) `0:57:07`
+	- [ ] [Operationalize Open Source Models with SAS Open Model Manager // Ivan Nardini // MLOps Meetup #39](https://www.youtube.com/watch?v=SNRsTYmb19U) `0:56:53`
+	- [ ] [Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8) `0:57:05`
+	- [ ] [Hands-on serving models using KFserving // Theofilos Papapanagiotou // MLOps Meetup #40](https://www.youtube.com/watch?v=VtZ9LWyJPdc) `0:57:40`
+	- [ ] [Luigi in Production // MLOps Coffee Sessions #18 // Luigi Patruno ML in Production](https://www.youtube.com/watch?v=ShBod1yXUeg) `0:47:23`
+	- [ ] [Metaflow: Supercharging Our Data Scientist Productivity // Ravi Kiran Chirravuri // MLOps Meetup #41](https://www.youtube.com/watch?v=1iuJvF_SE9Q) `1:00:30`
+	- [ ] [UN Global Platform // Mark Craddock // Co-Founder & CTO, Global Certification // MLOps Meetup #42](https://www.youtube.com/watch?v=6oFCqGE_2-U) `0:58:48`
+	- [ ] [The Current MLOps Landscape // Nathan Benaich & Timothy Chen // MLOps Meetup #43](https://www.youtube.com/watch?v=i6HZ2vjFLIs) `0:58:31`
+	- [ ] [A Conversation with Seattle Data Guy // Benjamin Rogojan // MLOps Coffee Sessions #21](https://www.youtube.com/watch?v=o-YXAq9vii4) `0:47:11`
 
 ### Be able to perform A/B testing
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
