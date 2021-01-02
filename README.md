@@ -1893,6 +1893,49 @@
 - [ ] [Video: Pycharm Tips](https://www.jetbrains.com/pycharm/guide/tips/)
 - [ ] [Youtube: Productive pytest with PyCharm](https://www.youtube.com/watch?v=ixqeebhUa-w)
 - [X] [Youtube: Getting Started with Python in Visual Studio Code](https://www.youtube.com/watch?v=7EXd4_ttIuw)
+- [ ] [Youtube: 42 PyCharm Tips and Tricks](https://www.youtube.com/watch?v=NoDx0MEESDw&list=PLQ176FUIyIUbDwdvWZNuB7FrCc6hHregy&index=35)
+- [ ] [Youtube: Pycharm Quick Tips & Tricks](https://www.youtube.com/playlist?list=PLCTHcU1KoD99eyuXqUJHZy90-9jU2H2Y2)
+	- [ ] [How to use Live Edit to edit HTML&CSS in PyCharm](https://www.youtube.com/watch?v=xf90Ko64hRc) `0:00:49`
+	- [ ] [How to let PyCharm install and generate the imports while you write a symbol](https://www.youtube.com/watch?v=ulT1LSWFqqE) `0:00:35`
+	- [ ] [How to enforce One Import Per Line in PyCharm](https://www.youtube.com/watch?v=XB4SnJ4XmUs) `0:00:39`
+	- [ ] [How to optimize imports in PyCharm](https://www.youtube.com/watch?v=lNm5ISUZqCE) `0:01:15`
+	- [ ] [How to use the navigation bar to move around your project tree in PyCharm](https://www.youtube.com/watch?v=JQE95x7t4aU) `0:01:09`
+	- [ ] [How to use Recent Files to open the tool window in PyCharm](https://www.youtube.com/watch?v=ITV0HRKYnXI) `0:00:43`
+	- [ ] [How to navigate to symbol using the keyboard in PyCharm](https://www.youtube.com/watch?v=1QoP0U8xg98) `0:00:41`
+	- [ ] [How to navigate the cursor position back and forth in PyCharm](https://www.youtube.com/watch?v=_i2gYYfC9H0) `0:00:48`
+	- [ ] [How to use the 'find action' shortcut in PyCharm](https://www.youtube.com/watch?v=ESYmaaX5Tzg) `0:01:40`
+	- [ ] [How to activate the navigation bar in PyCharm](https://www.youtube.com/watch?v=-uyCSK6gvp4) `0:01:36`
+	- [ ] [How to navigate to file using the keyboard in PyCharm](https://www.youtube.com/watch?v=0NFMM143Y5w) `0:00:58`
+	- [ ] [How to open a file using the keyboard in PyCharm](https://www.youtube.com/watch?v=37n-a4mg36Q) `0:01:03`
+	- [ ] [How to use speed search to navigate files in PyCharm](https://www.youtube.com/watch?v=i9l5YuDgJOw) `0:01:07`
+	- [ ] [How to activate the navigation bar and create a file in PyCharm](https://www.youtube.com/watch?v=h6s20RMLIXk) `0:01:09`
+	- [ ] [How to use the find in path dialog in PyCharm](https://www.youtube.com/watch?v=AlFEEDMpW8c) `0:00:50`
+	- [ ] [How to use drag-n-drop to create a SQLite database in PyCharm](https://www.youtube.com/watch?v=U2sAgysf1Hc) `0:00:40`
+	- [ ] [How to evaluate expressions during debugging in PyCharm](https://www.youtube.com/watch?v=zoSKHJdrSfI) `0:01:13`
+	- [ ] [How to add conditions to your breakpoints in PyCharm](https://www.youtube.com/watch?v=aIlXb2QpxXc) `0:01:33`
+	- [ ] [How to use refactor to rename a file and its references in PyCharm](https://www.youtube.com/watch?v=IqPm9RYTNBM) `0:01:06`
+	- [ ] [How to quickly view parameter information in PyCharm](https://www.youtube.com/watch?v=hfWhDwp7zz8) `0:00:38`
+	- [ ] [How to view arguments and documentation without interrupting your flow](https://www.youtube.com/watch?v=etvFP6kXsmo) `0:01:08`
+	- [ ] [How to make and extend selections in PyCharm](https://www.youtube.com/watch?v=mvZg7TaRjCM) `0:00:39`
+	- [ ] [How to reformat your code in PyCharm](https://www.youtube.com/watch?v=0WfDm3KQ-Cw) `0:00:46`
+	- [ ] [How to smart-add a new line in PyCharm](https://www.youtube.com/watch?v=pHmv6RzKrDk) `0:01:03`
+	- [ ] [How to split the screen in PyCharm](https://www.youtube.com/watch?v=VcqbOtn1s0w) `0:01:35`
+	- [ ] [How to get PyCharm adding fields in a constructor for you](https://www.youtube.com/watch?v=eJW507pl4qk) `0:00:47`
+	- [ ] [How to use refactoring to rename symbols in PyCharm](https://www.youtube.com/watch?v=cJ0tP9kxoYk) `0:01:13`
+	- [ ] [How to avoid disasters by using the local history in PyCharm](https://www.youtube.com/watch?v=hoCkDQCfjwM) `0:01:21`
+	- [ ] [How to run your project from the keyboard in PyCharm](https://www.youtube.com/watch?v=oSEMKeUVjlE) `0:01:21`
+	- [ ] [How to disable tabs in PyCharm](https://www.youtube.com/watch?v=k7P__ZhUv-g) `0:00:55`
+	- [ ] [How to speed up coverage in PyCharm](https://www.youtube.com/watch?v=OCH_gPfrvzw) `0:01:34`
+	- [ ] [How to enable auto-run for your tests in PyCharm](https://www.youtube.com/watch?v=4kHncS_gPX0) `0:01:45`
+	- [ ] [How to run a single test in PyCharm](https://www.youtube.com/watch?v=-3SS0s-Y420) `0:01:08`
+	- [ ] [How to use the gutter to quickly spot missing tests in PyCharm](https://www.youtube.com/watch?v=HQ_bqOBXZ5w) `0:01:06`
+	- [ ] [How to reword a commit message in PyCharm](https://www.youtube.com/watch?v=3JSyNP1JRxA) `0:00:49`
+	- [ ] [How to do partial commits in PyCharm](https://www.youtube.com/watch?v=NQ-q361wD9Q) `0:01:01`
+	- [ ] [How to put a project under version control in PyCharm](https://www.youtube.com/watch?v=36RFkThiZug) `0:01:08`
+	- [ ] [How to get started with a repository from GitHub in PyCharm](https://www.youtube.com/watch?v=ukbvdF5wqPQ) `0:01:07`
+	- [ ] [How to undo the last commit in PyCharm](https://www.youtube.com/watch?v=R5L5fZi_ldg) `0:00:52`
+	- [ ] [How to quickly show your npm scripts in PyCharm](https://www.youtube.com/watch?v=Nv5vO2loJ_c) `0:01:25`
+	- [ ] [How to use 'surround with' to insert elements in PyCharm](https://www.youtube.com/watch?v=GK7DEI6zOB8) `0:01:11`
 
 ### Be able to communicate and collaborate well
 - [ ] [Google: Technical Writing](https://developers.google.com/tech-writing)
