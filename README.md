@@ -205,6 +205,7 @@
 - [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 - [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+- []  [Intellipaat: SQL Tutorial](https://intellipaat.com/blog/tutorial/sql-tutorial/)
 
 ### Be able to use the command line
 - [ ] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
