@@ -1436,6 +1436,7 @@
     - [X] [How Freshworks Freddy AI leverages NLP for Ethics-First Customer Experiences | NLP Summit 2020](https://www.youtube.com/watch?v=FxG92XXbnD8) `0:26:49`
     - [X] [NLP for Recruitment Automation: Building a Chatbot from the Job Description | NLP Summit 2020](https://www.youtube.com/watch?v=i6-RMbE_auQ) `0:22:31`
 - [ ] [Youtube: Explainability for Natural Language Processing](https://www.youtube.com/watch?v=3tnrGe_JA0s)
+- [X] [Youtube: Gibberish Detector](https://www.youtube.com/watch?v=l15C8UJu17s)
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
