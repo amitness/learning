@@ -1782,6 +1782,8 @@
 - [ ] [Article: Hypermodern Python Chapter 4: Typing](https://cjolowicz.github.io/posts/hypermodern-python-04-typing/)
 - [ ] [Article: Hypermodern Python Chapter 5: Documentation](https://cjolowicz.github.io/posts/hypermodern-python-05-documentation/)
 - [ ] [Article: Hypermodern Python Chapter 6: CI/CD](https://cjolowicz.github.io/posts/hypermodern-python-06-ci-cd/)
+- [ ] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+- [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
 - [X] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
 - [X] [Book: A Byte of Python](https://python.swaroopch.com)
 - [X] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
