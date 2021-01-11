@@ -1773,6 +1773,9 @@
 	- [ ] [A Conversation with Seattle Data Guy // Benjamin Rogojan // MLOps Coffee Sessions #21](https://www.youtube.com/watch?v=o-YXAq9vii4) `0:47:11`
 - [ ] [Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)
 
+### Be able to perform load testing
+- [X] [Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)
+
 ### Be able to perform A/B testing
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
 - [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
