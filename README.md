@@ -250,6 +250,7 @@
 
 ### Be able to experiment in notebook
 - [X] [Article: Securely storing configuration credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
+- [ ] [Calmcode: ipywidgets](https://calmcode.io/ipywidgets/introduction.html)
 - [X] [Pluralsight: Getting Started with Jupyter Notebook and Python](https://www.pluralsight.com/courses/jupyter-notebook-python)
 - [X] [Youtube: William Horton - A Brief History of Jupyter Notebooks](https://www.youtube.com/watch?v=kFhhCOeYcGw)
 - [X] [Youtube: I Like Notebooks](https://www.youtube.com/watch?v=9Q6sLbz37gk)
@@ -965,6 +966,8 @@
 - [X] [Article: NLP Year In Review](https://pakodas.substack.com/p/nlp-year-in-review)
 - [X] [Article: Using an NLP Q&A System To Study Climate Hazards and Nature-Based Solutions](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)
 - [X] [Article: Building a sentence embedding index with fastText and BM25](https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240)
+- [ ] [Article: Topic Modeling for Keyword Extraction](http://bugra.github.io/posts/2017/2/5/topic-modeling-for-keyword-extraction/)
+- [ ] [Article: Poor man’s GPT-3: Few shot text generation with T5 Transformer](https://towardsdatascience.com/poor-mans-gpt-3-few-shot-text-generation-with-t5-transformer-51f1b01f843e)
 - [ ] [Article: Paraphrasing](http://veredshwartz.blogspot.com/2017/08/paraphrasing.html)
 - [ ] [Article: Spelling Correction: How to make an accurate and fast corrector](https://towardsdatascience.com/spelling-correction-how-to-make-an-accurate-and-fast-corrector-dc6d0bcbba5f)
 - [ ] [Article: Text Generation](http://veredshwartz.blogspot.com/2019/08/text-generation.html)
@@ -1643,6 +1646,8 @@
 - [X] [Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)
 - [X] [Article: How to Deploy a Machine Learning Model](https://www.maartengrootendorst.com/blog/deploy/)
 - [X] [Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)
+- [ ] [Article: How to Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)
+- [ ] [Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)
 - [ ] [Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
 - [ ] [Article: Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
 - [ ] [Article: Machine Learning to Production](https://vikramriyer.github.io/machine-learning-to-production/#)
@@ -1785,6 +1790,7 @@
 ### Be proficient in Python
 - [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
 - [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
+- [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
 - [ ] [Article: Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
 - [ ] [Article: Hypermodern Python Chapter 2: Testing](https://cjolowicz.github.io/posts/hypermodern-python-02-testing/)
 - [ ] [Article: Hypermodern Python Chapter 3: Linting](https://cjolowicz.github.io/posts/hypermodern-python-03-linting/)
