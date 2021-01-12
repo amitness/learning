@@ -1646,6 +1646,7 @@
 - [X] [Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)
 - [X] [Article: How to Deploy a Machine Learning Model](https://www.maartengrootendorst.com/blog/deploy/)
 - [X] [Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)
+- [ ] [Article: Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)
 - [ ] [Article: How to Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)
 - [ ] [Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)
 - [ ] [Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
