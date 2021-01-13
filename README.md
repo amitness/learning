@@ -1653,6 +1653,21 @@
 - [ ] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
 - [ ] [Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [ ] [Article: How to properly ship and deploy your machine learning model](https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4)
+- [ ] [Cortex Blog]
+	- [X] [Server-side batching: Scaling inference throughput in machine learning](https://www.cortex.dev/post/server-side-batching-scaling-inference-throughput)
+	- [X] [How we served 1,000 models on GPUs for $0.47](https://www.cortex.dev/post/how-we-served-1-000-models-on-gpus)
+	- [X] [Designing a machine learning platform for both data scientists and engineers](https://www.cortex.dev/post/designing-a-machine-learning-platform-for-both-data-scientists-and-engineers)
+	- [X] [How to serve batch predictions with TensorFlow Serving](https://www.cortex.dev/post/batch-prediction-with-tensorflow-serving)
+	- [X] [How to deploy Transformer models for language tasks](https://www.cortex.dev/post/how-to-deploy-text-transformer-models)
+	- [X] [How we scale machine learning model deployment on Kubernetes](https://www.cortex.dev/post/scale-machine-learning-model-deployment-kubernetes)
+	- [X] [Why we built a serverless machine learning platform—instead of using AWS Lambda](https://www.cortex.dev/post/serverless-machine-learning-aws-lambda)
+	- [X] [Why we don’t deploy machine learning models with Flask](https://www.cortex.dev/post/dont-deploy-machine-learning-models-with-flask)
+	- [X] [How to deploy machine learning models from a notebook to production](https://www.cortex.dev/post/deploy-machine-learning-models-from-a-notebook-to-production)
+	- [X] [A/B testing machine learning models in production](https://www.cortex.dev/post/a-b-testing-machine-learning-models)
+	- [X] [How to deploy 1,000 models on one CPU with TensorFlow Serving](https://www.cortex.dev/post/deploy-tensorflow-serving-multi-model-caching)
+	- [X] [How to reduce the cost of machine learning inference](https://www.cortex.dev/post/reduce-machine-learning-inference-cost)
+	- [X] [Improve NLP inference throughput 40x with ONNX and Hugging Face](https://www.cortex.dev/post/40x-nlp-inference-with-hugging-face-and-onnx)
+	- [X] [How to deploy PyTorch Lightning models to production](https://www.cortex.dev/post/deploy-pytorch-lightning-models)
 - [ ] [Luigi Patruno: ML in Production](https://mlinproduction.com/)
     - [X] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
     - [ ] [Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)
@@ -1776,7 +1791,7 @@
 	- [ ] [The Current MLOps Landscape // Nathan Benaich & Timothy Chen // MLOps Meetup #43](https://www.youtube.com/watch?v=i6HZ2vjFLIs) `0:58:31`
 	- [ ] [A Conversation with Seattle Data Guy // Benjamin Rogojan // MLOps Coffee Sessions #21](https://www.youtube.com/watch?v=o-YXAq9vii4) `0:47:11`
 - [ ] [Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)
-- [ ] [Youtube: PyData Vancouver meetup: cortex.dev : Serving machine learning models in production](https://www.youtube.com/watch?v=_2HMDhgPkSQ)
+- [X] [Youtube: PyData Vancouver meetup: cortex.dev : Serving machine learning models in production](https://www.youtube.com/watch?v=_2HMDhgPkSQ)
 
 ### Be able to perform load testing
 - [X] [Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)
