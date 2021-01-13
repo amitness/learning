@@ -1785,7 +1785,7 @@
 - [X] [Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
 - [X] [Youtube: Deploying a machine learning model to the cloud using AWS Lambda](https://www.youtube.com/watch?v=4ocbx9IeBMU&feature=youtu.be)
 - [X] [Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)
-- [ ] [Youtube: Human-Centric Machine Learning Infrastructure @Netflix](https://www.youtube.com/watch?v=XV5VGddmP24&feature=youtu.be)
+- [X] [Youtube: Human-Centric Machine Learning Infrastructure @Netflix](https://www.youtube.com/watch?v=XV5VGddmP24&feature=youtu.be)
 - [ ] [Youtube: Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)
 - [ ] [Youtube: OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.youtube.com/watch?v=hBMHohkRgAA)
 - [ ] [Youtube: Applied ML in Production](https://www.youtube.com/playlist?list=PLqy_sIcckLC2jrxQhyqWDhL_9Uwxz8UFq)
