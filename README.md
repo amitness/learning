@@ -177,7 +177,7 @@
 - [X] [Youtube: Using Intent Data to Optimize the Self-Solve Experience](https://lucidworks.com/post/using-intent-data-to-optimize-the-self-solve-experience/)
 - [X] [Youtube: Trillions of Questions, No Easy Answers: A (home) movie about how Google Search works](https://www.youtube.com/watch?v=tFq6Q_muwG0)
 
-### Understand data ethics better
+### Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
     - [ ] [Lesson 1: Disinformation](http://ethics.fast.ai/videos/?lesson=1)
@@ -302,7 +302,7 @@
 - [ ] [Google: Feature Engineering](https://www.coursera.org/learn/feature-engineering)
 - [ ] [Udacity: Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 
-### Be able to experiment in notebook
+### Be able to experiment in a notebook
 - [X] [Article: Securely storing configuration credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
 - [ ] [Calmcode: ipywidgets](https://calmcode.io/ipywidgets/introduction.html)
 - [X] [Pluralsight: Getting Started with Jupyter Notebook and Python](https://www.pluralsight.com/courses/jupyter-notebook-python)
@@ -590,11 +590,6 @@
     - [ ] [Stanford MLSys Seminar Episode 3: Virginia Smith](https://www.youtube.com/watch?v=laCyJICLyWg) `1:00:55`
     - [ ] [Stanford MLSys Seminar Episode 4: Alex Ratner](https://www.youtube.com/watch?v=pDVV4zKNqIE) `1:13:34`
     - [X] [Stanford MLSys Seminar Episode 5: Chip Huyen](https://www.youtube.com/watch?v=c_AUuTuPA5k) `1:06:44`
-- [ ] [Youtube: DVC Basics](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg)
-	- [X] [Versioning Data with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=kLKBcPonMYw) `0:13:04`
-	- [X] [Sharing Data and Models with DVC (Hands-On Data Science Tutorial!)](https://www.youtube.com/watch?v=EE7Gk84OZY8) `0:08:53`
-	- [ ] [Machine Learning Pipelines with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=71IGzyH95UY) `0:10:04`
-	- [ ] [Machine Learning Experiments with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=iduHPtBncBk) `0:07:29`
 
 ### Be able to utilize version control
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
@@ -609,6 +604,13 @@
 - [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [X] [Youtube: 045 Introduction to Git LFS](https://youtu.be/xPFLAAhuGy0)
+
+### Be able to use data version control
+- [ ] [Youtube: DVC Basics](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg)
+	- [X] [Versioning Data with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=kLKBcPonMYw) `0:13:04`
+	- [X] [Sharing Data and Models with DVC (Hands-On Data Science Tutorial!)](https://www.youtube.com/watch?v=EE7Gk84OZY8) `0:08:53`
+	- [ ] [Machine Learning Pipelines with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=71IGzyH95UY) `0:10:04`
+	- [ ] [Machine Learning Experiments with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=iduHPtBncBk) `0:07:29`
 
 ### Be familiar with fundamental ML algorithms
 - [X] [Article: Validating your Machine Learning Model](https://www.maartengrootendorst.com/blog/validate/)
@@ -765,8 +767,6 @@
     - [ ] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://youtu.be/UOvPeC8WOt8?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
 - [X] [Youtube: Deep Double Descent](https://youtu.be/R29awq6jvUw)
 - [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
-
-### Be familiar with a breadth of new techniques
 - [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
 - [X] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
 
@@ -848,7 +848,7 @@
 - [X] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 - [X] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
 - [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
-- [ ] [Youtube: PyTorch Lightning 101](https://www.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+- [X] [Youtube: PyTorch Lightning 101](https://www.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
   - [X] [Training a classification model on MNIST with PyTorch](https://youtu.be/OMDn66kM9Qc?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
   - [X] [From PyTorch to PyTorch Lightning](https://youtu.be/DbESHcCoWbM?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
   - [X] [Lightning Data Modules](https://youtu.be/L---MBeSXFw)
@@ -1668,7 +1668,7 @@
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 - [X] [Youtube: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList | AISC](https://www.youtube.com/watch?v=A0od6RosVSA)
 
-### Be able to develop REST APIs
+### Be able to serve models as REST APIs
 - [ ] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
 - [X] [Article: Deploy BERT for Sentiment Analysis as REST API using PyTorch, Transformers by Hugging Face and FastAPI](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
 - [ ] [Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)
@@ -1682,7 +1682,7 @@
 - [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
 - [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
 
-### Be able to build interactive webapps for models
+### Be able to build interactive UI for models
 - [X] [Article: Build and Deploy a Dashboard with Streamlit](https://www.maartengrootendorst.com/blog/streamlit/)
 - [X] [Article: New layout options for Streamlit](https://blog.streamlit.io/introducing-new-layout-options-for-streamlit/)
 
@@ -1758,7 +1758,6 @@
     - [ ] [Article: Lessons Learned from 15 Years of Monitoring Machine Learning in Production](https://mlinproduction.com/lessons-learned-from-15-years-of-monitoring-machine-learning-in-production/)
     - [ ] [Article: Why is it Important to Monitor Machine Learning Models?](https://mlinproduction.com/why-is-it-important-to-monitor-machine-learning-models/)
     - [ ] [Article: Maximizing Business Impact with Machine Learning](https://mlinproduction.com/maximizing-business-impact-with-machine-learning/)
-- [ ] [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
 - [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [X] [Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)
 - [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
@@ -1951,9 +1950,9 @@
 - [X] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
 
 ### Be familiar with fundamental Computer Science concepts
+- [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [ ] [Crashcourse: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
-- [X] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
