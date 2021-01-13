@@ -1701,7 +1701,7 @@
 - [ ] [Servers for Hackers Series](https://serversforhackers.com/)
 - [ ] [The Hacker's Guide to Scaling Python](https://scaling-python.com/)
 - [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [ ] [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+- [X] [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [ ] [Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 - [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
 - [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
