@@ -13,7 +13,9 @@
 - [Just in Time Learning](https://www.developgoodhabits.com/just-in-time-learning/)
 
 ## Index
+
 <!-- toc -->
+
 - [Have basic business understanding](#have-basic-business-understanding)
 - [Be able to frame a ML problem](#be-able-to-frame-a-ml-problem)
 - [Understand data ethics better](#understand-data-ethics-better)
