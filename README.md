@@ -262,7 +262,7 @@
 - [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 - [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
-- []  [Intellipaat: SQL Tutorial](https://intellipaat.com/blog/tutorial/sql-tutorial/)
+- [ ]  [Intellipaat: SQL Tutorial](https://intellipaat.com/blog/tutorial/sql-tutorial/)
 
 ### Be able to use the command line
 - [ ] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
@@ -1646,7 +1646,6 @@
 
 ### Be able to optimize models for production
 - [X] [Article: A Survey of Methods for Model Compression in NLP](https://www.pragmatic.ml/a-survey-of-methods-for-model-compression-in-nlp/)
-- [X] [Article: How to deploy PyTorch Lightning models to production](https://www.cortex.dev/post/deploy-pytorch-lightning-models)
 - [X] [Article: Why you should convert your NLP pipelines to ONNX](https://towardsdatascience.com/why-you-should-convert-your-nlp-pipelines-to-onnx-2c4a3433325f)
 - [ ] [Article: Neural Network Pruning](https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html)
 - [ ] [Article: FasterAI](https://nathanhubens.github.io/posts/deep%20learning/2020/08/17/FasterAI.html)
@@ -1706,10 +1705,10 @@
 - [ ] [Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
 - [ ] [Article: Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
 - [ ] [Article: Machine Learning to Production](https://vikramriyer.github.io/machine-learning-to-production/#)
-- [ ] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
-- [ ] [Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
+- [X] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
+- [X] [Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [ ] [Article: How to properly ship and deploy your machine learning model](https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4)
-- [ ] [Cortex Blog]
+- [ ] [Cortex Blog](https://www.cortex.dev/learn)
 	- [X] [Server-side batching: Scaling inference throughput in machine learning](https://www.cortex.dev/post/server-side-batching-scaling-inference-throughput)
 	- [X] [How we served 1,000 models on GPUs for $0.47](https://www.cortex.dev/post/how-we-served-1-000-models-on-gpus)
 	- [X] [Designing a machine learning platform for both data scientists and engineers](https://www.cortex.dev/post/designing-a-machine-learning-platform-for-both-data-scientists-and-engineers)
@@ -1726,10 +1725,10 @@
 	- [X] [How to deploy PyTorch Lightning models to production](https://www.cortex.dev/post/deploy-pytorch-lightning-models)
 - [ ] [Luigi Patruno: ML in Production](https://mlinproduction.com/)
     - [X] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
-    - [ ] [Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)
-    - [ ] [Article: Docker for Machine Learning – Part II](https://mlinproduction.com/docker-for-ml-part-2/)
-    - [ ] [Article: Docker for Machine Learning – Part III](https://mlinproduction.com/docker-for-ml-part-3/)
-    - [ ] [Article: Using Docker to Generate Machine Learning Predictions in Real Time](https://mlinproduction.com/docker-for-ml-part-4/)
+    - [X] [Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)
+    - [X] [Article: Docker for Machine Learning – Part II](https://mlinproduction.com/docker-for-ml-part-2/)
+    - [X] [Article: Docker for Machine Learning – Part III](https://mlinproduction.com/docker-for-ml-part-3/)
+    - [X] [Article: Using Docker to Generate Machine Learning Predictions in Real Time](https://mlinproduction.com/docker-for-ml-part-4/)
     - [ ] [Article: Batch Inference vs Online Inference](https://mlinproduction.com/batch-inference-vs-online-inference/)
     - [ ] [Article: Storing Metadata from Machine Learning Experiments](https://mlinproduction.com/ml-metadata/)
     - [ ] [Article: How Data Leakage Impacts Machine Learning Models](https://mlinproduction.com/data-leakage/)
@@ -1845,7 +1844,7 @@
 	- [ ] [UN Global Platform // Mark Craddock // Co-Founder & CTO, Global Certification // MLOps Meetup #42](https://www.youtube.com/watch?v=6oFCqGE_2-U) `0:58:48`
 	- [ ] [The Current MLOps Landscape // Nathan Benaich & Timothy Chen // MLOps Meetup #43](https://www.youtube.com/watch?v=i6HZ2vjFLIs) `0:58:31`
 	- [ ] [A Conversation with Seattle Data Guy // Benjamin Rogojan // MLOps Coffee Sessions #21](https://www.youtube.com/watch?v=o-YXAq9vii4) `0:47:11`
-- [ ] [Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)
+- [X] [Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)
 - [X] [Youtube: PyData Vancouver meetup: cortex.dev : Serving machine learning models in production](https://www.youtube.com/watch?v=_2HMDhgPkSQ)
 
 ### Be able to perform load testing
