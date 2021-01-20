@@ -845,6 +845,7 @@
 - [X] [Article: Understanding Bidirectional RNN in PyTorch](https://towardsdatascience.com/understanding-bidirectional-rnn-in-pytorch-5bd25a5dd66)
 - [ ] [Article: But what are PyTorch DataLoaders really?](https://www.scottcondron.com/jupyter/visualisation/audio/2020/12/02/dataloaders-samplers-collate.html)
 - [ ] [Article: How to Build a Streaming DataLoader with PyTorch](https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd)
+- [ ] [Article: Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/)
 - [X] [Documentation: Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
 - [X] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 - [X] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
@@ -1021,6 +1022,8 @@
 - [X] [Article: NLP Year In Review](https://pakodas.substack.com/p/nlp-year-in-review)
 - [X] [Article: Using an NLP Q&A System To Study Climate Hazards and Nature-Based Solutions](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)
 - [X] [Article: Building a sentence embedding index with fastText and BM25](https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240)
+- [X] [Article: ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/)
+- [ ] [Article: Simple PyTorch Transformer Example with Greedy Decoding](https://colab.research.google.com/drive/1swXWW5sOLW8zSZBaQBYcGQkQ_Bje_bmI)
 - [ ] [Article: Topic Modeling for Keyword Extraction](http://bugra.github.io/posts/2017/2/5/topic-modeling-for-keyword-extraction/)
 - [ ] [Article: Poor man’s GPT-3: Few shot text generation with T5 Transformer](https://towardsdatascience.com/poor-mans-gpt-3-few-shot-text-generation-with-t5-transformer-51f1b01f843e)
 - [ ] [Article: Paraphrasing](http://veredshwartz.blogspot.com/2017/08/paraphrasing.html)
@@ -1644,6 +1647,7 @@
 ### Be familiar with literature on model interpretability
 - [X] [Article: How to leverage Explainable Machine Learning](https://www.maartengrootendorst.com/blog/black-boxes/)
 - [ ] [NeurIPS 2020: Tutorial on Explaining ML Predictions: State-of-the-art, Challenges, and Opportunities](https://www.youtube.com/watch?v=EbpU4p_0hes&feature=emb_logo)
+- [ ] [Youtube: Jay Alammar - Take A Look Inside Language Models With Ecco](https://www.youtube.com/watch?v=rHrItfNeuh0)
 
 ### Be able to optimize models for production
 - [X] [Article: A Survey of Methods for Model Compression in NLP](https://www.pragmatic.ml/a-survey-of-methods-for-model-compression-in-nlp/)
@@ -1700,6 +1704,8 @@
 - [X] [Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)
 - [X] [Article: How to Deploy a Machine Learning Model](https://www.maartengrootendorst.com/blog/deploy/)
 - [X] [Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)
+- [X] [Article: How to scale services using Docker Compose](https://medium.com/@karthi.net/how-to-scale-services-using-docker-compose-31d7b83a6648)
+- [X] [Article: Understand Linux Load Averages and Monitor Performance of Linux](https://www.tecmint.com/understand-linux-load-averages-and-monitor-performance/)
 - [ ] [Article: Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)
 - [ ] [Article: How to Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)
 - [ ] [Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)
@@ -1861,6 +1867,7 @@
 - [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
 - [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
 - [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
+- [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
 - [ ] [Article: Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
 - [ ] [Article: Hypermodern Python Chapter 2: Testing](https://cjolowicz.github.io/posts/hypermodern-python-02-testing/)
 - [ ] [Article: Hypermodern Python Chapter 3: Linting](https://cjolowicz.github.io/posts/hypermodern-python-03-linting/)
@@ -2041,6 +2048,7 @@
 
 ### Be familiar with the hiring pipeline
 - [X] [Article: What You Need to Know Before Considering a PhD](https://www.fast.ai/2018/08/27/grad-school/)
+- [X] [Article: Advice to aspiring data scientists: start a blog](http://varianceexplained.org/r/start-blog/)
 - [ ] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
 - [ ] [Datacamp: Preparing for Coding Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-coding-interview-questions-in-python)
 - [X] [Datacamp: Kaggle Competition](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
@@ -2052,6 +2060,7 @@
 - [ ] [Udacity: Craft Your Cover Letter](https://www.udacity.com/course/craft-your-cover-letter--ud244)
 - [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [ ] [Youtube: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
+- [X] [Youtube: The Importance of Writing in a Tech Career - Eugene Yan](https://youtu.be/vXWGd7olv3c)
 
 ### Broaden Perspective
 - [X] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
@@ -2065,3 +2074,4 @@
 - [X] [Book: The Subtle Art of Not Giving a F\*\*k](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 - [X] [Calmcode: Pomodoro](https://calmcode.io/pomodoro/introduction.html)
 - [X] [Youtube: Why specializing early doesn't always mean career success | David Epstein](https://www.youtube.com/watch?v=B6lBtiQZSho)
+- [X] [Youtube: Chamath Palihapitiya, Founder and CEO Social Capital, on Money as an Instrument of Change](https://youtu.be/PMotykw0SIk)
