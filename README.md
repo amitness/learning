@@ -1503,6 +1503,13 @@
     - [X] [NLP for Recruitment Automation: Building a Chatbot from the Job Description | NLP Summit 2020](https://www.youtube.com/watch?v=i6-RMbE_auQ) `0:22:31`
 - [ ] [Youtube: Explainability for Natural Language Processing](https://www.youtube.com/watch?v=3tnrGe_JA0s)
 - [X] [Youtube: Gibberish Detector](https://www.youtube.com/watch?v=l15C8UJu17s)
+- [X] [Youtube: NLP Lecture 7 Constituency Parsing](https://www.youtube.com/playlist?list=PLr9TFf9GjancAHiiP5cqGmYsZad99Uf_h)
+	- [X] [NLP Lecture 7 - Overview of Constituency Parsing Lecture](https://www.youtube.com/watch?v=pXTrY2GPMn0) `0:01:50`
+	- [X] [NLP Lecture 7 - Introduction to Constituency Parsing](https://www.youtube.com/watch?v=El4r91dgCTQ) `0:10:29`
+	- [X] [NLP Lecture 7(a) - Context Free Grammar](https://www.youtube.com/watch?v=kq4aUYzLlb0) `0:17:03`
+	- [X] [NLP Lecture 7(b) - Constituency Parsing](https://www.youtube.com/watch?v=_OpOoiySZRA) `0:13:28`
+	- [X] [NLP Lecture 7(c) - Statistical Constituency Parsing](https://www.youtube.com/watch?v=avmq_oVGOOM) `0:09:38`
+	- [X] [NLP Lecture 7(d) - Dependency Parsing](https://www.youtube.com/watch?v=2jLk93iIyrw) `0:17:15`
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
