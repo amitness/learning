@@ -1510,6 +1510,7 @@
 	- [X] [NLP Lecture 7(b) - Constituency Parsing](https://www.youtube.com/watch?v=_OpOoiySZRA) `0:13:28`
 	- [X] [NLP Lecture 7(c) - Statistical Constituency Parsing](https://www.youtube.com/watch?v=avmq_oVGOOM) `0:09:38`
 	- [X] [NLP Lecture 7(d) - Dependency Parsing](https://www.youtube.com/watch?v=2jLk93iIyrw) `0:17:15`
+- [X] [Youtube: LING 83 Teaching Video: Constituency Parsing](https://www.youtube.com/watch?v=G_bd2z4mIiI)
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
