@@ -111,7 +111,7 @@
 	- [ ] [How To Create A Compelling Brand](https://www.youtube.com/watch?v=ttT3IbkZ_Qo) `0:05:52`
 	- [ ] [Designing Your Customer Experience & Case Studies](https://www.youtube.com/watch?v=CRz0pn3N5bs) `0:07:32`
 
-### Be able to frame a ML problem
+### Be able to frame an ML problem
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
 - [X] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
 - [X] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
@@ -122,6 +122,8 @@
 - [ ] [Article: A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
 - [ ] [Article: How to deliver on Machine Learning projects](https://mlpowered.com/posts/how-to-deliver-on-machine-learning-projects/)
 - [ ] [Article: Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
+- [X] [Article: Customer service is full of machine learning problems](http://nlathia.github.io/2020/06/Customer-service-machine-learning.html)
+- [ ] [Article: Machine Learning @ Monzo in 2020](http://nlathia.github.io/2020/10/Monzo-ML.html)
 - [X] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
 - [X] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
 - [X] [Book: The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
@@ -176,6 +178,8 @@
 - [X] [Youtube: Accuracy as a Failure](https://youtu.be/YGuVuZpTop0)
 - [X] [Youtube: Using Intent Data to Optimize the Self-Solve Experience](https://lucidworks.com/post/using-intent-data-to-optimize-the-self-solve-experience/)
 - [X] [Youtube: Trillions of Questions, No Easy Answers: A (home) movie about how Google Search works](https://www.youtube.com/watch?v=tFq6Q_muwG0)
+- [X] [Youtube: Hugging Face, Transformers | NLP Research and Open Source | Interview with Julien Chaumond](https://www.youtube.com/watch?v=ejWkDviM5QM)
+- [ ] [Youtube: Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020](https://www.youtube.com/watch?v=nJAmN6gWdK8&ab_channel=PyData)
 
 ### Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
@@ -845,6 +849,12 @@
 - [X] [Article: Understanding Bidirectional RNN in PyTorch](https://towardsdatascience.com/understanding-bidirectional-rnn-in-pytorch-5bd25a5dd66)
 - [ ] [Article: But what are PyTorch DataLoaders really?](https://www.scottcondron.com/jupyter/visualisation/audio/2020/12/02/dataloaders-samplers-collate.html)
 - [ ] [Article: How to Build a Streaming DataLoader with PyTorch](https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd)
+- [ ] [Article: Tricks for training PyTorch models to convergence more quickly](https://spell.ml/blog/pytorch-training-tricks-YAnJqBEAACkARhgD)
+- [ ] [Article: A developer-friendly guide to model pruning in PyTorch](https://spell.ml/blog/model-pruning-in-pytorch-X9pXQRAAACIAcH9h)
+- [ ] [Article: A developer-friendly guide to model quantization with PyTorch](https://spell.ml/blog/pytorch-quantization-X8e7wBAAACIAHPhT)
+- [ ] [Article: Distributed model training in PyTorch using DistributedDataParallel](https://spell.ml/blog/pytorch-distributed-data-parallel-XvEaABIAAB8Ars0e)
+- [ ] [Article: A developer-friendly guide to mixed precision training with PyTorch](https://spell.ml/blog/mixed-precision-training-with-pytorch-Xuk7YBEAACAASJam)
+- [ ] [Article: Fit More and Train Faster With ZeRO via DeepSpeed and FairScale](https://huggingface.co/blog/zero-deepspeed-fairscale)
 - [ ] [Article: Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/)
 - [X] [Documentation: Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
 - [X] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
@@ -909,6 +919,7 @@
 - [X] [Article: Paper Summary: DeViSE: A Deep Visual-Semantic Embedding Model](https://medium.com/@hyponymous/paper-summary-devise-a-deep-visual-semantic-embedding-model-c5f308d5ff98)
 - [X] [Article: An overview of proxy-label approaches for semi-supervised learning](https://ruder.io/semi-supervised/)
 - [X] [Article: Create, Visualize and Interpret Customer Segments](https://www.maartengrootendorst.com/blog/customer/)
+- [ ] [Article: A gentle introduction to HDBSCAN and density-based clustering](https://towardsdatascience.com/a-gentle-introduction-to-hdbscan-and-density-based-clustering-5fd79329c1e8)
 - [ ] [Article: Grouping data points with k-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/)
 - [ ] [Article: Soft clustering with Gaussian mixed models (EM)](https://www.jeremyjordan.me/gaussian-mixed-models/)
 - [ ] [Article: Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
@@ -1023,6 +1034,11 @@
 - [X] [Article: Using an NLP Q&A System To Study Climate Hazards and Nature-Based Solutions](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)
 - [X] [Article: Building a sentence embedding index with fastText and BM25](https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240)
 - [X] [Article: ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/)
+- [ ] [Article: Advance BERT model via transferring knowledge from Cross-Encoders to Bi-Encoders](https://towardsdatascience.com/advance-nlp-model-via-transferring-knowledge-from-cross-encoders-to-bi-encoders-3e0fc564f554)
+- [ ] [Article: Interactive Topic Modeling with BERTopic](https://towardsdatascience.com/interactive-topic-modeling-with-bertopic-1ea55e7d73d8)
+- [ ] [Article: Commonsense Reasoning for Natural Language Processing](http://veredshwartz.blogspot.com/2021/01/commonsense-reasoning-for-natural.html)
+- [ ] [Article: Zero shot NER using RoBERTA](https://krishansubudhi.github.io/deeplearning/2020/06/25/ROBERTA-zeroshot-NER.html)
+- [ ] [Article: Understanding Climate Change Domains through Topic Modeling](https://omdena.com/blog/topic-modeling/)
 - [ ] [Article: Simple PyTorch Transformer Example with Greedy Decoding](https://colab.research.google.com/drive/1swXWW5sOLW8zSZBaQBYcGQkQ_Bje_bmI)
 - [ ] [Article: Topic Modeling for Keyword Extraction](http://bugra.github.io/posts/2017/2/5/topic-modeling-for-keyword-extraction/)
 - [ ] [Article: Poor man’s GPT-3: Few shot text generation with T5 Transformer](https://towardsdatascience.com/poor-mans-gpt-3-few-shot-text-generation-with-t5-transformer-51f1b01f843e)
@@ -1188,6 +1204,25 @@
 	- [X] [CMU Multilingual NLP 2020 (21): Information Extraction](https://www.youtube.com/watch?v=uNIy-v2DUgc) `0:41:00`
 	- [X] [CMU Multilingual NLP 2020 (22): Multilingual NLP for Indigenous Languages](https://www.youtube.com/watch?v=wilwuzgLWdk) `1:21:58`
 	- [X] [CMU Multilingual NLP 2020 (23): Universal Translation at Scale](https://www.youtube.com/watch?v=mcl--ktVpjg) `1:27:33`
+- [ ] [CMU: MultiModal Machine Learning Fall 2020](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)
+	- [ ] [Lecture 1.1: Course Introduction](https://www.youtube.com/watch?v=VIq5r7mCAyw)
+	- [ ] [Lecture 1.2: Multimodal applications and datasets](https://www.youtube.com/watch?v=fBYu8I52nVM)
+	- [ ] [Lecture 2.1: Basic concepts: neural networks](https://www.youtube.com/watch?v=yPrwVpeysG8)
+	- [ ] [Lecture 2.2: Basic concepts: network optimization](https://www.youtube.com/watch?v=E_3gxQWaCoQ)
+	- [ ] [Lecture 3.1: Visual unimodal representations](https://www.youtube.com/watch?v=skcv-Xo33BM)
+	- [ ] [Lecture 3.2: Language unimodal representations](https://www.youtube.com/watch?v=XVHN0izviAw)
+	- [ ] [Lecture 4.1: Multimodal representation learning](https://www.youtube.com/watch?v=37z_tJD81y8)
+	- [ ] [Lecture 4.2: Coordinated representations](https://www.youtube.com/watch?v=2_dZ5GBlRgU)
+	- [ ] [Lecture 5.1: Multimodal alignment](https://www.youtube.com/watch?v=4P4qBBxpthg)
+	- [ ] [Lecture 5.2: Alignment and representation](https://www.youtube.com/watch?v=xcOMHwjNLaA)
+	- [ ] [Lecture 7.1: Alignment and translation](https://www.youtube.com/watch?v=rLGIrhq8HlQ)
+	- [ ] [Lecture 7.2: Probabilistic graphical models](https://www.youtube.com/watch?v=L1TiP9P55-8)
+	- [ ] [Lecture 8.1: Discriminative graphical models](https://www.youtube.com/watch?v=ZdR6aljufXk)
+	- [ ] [Lecture 8.2: Deep Generative Models](https://www.youtube.com/watch?v=qEbYtPhG768)
+	- [ ] [Lecture 9.1: Reinforcement learning](https://www.youtube.com/watch?v=OI02F2XEe_0)
+	- [ ] [Lecture 9.2: Multimodal RL](https://www.youtube.com/watch?v=UsAgvMC5fRs)
+	- [ ] [Lecture 10.1: Fusion and co-learning](https://www.youtube.com/watch?v=2xr4P0WGKSA)
+	- [ ] [Lecture 10.2: New research directions](https://www.youtube.com/watch?v=g3ZpSiwusrM)
 - [X] [Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)
 - [X] [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
 - [X] [Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)
@@ -1511,6 +1546,36 @@
 	- [X] [NLP Lecture 7(c) - Statistical Constituency Parsing](https://www.youtube.com/watch?v=avmq_oVGOOM) `0:09:38`
 	- [X] [NLP Lecture 7(d) - Dependency Parsing](https://www.youtube.com/watch?v=2jLk93iIyrw) `0:17:15`
 - [X] [Youtube: LING 83 Teaching Video: Constituency Parsing](https://www.youtube.com/watch?v=G_bd2z4mIiI)
+- [ ] [Youtube: SpaCy for Digital Humanities with Python Tutorials](https://www.youtube.com/playlist?list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo)
+	- [ ] [Introduction to SpaCy and Cleaning Data (SpaCy and Python Tutorials for DH - 01)](https://www.youtube.com/watch?v=8HZ4BjWMod4) `0:06:07`
+	- [ ] [How to Install SpaCy and Models (Spacy and Python Tutorial for DH 02)](https://www.youtube.com/watch?v=yqruv_QQctI) `0:07:40`
+	- [ ] [How to Separate Sentences in SpaCy (SpaCy and Python Tutorials for DH - 03)](https://www.youtube.com/watch?v=ytAyCO-n8tY) `0:08:33`
+	- [ ] [Spacy and Named Entity Recognition NER (Spacy and Python Tutorial for DH 04)](https://www.youtube.com/watch?v=lxHNsXudkrY) `0:08:32`
+	- [ ] [Finding Parts of Speech (SpaCy and Python Tutorial for DH 05)](https://www.youtube.com/watch?v=nv0pksknFxY) `0:02:55`
+	- [ ] [Extracting Nouns and Noun Chunks (SpaCy and Python Tutorial for DH 06)](https://www.youtube.com/watch?v=aNKt1gKK8Lo) `0:05:46`
+	- [ ] [Extracting Verbs and Verb Phrases (SpaCy and Python Tutorial for DH 07)](https://www.youtube.com/watch?v=VgGHwIWu-kU) `0:08:10`
+	- [ ] [Lemmatization: Finding the Roots of Words (Spacy and Python Tutorial for DH 08)](https://www.youtube.com/watch?v=YztOLsJkC3A) `0:04:52`
+	- [ ] [Data Visualization with DisplaCy (Spacy and Python Tutorial for DH 09)](https://www.youtube.com/watch?v=UYOq3LXoka8) `0:09:13`
+	- [ ] [Customizing DisplaCy Render Data Visualization (Spacy and Python Tutorial for DH 10)](https://www.youtube.com/watch?v=FAgMcg9hxkU) `0:08:19`
+	- [ ] [Finding Quotes in Sentences (SpaCy and Python Tutorial for DH 11)](https://www.youtube.com/watch?v=wZE4YmtEBe0) `0:08:45`
+	- [ ] [Introduction to Named Entity Recognition (NER for DH 01)](https://www.youtube.com/watch?v=E9h8qVm2uNY) `0:16:43`
+	- [ ] [Machine Learning NER with Python and spaCy (NER for DH 03 )](https://www.youtube.com/watch?v=2Ny0yATnuxY) `0:13:36`
+	- [ ] [How to Use spaCy's EntityRuler (Named Entity Recognition for DH 04 | Part 01)](https://www.youtube.com/watch?v=wpyCzodvO3A) `0:36:50`
+	- [ ] [How to Use spaCy to Create an NER training set (Named Entity Recognition for DH 04 | Part 02)](https://www.youtube.com/watch?v=YBRF7tq1V-Q) `0:10:32`
+	- [ ] [How to Train a spaCy NER model (Named Entity Recognition for DH 04 | Part 03)](https://www.youtube.com/watch?v=7Z1imsp6g10) `0:15:40`
+	- [ ] [Examining a spaCy Model in the Folder (Named Entity Recognition for DH 05)](https://www.youtube.com/watch?v=cuUf2H6uCA8) `0:15:06`
+	- [ ] [What are Word Vectors (Named Entity Recognition for DH 06)](https://www.youtube.com/watch?v=eZJm7PisZvk) `0:18:49`
+	- [ ] [How to Generate Custom Word Vectors in Gensim (Named Entity Recognition for DH 07)](https://www.youtube.com/watch?v=6HM75qOsgkU) `0:23:05`
+	- [ ] [How to Load Custom Word Vectors into spaCy Models (Named Entity Recognition for DH 08)](https://www.youtube.com/watch?v=aQPMWS6XiI8) `0:10:46`
+	- [ ] [Getting the Data for Custom Labels (Holocaust NER for DH 09.01)](https://www.youtube.com/watch?v=XScpSI3RYQI) `0:11:00`
+	- [ ] [How to Add a Custom NER Pipe in spaCy and a Custom Label (NER for DH 09.02 )](https://www.youtube.com/watch?v=1l3v2Zcgb3s) `0:07:49`
+	- [ ] [How to Training Custom Entities into spaCy Models (Named Entity Recognition for DH 09 03)](https://www.youtube.com/watch?v=EcwehOuoqxw) `0:15:29`
+	- [ ] [How to Add and Place Pipes from other Models into a New Model (NER for DH 09 04)](https://www.youtube.com/watch?v=fNvTnf10N2M) `0:12:24`
+	- [ ] [How to Add Custom Functions to spaCy Pipeline (NER for DH 09.05)](https://www.youtube.com/watch?v=XE22cAnwmuQ) `0:15:20`
+	- [ ] [Precision vs. Recall and Adding PERSON to Holocaust NER Pipeline (Named Entity Recognition DH 09.06)](https://www.youtube.com/watch?v=-321RJ_Rna8) `0:26:02`
+	- [ ] [Finalizing the Holocaust NER Pipeline (Named Entity Recognition for DH 09.07)](https://www.youtube.com/watch?v=MYs0W2fPxSo) `0:14:16`
+	- [ ] [Classical Latin Named Entity Recognition (NER for DH 10.01)](https://www.youtube.com/watch?v=zywMBYmV6Ew) `0:55:30`
+	- [ ] [How to Package spaCy Models (Even with Custom Factories) (NER for DH 11)](https://www.youtube.com/watch?v=AGM7lXfQECM) `0:15:31`
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
@@ -1714,12 +1779,29 @@
 - [X] [Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)
 - [X] [Article: How to scale services using Docker Compose](https://medium.com/@karthi.net/how-to-scale-services-using-docker-compose-31d7b83a6648)
 - [X] [Article: Understand Linux Load Averages and Monitor Performance of Linux](https://www.tecmint.com/understand-linux-load-averages-and-monitor-performance/)
+- [ ] [Article: Preventing model drift with continuous monitoring and deployment using Github Actions and Algorithmia Insights](https://algorithmia.com/blog/preventing-model-drift-with-continuous-monitoring-and-deployment-using-github-actions-and-algorithmia-insights)
+- [ ] [Article: Building a feature store](http://nlathia.github.io/2020/12/Building-a-feature-store.html)
+- [ ] [Article: Combining rule engines and machine learning](http://nlathia.github.io/2020/10/ML-and-rule-engines.html)
+- [ ] [Article: Model artifacts: the war stories](http://nlathia.github.io/2020/09/Model-artifacts-war-stories.html)
+- [ ] [Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)
+- [ ] [Article: When is a neural net too big for production?](http://nlathia.github.io/2019/09/Large-NLP-in-prod.html)
+- [ ] [Article: How to build scalable Machine Learning systems — Part 1/2](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
+- [ ] [Article: Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 - [ ] [Article: Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)
 - [ ] [Article: How to Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)
 - [ ] [Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)
 - [ ] [Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
 - [ ] [Article: Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
 - [ ] [Article: Machine Learning to Production](https://vikramriyer.github.io/machine-learning-to-production/#)
+- [ ] [Article: Online batching with Spell serving](https://spell.ml/blog/online-batching-with-spell-serving-X_OKiBAAAASq6cL0)
+- [ ] [Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)
+- [ ] [Article: Key Concepts for Deploying Machine Learning Models to Mobile](https://spell.ml/blog/key-concepts-for-deploying-machine-learning-models-X7Q0phIAACIAqMWr)
+- [ ] [Article: Getting oriented in the RAPIDS distributed ML ecosystem, part 1: ETL](https://spell.ml/blog/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-1-X1gixBIAAJ7nyzHa)
+- [ ] [Article: Getting oriented in the RAPIDS distributed ML ecosystem, part 2: training and scoring](https://spell.ml/blog/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-2-X68AOxIAACAAacZk)
+- [ ] [Article: Making model training scripts robust to spot interruptions](https://spell.ml/blog/spot-interruptions-XzQ5jRIAACIAK3h2)
+- [ ] [Article: Getting started with large-scale ETL jobs using Dask and AWS EMR](https://spell.ml/blog/large-scale-etl-jobs-using-dask-Xyl8GhEAACQAjK6h)
+- [ ] [Article: Distributed model training using Horovod](https://spell.ml/blog/distributed-model-training-using-horovod-XvqEGRUAACgAa5th)
+- [ ] [Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)
 - [X] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
 - [X] [Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [ ] [Article: How to properly ship and deploy your machine learning model](https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4)
@@ -1772,6 +1854,23 @@
     - [ ] [Article: Lessons Learned from 15 Years of Monitoring Machine Learning in Production](https://mlinproduction.com/lessons-learned-from-15-years-of-monitoring-machine-learning-in-production/)
     - [ ] [Article: Why is it Important to Monitor Machine Learning Models?](https://mlinproduction.com/why-is-it-important-to-monitor-machine-learning-models/)
     - [ ] [Article: Maximizing Business Impact with Machine Learning](https://mlinproduction.com/maximizing-business-impact-with-machine-learning/)
+- [ ] [Article: Unit Testing Celery Tasks](https://www.distributedpython.com/2018/05/01/unit-testing-celery-tasks/)
+- [ ] [Article: Testing Celery Chains](https://www.distributedpython.com/2018/05/15/testing-celery-chains/)
+- [ ] [Article: Task Routing in Celery](https://www.distributedpython.com/2018/05/29/task-routing/)
+- [ ] [Article: Dynamic Task Routing in Celery](https://www.distributedpython.com/2018/06/05/dynamic-task-routing/)
+- [ ] [Article: Dockerize a Celery app with Django and RabbitMQ](https://www.distributedpython.com/2018/06/12/celery-django-docker/)
+- [ ] [Article: How to call a Celery task from another app](https://www.distributedpython.com/2018/06/19/call-celery-task-outside-codebase/)
+- [ ] [Article: Distributed Monte Carlo with Celery chords](https://www.distributedpython.com/2018/06/26/celery-monte-carlo/)
+- [ ] [Article: An incredibly simple no-frills Celery setup](https://www.distributedpython.com/2018/07/03/simple-celery-setup/)
+- [ ] [Article: 3 Strategies to Customise Celery logging handlers](https://www.distributedpython.com/2018/08/28/celery-logging/)
+- [ ] [Article: Celery task exceptions and automatic retries](https://www.distributedpython.com/2018/09/04/error-handling-retry/)
+- [ ] [Article: Concurrency and Parallelism](https://www.distributedpython.com/2018/09/14/concurrency-and-parallelism/)
+- [ ] [Article: Celery, docker and the missing startup banner](https://www.distributedpython.com/2018/10/01/celery-docker-startup/)
+- [ ] [Article: Monitoring a Dockerized Celery Cluster with Flower](https://www.distributedpython.com/2018/10/13/flower-docker/)
+- [ ] [Article: Quick Guide: Custom Celery Task Logger](https://www.distributedpython.com/2018/11/06/celery-task-logger-format/)
+- [ ] [Article: Celery on Docker: From the Ground up](https://www.distributedpython.com/2018/11/15/celery-docker/)
+- [ ] [Article: Kubernetes for Python Developers: Part 1](https://www.distributedpython.com/2018/11/28/kubernetes-python-developers-part-1/)
+- [ ] [Article: Auto-reload Celery on code changes](https://www.distributedpython.com/2019/04/23/celery-reload/)
 - [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [X] [Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)
 - [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
@@ -2057,6 +2156,8 @@
 ### Be familiar with the hiring pipeline
 - [X] [Article: What You Need to Know Before Considering a PhD](https://www.fast.ai/2018/08/27/grad-school/)
 - [X] [Article: Advice to aspiring data scientists: start a blog](http://varianceexplained.org/r/start-blog/)
+- [ ] [Article: Systems Design Interview Guide](http://patrickhalina.com/posts/systems-design-interview-guide/)
+- [ ] [Article: A Guide to Cold Emailing](http://eugenevinitsky.github.io/posts/2020-12-25-coldemails.html)
 - [ ] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
 - [ ] [Datacamp: Preparing for Coding Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-coding-interview-questions-in-python)
 - [X] [Datacamp: Kaggle Competition](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
@@ -2069,6 +2170,8 @@
 - [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [ ] [Youtube: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
 - [X] [Youtube: The Importance of Writing in a Tech Career - Eugene Yan](https://youtu.be/vXWGd7olv3c)
+- [X] [Youtube: How to prepare for Machine Learning interviews- Part 1 | Applied AI Course](https://youtu.be/sLAnpLlkh9U?list=LL)
+- [X] [Youtube: How to prepare for Machine Learning interviews- Part 2 | Applied AI Course](https://youtu.be/JxTR1LM4YSA?list=LL)
 
 ### Broaden Perspective
 - [X] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
