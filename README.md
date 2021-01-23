@@ -17,7 +17,7 @@
 <!-- toc -->
 
 - [Have basic business understanding](#have-basic-business-understanding)
-- [Be able to frame a ML problem](#be-able-to-frame-a-ml-problem)
+- [Be able to frame an ML problem](#be-able-to-frame-an-ml-problem)
 - [Be familiar with data ethics](#be-familiar-with-data-ethics)
 - [Be able to import data from multiple sources](#be-able-to-import-data-from-multiple-sources)
 - [Be able to annotate data efficiently](#be-able-to-annotate-data-efficiently)
