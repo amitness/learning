@@ -272,6 +272,7 @@
 ### Be able to use the command line
 - [ ] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
 - [X] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
+- [X] [Calmcode: entr](https://calmcode.io/entr/introduction.html)
 - [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
 - [X] [Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)
@@ -315,6 +316,7 @@
 - [X] [Youtube: I Like Notebooks](https://www.youtube.com/watch?v=9Q6sLbz37gk)
 - [X] [Youtube: I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)](https://www.youtube.com/watch?v=7jiPeIFXb6U)
 - [X] [Youtube: Ryan Herr - After model.fit, before you deploy| JupyterCon 2020](https://www.youtube.com/watch?v=hGHwu1h3l6g)
+- [X] [Youtube: nbdev live coding with Hamel Husain](https://www.youtube.com/watch?v=ZJTop5uqC2U&feature=youtu.be)
 
 ### Be able to visualize data
 - [X] [Article: Creating a Catchier Word Cloud Presentation](https://towardsdatascience.com/creating-a-catchier-word-cloud-presentation-e17fa2c1ef46)
@@ -889,6 +891,7 @@
     - [X] [PyTorch Lecture 12: RNN1 - Basics](https://www.youtube.com/watch?v=ogZi5oIo4fI) `0:28:47`
     - [X] [PyTorch Lecture 13: RNN 2 - Classification](https://www.youtube.com/watch?v=1vGOQAel2yU) `0:17:22`
 - [X] [PyTorch Developer Day 2020 | Full Livestream](https://www.youtube.com/watch?v=jaPVoObpdO0)
+- [ ] [Youtube: Lightning Chat: How a Grandmaster Won a Kaggle Competition Using Pytorch Lightning](https://www.youtube.com/watch?app=desktop&v=0HQCK_l-njI)
 
 ### Be able to implement models using cloud services
 - [X] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
@@ -1752,11 +1755,11 @@
 - [X] [Youtube: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList | AISC](https://www.youtube.com/watch?v=A0od6RosVSA)
 
 ### Be able to serve models as REST APIs
-- [ ] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
+- [X] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
 - [X] [Article: Deploy BERT for Sentiment Analysis as REST API using PyTorch, Transformers by Hugging Face and FastAPI](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
 - [ ] [Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)
 - [X] [Article: Selecting gunicorn worker types for different python web applications.](https://medium.com/@nhudinhtuan/gunicorn-worker-types-practice-advice-for-better-performance-7a299bb8f929)
-- [ ] [Article: Better performance by optimizing Gunicorn config](https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7)
+- [X] [Article: Better performance by optimizing Gunicorn config](https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7)
 - [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
 - [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 - [ ] [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
@@ -1863,6 +1866,7 @@
     - [X] [Article: Why is it Important to Monitor Machine Learning Models?](https://mlinproduction.com/why-is-it-important-to-monitor-machine-learning-models/)
     - [X] [Article: Maximizing Business Impact with Machine Learning](https://mlinproduction.com/maximizing-business-impact-with-machine-learning/)
 - [X] [Article: Proxy Metrics](https://gibsonbiddle.medium.com/4-proxy-metrics-a82dd30ca810)
+- [X] [Article: Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
 - [ ] [Article: Unit Testing Celery Tasks](https://www.distributedpython.com/2018/05/01/unit-testing-celery-tasks/)
 - [ ] [Article: Testing Celery Chains](https://www.distributedpython.com/2018/05/15/testing-celery-chains/)
 - [ ] [Article: Task Routing in Celery](https://www.distributedpython.com/2018/05/29/task-routing/)
@@ -1880,6 +1884,7 @@
 - [ ] [Article: Celery on Docker: From the Ground up](https://www.distributedpython.com/2018/11/15/celery-docker/)
 - [ ] [Article: Kubernetes for Python Developers: Part 1](https://www.distributedpython.com/2018/11/28/kubernetes-python-developers-part-1/)
 - [ ] [Article: Auto-reload Celery on code changes](https://www.distributedpython.com/2019/04/23/celery-reload/)
+- [ ] [Book: Building Intelligent Systems: A Guide to Machine Learning Engineering](https://www.amazon.com/Building-Intelligent-Systems-Learning-Engineering/dp/1484234316)
 - [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [X] [Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)
 - [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
@@ -1918,7 +1923,7 @@
     - [X] [Annotation · Applied ML in Production](https://www.youtube.com/watch?v=Kj_5ZO6nsfk) `0:14:34`
     - [X] [Exploratory Data Analysis (EDA) · Applied ML in Production](https://www.youtube.com/watch?v=3Vrlvrjigvs&feature=emb_logo) `0:09:02`
 - [ ] [MLOps Community Talks](https://www.youtube.com/playlist?list=PL3vkEKxWd-uutUO2zB0diYlANmsnbGizD)
-	- [ ] [Our 1st MLOps Meetup - Luke Marsden](https://www.youtube.com/watch?v=P5cNwyeq0_c) `0:56:11`
+	- [X] [Our 1st MLOps Meetup - Luke Marsden](https://www.youtube.com/watch?v=P5cNwyeq0_c) `0:56:11`
 	- [ ] [MLOps Community  Meetup #3: Hierarchy of Machine Learning Needs with Phil Winder](https://www.youtube.com/watch?v=MRES5IxVnME) `0:58:25`
 	- [ ] [MLOps Community March 25 2020 featuring Charles Radclyffe](https://www.youtube.com/watch?v=l52sRMVPVk0) `1:03:42`
 	- [ ] [MLOps #4: Shubhi Jain - Building an ML Platform @SurveyMonkey](https://www.youtube.com/watch?v=oq1g4s2dUHE) `0:55:42`
@@ -1929,7 +1934,7 @@
 	- [ ] [#10 MLOps the Elephant and the Blind Men with Saurav Chakravorty](https://www.youtube.com/watch?v=RTBq7e3FhEw) `0:55:02`
 	- [ ] [#11 Machine Learning at scale in Mercado Libre with Carlos de la Torre](https://www.youtube.com/watch?v=ypySVdT9U7Q) `0:59:28`
 	- [ ] [MLOps meetup #12 // Why data scientists should know data engineering with Dan Sullivan](https://www.youtube.com/watch?v=LdnmC6PDBuY) `0:58:28`
-	- [ ] [#13 Maximizing job opportunities as a data scientists with Anthony Kelly](https://www.youtube.com/watch?v=-xAyfWL_HXs) `0:58:24`
+	- [X] [#13 Maximizing job opportunities as a data scientists with Anthony Kelly](https://www.youtube.com/watch?v=-xAyfWL_HXs) `0:58:24`
 	- [ ] [MLOps #14: Kubeflow vs MLflow with Byron Allen](https://www.youtube.com/watch?v=TsGQZ0D3688) `0:54:57`
 	- [ ] [MLOps #15 - Scaling Human in the Loop Machine Learning with Robert Munro](https://www.youtube.com/watch?v=LwbbGsuNpao) `0:55:04`
 	- [ ] [#16 Venture Capital In Machine Learning Startups with John Spindler](https://www.youtube.com/watch?v=v9OvXxTUBtg) `1:05:41`
@@ -1940,7 +1945,6 @@
 	- [ ] [MLOps #22 Deep Dive on Paperspace Tooling // Misha Kutsovsky - Senior ML Architect at Paperspace](https://www.youtube.com/watch?v=qMHUE5b1Ee4) `1:07:15`
 	- [ ] [Feature Stores: An essential part of the ML stack to build great data / Kevin Stumpf - CTO at Tecton](https://www.youtube.com/watch?v=IjO8VUCIZxc) `1:05:46`
 	- [ ] [MLOps #24 Monitoring the ML stack // Lina Weichbrodt](https://www.youtube.com/watch?v=Un30yb1WlpU) `0:55:32`
-	- [ ] [MLOps #25 - How to become a better data scientist: the definite guide // Alexey Grigorev](https://www.youtube.com/watch?v=f531HULH8KA) `1:00:42`
 	- [ ] [MLOps #25 - How to become a better data scientist: the definite guide // Alexey Grigorev](https://www.youtube.com/watch?v=f531HULH8KA) `1:00:42`
 	- [ ] [MLOps #26 Python and Dask: Scaling the DataFrame // Dan Gerlanc - Founder of Enplus Advisors](https://www.youtube.com/watch?v=wUokn3RQ9_A) `1:28:56`
 	- [ ] [#27 How to Leverage ML Tooling Ecosystem  Mariya Davydova   Head of Product at Neu ro](https://www.youtube.com/watch?v=kZ4F48Er__k) `0:55:57`
