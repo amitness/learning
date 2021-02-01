@@ -123,6 +123,7 @@
 - [ ] [Article: How to deliver on Machine Learning projects](https://mlpowered.com/posts/how-to-deliver-on-machine-learning-projects/)
 - [ ] [Article: Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
 - [X] [Article: Customer service is full of machine learning problems](http://nlathia.github.io/2020/06/Customer-service-machine-learning.html)
+- [X] [Article: Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
 - [ ] [Article: Machine Learning @ Monzo in 2020](http://nlathia.github.io/2020/10/Monzo-ML.html)
 - [X] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
 - [X] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
@@ -599,6 +600,7 @@
 
 ### Be able to utilize version control
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
+- [X] [Article: How to Become a Master of Git Tags](https://blog.daftcode.pl/how-to-become-a-master-of-git-tags-b70fbd9609d9)
 - [X] [Article: How to track large files in Github / Bitbucket? Git LFS to the rescue](https://pgaijin66.medium.com/how-to-track-large-files-in-github-bitbucket-git-lfs-to-the-rescue-2f298e07b3d2)
 - [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 - [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
@@ -620,6 +622,13 @@
 
 ### Be familiar with fundamental ML algorithms
 - [X] [Article: Validating your Machine Learning Model](https://www.maartengrootendorst.com/blog/validate/)
+- [ ] [Article: The Complete Guide to AUC and Average Precision: Simulations and Visualizations](https://glassboxmedicine.com/2020/07/14/the-complete-guide-to-auc-and-average-precision-simulations-and-visualizations/)
+- [ ] [Article: Connections: Log Likelihood, Cross Entropy, KL Divergence, Logistic Regression, and Neural Networks](https://glassboxmedicine.com/2019/12/07/connections-log-likelihood-cross-entropy-kl-divergence-logistic-regression-and-neural-networks/)
+- [ ] [Article: Best Use of Train/Val/Test Splits, with Tips for Medical Data](https://glassboxmedicine.com/2019/09/15/best-use-of-train-val-test-splits-with-tips-for-medical-data/)
+- [ ] [Article: Measuring Performance: AUPRC and Average Precision](https://glassboxmedicine.com/2019/03/02/measuring-performance-auprc/)
+- [ ] [Article: Measuring Performance: AUC (AUROC)](https://glassboxmedicine.com/2019/02/23/measuring-performance-auc-auroc/)
+- [ ] [Article: Measuring Performance: The Confusion Matrix](https://glassboxmedicine.com/2019/02/17/measuring-performance-the-confusion-matrix/)
+- [ ] [Article: Measuring Performance: Accuracy](https://glassboxmedicine.com/2019/02/16/measuring-performance-accuracy/)
 - [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
 - [ ] [Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)
 - [ ] [Article: Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/)
@@ -633,6 +642,7 @@
 - [ ] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
 - [ ] [Article: MLE and MAP — in layman’s terms](https://medium.com/@ajitrajasekharan/mle-and-map-in-laymans-terms-8527061b15a6)
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
+- [ ] [Book: Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 - [X] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
 - [X] [Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)
@@ -708,6 +718,7 @@
 
 ### Be familiar with fundamentals of deep learning
 - [X] [Article: The Last 5 Years In Deep Learning](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
+- [ ] [Article: Visualizing Optimization Trajectory of Neural Nets](https://towardsdatascience.com/from-animation-to-intuition-visualizing-optimization-trajectory-in-neural-nets-726e43a08d85)
 - [ ] [Article: Optimization for Deep Learning Highlights in 2017](https://ruder.io/deep-learning-optimization-2017/)
 - [ ] [Article: Neural networks: activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/)
 - [ ] [Article: Neural networks: training with backpropagation](https://www.jeremyjordan.me/neural-networks-training/)
@@ -1037,6 +1048,12 @@
 - [X] [Article: Using an NLP Q&A System To Study Climate Hazards and Nature-Based Solutions](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)
 - [X] [Article: Building a sentence embedding index with fastText and BM25](https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240)
 - [X] [Article: ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/)
+- [X] [Article: Hugging Face Reads - 01/2021 - Sparsity and Pruning](https://discuss.huggingface.co/t/hugging-face-reads-01-2021-sparsity-and-pruning/3144)
+- [ ] [Article: Rebuilding the most popular spellchecker. Part 1](https://zverok.github.io/blog/2021-01-05-spellchecker-1.html)
+- [ ] [Article: Rebuilding the spellchecker, pt.2: Just look in the dictionary, they said!](https://zverok.github.io/blog/2021-01-09-spellchecker-2.html)
+- [ ] [Article: Rebuilding the spellchecker, pt.3: Lookup—compounds and solutions](https://zverok.github.io/blog/2021-01-14-spellchecker-3.html)
+- [ ] [Article: Rebuilding the spellchecker, pt.4: Introduction to suggest algorithm](https://zverok.github.io/blog/2021-01-21-spellchecker-4.html)
+- [ ] [Article: Rebuilding the spellchecker: Hunspell and the order of edits](https://zverok.github.io/blog/2021-01-28-spellchecker-5.html)
 - [ ] [Article: Performers: The Kernel Trick, Random Fourier Features, and Attention](https://teddykoker.com/2020/11/performers/)
 - [ ] [Article: Advance BERT model via transferring knowledge from Cross-Encoders to Bi-Encoders](https://towardsdatascience.com/advance-nlp-model-via-transferring-knowledge-from-cross-encoders-to-bi-encoders-3e0fc564f554)
 - [ ] [Article: Interactive Topic Modeling with BERTopic](https://towardsdatascience.com/interactive-topic-modeling-with-bertopic-1ea55e7d73d8)
@@ -1584,6 +1601,7 @@
 	- [ ] [Finalizing the Holocaust NER Pipeline (Named Entity Recognition for DH 09.07)](https://www.youtube.com/watch?v=MYs0W2fPxSo) `0:14:16`
 	- [ ] [Classical Latin Named Entity Recognition (NER for DH 10.01)](https://www.youtube.com/watch?v=zywMBYmV6Ew) `0:55:30`
 	- [ ] [How to Package spaCy Models (Even with Custom Factories) (NER for DH 11)](https://www.youtube.com/watch?v=AGM7lXfQECM) `0:15:31`
+- [X] [Youtube: Billion-scale Approximate Nearest Neighbor Search](https://www.youtube.com/watch?v=SKrHs03i08Q)
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
@@ -1806,6 +1824,7 @@
 - [X] [Article: Online batching with Spell serving](https://spell.ml/blog/online-batching-with-spell-serving-X_OKiBAAAASq6cL0)
 - [X] [Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)
 - [X] [Article: Key Concepts for Deploying Machine Learning Models to Mobile](https://spell.ml/blog/key-concepts-for-deploying-machine-learning-models-X7Q0phIAACIAqMWr)
+- [X] [Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)
 - [ ] [Article: Getting oriented in the RAPIDS distributed ML ecosystem, part 1: ETL](https://spell.ml/blog/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-1-X1gixBIAAJ7nyzHa)
 - [ ] [Article: Getting oriented in the RAPIDS distributed ML ecosystem, part 2: training and scoring](https://spell.ml/blog/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-2-X68AOxIAACAAacZk)
 - [X] [Article: Making model training scripts robust to spot interruptions](https://spell.ml/blog/spot-interruptions-XzQ5jRIAACIAK3h2)
@@ -2010,6 +2029,7 @@
 - [X] [Calmcode: logging](https://calmcode.io/logging/introduction.html)
 - [X] [Calmcode: tqdm](https://calmcode.io/tqdm/making-a-progress-bar.html)
 - [X] [Calmcode: virtualenv](https://calmcode.io/virtualenv/intro.html)
+- [X] [Calmcode: ray](https://calmcode.io/ray/introduction.html)
 - [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
 - [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 - [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
@@ -2167,6 +2187,7 @@
 - [X] [Article: Advice to aspiring data scientists: start a blog](http://varianceexplained.org/r/start-blog/)
 - [ ] [Article: Systems Design Interview Guide](http://patrickhalina.com/posts/systems-design-interview-guide/)
 - [ ] [Article: A Guide to Cold Emailing](http://eugenevinitsky.github.io/posts/2020-12-25-coldemails.html)
+- [ ] [Book: Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - [ ] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
 - [ ] [Datacamp: Preparing for Coding Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-coding-interview-questions-in-python)
 - [X] [Datacamp: Kaggle Competition](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
@@ -2195,3 +2216,5 @@
 - [X] [Calmcode: Pomodoro](https://calmcode.io/pomodoro/introduction.html)
 - [X] [Youtube: Why specializing early doesn't always mean career success | David Epstein](https://www.youtube.com/watch?v=B6lBtiQZSho)
 - [X] [Youtube: Chamath Palihapitiya, Founder and CEO Social Capital, on Money as an Instrument of Change](https://youtu.be/PMotykw0SIk)
+- [X] [Youtube: How to Build a Personal Monopoly with Jack Butcher](https://www.youtube.com/watch?v=VINZMrpPIg8&feature=youtu.be)
+- [X] [Youtube: How to Use Twitter](https://www.youtube.com/watch?v=kDYLQUf8uBw&feature=youtu.be)
