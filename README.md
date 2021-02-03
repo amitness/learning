@@ -310,6 +310,7 @@
 
 ### Be able to experiment in a notebook
 - [X] [Article: Securely storing configuration credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
+- [X] [Article: Automatically Reload Modules with %autoreload](https://switowski.com/blog/ipython-autoreload)
 - [ ] [Calmcode: ipywidgets](https://calmcode.io/ipywidgets/introduction.html)
 - [X] [Pluralsight: Getting Started with Jupyter Notebook and Python](https://www.pluralsight.com/courses/jupyter-notebook-python)
 - [X] [Youtube: William Horton - A Brief History of Jupyter Notebooks](https://www.youtube.com/watch?v=kFhhCOeYcGw)
@@ -1825,6 +1826,9 @@
 - [X] [Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)
 - [X] [Article: Key Concepts for Deploying Machine Learning Models to Mobile](https://spell.ml/blog/key-concepts-for-deploying-machine-learning-models-X7Q0phIAACIAqMWr)
 - [X] [Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)
+- [X] [Article: How To Pass Environment Info During Docker Builds](https://blog.bitsrc.io/how-to-pass-environment-info-during-docker-builds-1f7c5566dd0e)
+- [X] [Article: Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/)
+- [X] [Article: Setting Default Docker Environment Variables During Image Build](https://vsupalov.com/docker-build-time-env-values/)
 - [ ] [Article: Getting oriented in the RAPIDS distributed ML ecosystem, part 1: ETL](https://spell.ml/blog/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-1-X1gixBIAAJ7nyzHa)
 - [ ] [Article: Getting oriented in the RAPIDS distributed ML ecosystem, part 2: training and scoring](https://spell.ml/blog/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-2-X68AOxIAACAAacZk)
 - [X] [Article: Making model training scripts robust to spot interruptions](https://spell.ml/blog/spot-interruptions-XzQ5jRIAACIAK3h2)
@@ -1849,6 +1853,7 @@
 	- [X] [How to reduce the cost of machine learning inference](https://www.cortex.dev/post/reduce-machine-learning-inference-cost)
 	- [X] [Improve NLP inference throughput 40x with ONNX and Hugging Face](https://www.cortex.dev/post/40x-nlp-inference-with-hugging-face-and-onnx)
 	- [X] [How to deploy PyTorch Lightning models to production](https://www.cortex.dev/post/deploy-pytorch-lightning-models)
+- [X] [Doc: Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
 - [ ] [Luigi Patruno: ML in Production](https://mlinproduction.com/)
     - [X] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
     - [X] [Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)
