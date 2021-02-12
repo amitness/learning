@@ -1169,6 +1169,7 @@
 - [ ] [Article: Search (Pt 2) — A Semantic Horse Race](https://towardsdatascience.com/search-pt-2-semantic-horse-race-5128cae7ce8d)
 - [ ] [Article: Search (Pt 3) — Elastic Transformers](https://towardsdatascience.com/elastic-transformers-ae011e8f5b88)
 - [ ] [Article: How to Implement a Beam Search Decoder for Natural Language Processing](https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/)
+- [X] [Article: Speller100: Zero-shot spelling correction at scale for 100-plus languages](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/)
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Book: Embeddings in Natural Language Processing](http://josecamachocollados.com/book_embNLP_draft.pdf)
 - [ ] [Book: Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)
@@ -1612,6 +1613,7 @@
 - [X] [Youtube: Jiaqi Liu Fuzzy Search Algorithms How and When to Use Them PyCon 2017](https://www.youtube.com/watch?v=kTS2b6pGElE)
 - [X] [Youtube: 1 + 1 = 1 or Record Deduplication with Python | Flávio Juvenal @ PyBay2018](https://www.youtube.com/watch?v=McsTWXeURhA)
 - [X] [Youtube: Mike Mull: The Art and Science of Data Matching](https://www.youtube.com/watch?v=Y-nYEOgq3YE)
+- [X] [Youtube: Record linkage: Join for real life by Rhydwyn Mcguire](https://youtu.be/cEcVIjyHfiQ)
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
@@ -1863,6 +1865,7 @@
 	- [X] [Improve NLP inference throughput 40x with ONNX and Hugging Face](https://www.cortex.dev/post/40x-nlp-inference-with-hugging-face-and-onnx)
 	- [X] [How to deploy PyTorch Lightning models to production](https://www.cortex.dev/post/deploy-pytorch-lightning-models)
 - [X] [Doc: Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
+- [ ] [Doc: Lecture 3: Data engineering](https://docs.google.com/document/d/1b9iuZiDEGVLHyMmnf6w2y1aN6yWQhAyqk3GHlpI9q6M/edit)
 - [ ] [Luigi Patruno: ML in Production](https://mlinproduction.com/)
     - [X] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
     - [X] [Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)
