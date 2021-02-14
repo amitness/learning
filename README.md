@@ -49,7 +49,7 @@
 - [Be familiar with Reinforcement Learning](#be-familiar-with-reinforcement-learning)
 - [Be able to optimize performance metric](#be-able-to-optimize-performance-metric)
 - [Be familiar with literature on model interpretability](#be-familiar-with-literature-on-model-interpretability)
-- [Be able to optimize models for production](#be-able-to-optimize-models-for-production)
+- [Be able to optimize model size for production](#be-able-to-optimize-model-size-for-production)
 - [Be able to write unit tests](#be-able-to-write-unit-tests)
 - [Be able to serve models as REST APIs](#be-able-to-serve-models-as-rest-apis)
 - [Be able to build interactive UI for models](#be-able-to-build-interactive-ui-for-models)
