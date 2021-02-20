@@ -797,6 +797,7 @@
 
 ### Be able to implement models in scikit-learn
 - [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
+- [X] [Calmcode: human-learn](https://calmcode.io/human-learn/introduction.html)
 - [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 - [X] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 - [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
