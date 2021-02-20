@@ -179,7 +179,7 @@
 - [X] [Youtube: Using Intent Data to Optimize the Self-Solve Experience](https://lucidworks.com/post/using-intent-data-to-optimize-the-self-solve-experience/)
 - [X] [Youtube: Trillions of Questions, No Easy Answers: A (home) movie about how Google Search works](https://www.youtube.com/watch?v=tFq6Q_muwG0)
 - [X] [Youtube: Hugging Face, Transformers | NLP Research and Open Source | Interview with Julien Chaumond](https://www.youtube.com/watch?v=ejWkDviM5QM)
-- [ ] [Youtube: Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020](https://www.youtube.com/watch?v=nJAmN6gWdK8&ab_channel=PyData)
+- [X] [Youtube: Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020](https://www.youtube.com/watch?v=nJAmN6gWdK8&ab_channel=PyData)
 
 ### Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
@@ -211,6 +211,7 @@
 ### Be able to manipulate data with Numpy
 - [X] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 - [ ] [Article: NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+- [ ] [Article: NumPy Fundamentals for Data Science and Machine Learning](https://pabloinsente.github.io/intro-numpy-fundamentals)
 - [X] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [X] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
 
@@ -426,6 +427,7 @@
 	- [X] [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8) `0:10:17`
 - [X] [Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
 - [X] [Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
+- [ ] [Article: Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 - [ ] [Article: Entropy of a probability distribution — in layman’s terms](https://medium.com/@ajitrajasekharan/entropy-of-a-probability-distribution-explained-in-laymans-terms-8a4139b329bc)
 - [ ] [Article: KL Divergence — in layman’s terms](https://medium.com/@ajitrajasekharan/what-is-kl-divergence-d1fb7921ee5b)
 - [ ] [Article: Probability Distributions](https://www.simonwardjones.co.uk/posts/probability_distributions/)
@@ -876,6 +878,7 @@
 - [ ] [Article: A developer-friendly guide to mixed precision training with PyTorch](https://spell.ml/blog/mixed-precision-training-with-pytorch-Xuk7YBEAACAASJam)
 - [ ] [Article: Fit More and Train Faster With ZeRO via DeepSpeed and FairScale](https://huggingface.co/blog/zero-deepspeed-fairscale)
 - [ ] [Article: Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/)
+- [ ] [Article: EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
 - [ ] [Notebook: Tensor Arithmetic](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks/1-Pytorch-Introduction.ipynb)
 - [ ] [Notebook: Autograd](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks//2-Pytorch-Autograd.ipynb)
 - [ ] [Notebook: Optimization](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks//3-Pytorch-Optimizers.ipynb)
@@ -1074,6 +1077,8 @@
 - [ ] [Article: T5 — XLNet — a clever language modeling solution](https://towardsdatascience.com/xlnet-a-clever-language-modeling-solution-ab41e87798b0)
 - [ ] [Article: A review of BERT based models](https://towardsdatascience.com/a-review-of-bert-based-models-4ffdc0f15d58)
 - [ ] [Article: Deconstructing BERT](https://towardsdatascience.com/deconstructing-bert-reveals-clues-to-its-state-of-art-performance-in-nlp-tasks-76a7e828c0f1)
+- [ ] [Article: Text classification from few training examples](https://maelfabien.github.io/machinelearning/NLP_5/)
+- [ ] [Article: Improved Few-Shot Text classification](https://maelfabien.github.io/machinelearning/NLP_6/)
 - [ ] [Article: Solving NER with BERT for any entity type with very little training data (compared to past approaches)](https://ajitrajasekharan.medium.com/solving-ner-with-bert-for-any-entity-type-with-very-little-training-data-compared-to-past-50094e2e3df9)
 - [ ] [Article: Trends in input representation for state-of-art NLP models (2019)](https://ajitrajasekharan.medium.com/trends-in-input-representation-for-state-of-art-nlp-models-2019-fd162ebccd15)
 - [ ] [Article: Brief review of word embedding families](https://medium.com/analytics-vidhya/brief-review-of-word-embedding-families-2019-b2bbc601bbfe)
@@ -2127,6 +2132,7 @@
 - [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
 - [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
 - [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
+- [X] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
 - [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
 - [ ] [Article: Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
 - [ ] [Article: Hypermodern Python Chapter 2: Testing](https://cjolowicz.github.io/posts/hypermodern-python-02-testing/)
