@@ -203,7 +203,7 @@
 - [X] [Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
 - [ ] [Datacamp: Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)
 
-### Be able to annotate data efficiently
+### Be able to setup data annotation efficiently
 - [X] [Article: Create A Synthetic Image Dataset — The “What”, The “Why” and The “How”](https://towardsdatascience.com/create-a-synthetic-image-dataset-the-what-the-why-and-the-how-f820e6b6f718)
 - [X] [Article: We need Synthetic Data](https://towardsdatascience.com/we-need-synthetic-data-e6f90a8532a4)
 - [ ] [Article: Weak Supervision for Online Discussions](https://trishalaneeraj.github.io/2020-07-05/weak-supervision)
@@ -273,7 +273,7 @@
 - [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
-### Be able to use the command line
+### Be able to use Linux tools
 - [ ] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
 - [X] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
 - [X] [Calmcode: entr](https://calmcode.io/entr/introduction.html)
@@ -341,7 +341,7 @@
 - [ ] [Youtube: Jake VanderPlas - Exploratory Data Visualization with Vega, Vega-Lite, and Altair - PyCon 2018](https://www.youtube.com/watch?v=ms29ZPUKxbU)
 - [ ] [UWData: Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum)
 
-### Be able to to read research papers
+### Be able to do literature review using research papers
 - [X] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [ ] [Paper: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - [X] [Paper: Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
@@ -1863,7 +1863,7 @@
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 - [X] [Youtube: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList | AISC](https://www.youtube.com/watch?v=A0od6RosVSA)
 
-### Be able to serve models as REST APIs
+### Be able to serve models via APIs
 - [X] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
 - [X] [Article: Deploy BERT for Sentiment Analysis as REST API using PyTorch, Transformers by Hugging Face and FastAPI](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
 - [ ] [Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)
