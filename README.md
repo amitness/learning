@@ -180,6 +180,10 @@
 - [X] [Youtube: Trillions of Questions, No Easy Answers: A (home) movie about how Google Search works](https://www.youtube.com/watch?v=tFq6Q_muwG0)
 - [X] [Youtube: Hugging Face, Transformers | NLP Research and Open Source | Interview with Julien Chaumond](https://www.youtube.com/watch?v=ejWkDviM5QM)
 - [X] [Youtube: Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020](https://www.youtube.com/watch?v=nJAmN6gWdK8&ab_channel=PyData)
+- [X] [Youtube: Google Machine Learning System Design Mock Interview](https://www.youtube.com/watch?v=uF1V2MqX2U0)
+- [X] [Youtube: Netflix Machine Learning Mock Interview: Type-ahead Search](https://www.youtube.com/watch?v=12Ry6kGPQVs)
+- [X] [Youtube: Machine Learning design: Search engine for Q&A](https://www.youtube.com/watch?v=J_0ms1ayqKE)
+- [X] [Youtube: Engineering Systems for Real-Time Predictions @DoorDash](https://www.youtube.com/watch?v=sEZsIUBIhNk)
 
 ### Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
@@ -605,7 +609,7 @@
     - [ ] [Stanford MLSys Seminar Episode 4: Alex Ratner](https://www.youtube.com/watch?v=pDVV4zKNqIE) `1:13:34`
     - [X] [Stanford MLSys Seminar Episode 5: Chip Huyen](https://www.youtube.com/watch?v=c_AUuTuPA5k) `1:06:44`
 
-### Be able to utilize version control
+### Be able to version control code
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
 - [X] [Article: How to Become a Master of Git Tags](https://blog.daftcode.pl/how-to-become-a-master-of-git-tags-b70fbd9609d9)
 - [X] [Article: How to track large files in Github / Bitbucket? Git LFS to the rescue](https://pgaijin66.medium.com/how-to-track-large-files-in-github-bitbucket-git-lfs-to-the-rescue-2f298e07b3d2)
@@ -621,7 +625,7 @@
 - [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [X] [Youtube: 045 Introduction to Git LFS](https://youtu.be/xPFLAAhuGy0)
 
-### Be able to use data version control
+### Be able to use version control data
 - [ ] [Youtube: DVC Basics](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg)
 	- [X] [Versioning Data with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=kLKBcPonMYw) `0:13:04`
 	- [X] [Sharing Data and Models with DVC (Hands-On Data Science Tutorial!)](https://www.youtube.com/watch?v=EE7Gk84OZY8) `0:08:53`
@@ -1229,6 +1233,8 @@
 - [ ] [Article: Search (Pt 3) — Elastic Transformers](https://towardsdatascience.com/elastic-transformers-ae011e8f5b88)
 - [ ] [Article: How to Implement a Beam Search Decoder for Natural Language Processing](https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/)
 - [X] [Article: Speller100: Zero-shot spelling correction at scale for 100-plus languages](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/)
+- [ ] [Article: Breaking the spell of the spelling check](https://www.slideshare.net/KhrystynaKulak/breaking-the-spell-of-the-spelling-check)
+- [ ] [Article: DaCy: New Fast and Efficient State-of-the-Art in Danish NLP!](https://www.kennethenevoldsen.com/post/new-fast-and-efficient-state-of-the-art-in-danish-nlp/)
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Book: Embeddings in Natural Language Processing](http://josecamachocollados.com/book_embNLP_draft.pdf)
 - [ ] [Book: Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)
@@ -1752,7 +1758,7 @@
 	- [ ] [CS231n Winter 2016: Lecture 12: Deep Learning libraries](https://www.youtube.com/watch?v=Vf_-OkqbwPo) `1:21:06`
 	- [ ] [CS231n Winter 2016: Lecture 14: Videos and Unsupervised Learning](https://www.youtube.com/watch?v=ekyBklxwQMU) `1:17:36`
 	- [ ] [CS231n Winter 2016: Lecture 13: Segmentation, soft attention, spatial transformers](https://www.youtube.com/watch?v=ByjaPdWXKJ4) `1:10:59`
-	- [ ] [CS231n Winter 2016: Lecture 15: Invited Talk by Jeff Dean](https://www.youtube.com/watch?v=T7YkPWpwFD4) `1:14:49`
+	- [X] [CS231n Winter 2016: Lecture 15: Invited Talk by Jeff Dean](https://www.youtube.com/watch?v=T7YkPWpwFD4) `1:14:49`
 - [ ] [Udacity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [X] [Youtube: Deep Residual Learning for Image Recognition (Paper Explained)](https://www.youtube.com/watch?v=GWt6Fu05voI)
 - [X] [Youtube: Implementing ResNet from scratch](https://www.youtube.com/playlist?list=PLbMqOoYQ3MxywF4R6MOJO7i9jFEeSGSSC)
@@ -2124,6 +2130,33 @@
 - [X] [Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)
 - [X] [Youtube: PyData Vancouver meetup: cortex.dev : Serving machine learning models in production](https://www.youtube.com/watch?v=_2HMDhgPkSQ)
 - [X] [Youtube: Why Your Web Server Should Log to Stdout (Especially with Docker)](https://www.youtube.com/watch?v=aQikNWEaJUQ&feature=emb_logo)
+- [X] [Youtube: What is Load Balancing?](https://www.youtube.com/watch?v=K0Ta65OqQkY)
+- [X] [Youtube: What is Consistent Hashing and Where is it used?](https://www.youtube.com/watch?v=zaRkONvyGr8)
+- [X] [Youtube: What is a Message Queue and Where is it used?](https://www.youtube.com/watch?v=oUJbuFMyBDk)
+- [X] [Youtube: Why do Databases fail? AntiPatterns to avoid!](https://www.youtube.com/watch?v=9T-gNZ5bGCw)
+- [X] [Youtube: What is a microservice architecture and it's advantages?](https://www.youtube.com/watch?v=qYhRvH9tJKw)
+- [ ] [Youtube: What is the Publisher Subscriber Model?](https://www.youtube.com/watch?v=FMhbR_kQeHw)
+- [ ] [Youtube: What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
+- [ ] [Youtube: 5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4)
+- [ ] [Youtube: How to avoid a single point of failure in distributed systems](https://www.youtube.com/watch?v=-BOysyYErLY)
+- [ ] [Youtube: System Design: Tinder as a microservice architecture](https://www.youtube.com/watch?v=tndzLznxq40)
+- [ ] [Youtube: System Design Basics: Horizontal vs. Vertical Scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0)
+- [ ] [Youtube: What is Database Sharding?](https://www.youtube.com/watch?v=5faMjKuB9bc)
+- [ ] [Youtube: A friendly introduction to System Design](https://www.youtube.com/watch?v=quLrc3PbuIw)
+- [ ] [Youtube: Avoid cascading failures in a distributed system](https://www.youtube.com/watch?v=xrizarXJgC8)
+- [ ] [Youtube: Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
+- [ ] [Youtube: Whatsapp System Design: Chat Messaging Systems for Interviews](https://www.youtube.com/watch?v=vvhC64hQZMk)
+- [ ] [Youtube: Introduction to NoSQL databases](https://www.youtube.com/watch?v=xQnIN9bW0og)
+- [ ] [Youtube: Distributed Consensus and Data Replication strategies on the server](https://www.youtube.com/watch?v=GeGxgmPTe4c)
+- [ ] [Youtube: What is an API and how do you design it?](https://www.youtube.com/watch?v=_YlYuNMTCc8)
+- [ ] [Youtube: What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
+- [ ] [Youtube: Service discovery and heartbeats in micro-services](https://www.youtube.com/watch?v=lWE_UIbm8NA)
+- [ ] [Youtube: Relational database index vs. NoSQL index](https://www.youtube.com/watch?v=mTNkqMDCasI)
+- [ ] [Youtube: How Netflix onboards new content: Video Processing at scale](https://www.youtube.com/watch?v=x9Hrn0oNmJM)
+- [ ] [Youtube: How to start with distributed systems? Beginner's guide to scaling systems.](https://www.youtube.com/watch?v=SqcXvc3ZmRU)
+- [ ] [Youtube: Capacity Estimation: How much data does YouTube store daily?](https://www.youtube.com/watch?v=0myM0k1mjZw)
+- [ ] [Youtube: How databases scale writes: The power of the log](https://www.youtube.com/watch?v=_5vrfuwhvlQ)
+- [ ] [Youtube: System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)
 
 ### Be able to perform load testing
 - [X] [Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)
@@ -2351,3 +2384,4 @@
 - [X] [Youtube: Chamath Palihapitiya, Founder and CEO Social Capital, on Money as an Instrument of Change](https://youtu.be/PMotykw0SIk)
 - [X] [Youtube: How to Build a Personal Monopoly with Jack Butcher](https://www.youtube.com/watch?v=VINZMrpPIg8&feature=youtu.be)
 - [X] [Youtube: How to Use Twitter](https://www.youtube.com/watch?v=kDYLQUf8uBw&feature=youtu.be)
+- [X] [Youtube: A. Jesse Jiryu Davis - Write an Excellent Programming Blog - PyCon 2016](https://www.youtube.com/watch?v=eHXq-IzlGUE)
