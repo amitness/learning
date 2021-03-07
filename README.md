@@ -2385,3 +2385,4 @@
 - [X] [Youtube: How to Build a Personal Monopoly with Jack Butcher](https://www.youtube.com/watch?v=VINZMrpPIg8&feature=youtu.be)
 - [X] [Youtube: How to Use Twitter](https://www.youtube.com/watch?v=kDYLQUf8uBw&feature=youtu.be)
 - [X] [Youtube: A. Jesse Jiryu Davis - Write an Excellent Programming Blog - PyCon 2016](https://www.youtube.com/watch?v=eHXq-IzlGUE)
+- [X] [Youtube: The Great ML Stagnation (Mark Saroufim and Dr. Mathew Salvaris)](https://www.youtube.com/watch?v=BwhBtvCNwxo)
