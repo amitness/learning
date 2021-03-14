@@ -1082,6 +1082,7 @@
 - [ ] [Article: Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 - [ ] [Article: Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 - [ ] [Article: Unsupervised synonym harvesting](https://towardsdatascience.com/unsupervised-synonym-harvesting-d592eaaf3c15)
+- [ ] [Article: Hugging Face Reads, Feb. 2021 - Long-range Transformers](https://huggingface.co/blog/long-range-transformers)
 - [ ] [Article: Maximizing BERT model performance](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab)
 - [ ] [Article: Unsupervised creation of interpretable sentence representations](https://towardsdatascience.com/unsupervised-creation-of-interpretable-sentence-representations-851e74921cf9)
 - [ ] [Article: Document search with fragment embeddings](https://towardsdatascience.com/document-search-with-fragment-embeddings-7e1d73eb0104)
@@ -1613,23 +1614,23 @@
 - [X] [Talk: EmoTag1200: Understanding the Association between Emojis and Emotions](https://slideslive.com/38939357/emotag1200-understanding-the-association-between-emojis-and-emotions)
 - [ ] [Youtube: Research Paper Walkthrough](https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc)
     - [X] [Simple Unsupervised Keyphrase Extraction using Sentence Embeddings | Research Paper Walkthrough](https://www.youtube.com/watch?v=ykClwtoLER8) `0:21:23`
-    - [ ] [Leveraging BERT for Extractive Text Summarization on Lectures | Research Paper Walkthrough](https://www.youtube.com/watch?v=JU6eSLsp6vI) `0:20:10`
-    - [ ] [Data Augmentation Techniques for Text Classification in NLP | Research Paper Walkthrough](https://www.youtube.com/watch?v=-1unNLkwImw) `0:14:33`
-    - [ ] [CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery | Research Paper Walkthrough](https://www.youtube.com/watch?v=AxMSd4EPVVc) `0:23:47`
+    - [X] [Leveraging BERT for Extractive Text Summarization on Lectures | Research Paper Walkthrough](https://www.youtube.com/watch?v=JU6eSLsp6vI) `0:20:10`
+    - [X] [Data Augmentation Techniques for Text Classification in NLP | Research Paper Walkthrough](https://www.youtube.com/watch?v=-1unNLkwImw) `0:14:33`
+    - [X] [CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery | Research Paper Walkthrough](https://www.youtube.com/watch?v=AxMSd4EPVVc) `0:23:47`
     - [ ] [Data Augmentation using Pre-trained Transformer Model (BERT, GPT2, etc) | Research Paper Walkthrough](https://www.youtube.com/watch?v=9O9scQb4sNo) `0:17:43`
-    - [ ] [A Supervised Approach to Extractive Summarisation of Scientific Papers | Research Paper Walkthrough](https://www.youtube.com/watch?v=73uWfopdjoc) `0:19:01`
-    - [ ] [BLEURT: Learning Robust Metrics for Text Generation | Research Paper Walkthrough](https://www.youtube.com/watch?v=9lWxwfMKAdM) `0:13:38`
-    - [ ] [DeepWalk: Online Learning of Social Representations | ML with Graphs | Research Paper Walkthrough](https://www.youtube.com/watch?v=-uJL_ANy1jc) `0:17:44`
-    - [ ] [LSBert: A Simple Framework for Lexical Simplification | Research Paper Walkthrough](https://www.youtube.com/watch?v=uhnKsGDyhEg) `0:20:27`
-    - [ ] [SpanBERT: Improving Pre-training by Representing and Predicting Spans | Research Paper Walkthrough](https://www.youtube.com/watch?v=QUP3rMrA1mk) `0:14:21`
-    - [ ] [Text Summarization of COVID-19 Medical Articles using BERT and GPT-2 | Research Paper Walkthrough](https://www.youtube.com/watch?v=kC5kP1dPAzc) `0:21:52`
-    - [ ] [Extractive & Abstractive Summarization with Transformer Language Models | Research Paper Walkthrough](https://www.youtube.com/watch?v=2IzXW3Ypks0) `0:16:58`
+    - [X] [A Supervised Approach to Extractive Summarisation of Scientific Papers | Research Paper Walkthrough](https://www.youtube.com/watch?v=73uWfopdjoc) `0:19:01`
+    - [X] [BLEURT: Learning Robust Metrics for Text Generation | Research Paper Walkthrough](https://www.youtube.com/watch?v=9lWxwfMKAdM) `0:13:38`
+    - [X] [DeepWalk: Online Learning of Social Representations | ML with Graphs | Research Paper Walkthrough](https://www.youtube.com/watch?v=-uJL_ANy1jc) `0:17:44`
+    - [X] [LSBert: A Simple Framework for Lexical Simplification | Research Paper Walkthrough](https://www.youtube.com/watch?v=uhnKsGDyhEg) `0:20:27`
+    - [X] [SpanBERT: Improving Pre-training by Representing and Predicting Spans | Research Paper Walkthrough](https://www.youtube.com/watch?v=QUP3rMrA1mk) `0:14:21`
+    - [X] [Text Summarization of COVID-19 Medical Articles using BERT and GPT-2 | Research Paper Walkthrough](https://www.youtube.com/watch?v=kC5kP1dPAzc) `0:21:52`
+    - [X] [Extractive & Abstractive Summarization with Transformer Language Models | Research Paper Walkthrough](https://www.youtube.com/watch?v=2IzXW3Ypks0) `0:16:58`
     - [ ] [Unsupervised Multi-Document Summarization using Neural Document Model | Research Paper Walkthrough](https://www.youtube.com/watch?v=qOoAlI5hpFk) `0:15:11`
-    - [ ] [SummPip: Multi-Document Summarization with Sentence Graph Compression | Research Paper Walkthrough](https://www.youtube.com/watch?v=1jwUOMQVCo4) `0:16:54`
-    - [ ] [Combining BERT with Static Word Embedding for Categorizing Social Media | Research Paper Walkthrough](https://www.youtube.com/watch?v=VqlA_ALWQdM) `0:13:51`
-    - [ ] [Reformulating Unsupervised Style Transfer as Paraphrase Generation | Research Paper Walkthrough](https://www.youtube.com/watch?v=cjnk3PJljDs) `0:19:41`
+    - [X] [SummPip: Multi-Document Summarization with Sentence Graph Compression | Research Paper Walkthrough](https://www.youtube.com/watch?v=1jwUOMQVCo4) `0:16:54`
+    - [X] [Combining BERT with Static Word Embedding for Categorizing Social Media | Research Paper Walkthrough](https://www.youtube.com/watch?v=VqlA_ALWQdM) `0:13:51`
+    - [X] [Reformulating Unsupervised Style Transfer as Paraphrase Generation | Research Paper Walkthrough](https://www.youtube.com/watch?v=cjnk3PJljDs) `0:19:41`
     - [ ] [PEGASUS: Pre-training with Gap-Sentences for Abstractive Summarization | Research Paper Walkthrough](https://www.youtube.com/watch?v=QY8oZxS0txs) `0:15:04`
-    - [ ] [Evaluation of Text Generation: A Survey | Human-Centric Evaluations | Research Paper Walkthrough](https://www.youtube.com/watch?v=-CIlz-5um7U) `0:15:54`
+    - [X] [Evaluation of Text Generation: A Survey | Human-Centric Evaluations | Research Paper Walkthrough](https://www.youtube.com/watch?v=-CIlz-5um7U) `0:15:54`
 - [X] [NLP Summit 2020](https://www.youtube.com/playlist?list=PL5zieHHAlvAr2QkDyP-BfEVmaIC5BAq4q)
     - [X] [The 2020 Trends for Applied Natural Language Processing | NLP Summit 2020](https://www.youtube.com/watch?v=bAPVJJIPMy0) `0:21:10`
     - [X] [NLP Industry Survey Analysis: the landscape of natural language use cases in 2020 | NLP Summit 2020](https://www.youtube.com/watch?v=93BJyr60DIE) `0:20:23`
@@ -1853,6 +1854,7 @@
 - [X] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml)
 - [X] [Article: Unit Testing for Data Scientists](https://www.maartengrootendorst.com/blog/unit/)
 - [ ] [Article: Testing in Production, the safe way](https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1)
+- [X] [Article: How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/)
 - [X] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
 - [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
 - [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
@@ -1919,6 +1921,15 @@
 - [X] [Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)
 - [X] [Article: How To Pass Environment Info During Docker Builds](https://blog.bitsrc.io/how-to-pass-environment-info-during-docker-builds-1f7c5566dd0e)
 - [X] [Article: Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/)
+- [X] [Article: Distill: Why do we need Flask, Celery, and Redis? (with McDonalds in Between)](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/)
+- [ ] [Article: ML Infrastructure Tools for Data Preparation](https://towardsdatascience.com/ml-infrastructure-tools-for-data-preparation-70d79e70f8d4)
+- [ ] [Article: ML Infrastructure Tools for Model Building](https://towardsdatascience.com/ml-infrastructure-tools-for-model-building-464770ac4fec)
+- [ ] [Article: ML Infrastructure Tools for Production (Part 1)](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb)
+- [ ] [Article: ML Infrastructure Tools for Production](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)
+- [ ] [Article: Using Statistical Distances for Machine Learning Observability](https://towardsdatascience.com/using-statistical-distance-metrics-for-machine-learning-observability-4c874cded78)
+- [ ] [Article: ML Infrastructure Tools — ML Observability](https://towardsdatascience.com/ml-infrastructure-tools-ml-observability-8e4d7df6db43)
+- [ ] [Article: The Model’s Shipped; What Could Possibly go Wrong?](https://towardsdatascience.com/the-models-shipped-what-could-possibly-go-wrong-a657ad919868)
+- [ ] [Article: The Playbook to Monitor Your Model’s Performance in Production](https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245)
 - [X] [Article: Setting Default Docker Environment Variables During Image Build](https://vsupalov.com/docker-build-time-env-values/)
 - [ ] [Article: Getting oriented in the RAPIDS distributed ML ecosystem, part 1: ETL](https://spell.ml/blog/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-1-X1gixBIAAJ7nyzHa)
 - [ ] [Article: Getting oriented in the RAPIDS distributed ML ecosystem, part 2: training and scoring](https://spell.ml/blog/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-2-X68AOxIAACAAacZk)
@@ -2225,6 +2236,7 @@
 - [ ] [Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)
 - [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
 - [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
+- [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 
 ### Be familiar with compiled languages
 - [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
