@@ -2417,3 +2417,4 @@
 - [X] [Youtube: How to Use Twitter](https://www.youtube.com/watch?v=kDYLQUf8uBw&feature=youtu.be)
 - [X] [Youtube: A. Jesse Jiryu Davis - Write an Excellent Programming Blog - PyCon 2016](https://www.youtube.com/watch?v=eHXq-IzlGUE)
 - [X] [Youtube: The Great ML Stagnation (Mark Saroufim and Dr. Mathew Salvaris)](https://www.youtube.com/watch?v=BwhBtvCNwxo)
+- [X] [Youtube: What Machine Learning Can Teach Us About Life: 7 Lessons - Talk Python Live Stream](https://www.youtube.com/watch?v=EE1u1dbPZWQ)
