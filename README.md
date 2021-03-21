@@ -635,6 +635,9 @@
 
 ### Be familiar with fundamental of ML and DL
 - [X] [Article: Validating your Machine Learning Model](https://www.maartengrootendorst.com/blog/validate/)
+- [X] [Article: One-vs-Rest strategy for Multi-Class Classification](https://www.geeksforgeeks.org/one-vs-rest-strategy-for-multi-class-classification/)
+- [X] [Article: Multi-class Classification — One-vs-All & One-vs-One](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-class-classification-one-vs-all-one-vs-one-94daed32a87b)
+- [X] [Article: One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
 - [ ] [Article: The Complete Guide to AUC and Average Precision: Simulations and Visualizations](https://glassboxmedicine.com/2020/07/14/the-complete-guide-to-auc-and-average-precision-simulations-and-visualizations/)
 - [ ] [Article: Connections: Log Likelihood, Cross Entropy, KL Divergence, Logistic Regression, and Neural Networks](https://glassboxmedicine.com/2019/12/07/connections-log-likelihood-cross-entropy-kl-divergence-logistic-regression-and-neural-networks/)
 - [ ] [Article: Best Use of Train/Val/Test Splits, with Tips for Medical Data](https://glassboxmedicine.com/2019/09/15/best-use-of-train-val-test-splits-with-tips-for-medical-data/)
@@ -814,7 +817,7 @@
 - [X] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
 - [ ] [Video: human learn](https://calmcode.io/human-learn/introduction.html)
 - [ ] [Youtube: Applied Machine Learning 2020](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
-	- [ ] [Channel Intro - Applied Machine Learning](https://www.youtube.com/watch?v=d79mzijMAw0) `0:01:28`
+	- [X] [Channel Intro - Applied Machine Learning](https://www.youtube.com/watch?v=d79mzijMAw0) `0:01:28`
 	- [ ] [Applied ML 2020 - 01 Introduction](https://www.youtube.com/watch?v=rbvpiPJuK64) `1:16:01`
 	- [ ] [Applied ML 2020 - 02 Visualization and matplotlib](https://www.youtube.com/watch?v=OW3oco7nlV4) `1:07:30`
 	- [ ] [Applied ML 2020 - 03 Supervised learning and model validation](https://www.youtube.com/watch?v=7_YzyMYC2zM) `1:12:00`
@@ -828,7 +831,7 @@
 	- [ ] [Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
 	- [ ] [Applied ML 2020 - 12 - AutoML (plus some feature selection)](https://www.youtube.com/watch?v=bmBezdqHTAg) `1:25:38`
 	- [ ] [Applied ML 2020 - 13 - Dimensionality reduction](https://www.youtube.com/watch?v=CrFOGyU32PM) `1:30:34`
-	- [ ] [Applied ML 2020 - 14 - Clustering and Mixture Models](https://www.youtube.com/watch?v=HFioJ62H7dM) `1:26:33`
+	- [X] [Applied ML 2020 - 14 - Clustering and Mixture Models](https://www.youtube.com/watch?v=HFioJ62H7dM) `1:26:33`
 	- [ ] [Applied ML 2020 - 15 - Working with Text Data](https://www.youtube.com/watch?v=A8yDjNsUQJA) `1:27:08`
 	- [ ] [Applied ML 2020 - 16 - Topic models for text data](https://www.youtube.com/watch?v=xdmFx4-3Ukw) `1:18:34`
 	- [ ] [Applied ML 2020 - 17 - Word vectors and document embeddings](https://www.youtube.com/watch?v=xgjnlGBpLUs) `1:03:04`
@@ -1636,9 +1639,9 @@
 	- [X] [Node2Vec: Scalable Feature Learning for Networks | ML with Graphs (Research Paper Walkthrough)](https://www.youtube.com/watch?v=LpwGZG5j_q0) `0:14:33`
 	- [X] [HARP: Hierarchical Representation Learning for Network | ML with Graphs (Research Paper Walkthrough)](https://www.youtube.com/watch?v=7HJFa8Xct80) `0:15:10`
 	- [X] [URL2Video: Automatic Video Creation From a Web Page | AI and Creativity (Research Paper Walkthrough)](https://www.youtube.com/watch?v=SlPvzvoU3a8) `0:15:21`
-	- [ ] [On Generating Extended Summaries of Long Documents (Research Paper Walkthrough)](https://www.youtube.com/watch?v=Inc63mLLInA) `0:14:24`
+	- [X] [On Generating Extended Summaries of Long Documents (Research Paper Walkthrough)](https://www.youtube.com/watch?v=Inc63mLLInA) `0:14:24`
 	- [X] [Nucleus Sampling: The Curious Case of Neural Text Degeneration (Research Paper Walkthrough)](https://www.youtube.com/watch?v=dCORspO2yVY) `0:12:48`
-	- [ ] [T5: Exploring Limits of Transfer Learning with Text-to-Text Transformer (Research Paper Walkthrough)](https://www.youtube.com/watch?v=91iLu6OOrwk) `0:12:47`
+	- [X] [T5: Exploring Limits of Transfer Learning with Text-to-Text Transformer (Research Paper Walkthrough)](https://www.youtube.com/watch?v=91iLu6OOrwk) `0:12:47`
 	- [X] [DialoGPT: Generative Training for Conversational Response Generation (Research Paper Walkthrough)](https://www.youtube.com/watch?v=Zo679MYoJns) `0:13:17`
 	- [X] [Hierarchical Transformers for Long Document Classification (Research Paper Walkthrough)](https://www.youtube.com/watch?v=3IOl5d9PZeM) `0:12:46`
 	- [ ] [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList (Best Paper ACL 2020)](https://www.youtube.com/watch?v=m4EtNuR5RFQ) `0:14:00`
@@ -1700,6 +1703,7 @@
 - [X] [Youtube: 1 + 1 = 1 or Record Deduplication with Python | Flávio Juvenal @ PyBay2018](https://www.youtube.com/watch?v=McsTWXeURhA)
 - [X] [Youtube: Mike Mull: The Art and Science of Data Matching](https://www.youtube.com/watch?v=Y-nYEOgq3YE)
 - [X] [Youtube: Record linkage: Join for real life by Rhydwyn Mcguire](https://youtu.be/cEcVIjyHfiQ)
+- [X] [Youtube: Approximate nearest neighbors and vector models, introduction to Annoy](https://www.youtube.com/watch?v=QkCCyLW0ehU)
 - [ ] [Video: Recent Advances in LM Pre-training](https://slideslive.com/38952401/recent-advances-in-lm-pretraining)
 
 ### Be familiar with Recommendation Systems
@@ -2285,6 +2289,7 @@
 - [X] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
 
 ### Be familiar with fundamental Computer Science concepts
+- [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
 - [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [ ] [Crashcourse: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
