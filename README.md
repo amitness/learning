@@ -122,6 +122,8 @@
 - [ ] [Article: How to deliver on Machine Learning projects](https://mlpowered.com/posts/how-to-deliver-on-machine-learning-projects/)
 - [ ] [Article: Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
 - [X] [Article: Customer service is full of machine learning problems](http://nlathia.github.io/2020/06/Customer-service-machine-learning.html)
+- [X] [Article: Choosing Problems in Data Science and Machine Learning](https://eugeneyan.com/writing/how-to-choose-problems/)
+- [X] [Article: Why finance is deploying natural language processing](https://mitsloan.mit.edu/ideas-made-to-matter/why-finance-deploying-natural-language-processing)
 - [X] [Article: Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
 - [ ] [Article: Machine Learning @ Monzo in 2020](http://nlathia.github.io/2020/10/Monzo-ML.html)
 - [X] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
@@ -640,7 +642,7 @@
 - [X] [Article: One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
 - [ ] [Article: The Complete Guide to AUC and Average Precision: Simulations and Visualizations](https://glassboxmedicine.com/2020/07/14/the-complete-guide-to-auc-and-average-precision-simulations-and-visualizations/)
 - [ ] [Article: Connections: Log Likelihood, Cross Entropy, KL Divergence, Logistic Regression, and Neural Networks](https://glassboxmedicine.com/2019/12/07/connections-log-likelihood-cross-entropy-kl-divergence-logistic-regression-and-neural-networks/)
-- [ ] [Article: Best Use of Train/Val/Test Splits, with Tips for Medical Data](https://glassboxmedicine.com/2019/09/15/best-use-of-train-val-test-splits-with-tips-for-medical-data/)
+- [X] [Article: Best Use of Train/Val/Test Splits, with Tips for Medical Data](https://glassboxmedicine.com/2019/09/15/best-use-of-train-val-test-splits-with-tips-for-medical-data/)
 - [ ] [Article: Measuring Performance: AUPRC and Average Precision](https://glassboxmedicine.com/2019/03/02/measuring-performance-auprc/)
 - [ ] [Article: Measuring Performance: AUC (AUROC)](https://glassboxmedicine.com/2019/02/23/measuring-performance-auc-auroc/)
 - [ ] [Article: Measuring Performance: The Confusion Matrix](https://glassboxmedicine.com/2019/02/17/measuring-performance-the-confusion-matrix/)
@@ -656,7 +658,7 @@
 - [ ] [Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)
 - [ ] [Article: ROC Curves: Intuition Through Visualization](https://www.pragmatic.ml/intuition-through-visualization-roc-auc/)
 - [ ] [Article: Hacker's Guide to Fundamental Machine Learning Algorithms with Python](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)
-- [ ] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
+- [X] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
 - [ ] [Article: MLE and MAP — in layman’s terms](https://medium.com/@ajitrajasekharan/mle-and-map-in-laymans-terms-8527061b15a6)
 - [X] [Article: The Last 5 Years In Deep Learning](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
 - [ ] [Article: Visualizing Optimization Trajectory of Neural Nets](https://towardsdatascience.com/from-animation-to-intuition-visualizing-optimization-trajectory-in-neural-nets-726e43a08d85)
@@ -679,6 +681,7 @@
 - [ ] [Article: Cross-entropy for classification](https://towardsdatascience.com/cross-entropy-for-classification-d98e7f974451)
 - [ ] [Article: Perceptron to Deep-Neural-Network](https://tsumansapkota.github.io/algorithm/2020/06/06/Perceptron-to-DeepNeuralNets/)
 - [ ] [Article: Dismantling Neural Networks to Understand the Inner Workings with Math and Pytorch](https://towardsdatascience.com/dismantling-neural-networks-to-understand-the-inner-workings-with-math-and-pytorch-beac8760b595)
+- [X] [Article: Precision, Recall, Accuracy, and F1 Score for Multi-Label Classification](https://medium.com/synthesio-engineering/precision-accuracy-and-f1-score-for-multi-label-classification-34ac6bdfb404)
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
 - [ ] [Book: Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
@@ -734,9 +737,9 @@
 	- [X] [Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o) `0:07:12`
 	- [X] [Machine Learning Fundamentals: Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aMoz4v8) `0:11:46`
 	- [X] [Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA) `0:06:36`
-	- [ ] [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) `0:16:26`
-	- [ ] [StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`
-	- [ ] [StatQuest: Linear Models Pt.1 - Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo) `0:27:26`
+	- [X] [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) `0:16:26`
+	- [X] [StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`
+	- [X] [StatQuest: Linear Models Pt.1 - Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo) `0:27:26`
 	- [ ] [StatQuest: Odds and Log(Odds), Clearly Explained!!!](https://www.youtube.com/watch?v=ARfXDSkQf1Y) `0:11:30`
 	- [ ] [StatQuest: Odds Ratios and Log(Odds Ratios), Clearly Explained!!!](https://www.youtube.com/watch?v=8nm0G-1uJzA) `0:16:20`
 	- [ ] [StatQuest: Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8) `0:08:47`
@@ -819,14 +822,14 @@
 - [ ] [Youtube: Applied Machine Learning 2020](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
 	- [X] [Channel Intro - Applied Machine Learning](https://www.youtube.com/watch?v=d79mzijMAw0) `0:01:28`
 	- [ ] [Applied ML 2020 - 01 Introduction](https://www.youtube.com/watch?v=rbvpiPJuK64) `1:16:01`
-	- [ ] [Applied ML 2020 - 02 Visualization and matplotlib](https://www.youtube.com/watch?v=OW3oco7nlV4) `1:07:30`
-	- [ ] [Applied ML 2020 - 03 Supervised learning and model validation](https://www.youtube.com/watch?v=7_YzyMYC2zM) `1:12:00`
+	- [X] [Applied ML 2020 - 02 Visualization and matplotlib](https://www.youtube.com/watch?v=OW3oco7nlV4) `1:07:30`
+	- [X] [Applied ML 2020 - 03 Supervised learning and model validation](https://www.youtube.com/watch?v=7_YzyMYC2zM) `1:12:00`
 	- [ ] [Applied ML 2020 - 04 - Preprocessing](https://www.youtube.com/watch?v=XpOBSaktb6s) `1:07:40`
 	- [ ] [Applied ML 2020 - 05 - Linear Models for Regression](https://www.youtube.com/watch?v=-OOsfj5Revo) `1:06:54`
 	- [ ] [Applied ML 2020 - 06 - Linear Models for Classification](https://www.youtube.com/watch?v=_dqBhUrq09U) `1:07:50`
 	- [ ] [Applied ML 2020 - 07 - Decision Trees and Random Forests](https://www.youtube.com/watch?v=nomd5ylZ2dw) `1:07:58`
 	- [ ] [Applied ML 2020 - 08 - Gradient Boosting](https://www.youtube.com/watch?v=yrTW5YTmFjw) `1:02:12`
-	- [ ] [Applied ML 2020 - 09 - Model Evaluation and Metrics](https://www.youtube.com/watch?v=trg3YkCsjqE) `1:18:23`
+	- [X] [Applied ML 2020 - 09 - Model Evaluation and Metrics](https://www.youtube.com/watch?v=trg3YkCsjqE) `1:18:23`
 	- [ ] [Applied ML 2020 - 10 - Calibration, Imbalanced data](https://www.youtube.com/watch?v=w3OPq0V8fr8) `1:16:14`
 	- [ ] [Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
 	- [ ] [Applied ML 2020 - 12 - AutoML (plus some feature selection)](https://www.youtube.com/watch?v=bmBezdqHTAg) `1:25:38`
@@ -839,7 +842,7 @@
 	- [ ] [Applied ML 2020 - 19 - Keras and Convolutional neural nets](https://www.youtube.com/watch?v=PP7Hr3tGbIo) `1:16:01`
 	- [ ] [Applied ML 2020 - 20 - Advanced neural networks](https://www.youtube.com/watch?v=2FNmbX901r0) `1:36:28`
 	- [ ] [Applied ML 2020 - 21 - Time Series and Forecasting](https://www.youtube.com/watch?v=GVGEnaJsuu8) `1:12:36`
-- [ ] [Youtube: dabl: Automatic Machine Learning with a Human in the Loop](https://www.youtube.com/watch?v=TQnxH90PqFc&list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B&index=2&t=0s) `00:25:43`
+- [X] [Youtube: dabl: Automatic Machine Learning with a Human in the Loop](https://www.youtube.com/watch?v=TQnxH90PqFc&list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B&index=2&t=0s) `00:25:43`
 
 ### Be able to implement models in Tensorflow and Keras
 - [X] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
@@ -1082,6 +1085,7 @@
 - [X] [Article: Recent Advances in Language Model Fine-tuning](https://ruder.io/recent-advances-lm-fine-tuning/)
 - [X] [Article: Understanding building blocks of ULMFIT](https://medium.com/mlreview/understanding-building-blocks-of-ulmfit-818d3775325b)
 - [X] [Article: Swiss army knife for unsupervised task solving](https://towardsdatascience.com/swiss-army-knife-for-unsupervised-task-solving-26f9acf7c023)
+- [X] [Article: Multi-Label Text Classification](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-label-text-classification-5c505fdedca8)
 - [ ] [Article: Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 - [ ] [Article: Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 - [ ] [Article: Unsupervised synonym harvesting](https://towardsdatascience.com/unsupervised-synonym-harvesting-d592eaaf3c15)
@@ -1213,6 +1217,8 @@
 - [ ] [Article: Using NLP (BERT) to improve OCR accuracy](https://www.statestitle.com/resource/using-nlp-bert-to-improve-ocr-accuracy/)
 - [ ] [Article: Hyperparameter Optimization for 🤗Transformers: A guide](https://medium.com/distributed-computing-with-ray/hyperparameter-optimization-for-transformers-a-guide-c4e32c6c989b)
 - [ ] [Article: Faster and smaller quantized NLP with Hugging Face and ONNX Runtime](https://medium.com/microsoftazure/faster-and-smaller-quantized-nlp-with-hugging-face-and-onnx-runtime-ec5525473bb7)
+- [ ] [Article: Text Similarities : Estimate the degree of similarity between two texts](https://medium.com/@adriensieg/text-similarities-da019229c894)
+- [ ] [Article: Reducing Toxicity in Language Models](https://lilianweng.github.io/lil-log/2021/03/21/reducing-toxicity-in-language-models.html)
 - [ ] [Article: Learning Word Embedding](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)
 - [ ] [Article: The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 - [ ] [Article: Generalized Language Models](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
@@ -1380,6 +1386,8 @@
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 18 – Constituency Parsing, TreeRNNs](https://www.youtube.com/watch?v=6Z4A3RSf-HY) `1:20:37`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 19 – Bias in AI](https://www.youtube.com/watch?v=XR8YSRcuVLE) `0:56:03`
 	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 20 – Future of NLP + Deep Learning](https://www.youtube.com/watch?v=3wWZBGN-iX8) `1:19:15`
+	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2020 | Low Resource Machine Translation](https://youtu.be/mp95Z5yM92c?list=LL) `1:15:45`
+	- [X] [Stanford CS224N: NLP with Deep Learning | Winter 2020 | BERT and Other Pre-trained Language Models](https://youtu.be/knTc-NQSjKA?list=LL) `0:54:28`
 - [ ] [Stanford: Natural Language Processing | Dan Jurafsky, Christopher Manning](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
     - [X] [Course Introduction](https://www.youtube.com/watch?v=3Dt_yh1mf_U) `0:12:52`
     - [X] [Regular Expressions](https://www.youtube.com/watch?v=zfH2ADGtzJQ) `0:11:25`
@@ -1704,7 +1712,28 @@
 - [X] [Youtube: Mike Mull: The Art and Science of Data Matching](https://www.youtube.com/watch?v=Y-nYEOgq3YE)
 - [X] [Youtube: Record linkage: Join for real life by Rhydwyn Mcguire](https://youtu.be/cEcVIjyHfiQ)
 - [X] [Youtube: Approximate nearest neighbors and vector models, introduction to Annoy](https://www.youtube.com/watch?v=QkCCyLW0ehU)
+- [X] [Youtube: Librosa Audio and Music Signal Analysis in Python | SciPy 2015 | Brian McFee](https://www.youtube.com/watch?v=MhOdbtPhbLU)
 - [ ] [Video: Recent Advances in LM Pre-training](https://slideslive.com/38952401/recent-advances-in-lm-pretraining)
+- [X] [Youtube: Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
+	- [X] [1- Deep Learning (for Audio) with Python: Course Overview](https://www.youtube.com/watch?v=fMqL5vckiU0) `0:08:02`
+	- [X] [2- AI, machine learning and deep learning](https://www.youtube.com/watch?v=1LLxZ35ru_g) `0:31:15`
+	- [X] [3- Implementing an artificial neuron from scratch](https://www.youtube.com/watch?v=qxIaW-WvLDU) `0:19:05`
+	- [X] [4- Vector and matrix operations](https://www.youtube.com/watch?v=FmD1S5yP_os) `0:25:51`
+	- [X] [5-  Computation in neural networks](https://www.youtube.com/watch?v=QUCzvlgvk6I) `0:23:19`
+	- [X] [6- Implementing a neural network from scratch in Python](https://www.youtube.com/watch?v=0oWnheK-gGk) `0:21:03`
+	- [X] [7- Training a neural network: Backward propagation and gradient descent](https://www.youtube.com/watch?v=ScL18goxsSg) `0:21:41`
+	- [X] [8- TRAINING A NEURAL NETWORK: Implementing backpropagation and gradient descent from scratch](https://www.youtube.com/watch?v=Z97XGNUUx9o) `1:03:00`
+	- [X] [9- How to implement a (simple) neural network with TensorFlow 2](https://www.youtube.com/watch?v=JdXxaZcQer8) `0:24:37`
+	- [X] [10 - Understanding audio data for deep learning](https://www.youtube.com/watch?v=m3XbqfIij_Y) `0:32:55`
+	- [X] [11- Preprocessing audio data for Deep Learning](https://www.youtube.com/watch?v=Oa_d-zaUti8) `0:25:05`
+	- [X] [12- Music genre classification: Preparing the dataset](https://www.youtube.com/watch?v=szyGiObZymo) `0:37:45`
+	- [X] [13- Implementing a neural network for music genre classification](https://www.youtube.com/watch?v=_xcFAiufwd0) `0:33:25`
+	- [X] [14-  SOLVING OVERFITTING in neural networks](https://www.youtube.com/watch?v=Gf5DO6br0ts) `0:26:29`
+	- [X] [15- Convolutional Neural Networks Explained Easily](https://www.youtube.com/watch?v=t3qWfUYJEYU) `0:35:23`
+	- [X] [16- How to Implement a CNN for Music Genre Classification](https://www.youtube.com/watch?v=dOG-HxpbMSw) `0:49:10`
+	- [X] [17- Recurrent Neural Networks Explained Easily](https://www.youtube.com/watch?v=DY82Goknf0s) `0:28:35`
+	- [X] [18- Long Short Term Memory (LSTM) Networks Explained Easily](https://www.youtube.com/watch?v=eCvz-kB4yko) `0:28:08`
+	- [X] [19- How to Implement an RNN-LSTM Network for Music Genre Classification](https://www.youtube.com/watch?v=4nXI0h2sq2I) `0:14:29`
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
@@ -1870,6 +1899,7 @@
 - [X] [Article: Unit Testing for Data Scientists](https://www.maartengrootendorst.com/blog/unit/)
 - [ ] [Article: Testing in Production, the safe way](https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1)
 - [X] [Article: How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/)
+- [X] [Article: 4 Lesser-Known Yet Awesome Tips for Pytest](https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c)
 - [X] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
 - [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
 - [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
@@ -1892,6 +1922,7 @@
 - [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 - [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
 - [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
+- [X] [Youtube: Python pydantic Introduction – Give your data classes super powers](https://www.youtube.com/watch?v=WJmqgJn9TXg)
 
 ### Be able to build interactive UI for models
 - [X] [Article: Build and Deploy a Dashboard with Streamlit](https://www.maartengrootendorst.com/blog/streamlit/)
