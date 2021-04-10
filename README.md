@@ -184,6 +184,9 @@
 
 ### Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
+- [X] [Netflix: Coded Bias](https://www.netflix.com/np/title/81328723)
+- [X] [Netflix: The Great Hack](https://www.netflix.com/np/title/80117542)
+- [X] [Netflix: The Social Dilemma](https://www.netflix.com/np/title/81254224)
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
     - [X] [Lesson 1: Disinformation](http://ethics.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2: Bias & Fairness](http://ethics.fast.ai/videos/?lesson=2)
@@ -624,14 +627,14 @@
 - [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [X] [Youtube: 045 Introduction to Git LFS](https://youtu.be/xPFLAAhuGy0)
 
-### Be able to use version control data
+### Be able to version control data
 - [ ] [Youtube: DVC Basics](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg)
 	- [X] [Versioning Data with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=kLKBcPonMYw) `0:13:04`
 	- [X] [Sharing Data and Models with DVC (Hands-On Data Science Tutorial!)](https://www.youtube.com/watch?v=EE7Gk84OZY8) `0:08:53`
 	- [ ] [Machine Learning Pipelines with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=71IGzyH95UY) `0:10:04`
 	- [ ] [Machine Learning Experiments with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=iduHPtBncBk) `0:07:29`
 
-### Be familiar with fundamental of ML and DL
+### Be familiar with fundamentals of ML and DL
 - [X] [Article: Validating your Machine Learning Model](https://www.maartengrootendorst.com/blog/validate/)
 - [X] [Article: One-vs-Rest strategy for Multi-Class Classification](https://www.geeksforgeeks.org/one-vs-rest-strategy-for-multi-class-classification/)
 - [X] [Article: Multi-class Classification — One-vs-All & One-vs-One](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-class-classification-one-vs-all-one-vs-one-94daed32a87b)
@@ -807,6 +810,7 @@
 
 ### Be able to implement models in scikit-learn
 - [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
+- [X] [Article: A Guide to Calibration Plots in Python](https://changhsinlee.com/python-calibration-plot/)
 - [X] [Calmcode: human-learn](https://calmcode.io/human-learn/introduction.html)
 - [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 - [X] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
@@ -824,11 +828,11 @@
 	- [X] [Applied ML 2020 - 04 - Preprocessing](https://www.youtube.com/watch?v=XpOBSaktb6s) `1:07:40`
 	- [ ] [Applied ML 2020 - 05 - Linear Models for Regression](https://www.youtube.com/watch?v=-OOsfj5Revo) `1:06:54`
 	- [ ] [Applied ML 2020 - 06 - Linear Models for Classification](https://www.youtube.com/watch?v=_dqBhUrq09U) `1:07:50`
-	- [ ] [Applied ML 2020 - 07 - Decision Trees and Random Forests](https://www.youtube.com/watch?v=nomd5ylZ2dw) `1:07:58`
-	- [ ] [Applied ML 2020 - 08 - Gradient Boosting](https://www.youtube.com/watch?v=yrTW5YTmFjw) `1:02:12`
+	- [X] [Applied ML 2020 - 07 - Decision Trees and Random Forests](https://www.youtube.com/watch?v=nomd5ylZ2dw) `1:07:58`
+	- [X] [Applied ML 2020 - 08 - Gradient Boosting](https://www.youtube.com/watch?v=yrTW5YTmFjw) `1:02:12`
 	- [X] [Applied ML 2020 - 09 - Model Evaluation and Metrics](https://www.youtube.com/watch?v=trg3YkCsjqE) `1:18:23`
-	- [ ] [Applied ML 2020 - 10 - Calibration, Imbalanced data](https://www.youtube.com/watch?v=w3OPq0V8fr8) `1:16:14`
-	- [ ] [Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
+	- [X] [Applied ML 2020 - 10 - Calibration, Imbalanced data](https://www.youtube.com/watch?v=w3OPq0V8fr8) `1:16:14`
+	- [X] [Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
 	- [ ] [Applied ML 2020 - 12 - AutoML (plus some feature selection)](https://www.youtube.com/watch?v=bmBezdqHTAg) `1:25:38`
 	- [ ] [Applied ML 2020 - 13 - Dimensionality reduction](https://www.youtube.com/watch?v=CrFOGyU32PM) `1:30:34`
 	- [X] [Applied ML 2020 - 14 - Clustering and Mixture Models](https://www.youtube.com/watch?v=HFioJ62H7dM) `1:26:33`
