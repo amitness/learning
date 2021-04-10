@@ -680,6 +680,7 @@
 - [ ] [Article: Cross-entropy for classification](https://towardsdatascience.com/cross-entropy-for-classification-d98e7f974451)
 - [ ] [Article: Perceptron to Deep-Neural-Network](https://tsumansapkota.github.io/algorithm/2020/06/06/Perceptron-to-DeepNeuralNets/)
 - [ ] [Article: Dismantling Neural Networks to Understand the Inner Workings with Math and Pytorch](https://towardsdatascience.com/dismantling-neural-networks-to-understand-the-inner-workings-with-math-and-pytorch-beac8760b595)
+- [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
 - [X] [Article: Precision, Recall, Accuracy, and F1 Score for Multi-Label Classification](https://medium.com/synthesio-engineering/precision-accuracy-and-f1-score-for-multi-label-classification-34ac6bdfb404)
 - [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
@@ -771,31 +772,6 @@
 - [ ] [Udacity: Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
 - [ ] [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [Udacity: Classification Models](https://www.udacity.com/course/classification-models--ud978)
-- [ ] [Youtube: Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
-	- [ ] [Neural Networks from Scratch - P.1 Intro and Neuron Code](https://www.youtube.com/watch?v=Wo5dMEP_BbI) `0:16:59`
-	- [ ] [Neural Networks from Scratch - P.2 Coding a Layer](https://www.youtube.com/watch?v=lGLto9Xd7bU) `0:15:06`
-	- [ ] [Neural Networks from Scratch - P.3 The Dot Product](https://www.youtube.com/watch?v=tMrbN67U9d4) `0:25:17`
-	- [ ] [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4) `0:33:46`
-	- [ ] [Neural Networks from Scratch - P.5 Hidden Layer Activation Functions](https://www.youtube.com/watch?v=gmjzbpSVY1A) `0:40:05`
-- [ ] [Youtube: Visualizing Deep Learning](https://www.youtube.com/playlist?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
-    - [ ] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://youtu.be/UOvPeC8WOt8?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
-- [X] [Youtube: Deep Double Descent](https://youtu.be/R29awq6jvUw)
-- [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
-- [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
-- [X] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
-
-### Be able to implement models in scikit-learn
-- [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
-- [X] [Article: A Guide to Calibration Plots in Python](https://changhsinlee.com/python-calibration-plot/)
-- [X] [Calmcode: human-learn](https://calmcode.io/human-learn/introduction.html)
-- [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
-- [X] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
-- [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
-- [X] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
-- [ ] [Datacamp: Generalized Linear Models in Python](https://www.datacamp.com/courses/generalized-linear-models-in-python)
-- [X] [Notebook: scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
-- [X] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
-- [ ] [Video: human learn](https://calmcode.io/human-learn/introduction.html)
 - [ ] [Youtube: Applied Machine Learning 2020](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
 	- [X] [Channel Intro - Applied Machine Learning](https://www.youtube.com/watch?v=d79mzijMAw0) `0:01:28`
 	- [ ] [Applied ML 2020 - 01 Introduction](https://www.youtube.com/watch?v=rbvpiPJuK64) `1:16:01`
@@ -817,6 +793,30 @@
 	- [ ] [Applied ML 2020 - 17 - Word vectors and document embeddings](https://www.youtube.com/watch?v=xgjnlGBpLUs) `1:03:04`
 	- [ ] [Applied ML 2020 - 18 - Neural Networks](https://www.youtube.com/watch?v=CRRPLlgYWZw) `1:19:36`
 	- [ ] [Applied ML 2020 - 21 - Time Series and Forecasting](https://www.youtube.com/watch?v=GVGEnaJsuu8) `1:12:36`
+- [ ] [Youtube: Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+	- [ ] [Neural Networks from Scratch - P.1 Intro and Neuron Code](https://www.youtube.com/watch?v=Wo5dMEP_BbI) `0:16:59`
+	- [ ] [Neural Networks from Scratch - P.2 Coding a Layer](https://www.youtube.com/watch?v=lGLto9Xd7bU) `0:15:06`
+	- [ ] [Neural Networks from Scratch - P.3 The Dot Product](https://www.youtube.com/watch?v=tMrbN67U9d4) `0:25:17`
+	- [ ] [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4) `0:33:46`
+	- [ ] [Neural Networks from Scratch - P.5 Hidden Layer Activation Functions](https://www.youtube.com/watch?v=gmjzbpSVY1A) `0:40:05`
+- [ ] [Youtube: Visualizing Deep Learning](https://www.youtube.com/playlist?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
+    - [ ] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://youtu.be/UOvPeC8WOt8?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
+- [X] [Youtube: Deep Double Descent](https://youtu.be/R29awq6jvUw)
+- [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
+- [X] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
+
+### Be able to implement models in scikit-learn
+- [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
+- [X] [Article: A Guide to Calibration Plots in Python](https://changhsinlee.com/python-calibration-plot/)
+- [X] [Calmcode: human-learn](https://calmcode.io/human-learn/introduction.html)
+- [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+- [X] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+- [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
+- [X] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
+- [ ] [Datacamp: Generalized Linear Models in Python](https://www.datacamp.com/courses/generalized-linear-models-in-python)
+- [X] [Notebook: scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
+- [X] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
+- [ ] [Video: human learn](https://calmcode.io/human-learn/introduction.html)
 - [X] [Youtube: dabl: Automatic Machine Learning with a Human in the Loop](https://www.youtube.com/watch?v=TQnxH90PqFc&list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B&index=2&t=0s) `00:25:43`
 
 ### Be able to implement models in Tensorflow and Keras
@@ -2394,7 +2394,6 @@
 - [ ] [Article: A Guide to Cold Emailing](http://eugenevinitsky.github.io/posts/2020-12-25-coldemails.html)
 - [ ] [Book: Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - [ ] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
-- [ ] [Datacamp: Preparing for Coding Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-coding-interview-questions-in-python)
 - [X] [Datacamp: Practicing Machine Learning Interview Questions in Python](https://www.datacamp.com/courses/practicing-machine-learning-interview-questions-in-python)
 - [X] [Datacamp: Kaggle Competition](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
 - [X] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
