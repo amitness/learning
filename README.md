@@ -933,6 +933,7 @@
 - [X] [AWS: Satellite Image Classification in SageMaker](https://www.aws.training/learningobject/video?id=27231)
 - [X] [Datacamp: Introduction to AWS Boto in Python](https://www.datacamp.com/courses/introduction-to-aws-boto-in-python)
 - [X] [edX: Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)
+- [X] [Intellipaat: AWS Certified Developer Associate](https://intellipaat.com/aws-developer-certification-training/)
 
 ### Be able to apply unsupervised learning algorithms
 - [X] [Article: From Research to Production with Deep Semi-Supervised Learning](https://towardsdatascience.com/from-research-to-production-with-deep-semi-supervised-learning-7caaedc39093)
