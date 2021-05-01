@@ -1022,6 +1022,7 @@
 - [X] [Youtube: Sebastian Ruder: Neural Semi-supervised Learning under Domain Shift](https://www.youtube.com/watch?v=tpAr5-Y4JxU)
 - [X] [Youtube: Clustering Algorithms](https://www.youtube.com/playlist?list=PLBv09BD7ez_6lYVoZ1RzVcOPIT5Lfjo0Y)
 - [ ] [Youtube: Beyond supervised learning](https://www.youtube.com/watch?v=lFWJB1ig0e0)
+- [ ] [Youtube: The InfoNCE loss in self-supervised learning](https://slideslive.com/38938406/the-infonce-loss-in-selfsupervised-learning)
 
 ### Be able to implement NLP models
 - [X] [Article: Understanding ARPA and Language Models](https://medium.com/@canadaduane/understanding-arpa-and-language-models-115d6cbc3893)
@@ -1060,6 +1061,7 @@
 - [X] [Article: Multi-Label Text Classification](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-label-text-classification-5c505fdedca8)
 - [X] [Article: Key topics extraction and contextual sentiment of users reviews](https://tech.goibibo.com/key-topics-extraction-and-contextual-sentiment-of-users-reviews-20e63c0fd7ca)
 - [X] [Article: 10 Things You Need to Know About BERT and the Transformer Architecture That Are Reshaping the AI Landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape)
+- [X] [Article: Haystack: The State of Search in 2021](https://medium.com/deepset-ai/haystack-the-state-of-search-in-2021-7388ecb15dfb)
 - [ ] [Article: How many data points is a prompt worth?](https://huggingface.co/blog/how_many_data_points/)
 - [ ] [Article: Fuzzy Matching/Fuzzy Logic Explained](https://nanonets.com/blog/fuzzy-matching-fuzzy-logic/)
 - [ ] [Article: Understanding BigBird's Block Sparse Attention"](https://huggingface.co/blog/big-bird)
@@ -1701,7 +1703,7 @@
 	- [X] [17- Recurrent Neural Networks Explained Easily](https://www.youtube.com/watch?v=DY82Goknf0s) `0:28:35`
 	- [X] [18- Long Short Term Memory (LSTM) Networks Explained Easily](https://www.youtube.com/watch?v=eCvz-kB4yko) `0:28:08`
 	- [X] [19- How to Implement an RNN-LSTM Network for Music Genre Classification](https://www.youtube.com/watch?v=4nXI0h2sq2I) `0:14:29`
-- [ ] [Youtube: Fine-tuning a large language model without your own supercomputer](https://www.youtube.com/watch?v=RG-yV5zgqjQ)
+- [X] [Youtube: Fine-tuning a large language model without your own supercomputer](https://www.youtube.com/watch?v=RG-yV5zgqjQ)
 - [X] [Youtube: How to build a custom spell checker using python NLP](https://www.youtube.com/watch?v=LEA3TDV98zE)
 
 ### Be familiar with Recommendation Systems
