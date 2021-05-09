@@ -607,7 +607,7 @@
 	- [ ] [Lab 6: Data Labeling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=iFvk9cGbIZ4) `0:05:06`
 	- [ ] [Lecture 10: ML Testing & Explainability (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=K42wdqpZymw) `1:41:12`
 	- [ ] [Lab 8: Testing and Continuous Integration (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=D3YeQcE9tSg) `0:13:26`
-	- [ ] [Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`
+	- [X] [Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`
 	- [X] [Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`
 	- [ ] [Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8daKeuaWgjk) `0:58:13`
 - [ ] [CMU: Software Engineering for AI-Enabled Systems](https://www.youtube.com/playlist?list=PLDS2JMJnJzdkQPdkhcuwcbJpjB84g9ffX)
