@@ -184,7 +184,7 @@
 - [X] [Youtube: Engineering Systems for Real-Time Predictions @DoorDash](https://www.youtube.com/watch?v=sEZsIUBIhNk)
 - [ ] [Youtube: AI in Real Life Seminar Series (CME 500) - 2018-19](https://www.youtube.com/playlist?list=PLn62CdVLnT-dDshwuuumF5w3rpaidb2Dm)
 	- [ ] [John Apostolopoulos of Cisco discusses "Machine Learning in Networking"](https://www.youtube.com/watch?v=9XdGZVohnno) `0:48:44`
-	- [ ] [Joaquin Candela, Director of Applied Machine Learning, Facebook in conversation with Esteban Arcaute](https://www.youtube.com/watch?v=Fw8adDBBfog) `0:52:27`
+	- [X] [Joaquin Candela, Director of Applied Machine Learning, Facebook in conversation with Esteban Arcaute](https://www.youtube.com/watch?v=Fw8adDBBfog) `0:52:27`
 	- [ ] [Eric Colson, Chief Algorithms Officer, Stitch Fix](https://www.youtube.com/watch?v=z_OGYzT_MBo) `0:53:57`
 	- [ ] [Claudia Perlich, Advisor to Dstillery and Adjunct Professor NYU Stern School of Business](https://www.youtube.com/watch?v=p0cQUErM5xs) `0:51:59`
 	- [ ] [Jeff Dean, Google Senior Fellow and SVP Google AI - Deep Learning to Solve Challenging Problems](https://www.youtube.com/watch?v=imlp8DGNkk0) `0:58:45`
@@ -196,6 +196,10 @@
 - [X] [Youtube: Wayfair Data Science Explains It All: Human-in-the-loop Systems](https://youtu.be/miMwyvXt9VI?list=LL)
 - [X] [Youtube: Leaving the lab: Building NLP applications that real people can use](https://youtu.be/Z2FdH3j8Wbc?list=LL)
 - [X] [Youtube: Building intuitions before building models](https://youtu.be/xNGI0B_Sn1E?list=LL)
+- [ ] [Youtube: Machine Learning at Uber (Natural Language Processing Use Cases)](https://www.youtube.com/watch?v=R9z6s0Jx2p0)
+- [X] [Youtube: Google Wave: Natural Language Processing](https://www.youtube.com/watch?v=Sx3Fpw0XCXk)
+- [ ] [Youtube: Natural Language Understanding in Alexa](https://www.youtube.com/watch?v=U1yT_4xcglY)
+- [ ] [Youtube: The Machine Learning Behind Alexa’s AI Systems](https://www.youtube.com/watch?v=Dkg1ULBASNA)
 
 ### Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
@@ -1758,6 +1762,20 @@
 	- [X] [19- How to Implement an RNN-LSTM Network for Music Genre Classification](https://www.youtube.com/watch?v=4nXI0h2sq2I) `0:14:29`
 - [X] [Youtube: Fine-tuning a large language model without your own supercomputer](https://www.youtube.com/watch?v=RG-yV5zgqjQ)
 - [X] [Youtube: How to build a custom spell checker using python NLP](https://www.youtube.com/watch?v=LEA3TDV98zE)
+- [ ] [Youtube: Transformers 🤗 to Rule Them All? Under the Hood of the AI Recruiter Chatbot 🤖, with Keisuke Inoue](https://www.youtube.com/watch?v=aYYaDFXLF3c)
+- [ ] [Youtube: Artificial Intelligence and Natural Language Processing in E-Commerce by Katherine Munro | smec](https://www.youtube.com/watch?v=r7JI_5mt3To)
+- [ ] [Youtube: Deep Learning for Search in e-commerce By Sonu Sharma Software Engineer at Walmart Labs [MLDS2020]](https://www.youtube.com/watch?v=pTHCNlIBZwQ)
+- [ ] [Youtube: Abhishek Thakur - Classifying Search Queries Without User Click Data](https://www.youtube.com/watch?v=6e12EMglzTs)
+- [ ] [Youtube: Chatbots Revisted | by Abhishek Thakur | Kaggle Days Warsaw](https://www.youtube.com/watch?v=yQqyl0PZ2Wg)
+- [ ] [Youtube: Abhishek Thakur - Is That a Duplicate Quora Question?](https://www.youtube.com/watch?v=vA1V8A69e9c)
+- [ ] [Youtube: Design Considerations for building ML-Powered Search Applications - Mark Moyou](https://www.youtube.com/watch?v=q7xSuKq31Tk)
+- [ ] [Youtube: Analyze Customer Feedback in Minutes, Not Months](https://www.youtube.com/watch?v=RMamDDeIFeU)
+- [X] [Youtube: NLP in Feedback Analysis - Yue Ning](https://www.youtube.com/watch?v=V8mCS1XHyTI)
+- [X] [Youtube: Productionizing an unsupervised machine learning model to understand customer feedback](https://youtu.be/YLTLdEiJcq0)
+- [ ] [Youtube: Extracting topics from reviews using NLP - Dr. Tal Perri](https://www.youtube.com/watch?v=NVZho0VU53g)
+- [ ] [Youtube: Bringing innovation to online retail: automating customer service with NLP](https://www.youtube.com/watch?v=beB77I0leY4)
+- [ ] [Youtube: Real life aspects of opinion sentiment analysis within customer reviews - Dr. Jonathan Yaniv](https://www.youtube.com/watch?v=CVn0yR49yxA)
+- [ ] [Youtube: Deep Learning Methods for Emotion Detection from Text - Dr. Liron Allerhand](https://www.youtube.com/watch?v=DzAZ2Bq_dgU)
 
 ### Be familiar with multi-modal machine learning
 - [ ] [CMU: MultiModal Machine Learning Fall 2020](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)
