@@ -612,9 +612,9 @@
 	- [ ] [Lecture 6: Infrastructure & Tooling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=760Mc_b3_N0) `1:07:21`
 	- [ ] [Lab 5: Experiment Management (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8ylfWMYhLD4) `0:30:41`
 	- [ ] [Lecture 8: Data Management (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=QlPiiyd8zQI) `0:59:42`
-	- [ ] [Lab 6: Data Labeling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=iFvk9cGbIZ4) `0:05:06`
+	- [X] [Lab 6: Data Labeling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=iFvk9cGbIZ4) `0:05:06`
 	- [ ] [Lecture 10: ML Testing & Explainability (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=K42wdqpZymw) `1:41:12`
-	- [ ] [Lab 8: Testing and Continuous Integration (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=D3YeQcE9tSg) `0:13:26`
+	- [X] [Lab 8: Testing and Continuous Integration (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=D3YeQcE9tSg) `0:13:26`
 	- [X] [Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`
 	- [X] [Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`
 	- [ ] [Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8daKeuaWgjk) `0:58:13`
@@ -1087,6 +1087,7 @@
 - [ ] [Youtube: The InfoNCE loss in self-supervised learning](https://slideslive.com/38938406/the-infonce-loss-in-selfsupervised-learning)
 
 ### Be able to implement NLP models
+- [X] [Article: Fixing common Unicode mistakes with Python â€“ after they’ve been made](http://blog.conceptnet.io/posts/2012/fixing-common-unicode-mistakes-with-python-after-theyve-been-made/)
 - [ ] [Article: Deconstructing BERT](https://towardsdatascience.com/deconstructing-bert-reveals-clues-to-its-state-of-art-performance-in-nlp-tasks-76a7e828c0f1)
 - [ ] [Article: How To Create Data Products That Are Magical Using Sequence-to-Sequence Models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
 - [ ] [Article: Why Rasa uses Sparse Layers in Transformers](https://blog.rasa.com/why-rasa-uses-sparse-layers-in-transformers/)
@@ -1783,12 +1784,13 @@
 - [ ] [Youtube: Chatbots Revisted | by Abhishek Thakur | Kaggle Days Warsaw](https://www.youtube.com/watch?v=yQqyl0PZ2Wg)
 - [ ] [Youtube: Abhishek Thakur - Is That a Duplicate Quora Question?](https://www.youtube.com/watch?v=vA1V8A69e9c)
 - [ ] [Youtube: Design Considerations for building ML-Powered Search Applications - Mark Moyou](https://www.youtube.com/watch?v=q7xSuKq31Tk)
-- [ ] [Youtube: Analyze Customer Feedback in Minutes, Not Months](https://www.youtube.com/watch?v=RMamDDeIFeU)
+- [X] [Youtube: Analyze Customer Feedback in Minutes, Not Months](https://www.youtube.com/watch?v=RMamDDeIFeU)
 - [X] [Youtube: NLP in Feedback Analysis - Yue Ning](https://www.youtube.com/watch?v=V8mCS1XHyTI)
 - [X] [Youtube: Productionizing an unsupervised machine learning model to understand customer feedback](https://youtu.be/YLTLdEiJcq0)
-- [ ] [Youtube: Extracting topics from reviews using NLP - Dr. Tal Perri](https://www.youtube.com/watch?v=NVZho0VU53g)
-- [ ] [Youtube: Bringing innovation to online retail: automating customer service with NLP](https://www.youtube.com/watch?v=beB77I0leY4)
-- [ ] [Youtube: Real life aspects of opinion sentiment analysis within customer reviews - Dr. Jonathan Yaniv](https://www.youtube.com/watch?v=CVn0yR49yxA)
+- [X] [Youtube: Extracting topics from reviews using NLP - Dr. Tal Perri](https://www.youtube.com/watch?v=NVZho0VU53g)
+- [X] [Youtube: Bringing innovation to online retail: automating customer service with NLP](https://www.youtube.com/watch?v=beB77I0leY4)
+- [X] [Youtube: Transform customer service with machine learning (Google Cloud Next '17)](https://www.youtube.com/watch?v=bRnN4pBAsfc)
+- [X] [Youtube: Real life aspects of opinion sentiment analysis within customer reviews - Dr. Jonathan Yaniv](https://www.youtube.com/watch?v=CVn0yR49yxA)
 - [ ] [Youtube: Deep Learning Methods for Emotion Detection from Text - Dr. Liron Allerhand](https://www.youtube.com/watch?v=DzAZ2Bq_dgU)
 
 ### Be familiar with multi-modal machine learning
