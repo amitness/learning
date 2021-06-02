@@ -2501,6 +2501,9 @@
 	- [ ] [How to undo the last commit in PyCharm](https://www.youtube.com/watch?v=R5L5fZi_ldg) `0:00:52`
 	- [ ] [How to quickly show your npm scripts in PyCharm](https://www.youtube.com/watch?v=Nv5vO2loJ_c) `0:01:25`
 	- [ ] [How to use 'surround with' to insert elements in PyCharm](https://www.youtube.com/watch?v=GK7DEI6zOB8) `0:01:11`
+- [X] [VSCode Keyboard Shortcuts For Productivity](https://youtu.be/eGE-tFalwpA)
+- [X] [Getting Started with Jupyter Notebooks in VS Code](https://youtu.be/Ozq24uAshXo)
+- [X] [Notebooks in VS Code Are Getting Revamped!](https://youtu.be/g5EykzAsCC0)
 
 ### Be able to communicate and collaborate well
 - [ ] [Google: Technical Writing](https://developers.google.com/tech-writing)
