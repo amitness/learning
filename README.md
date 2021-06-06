@@ -419,6 +419,7 @@
 - [X] [Paper: Simple and Effective Dimensionality Reduction for Word Embeddings](https://arxiv.org/abs/1708.03629)
 - [ ] [Paper: A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556v1)
 - [ ] [Paper: The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures](https://arxiv.org/abs/2104.10640)
+- [X] [Paper: AutoCompete: A Framework for Machine Learning Competitions](https://arxiv.org/abs/1507.02188)
 - [X] [Youtube: mixup: Beyond Empirical Risk Minimization (Paper Explained)](https://www.youtube.com/watch?v=a-VQfQqIMrE)
 
 ### Be able to model problems mathematically
@@ -979,6 +980,7 @@
     - [X] [PyTorch Lecture 13: RNN 2 - Classification](https://www.youtube.com/watch?v=1vGOQAel2yU) `0:17:22`
 - [X] [PyTorch Developer Day 2020 | Full Livestream](https://www.youtube.com/watch?v=jaPVoObpdO0)
 - [X] [Youtube: Lightning Chat: How a Grandmaster Won a Kaggle Competition Using Pytorch Lightning](https://www.youtube.com/watch?app=desktop&v=0HQCK_l-njI)
+- [ ] [Youtube: Production Inference Deployment with PyTorch](https://youtu.be/Dk88zv1KYMI)
 
 ### Be able to implement models using cloud services
 - [X] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
