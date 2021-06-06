@@ -2505,6 +2505,7 @@
 - [X] [VSCode Keyboard Shortcuts For Productivity](https://youtu.be/eGE-tFalwpA)
 - [X] [Getting Started with Jupyter Notebooks in VS Code](https://youtu.be/Ozq24uAshXo)
 - [X] [Notebooks in VS Code Are Getting Revamped!](https://youtu.be/g5EykzAsCC0)
+- [X] [Getting Started with PyTorch in VS Code](https://youtu.be/A9lQHnFaqlU)
 
 ### Be able to communicate and collaborate well
 - [ ] [Google: Technical Writing](https://developers.google.com/tech-writing)
