@@ -618,6 +618,16 @@
 	- [X] [Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`
 	- [X] [Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`
 	- [ ] [Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8daKeuaWgjk) `0:58:13`
+- [ ] [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
+	- [ ] [Introduction](https://uniroma1.zoom.us/rec/share/ssE1viyJfyIIBVCdvc2yR--sdP1H8wrA8F_Bt78ZBh-z1g-O-5tk8R85g0QeC0hY.4xWqTsm4xJBi0GB-?startTime=1620198661000)
+	- [ ] [Deep learning recap](https://uniroma1.zoom.us/rec/share/ssE1viyJfyIIBVCdvc2yR--sdP1H8wrA8F_Bt78ZBh-z1g-O-5tk8R85g0QeC0hY.4xWqTsm4xJBi0GB-?startTime=1620203001000)
+	- [ ] [Git & Scripting](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620371740000)
+	- [ ] [Hydra configuration](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620378786000)
+	- [ ] [Data versioning with DVC Part 1](https://uniroma1.zoom.us/rec/share/74BYg5pKsplJLy4p-Yvo6g5bFa7eAEATwgqv5jzu6brzNZETWA9nISj_CK8_o192.WDm8fOY7zzd96bLA?startTime=1620383404000)
+	- [ ] [Data versioning with DVC Part 2](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620803785000)
+	- [ ] [Docker](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620810184000)
+	- [ ] [Weight & Biases](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620976559000)
+	- [ ] [Continuous integration](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620983293000)
 - [ ] [CMU: Software Engineering for AI-Enabled Systems](https://www.youtube.com/playlist?list=PLDS2JMJnJzdkQPdkhcuwcbJpjB84g9ffX)
 	- [ ] [SE4AI: Software Architecture of AI-Enabled Systems](https://www.youtube.com/watch?v=KIC-sFz5OT8) `1:14:24`
 	- [ ] [SE4AI: Quality Assessment in Production](https://www.youtube.com/watch?v=RaaNSXKFDGk) `1:18:45`
