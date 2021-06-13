@@ -344,7 +344,7 @@
 - [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 - [ ] [Youtube: GNU Parallel](https://www.youtube.com/playlist?list=PL284C9FF2488BC6D1)
 
-### Be able to perform feature engineering
+### Be able to perform feature selection and engineering
 - [X] [Article: Tips for Advanced Feature Engineering](https://www.maartengrootendorst.com/blog/feature-engineering/)
 - [ ] [Article: Preparing data for a machine learning model](https://www.jeremyjordan.me/preparing-data-for-a-machine-learning-model/)
 - [ ] [Article: Feature selection for a machine learning model](https://www.jeremyjordan.me/feature-selection/)
@@ -366,6 +366,8 @@
 - [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
 - [ ] [Google: Feature Engineering](https://www.coursera.org/learn/feature-engineering)
 - [ ] [Udacity: Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
+- [X] [Youtube: Applied ML 2020 - 04 - Preprocessing](https://www.youtube.com/watch?v=XpOBSaktb6s) `1:07:40`
+- [X] [Youtube: Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
 
 ### Be able to experiment in a notebook
 - [X] [Article: Securely storing configuration credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
@@ -700,9 +702,6 @@
 - [X] [Youtube: Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA) `0:06:36`
 - [X] [Youtube: ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) `0:16:26`
 
-### Be able to do feature selection and feature engineering
-- [X] [Youtube: Applied ML 2020 - 04 - Preprocessing](https://www.youtube.com/watch?v=XpOBSaktb6s) `1:07:40`
-- [X] [Youtube: Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
 
 ## Be familiar with inner working of models
 - [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
