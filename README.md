@@ -110,30 +110,13 @@
 	- [ ] [How To Create A Compelling Brand](https://www.youtube.com/watch?v=ttT3IbkZ_Qo) `0:05:52`
 	- [ ] [Designing Your Customer Experience & Case Studies](https://www.youtube.com/watch?v=CRz0pn3N5bs) `0:07:32`
 
-### Be able to frame an ML problem
-- [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
-- [X] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
-- [X] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
-- [X] [Article: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+
+### Be familiar with how ML is applied at other companies
 - [X] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
-- [X] [Article: Highlights from ICML 2020](https://lewtun.github.io/blog/research/conference/2020/07/31/icml2020.html)
 - [ ] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
-- [ ] [Article: A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
-- [ ] [Article: How to deliver on Machine Learning projects](https://mlpowered.com/posts/how-to-deliver-on-machine-learning-projects/)
-- [ ] [Article: Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
-- [X] [Article: Customer service is full of machine learning problems](http://nlathia.github.io/2020/06/Customer-service-machine-learning.html)
-- [X] [Article: Choosing Problems in Data Science and Machine Learning](https://eugeneyan.com/writing/how-to-choose-problems/)
-- [X] [Article: Why finance is deploying natural language processing](https://mitsloan.mit.edu/ideas-made-to-matter/why-finance-deploying-natural-language-processing)
 - [X] [Article: Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
 - [ ] [Article: Machine Learning @ Monzo in 2020](http://nlathia.github.io/2020/10/Monzo-ML.html)
 - [ ] [Article: How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
-- [X] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
-- [X] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
-- [X] [Book: The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
-- [ ] [Book: Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
-- [X] [Book: Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670)
-- [ ] [Book: Building Machine Learning Powered Applications: Going from Idea to Product](https://www.amazon.com/Building-Machine-Learning-Powered-Applications/dp/149204511X/)
-- [X] [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [ ] [Real-world AI Case Studies](#)
 	- [ ] [Andrej Karpathy on AI at Tesla (Full Stack Deep Learning - August 2018)](https://www.youtube.com/watch?v=ZVJTqAuPvTU&list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib&index=7)
 	- [ ] [Jai Ranganathan at Data Science at Uber (Full Stack Deep Learning - August 2018)](https://youtu.be/8PjTWFfjkeY?list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib)
@@ -146,21 +129,9 @@
 	- [ ] [Daphne Koller, Founder & CEO of Insitro -  In Conversation with Carlos Bustamante](https://www.youtube.com/watch?v=uyLT7EfWmsg) `0:49:29`
 	- [ ] [Eric Horvitz, Microsoft Research  - AI in the Open World: Advances, Aspirations, and Rough Edges](https://www.youtube.com/watch?v=4owh40tJ0wA) `0:56:11`
 	- [ ] [Tony Jebara, Netflix - Machine Learning for Recommendation and Personalization](https://www.youtube.com/watch?v=5u35GY24A0Q) `0:55:20`
-- [ ] [Datacamp: Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking)
-- [X] [Datacamp: Data Science for Everyone](https://www.datacamp.com/courses/data-science-for-everyone)
-- [X] [Datacamp: Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)
-- [X] [Datacamp: Machine Learning for Everyone](https://www.datacamp.com/courses/machine-learning-for-everyone)
 - [X] [Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
 - [X] [Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)
 - [X] [Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)
-- [X] [Datacamp: Data Science for Managers](https://www.datacamp.com/courses/data-science-for-managers)
-- [X] [Facebook: Field Guide to Machine Learning](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
-- [X] [Google: Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
-- [X] [Pluralsight: How to Think About Machine Learning Algorithms](https://www.pluralsight.com/courses/machine-learning-algorithms)
-- [ ] [State of AI Report 2020](https://docs.google.com/presentation/d/1ZUimafgXCBSLsgbacd6-a-dqO7yLyzIl1ZJbiCBUUT4/edit#slide=id.g557254d430_0_0)
-- [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
-- [X] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
-- [X] [Youtube: Making Money from AI by Predicting Sales - Jay's Intro to AI Part 2](https://youtu.be/V4-lXSs3jrk)
 - [X] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
 - [X] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
 - [X] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
@@ -173,24 +144,8 @@
 	- [X] [Will a robot take my job? | The Age of A.I.](https://www.youtube.com/watch?v=f2aocKWrPG8) `0:36:14`
 	- [X] [Saving the world one algorithm at a time | The Age of A.I.](https://www.youtube.com/watch?v=0wy4u34fii4) `0:46:37`
 	- [X] [How A.I. is searching for Aliens | The Age of A.I.](https://www.youtube.com/watch?v=VwtC_4t2g5M) `0:36:12`
-- [ ] [Youtube: Gradient Dissent Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
-	- [ ] [DeepChem creator Bharath Ramsundar on using deep learning for molecules and medicine discovery](https://www.youtube.com/watch?v=GnkpVjp117k) `0:55:11`
-	- [X] [ML Research and Production Pipelines with Chip Huyen](https://www.youtube.com/watch?v=6adNHwE5PHY) `0:43:07`
-	- [ ] [Product Management for AI with Peter Skomoroch](https://www.youtube.com/watch?v=hSyb3xEvCrI) `1:28:14`
-	- [X] [Slow down and change one thing at a time - Advancing AI research with Josh Tobin](https://www.youtube.com/watch?v=G6AgmZ6_R3U) `0:48:19`
-	- [ ] [Societal Impacts of Artificial Intelligence with Miles Brundage](https://www.youtube.com/watch?v=O2ya8M72y0U) `1:02:25`
-	- [ ] [Deep Reinforcement Learning and Robotics with Peter Welinder](https://www.youtube.com/watch?v=1VI3xTh-TMA) `0:54:22`
-	- [X] [Machine learning across industries with Vicki Boykis](https://www.youtube.com/watch?v=pOnRSYSNuXI) `0:34:02`
-	- [ ] [Designing ML models for millions of consumer robots - Angela Bassa and Danielle Dean](https://www.youtube.com/watch?v=W55uO4gIlQ4) `0:52:38`
-	- [ ] [Building trustworthy AI systems and combating potential malicious use – A conversation w/ Jack Clark](https://www.youtube.com/watch?v=nv_f1Gk8Ybk) `0:55:56`
-	- [X] [Rachael Tatman - Conversational A.I. and Linguistics](https://www.youtube.com/watch?v=n_CTGZSq4m0) `0:36:51`
-	- [X] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
-	- [X] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
-- [X] [Youtube: Accuracy as a Failure](https://youtu.be/YGuVuZpTop0)
 - [X] [Youtube: Using Intent Data to Optimize the Self-Solve Experience](https://lucidworks.com/post/using-intent-data-to-optimize-the-self-solve-experience/)
 - [X] [Youtube: Trillions of Questions, No Easy Answers: A (home) movie about how Google Search works](https://www.youtube.com/watch?v=tFq6Q_muwG0)
-- [X] [Youtube: Hugging Face, Transformers | NLP Research and Open Source | Interview with Julien Chaumond](https://www.youtube.com/watch?v=ejWkDviM5QM)
-- [X] [Youtube: Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020](https://www.youtube.com/watch?v=nJAmN6gWdK8&ab_channel=PyData)
 - [X] [Youtube: Google Machine Learning System Design Mock Interview](https://www.youtube.com/watch?v=uF1V2MqX2U0)
 - [X] [Youtube: Netflix Machine Learning Mock Interview: Type-ahead Search](https://www.youtube.com/watch?v=12Ry6kGPQVs)
 - [X] [Youtube: Machine Learning design: Search engine for Q&A](https://www.youtube.com/watch?v=J_0ms1ayqKE)
@@ -198,12 +153,61 @@
 - [X] [Youtube: How Gmail Uses Iterative Design, Machine Learning and AI to Create More Assistive Features](https://youtu.be/5UjCjVWa3yc?list=LL)
 - [X] [Youtube: Wayfair Data Science Explains It All: Human-in-the-loop Systems](https://youtu.be/miMwyvXt9VI?list=LL)
 - [X] [Youtube: Leaving the lab: Building NLP applications that real people can use](https://youtu.be/Z2FdH3j8Wbc?list=LL)
-- [X] [Youtube: Building intuitions before building models](https://youtu.be/xNGI0B_Sn1E?list=LL)
 - [ ] [Youtube: Machine Learning at Uber (Natural Language Processing Use Cases)](https://www.youtube.com/watch?v=R9z6s0Jx2p0)
 - [X] [Youtube: Google Wave: Natural Language Processing](https://www.youtube.com/watch?v=Sx3Fpw0XCXk)
 - [ ] [Youtube: Natural Language Understanding in Alexa](https://www.youtube.com/watch?v=U1yT_4xcglY)
 - [ ] [Youtube: The Machine Learning Behind Alexa’s AI Systems](https://www.youtube.com/watch?v=Dkg1ULBASNA)
 - [X] [Youtube: Ines Montani Keynote - Applied NLP Thinking](https://www.youtube.com/watch?v=mJqFI7vhqdA)
+- [X] [Youtube: Lecture 9: Lukas Biewald](https://youtu.be/25_kBogrzrs)
+- [X] [Youtube: Lecture 13: Research Directions](https://youtu.be/vF7UgqaegVI)
+- [X] [Youtube: Lecture 14: Jeremy Howard](https://youtu.be/hZd3X_nGdew)
+- [X] [Youtube: Lecture 15: Richard Socher](https://youtu.be/yvMgcLKuvVg)
+- [ ] [Youtube: Gradient Dissent Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
+	- [ ] [DeepChem creator Bharath Ramsundar on using deep learning for molecules and medicine discovery](https://www.youtube.com/watch?v=GnkpVjp117k) `0:55:11`
+	- [X] [Machine learning across industries with Vicki Boykis](https://www.youtube.com/watch?v=pOnRSYSNuXI) `0:34:02`
+	- [ ] [Designing ML models for millions of consumer robots - Angela Bassa and Danielle Dean](https://www.youtube.com/watch?v=W55uO4gIlQ4) `0:52:38`
+	- [X] [Rachael Tatman - Conversational A.I. and Linguistics](https://www.youtube.com/watch?v=n_CTGZSq4m0) `0:36:51`
+	- [X] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
+	- [X] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
+
+### Be able to frame an ML problem
+- [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
+- [X] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
+- [X] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
+- [X] [Article: Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+- [X] [Article: Highlights from ICML 2020](https://lewtun.github.io/blog/research/conference/2020/07/31/icml2020.html)
+- [ ] [Article: A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
+- [ ] [Article: How to deliver on Machine Learning projects](https://mlpowered.com/posts/how-to-deliver-on-machine-learning-projects/)
+- [ ] [Article: Data Science as a Product](https://blog.picnic.nl/data-science-as-a-product-f383dead5aa4)
+- [X] [Article: Customer service is full of machine learning problems](http://nlathia.github.io/2020/06/Customer-service-machine-learning.html)
+- [X] [Article: Choosing Problems in Data Science and Machine Learning](https://eugeneyan.com/writing/how-to-choose-problems/)
+- [X] [Article: Why finance is deploying natural language processing](https://mitsloan.mit.edu/ideas-made-to-matter/why-finance-deploying-natural-language-processing)
+- [X] [Article: The Last 5 Years In Deep Learning](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
+- [ ] [Article: Always start with a stupid model, no exceptions.](https://mlpowered.com/posts/start-with-a-stupid-model/)
+- [ ] [Article: Most impactful AI trends of 2018: the rise of ML Engineering](https://mlpowered.com/posts/2019-ml-trends/)
+- [ ] [Article: Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
+- [X] [Article: Simple considerations for simple people building fancy neural networks](https://medium.com/huggingface/simple-considerations-for-simple-people-building-fancy-neural-networks-7abc3c0f0bd7)
+- [X] [Article: Maximizing Business Impact with Machine Learning](https://mlinproduction.com/maximizing-business-impact-with-machine-learning/)
+- [X] [Book: AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
+- [X] [Book: A Human's Guide to Machine Intelligence](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882)
+- [X] [Book: The Future Computed](https://news.microsoft.com/uploads/2018/01/The-Future-Computed.pdf)
+- [ ] [Book: Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
+- [X] [Book: Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670)
+- [ ] [Book: Building Machine Learning Powered Applications: Going from Idea to Product](https://www.amazon.com/Building-Machine-Learning-Powered-Applications/dp/149204511X/)
+- [X] [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
+- [X] [Datacamp: Data Science for Everyone](https://www.datacamp.com/courses/data-science-for-everyone)
+- [X] [Datacamp: Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)
+- [X] [Datacamp: Machine Learning for Everyone](https://www.datacamp.com/courses/machine-learning-for-everyone)
+- [X] [Datacamp: Data Science for Managers](https://www.datacamp.com/courses/data-science-for-managers)
+- [X] [Facebook: Field Guide to Machine Learning](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+- [X] [Google: Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
+- [X] [Pluralsight: How to Think About Machine Learning Algorithms](https://www.pluralsight.com/courses/machine-learning-algorithms)
+- [ ] [State of AI Report 2020](https://docs.google.com/presentation/d/1ZUimafgXCBSLsgbacd6-a-dqO7yLyzIl1ZJbiCBUUT4/edit#slide=id.g557254d430_0_0)
+- [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
+- [X] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
+- [X] [Youtube: Hugging Face, Transformers | NLP Research and Open Source | Interview with Julien Chaumond](https://www.youtube.com/watch?v=ejWkDviM5QM)
+- [X] [Youtube: Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020](https://www.youtube.com/watch?v=nJAmN6gWdK8&ab_channel=PyData)
+- [X] [Youtube: Building intuitions before building models](https://youtu.be/xNGI0B_Sn1E?list=LL)
 
 ### Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
@@ -221,7 +225,9 @@
     - [ ] [Lesson 5.3: Losing the Forest for the Trees, guest lecture by Ali Alkhatib](http://ethics.fast.ai/videos/?lesson=8)
     - [ ] [Lesson 6: Algorithmic Colonialism, and Next Steps](http://ethics.fast.ai/videos/?lesson=9)
 - [ ] [Youtube: Lecture 9: Ethics (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=AoYD4eB3Vo4) `1:04:50`
-
+- [ ] [Youtube: SE4AI: Ethics and Fairness](https://www.youtube.com/watch?v=0wCJKw3-siY) `1:18:37`
+- [ ] [Youtube: SE4AI: Security](https://www.youtube.com/watch?v=5ZdrNYvTmq8) `1:18:24`
+- [ ] [Youtube: SE4AI: Safety](https://www.youtube.com/watch?v=xRlFDXV3-8E) `1:17:37`
 
 ### Be able to import data from multiple sources
 - [X] [Docs: Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
@@ -232,11 +238,19 @@
 - [X] [Article: Create A Synthetic Image Dataset — The “What”, The “Why” and The “How”](https://towardsdatascience.com/create-a-synthetic-image-dataset-the-what-the-why-and-the-how-f820e6b6f718)
 - [X] [Article: We need Synthetic Data](https://towardsdatascience.com/we-need-synthetic-data-e6f90a8532a4)
 - [ ] [Article: Weak Supervision for Online Discussions](https://trishalaneeraj.github.io/2020-07-05/weak-supervision)
+- [ ] [Article: ML Infrastructure Tools for Data Preparation](https://towardsdatascience.com/ml-infrastructure-tools-for-data-preparation-70d79e70f8d4)
 - [X] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
 - [X] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
 - [X] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
 - [X] [Youtube: ECCV 2020 WSL tutorial: 4. Human-in-the-loop annotations](https://youtu.be/PCwpO3mLhZk?list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr)
 - [X] [Youtube: Active Learning: Why Smart Labeling is the Future of Data Annotation | Alectio](https://youtu.be/V33Ut36eUsY?list=LL)
+- [ ] [Youtube: Lecture 8: Data Management (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=QlPiiyd8zQI) `0:59:42`
+- [X] [Youtube: Lab 6: Data Labeling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=iFvk9cGbIZ4) `0:05:06`
+- [X] [Youtube: Lecture 6: Data Management](https://youtu.be/T5jv8-xZhZI)
+- [ ] [Youtube: SE4AI: Data Quality](https://www.youtube.com/watch?v=60lBFv9tyWk) `1:07:15`
+- [ ] [Youtube: SE4AI: Data Programming and Intro to Big Data Processing](https://www.youtube.com/watch?v=6e6aI4yjAxc) `0:33:04`
+- [ ] [Youtube: SE4AI: Managing and Processing Large Datasets](https://www.youtube.com/watch?v=iPmQ5ezQNPY) `1:21:27`
+
 
 ### Be able to manipulate data with Numpy
 - [X] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
@@ -299,8 +313,9 @@
 - [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
-### Be able to use Linux tools
+### Be able to use Linux
 - [ ] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
+- [X] [Article: Understand Linux Load Averages and Monitor Performance of Linux](https://www.tecmint.com/understand-linux-load-averages-and-monitor-performance/)
 - [X] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
 - [X] [Calmcode: entr](https://calmcode.io/entr/introduction.html)
 - [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
@@ -309,10 +324,23 @@
 - [X] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
 - [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
 - [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
+- [ ] [MIT: The Missing Semester of CS Education](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+	- [ ] [Lecture 1: Course Overview + The Shell (2020)](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) `0:48:16`
+	- [ ] [Lecture 2: Shell Tools and Scripting (2020)](https://www.youtube.com/watch?v=kgII-YWo3Zw) `0:48:55`
+	- [ ] [Lecture 3: Editors (vim) (2020)](https://www.youtube.com/watch?v=a6Q8Na575qc) `0:48:26`
+	- [ ] [Lecture 4: Data Wrangling (2020)](https://www.youtube.com/watch?v=sz_dsktIjt4) `0:50:03`
+	- [ ] [Lecture 5: Command-line Environment (2020)](https://www.youtube.com/watch?v=e8BO_dYxk5c) `0:56:06`
+	- [ ] [Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`
+	- [ ] [Lecture 7: Debugging and Profiling (2020)](https://www.youtube.com/watch?v=l812pUnKxME) `0:54:13`
+	- [ ] [Lecture 8: Metaprogramming (2020)](https://www.youtube.com/watch?v=_Ms1Z4xfqv4) `0:49:52`
+	- [ ] [Lecture 9: Security and Cryptography (2020)](https://www.youtube.com/watch?v=tjwobAmnKTo) `1:00:59`
+	- [ ] [Lecture 10: Potpourri (2020)](https://www.youtube.com/watch?v=JZDt-PRq0uo) `0:57:54`
+	- [ ] [Lecture 11: Q&A (2020)](https://www.youtube.com/watch?v=Wz50FvGG6xU) `0:53:52`
 - [ ] [Thoughtbot: Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
 - [ ] [Thoughtbot: tmux](https://thoughtbot.com/upcase/tmux)
 - [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 - [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+- [X] [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 - [ ] [Youtube: GNU Parallel](https://www.youtube.com/playlist?list=PL284C9FF2488BC6D1)
 
@@ -366,6 +394,7 @@
 - [ ] [Udacity: Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
 - [ ] [Youtube: Jake VanderPlas - Exploratory Data Visualization with Vega, Vega-Lite, and Altair - PyCon 2018](https://www.youtube.com/watch?v=ms29ZPUKxbU)
 - [ ] [Youtube: Shantam Raj- Rapidly emulating professional visualizations from New York Times| PyData Global 2020](https://www.youtube.com/watch?v=pPHhv7qsQ_8)
+- [X] [Youtube: Applied ML 2020 - 02 Visualization and matplotlib](https://www.youtube.com/watch?v=OW3oco7nlV4) `1:07:30`
 - [ ] [UWData: Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum)
 
 ### Be able to do literature review using research papers
@@ -564,120 +593,53 @@
 - [ ] [Youtube: Visualizing Deep Learning](https://www.youtube.com/playlist?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
     - [X] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://www.youtube.com/watch?v=UOvPeC8WOt8&feature=youtu.be)
 
-### Be able to structure machine learning projects
-- [X] [Article: I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
+### Be able to setup project structure
 - [X] [Article: pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a)
-- [ ] [Article: Always start with a stupid model, no exceptions.](https://mlpowered.com/posts/start-with-a-stupid-model/)
 - [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
-- [ ] [Article: Most impactful AI trends of 2018: the rise of ML Engineering](https://mlpowered.com/posts/2019-ml-trends/)
-- [ ] [Article: Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
-- [X] [Article: Simple considerations for simple people building fancy neural networks](https://medium.com/huggingface/simple-considerations-for-simple-people-building-fancy-neural-networks-7abc3c0f0bd7)
 - [ ] [Article: Logging and Debugging in Machine Learning - How to use Python debugger and the logging module to find errors in your AI application](https://theaisummer.com/logging-debugging/)
-- [ ] [Article: How to Unit Test Deep Learning: Tests in TensorFlow, mocking and test coverage](https://theaisummer.com/unit-test-deep-learning/)
 - [ ] [Article: Best practices to write Deep Learning code: Project structure, OOP, Type checking and documentation](https://theaisummer.com/best-practices-deep-learning-code/)
-- [ ] [Article: Deep Learning in Production: Laptop set up and system design](https://theaisummer.com/deep-learning-production/)
 - [X] [Article: Configuring Google Colab Like A Pro](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
 - [X] [Article: Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)
+- [ ] [Article: Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+- [ ] [Article: Hypermodern Python Chapter 2: Testing](https://cjolowicz.github.io/posts/hypermodern-python-02-testing/)
+- [ ] [Article: Hypermodern Python Chapter 3: Linting](https://cjolowicz.github.io/posts/hypermodern-python-03-linting/)
+- [ ] [Article: Hypermodern Python Chapter 4: Typing](https://cjolowicz.github.io/posts/hypermodern-python-04-typing/)
+- [ ] [Article: Hypermodern Python Chapter 5: Documentation](https://cjolowicz.github.io/posts/hypermodern-python-05-documentation/)
+- [ ] [Article: Hypermodern Python Chapter 6: CI/CD](https://cjolowicz.github.io/posts/hypermodern-python-06-ci-cd/)
+- [ ] [Article: Push and pull: when and why to update your dependencies](https://pythonspeed.com/articles/when-update-dependencies/)
+- [ ] [Article: Reproducible and upgradable Conda environments: dependency management with conda-lock](https://pythonspeed.com/articles/conda-dependency-management/)
+- [ ] [Article: Options for packaging your Python code: Wheels, Conda, Docker, and more](https://pythonspeed.com/articles/distributing-software/)
+- [X] [Article: Making model training scripts robust to spot interruptions](https://spell.ml/blog/spot-interruptions-XzQ5jRIAACIAK3h2)
+- [X] [Calmcode: logging](https://calmcode.io/logging/introduction.html)
+- [X] [Calmcode: tqdm](https://calmcode.io/tqdm/making-a-progress-bar.html)
+- [X] [Calmcode: virtualenv](https://calmcode.io/virtualenv/intro.html)
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+- [ ] [Doc: Python Lifecycle Training](https://sp-fm.github.io/python-lifecycle-training/index.html)
+- [X] [Datacamp: Introduction to Data Engineering](https://www.datacamp.com/courses/introduction-to-data-engineering)
 - [X] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
 - [ ] [Datacamp: Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
-- [X] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
 - [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
 - [X] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
 - [X] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
 - [ ] [Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)
-- [X] [Datacamp: Introduction to Data Engineering](https://www.datacamp.com/courses/introduction-to-data-engineering)
-- [ ] [Datacamp: Experimental Design in Python](https://www.datacamp.com/courses/experimental-design-in-python)
+- [X] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
 - [X] [Developing Python Packages](https://www.datacamp.com/courses/developing-python-packages)
-- [X] [Full Stack Deep Learning Bootcamp: March 2019](https://fullstackdeeplearning.com/march2019)
-  - [X] [Lecture 1: Introduction to Deep Learning](https://youtu.be/5AjG5OPQuBM)
-  - [X] [Lecture 2: Setting Up Machine Learning Projects](https://youtu.be/tBUK1_cHu-8)
-  - [X] [Lecture 3: Introduction to the Text Recognizer Project](https://youtu.be/mmlvGLSXKLc)
-  - [X] [Lecture 4: Infrastructure and Tooling](https://youtu.be/f6jAz1zyrDI)
-  - [X] [Lecture 5: Tracking Experiments](https://youtu.be/Eiz1zcqrqw0)
-  - [X] [Lecture 6: Data Management](https://youtu.be/T5jv8-xZhZI)
-  - [X] [Lecture 7: Machine Learning Teams](https://youtu.be/Qb3RhwNb4EM)
-  - [X] [Lecture 9: Lukas Biewald](https://youtu.be/25_kBogrzrs)
-  - [X] [Lecture 10: Troubleshooting Deep Neural Networks](https://youtu.be/GwGTwPcG0YM)
-  - [X] [Lecture 11: Labs 6-9: Detection, Data Labeling, Testing and Deployment](https://youtu.be/JTSwQu0OyGs)
-  - [X] [Lecture 12: Testing and Deployment](https://youtu.be/nu7h1zdKPd0)
-  - [X] [Lecture 13: Research Directions](https://youtu.be/vF7UgqaegVI)
-  - [X] [Lecture 14: Jeremy Howard](https://youtu.be/hZd3X_nGdew)
-  - [X] [Lecture 15: Richard Socher](https://youtu.be/yvMgcLKuvVg)
-  - [ ] [Xavier Amatriain on Practical Deep Learning Systems (Full Stack Deep Learning - November 2019)](https://www.youtube.com/watch?v=5ygO8FxNB8c&list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib&index=4)
-  - [ ] [Yangqing Jia on Deep Learning Frameworks (Full Stack Deep Learning - August 2018)](https://youtu.be/s2MWUamDYUI?list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib)
-  - [X] [Guest Lecture - Chip Huyen - Machine Learning Interviews - Full Stack Deep Learning](https://youtu.be/pli1K75PSa8)
-- [ ] [Full Stack Deep Learning: Spring 2021](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
-	- [ ] [Notebook: Coding a Neural Network (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=MDABnmb17lQ) `0:42:26`
-	- [ ] [Lecture 2B: Computer Vision Applications (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=rHGUVo6GjVA) `0:43:25`
-	- [ ] [Lecture 3: Recurrent Neural Networks (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=2b0TPDmzoaQ) `1:06:11`
-	- [ ] [Lecture 4: Transfer Learning and Transformers (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=lOYT3-UbUvw) `0:48:29`
-	- [ ] [Lecture 5: ML Projects (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=pxisK6RMn1s) `1:13:14`
-	- [ ] [Lecture 6: Infrastructure & Tooling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=760Mc_b3_N0) `1:07:21`
-	- [ ] [Lab 5: Experiment Management (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8ylfWMYhLD4) `0:30:41`
-	- [ ] [Lecture 8: Data Management (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=QlPiiyd8zQI) `0:59:42`
-	- [X] [Lab 6: Data Labeling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=iFvk9cGbIZ4) `0:05:06`
-	- [ ] [Lecture 10: ML Testing & Explainability (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=K42wdqpZymw) `1:41:12`
-	- [X] [Lab 8: Testing and Continuous Integration (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=D3YeQcE9tSg) `0:13:26`
-	- [X] [Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`
-	- [X] [Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`
-	- [ ] [Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8daKeuaWgjk) `0:58:13`
-- [ ] [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
-	- [ ] [Introduction](https://uniroma1.zoom.us/rec/share/ssE1viyJfyIIBVCdvc2yR--sdP1H8wrA8F_Bt78ZBh-z1g-O-5tk8R85g0QeC0hY.4xWqTsm4xJBi0GB-?startTime=1620198661000)
-	- [ ] [Deep learning recap](https://uniroma1.zoom.us/rec/share/ssE1viyJfyIIBVCdvc2yR--sdP1H8wrA8F_Bt78ZBh-z1g-O-5tk8R85g0QeC0hY.4xWqTsm4xJBi0GB-?startTime=1620203001000)
-	- [ ] [Git & Scripting](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620371740000)
-	- [X] [Hydra configuration](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620378786000)
-	- [X] [Data versioning with DVC Part 1](https://uniroma1.zoom.us/rec/share/74BYg5pKsplJLy4p-Yvo6g5bFa7eAEATwgqv5jzu6brzNZETWA9nISj_CK8_o192.WDm8fOY7zzd96bLA?startTime=1620383404000)
-	- [X] [Data versioning with DVC Part 2](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620803785000)
-	- [ ] [Docker](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620810184000)
-	- [ ] [Weight & Biases](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620976559000)
-	- [ ] [Continuous integration](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620983293000)
-- [ ] [CMU: Software Engineering for AI-Enabled Systems](https://www.youtube.com/playlist?list=PLDS2JMJnJzdkQPdkhcuwcbJpjB84g9ffX)
-	- [ ] [SE4AI: Software Architecture of AI-Enabled Systems](https://www.youtube.com/watch?v=KIC-sFz5OT8) `1:14:24`
-	- [ ] [SE4AI: Quality Assessment in Production](https://www.youtube.com/watch?v=RaaNSXKFDGk) `1:18:45`
-	- [ ] [SE4AI: Data Quality](https://www.youtube.com/watch?v=60lBFv9tyWk) `1:07:15`
-	- [ ] [SE4AI: Invited Talk Molham Aref "Business Systems with Machine Learning"](https://www.youtube.com/watch?v=_bvrzYOA8dY) `0:47:53`
-	- [ ] [SE4AI: Data Programming and Intro to Big Data Processing](https://www.youtube.com/watch?v=6e6aI4yjAxc) `0:33:04`
-	- [ ] [SE4AI: Managing and Processing Large Datasets](https://www.youtube.com/watch?v=iPmQ5ezQNPY) `1:21:27`
-	- [ ] [SE4AI: Infrastructure Quality, Deployment and Operations](https://www.youtube.com/watch?v=iBaJgWjpK24) `1:04:54`
-	- [ ] [SE4AI: Ethics and Fairness](https://www.youtube.com/watch?v=0wCJKw3-siY) `1:18:37`
-	- [ ] [SE4AI: Explainability and Interpretability (Part 1)](https://www.youtube.com/watch?v=uz2t2IROZRM) `1:17:45`
-	- [ ] [SE4AI: Explainability and Interpretability (Part 2)](https://www.youtube.com/watch?v=3xm5rMM_rCY) `1:21:50`
-	- [ ] [SE4AI: Versioning, Provenance, and Reproducibility](https://www.youtube.com/watch?v=eGlIW28eRfA) `1:18:29`
-	- [ ] [SE4AI: Security](https://www.youtube.com/watch?v=5ZdrNYvTmq8) `1:18:24`
-	- [ ] [SE4AI: Safety](https://www.youtube.com/watch?v=xRlFDXV3-8E) `1:17:37`
-	- [ ] [SE4AI: Summary & Reflection](https://www.youtube.com/watch?v=kQJSwtFo7KA) `1:13:53`
-- [ ] [MIT: The Missing Semester of CS Education](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
-	- [ ] [Lecture 1: Course Overview + The Shell (2020)](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) `0:48:16`
-	- [ ] [Lecture 2: Shell Tools and Scripting (2020)](https://www.youtube.com/watch?v=kgII-YWo3Zw) `0:48:55`
-	- [ ] [Lecture 3: Editors (vim) (2020)](https://www.youtube.com/watch?v=a6Q8Na575qc) `0:48:26`
-	- [ ] [Lecture 4: Data Wrangling (2020)](https://www.youtube.com/watch?v=sz_dsktIjt4) `0:50:03`
-	- [ ] [Lecture 5: Command-line Environment (2020)](https://www.youtube.com/watch?v=e8BO_dYxk5c) `0:56:06`
-	- [ ] [Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`
-	- [ ] [Lecture 7: Debugging and Profiling (2020)](https://www.youtube.com/watch?v=l812pUnKxME) `0:54:13`
-	- [ ] [Lecture 8: Metaprogramming (2020)](https://www.youtube.com/watch?v=_Ms1Z4xfqv4) `0:49:52`
-	- [ ] [Lecture 9: Security and Cryptography (2020)](https://www.youtube.com/watch?v=tjwobAmnKTo) `1:00:59`
-	- [ ] [Lecture 10: Potpourri (2020)](https://www.youtube.com/watch?v=JZDt-PRq0uo) `0:57:54`
-	- [ ] [Lecture 11: Q&A (2020)](https://www.youtube.com/watch?v=Wz50FvGG6xU) `0:53:52`
 - [X] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
 - [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-utorialtorialp-a-local-python-environment-windows)
 - [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
-- [X] [Youtube: Weights and Biases Tutorial](https://www.youtube.com/playlist?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
-- [X] [Youtube: Integrate Weights & Biases with PyTorch](https://www.youtube.com/watch?v=G7GH0SeNBMA&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=2)
-- [X] [Youtube: Log (Almost) Anything with Weights & Biases](https://www.youtube.com/watch?v=96MxRvx15Ts&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=3)
-- [ ] [Youtube: MLOps Tutorials](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
-    - [ ] [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://youtu.be/9BgIDqAzfuA?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `17:44:00`
-    - [ ] [MLOps Tutorial #2: When data is too big for Git](https://youtu.be/kZKAuShWF0s?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `10:51:00`
-    - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://youtu.be/xPncjKH6SPk?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `14:12:00`
+- [X] [Youtube: Lecture 1: Introduction to Deep Learning](https://youtu.be/5AjG5OPQuBM)
+- [X] [Youtube: Lecture 2: Setting Up Machine Learning Projects](https://youtu.be/tBUK1_cHu-8)
+- [X] [Youtube: Lecture 3: Introduction to the Text Recognizer Project](https://youtu.be/mmlvGLSXKLc)
+- [X] [Youtube: Lecture 4: Infrastructure and Tooling](https://youtu.be/f6jAz1zyrDI)
+- [X] [Youtube: Hydra configuration](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620378786000)
+- [ ] [Youtube: Continuous integration](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620983293000)
 - [X] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
 - [ ] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)
-- [ ] [Youtube: MLSys Seminars Fall 2020](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
-    - [X] [Stanford MLSys Seminar Episode 0: ML + Systems](https://www.youtube.com/watch?v=OEiNnfdxBRE) `0:11:49`
-    - [ ] [Stanford MLSys Seminar Episode 1: Marco Tulio Ribeiro](https://www.youtube.com/watch?v=VqiTtdY58Ts) `1:00:38`
-    - [ ] [Stanford MLSys Seminar Episode 2: Matei Zaharia](https://www.youtube.com/watch?v=nCQ9WqXPIS4) `0:59:44`
-    - [ ] [Stanford MLSys Seminar Episode 3: Virginia Smith](https://www.youtube.com/watch?v=laCyJICLyWg) `1:00:55`
-    - [ ] [Stanford MLSys Seminar Episode 4: Alex Ratner](https://www.youtube.com/watch?v=pDVV4zKNqIE) `1:13:34`
-    - [X] [Stanford MLSys Seminar Episode 5: Chip Huyen](https://www.youtube.com/watch?v=c_AUuTuPA5k) `1:06:44`
+- [ ] [Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)
+- [ ] [Youtube: Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8daKeuaWgjk) `0:58:13`
+- [ ] [Youtube: Lecture 5: ML Projects (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=pxisK6RMn1s) `1:13:14`
+- [ ] [Youtube: Lecture 6: Infrastructure & Tooling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=760Mc_b3_N0) `1:07:21`
+- [ ] [Youtube: Yangqing Jia on Deep Learning Frameworks (Full Stack Deep Learning - August 2018)](https://youtu.be/s2MWUamDYUI?list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib)
 
 ### Be able to version control code
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
@@ -687,13 +649,12 @@
 - [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 - [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
 - [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
-- [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
-- [ ] [Learn Git Branching](https://learngitbranching.js.org)
 - [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
 - [X] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 - [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [X] [Youtube: 045 Introduction to Git LFS](https://youtu.be/xPFLAAhuGy0)
+- [X] [Youtube: Git & Scripting](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620371740000)
 
 ### Be able to version control data
 - [ ] [Youtube: DVC Basics](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg)
@@ -701,21 +662,49 @@
 	- [X] [Sharing Data and Models with DVC (Hands-On Data Science Tutorial!)](https://www.youtube.com/watch?v=EE7Gk84OZY8) `0:08:53`
 	- [ ] [Machine Learning Pipelines with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=71IGzyH95UY) `0:10:04`
 	- [ ] [Machine Learning Experiments with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=iduHPtBncBk) `0:07:29`
+- [ ] [Article: ML Ops: Data Science Version Control](https://medium.com/acing-ai/ml-ops-data-science-version-control-5935c49d1b76)
 - [X] [Youtube: Data versioning in machine learning projects - Dmitry Petrov](https://www.youtube.com/watch?v=BneW7jgB298) `0:34:44`
+- [ ] [Youtube: MLOps #19 // DataOps and Data versioning in ML](https://www.youtube.com/watch?v=ojV1tK9jXH8) `1:01:55`
+- [X] [Zoom: Data versioning with DVC Part 1](https://uniroma1.zoom.us/rec/share/74BYg5pKsplJLy4p-Yvo6g5bFa7eAEATwgqv5jzu6brzNZETWA9nISj_CK8_o192.WDm8fOY7zzd96bLA?startTime=1620383404000)
+- [X] [Zoom: Data versioning with DVC Part 2](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620803785000)
 
-### Be familiar with fundamentals of ML and DL
+### Be able to use experiment management tools
+- [X] [Article: Supercharge your Training with Pytorch Lightning + Weights & Biases](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch-lightning/Supercharge_your_Training_with_Pytorch_Lightning_%2B_Weights_%26_Biases.ipynb)
+- [X] [Article: Storing Metadata from Machine Learning Experiments](https://mlinproduction.com/ml-metadata/)
+- [X] [Youtube: Weights and Biases Tutorial](https://www.youtube.com/playlist?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
+- [X] [Youtube: Integrate Weights & Biases with PyTorch](https://www.youtube.com/watch?v=G7GH0SeNBMA&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=2)
+- [X] [Youtube: Log (Almost) Anything with Weights & Biases](https://www.youtube.com/watch?v=96MxRvx15Ts&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=3)
+- [ ] [Youtube: Lab 5: Experiment Management (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8ylfWMYhLD4) `0:30:41`
+- [X] [Youtube: Lecture 5: Tracking Experiments](https://youtu.be/Eiz1zcqrqw0)
+- [ ] [Youtube: Weight & Biases](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620976559000)
+- [ ] [Youtube: SE4AI: Versioning, Provenance, and Reproducibility](https://www.youtube.com/watch?v=eGlIW28eRfA) `1:18:29`
+
+### Be able to setup model validation
+- [ ] [Article: Evaluating a machine learning model](https://www.jeremyjordan.me/evaluating-a-machine-learning-model/)
 - [X] [Article: Validating your Machine Learning Model](https://www.maartengrootendorst.com/blog/validate/)
-- [X] [Article: One-vs-Rest strategy for Multi-Class Classification](https://www.geeksforgeeks.org/one-vs-rest-strategy-for-multi-class-classification/)
-- [X] [Article: Multi-class Classification — One-vs-All & One-vs-One](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-class-classification-one-vs-all-one-vs-one-94daed32a87b)
-- [X] [Article: One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
-- [X] [Article: Uncertainty Quantification Part 4: Leveraging Dropout in Neural Networks (CNNs)](https://www.rossidata.com/DropoutTensorFlowUncertaintyErrorMNIST)
-- [ ] [Article: The Complete Guide to AUC and Average Precision: Simulations and Visualizations](https://glassboxmedicine.com/2020/07/14/the-complete-guide-to-auc-and-average-precision-simulations-and-visualizations/)
-- [ ] [Article: Connections: Log Likelihood, Cross Entropy, KL Divergence, Logistic Regression, and Neural Networks](https://glassboxmedicine.com/2019/12/07/connections-log-likelihood-cross-entropy-kl-divergence-logistic-regression-and-neural-networks/)
-- [X] [Article: Best Use of Train/Val/Test Splits, with Tips for Medical Data](https://glassboxmedicine.com/2019/09/15/best-use-of-train-val-test-splits-with-tips-for-medical-data/)
 - [ ] [Article: Measuring Performance: AUPRC and Average Precision](https://glassboxmedicine.com/2019/03/02/measuring-performance-auprc/)
 - [ ] [Article: Measuring Performance: AUC (AUROC)](https://glassboxmedicine.com/2019/02/23/measuring-performance-auc-auroc/)
 - [ ] [Article: Measuring Performance: The Confusion Matrix](https://glassboxmedicine.com/2019/02/17/measuring-performance-the-confusion-matrix/)
 - [ ] [Article: Measuring Performance: Accuracy](https://glassboxmedicine.com/2019/02/16/measuring-performance-accuracy/)
+- [ ] [Article: ROC Curves: Intuition Through Visualization](https://www.pragmatic.ml/intuition-through-visualization-roc-auc/)
+- [X] [Article: Precision, Recall, Accuracy, and F1 Score for Multi-Label Classification](https://medium.com/synthesio-engineering/precision-accuracy-and-f1-score-for-multi-label-classification-34ac6bdfb404)
+- [ ] [Article: The Complete Guide to AUC and Average Precision: Simulations and Visualizations](https://glassboxmedicine.com/2020/07/14/the-complete-guide-to-auc-and-average-precision-simulations-and-visualizations/)
+- [X] [Article: Best Use of Train/Val/Test Splits, with Tips for Medical Data](https://glassboxmedicine.com/2019/09/15/best-use-of-train-val-test-splits-with-tips-for-medical-data/)
+- [X] [Article: The correct way to evaluate online machine learning models](https://maxhalford.github.io/blog/online-learning-evaluation/)
+- [X] [Article: Proxy Metrics](https://gibsonbiddle.medium.com/4-proxy-metrics-a82dd30ca810)
+- [X] [Youtube: Accuracy as a Failure](https://youtu.be/YGuVuZpTop0)
+- [X] [Youtube: Applied ML 2020 - 09 - Model Evaluation and Metrics](https://www.youtube.com/watch?v=trg3YkCsjqE) `1:18:23`
+- [X] [Youtube: Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw) `0:06:04`
+- [X] [Youtube: Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o) `0:07:12`
+- [X] [Youtube: Machine Learning Fundamentals: Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aMoz4v8) `0:11:46`
+- [X] [Youtube: Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA) `0:06:36`
+- [X] [Youtube: ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) `0:16:26`
+
+### Be able to do feature selection and feature engineering
+- [X] [Youtube: Applied ML 2020 - 04 - Preprocessing](https://www.youtube.com/watch?v=XpOBSaktb6s) `1:07:40`
+- [X] [Youtube: Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
+
+## Be familiar with inner working of models
 - [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
 - [ ] [Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)
 - [ ] [Article: Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/)
@@ -725,66 +714,24 @@
 - [X] [Article: Support Vector Machines](https://www.jeremyjordan.me/support-vector-machines/)
 - [ ] [Article: Random forests](https://www.jeremyjordan.me/random-forests/)
 - [ ] [Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)
-- [ ] [Article: ROC Curves: Intuition Through Visualization](https://www.pragmatic.ml/intuition-through-visualization-roc-auc/)
 - [ ] [Article: Hacker's Guide to Fundamental Machine Learning Algorithms with Python](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)
-- [X] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
-- [ ] [Article: MLE and MAP — in layman’s terms](https://medium.com/@ajitrajasekharan/mle-and-map-in-laymans-terms-8527061b15a6)
-- [X] [Article: The Last 5 Years In Deep Learning](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
-- [ ] [Article: Visualizing Optimization Trajectory of Neural Nets](https://towardsdatascience.com/from-animation-to-intuition-visualizing-optimization-trajectory-in-neural-nets-726e43a08d85)
-- [ ] [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
-- [ ] [Article: Optimization for Deep Learning Highlights in 2017](https://ruder.io/deep-learning-optimization-2017/)
 - [ ] [Article: Neural networks: activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/)
 - [ ] [Article: Neural networks: training with backpropagation](https://www.jeremyjordan.me/neural-networks-training/)
-- [ ] [Article: Gradient descent](https://www.jeremyjordan.me/gradient-descent/)
-- [ ] [Article: Setting the learning rate of your neural network](https://www.jeremyjordan.me/nn-learning-rate/)
-- [ ] [Article: Deep neural networks: preventing overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/)
-- [ ] [Article: Normalizing your data (specifically, input and batch normalization)](https://www.jeremyjordan.me/batch-normalization/)
-- [ ] [Article: Batch Normalization](https://e2eml.school/batch_normalization.html)
-- [ ] [Article: Are Deep Neural Networks Dramatically Overfitted?](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)
-- [ ] [Article: Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
-- [ ] [Article: How to Explain the Prediction of a Machine Learning Model?](https://lilianweng.github.io/lil-log/2017/08/01/how-to-explain-the-prediction-of-a-machine-learning-model.html)
 - [ ] [Article: Neural Network from scratch-part 1](https://theaisummer.com/Neural_Network_from_scratch/)
 - [ ] [Article: Neural Network from scratch-part 2](https://theaisummer.com/Neural_Network_from_scratch_part2/)
-- [ ] [Article: Deep Learning Algorithms - The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)
-- [ ] [Article: In-layer normalization techniques for training very deep neural networks](https://theaisummer.com/normalization/)
-- [ ] [Article: Cross-entropy for classification](https://towardsdatascience.com/cross-entropy-for-classification-d98e7f974451)
 - [ ] [Article: Perceptron to Deep-Neural-Network](https://tsumansapkota.github.io/algorithm/2020/06/06/Perceptron-to-DeepNeuralNets/)
-- [ ] [Article: Dismantling Neural Networks to Understand the Inner Workings with Math and Pytorch](https://towardsdatascience.com/dismantling-neural-networks-to-understand-the-inner-workings-with-math-and-pytorch-beac8760b595)
-- [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
-- [X] [Article: Precision, Recall, Accuracy, and F1 Score for Multi-Label Classification](https://medium.com/synthesio-engineering/precision-accuracy-and-f1-score-for-multi-label-classification-34ac6bdfb404)
-- [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
+- [X] [Article: One-vs-Rest strategy for Multi-Class Classification](https://www.geeksforgeeks.org/one-vs-rest-strategy-for-multi-class-classification/)
+- [X] [Article: Multi-class Classification — One-vs-All & One-vs-One](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-class-classification-one-vs-all-one-vs-one-94daed32a87b)
+- [X] [Article: One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
+- [ ] [Article: Deep Learning Algorithms - The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)
+- [ ] [Article: Machine Learning Techniques Primer](https://medium.com/acing-ai/machine-learning-techniques-primer-60edd9d14863)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
-- [ ] [Book: Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
-- [ ] [Book: Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning)
 - [ ] [Book: Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
 - [ ] [Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
-- [X] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
 - [X] [Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)
-- [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 1)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-1)
-- [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 2)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-2)
-- [X] [Elements of AI](https://www.elementsofai.com)
-- [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
-- [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
-- [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
-	- [X] [Lesson 0](https://youtu.be/gGxe2mN3kAg)
-	- [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
-    - [X] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
-    - [X] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
-    - [X] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
-    - [ ] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
-    - [X] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
-    - [X] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
-    - [X] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
-- [X] [Pluralsight: Deep Learning: The Big Picture](https://www.pluralsight.com/courses/deep-learning-big-picture)
 - [ ] [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
-	- [X] [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI) `0:12:45`
-	- [X] [Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw) `0:06:04`
-	- [X] [Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o) `0:07:12`
-	- [X] [Machine Learning Fundamentals: Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aMoz4v8) `0:11:46`
-	- [X] [Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA) `0:06:36`
-	- [X] [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) `0:16:26`
 	- [X] [StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`
 	- [X] [StatQuest: Linear Models Pt.1 - Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo) `0:27:26`
 	- [ ] [StatQuest: Odds and Log(Odds), Clearly Explained!!!](https://www.youtube.com/watch?v=ARfXDSkQf1Y) `0:11:30`
@@ -836,44 +783,60 @@
 	- [ ] [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU) `0:14:31`
 	- [ ] [Principal Component Analysis (PCA) clearly explained (2015)](https://www.youtube.com/watch?v=_UVHneBUBW0) `0:20:16`
 	- [ ] [Decision Trees in Python from Start to Finish](https://www.youtube.com/watch?v=q90UDEgYqeI) `1:06:23`
-- [ ] [Udacity: Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
-- [ ] [Udacity: A Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
-- [ ] [Udacity: Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
-- [ ] [Udacity: Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
-- [ ] [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [Udacity: Classification Models](https://www.udacity.com/course/classification-models--ud978)
-- [ ] [Youtube: Applied Machine Learning 2020](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
-	- [X] [Channel Intro - Applied Machine Learning](https://www.youtube.com/watch?v=d79mzijMAw0) `0:01:28`
-	- [ ] [Applied ML 2020 - 01 Introduction](https://www.youtube.com/watch?v=rbvpiPJuK64) `1:16:01`
-	- [X] [Applied ML 2020 - 02 Visualization and matplotlib](https://www.youtube.com/watch?v=OW3oco7nlV4) `1:07:30`
-	- [X] [Applied ML 2020 - 03 Supervised learning and model validation](https://www.youtube.com/watch?v=7_YzyMYC2zM) `1:12:00`
-	- [X] [Applied ML 2020 - 04 - Preprocessing](https://www.youtube.com/watch?v=XpOBSaktb6s) `1:07:40`
-	- [ ] [Applied ML 2020 - 05 - Linear Models for Regression](https://www.youtube.com/watch?v=-OOsfj5Revo) `1:06:54`
-	- [ ] [Applied ML 2020 - 06 - Linear Models for Classification](https://www.youtube.com/watch?v=_dqBhUrq09U) `1:07:50`
-	- [X] [Applied ML 2020 - 07 - Decision Trees and Random Forests](https://www.youtube.com/watch?v=nomd5ylZ2dw) `1:07:58`
-	- [X] [Applied ML 2020 - 08 - Gradient Boosting](https://www.youtube.com/watch?v=yrTW5YTmFjw) `1:02:12`
-	- [X] [Applied ML 2020 - 09 - Model Evaluation and Metrics](https://www.youtube.com/watch?v=trg3YkCsjqE) `1:18:23`
-	- [X] [Applied ML 2020 - 10 - Calibration, Imbalanced data](https://www.youtube.com/watch?v=w3OPq0V8fr8) `1:16:14`
-	- [X] [Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
-	- [ ] [Applied ML 2020 - 12 - AutoML (plus some feature selection)](https://www.youtube.com/watch?v=bmBezdqHTAg) `1:25:38`
-	- [ ] [Applied ML 2020 - 13 - Dimensionality reduction](https://www.youtube.com/watch?v=CrFOGyU32PM) `1:30:34`
-	- [X] [Applied ML 2020 - 14 - Clustering and Mixture Models](https://www.youtube.com/watch?v=HFioJ62H7dM) `1:26:33`
-	- [X] [Applied ML 2020 - 15 - Working with Text Data](https://www.youtube.com/watch?v=A8yDjNsUQJA) `1:27:08`
-	- [X] [Applied ML 2020 - 16 - Topic models for text data](https://www.youtube.com/watch?v=xdmFx4-3Ukw) `1:18:34`
-	- [ ] [Applied ML 2020 - 17 - Word vectors and document embeddings](https://www.youtube.com/watch?v=xgjnlGBpLUs) `1:03:04`
-	- [ ] [Applied ML 2020 - 18 - Neural Networks](https://www.youtube.com/watch?v=CRRPLlgYWZw) `1:19:36`
-	- [ ] [Applied ML 2020 - 21 - Time Series and Forecasting](https://www.youtube.com/watch?v=GVGEnaJsuu8) `1:12:36`
 - [ ] [Youtube: Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 	- [ ] [Neural Networks from Scratch - P.1 Intro and Neuron Code](https://www.youtube.com/watch?v=Wo5dMEP_BbI) `0:16:59`
 	- [ ] [Neural Networks from Scratch - P.2 Coding a Layer](https://www.youtube.com/watch?v=lGLto9Xd7bU) `0:15:06`
 	- [ ] [Neural Networks from Scratch - P.3 The Dot Product](https://www.youtube.com/watch?v=tMrbN67U9d4) `0:25:17`
 	- [ ] [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4) `0:33:46`
 	- [ ] [Neural Networks from Scratch - P.5 Hidden Layer Activation Functions](https://www.youtube.com/watch?v=gmjzbpSVY1A) `0:40:05`
-- [ ] [Youtube: Visualizing Deep Learning](https://www.youtube.com/playlist?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
-    - [ ] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://youtu.be/UOvPeC8WOt8?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
+- [X] [Youtube: Applied ML 2020 - 03 Supervised learning and model validation](https://www.youtube.com/watch?v=7_YzyMYC2zM) `1:12:00`
+- [ ] [Youtube: Applied ML 2020 - 05 - Linear Models for Regression](https://www.youtube.com/watch?v=-OOsfj5Revo) `1:06:54`
+- [ ] [Youtube: Applied ML 2020 - 06 - Linear Models for Classification](https://www.youtube.com/watch?v=_dqBhUrq09U) `1:07:50`
+- [X] [Youtube: Applied ML 2020 - 07 - Decision Trees and Random Forests](https://www.youtube.com/watch?v=nomd5ylZ2dw) `1:07:58`
+- [X] [Youtube: Applied ML 2020 - 08 - Gradient Boosting](https://www.youtube.com/watch?v=yrTW5YTmFjw) `1:02:12`
+- [ ] [Youtube: Applied ML 2020 - 18 - Neural Networks](https://www.youtube.com/watch?v=CRRPLlgYWZw) `1:19:36`
+- [ ] [Youtube: Applied ML 2020 - 12 - AutoML (plus some feature selection)](https://www.youtube.com/watch?v=bmBezdqHTAg) `1:25:38`
+
+## Be able to improve model generalization
+- [ ] [Article: Deep neural networks: preventing overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/)
+- [ ] [Article: Normalizing your data (specifically, input and batch normalization)](https://www.jeremyjordan.me/batch-normalization/)
+- [ ] [Article: Batch Normalization](https://e2eml.school/batch_normalization.html)
+- [ ] [Article: Are Deep Neural Networks Dramatically Overfitted?](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)
+- [ ] [Article: In-layer normalization techniques for training very deep neural networks](https://theaisummer.com/normalization/)
+- [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
+- [X] [Article: Uncertainty Quantification Part 4: Leveraging Dropout in Neural Networks (CNNs)](https://www.rossidata.com/DropoutTensorFlowUncertaintyErrorMNIST)
+- [X] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
+- [X] [Youtube: Applied ML 2020 - 10 - Calibration, Imbalanced data](https://www.youtube.com/watch?v=w3OPq0V8fr8) `1:16:14`
+- [X] [Youtube: Lecture 10: Troubleshooting Deep Neural Networks](https://youtu.be/GwGTwPcG0YM)
+
+### Be familiar with fundamental ML concepts
+- [ ] [Article: Connections: Log Likelihood, Cross Entropy, KL Divergence, Logistic Regression, and Neural Networks](https://glassboxmedicine.com/2019/12/07/connections-log-likelihood-cross-entropy-kl-divergence-logistic-regression-and-neural-networks/)
+- [ ] [Article: MLE and MAP — in layman’s terms](https://medium.com/@ajitrajasekharan/mle-and-map-in-laymans-terms-8527061b15a6)
+- [ ] [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
+- [ ] [Article: Optimization for Deep Learning Highlights in 2017](https://ruder.io/deep-learning-optimization-2017/)
+- [ ] [Article: Gradient descent](https://www.jeremyjordan.me/gradient-descent/)
+- [ ] [Article: Setting the learning rate of your neural network](https://www.jeremyjordan.me/nn-learning-rate/)
+- [ ] [Article: Cross-entropy for classification](https://towardsdatascience.com/cross-entropy-for-classification-d98e7f974451)
+- [ ] [Article: Dismantling Neural Networks to Understand the Inner Workings with Math and Pytorch](https://towardsdatascience.com/dismantling-neural-networks-to-understand-the-inner-workings-with-math-and-pytorch-beac8760b595)
+- [X] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
+- [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 1)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-1)
+- [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 2)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-2)
+- [X] [Elements of AI](https://www.elementsofai.com)
+- [X] [edX: Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-5)
+- [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
+- [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
+	- [X] [Lesson 0](https://youtu.be/gGxe2mN3kAg)
+	- [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
+    - [X] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
+    - [X] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
+    - [X] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
+    - [ ] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
+    - [X] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
+    - [X] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
+    - [X] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
 - [X] [Youtube: Deep Double Descent](https://youtu.be/R29awq6jvUw)
-- [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
-- [X] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
+- [ ] [Youtube: Applied ML 2020 - 01 Introduction](https://www.youtube.com/watch?v=rbvpiPJuK64) `1:16:01`
 
 ### Be able to implement models in scikit-learn
 - [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
@@ -941,7 +904,6 @@
 - [X] [Article: How Wadhwani AI Uses PyTorch To Empower Cotton Farmers](https://medium.com/pytorch/how-wadhwani-ai-uses-pytorch-to-empower-cotton-farmers-14397f4c9f2b)
 - [X] [Article: Taming LSTMs: Variable-sized mini-batches and why PyTorch is good for your health](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)
 - [ ] [Article: How to Build a Streaming DataLoader with PyTorch](https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd)
-- [X] [Article: Supercharge your Training with Pytorch Lightning + Weights & Biases](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch-lightning/Supercharge_your_Training_with_Pytorch_Lightning_%2B_Weights_%26_Biases.ipynb)
 - [X] [Article: Transform your ML-model to Pytorch with Hummingbird](https://www.maartengrootendorst.com/blog/humming/)
 - [X] [Article: PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
 - [X] [Article: Pad pack sequences for Pytorch batch processing with DataLoader](https://suzyahyah.github.io/pytorch/2019/07/01/DataLoader-Pad-Pack-Sequence.html)
@@ -1063,6 +1025,8 @@
 - [ ] [Google: Clustering](https://developers.google.com/machine-learning/clustering)
 - [X] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 - [X] [Wandb: Unsupervised Visual Representation Learning with SwAV](https://app.wandb.ai/authors/swav-tf/reports/Unsupervised-Visual-Representation-Learning-with-SwAV--VmlldzoyMjg3Mzg)
+- [X] [Youtube: Applied ML 2020 - 14 - Clustering and Mixture Models](https://www.youtube.com/watch?v=HFioJ62H7dM) `1:26:33`
+- [ ] [Youtube: Applied ML 2020 - 13 - Dimensionality reduction](https://www.youtube.com/watch?v=CrFOGyU32PM) `1:30:34`
 - [X] [Youtube: BYOL: Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning (Paper Explained)](https://www.youtube.com/watch?v=YPfUiOMYOEE&feature=youtu.be)
 - [X] [Youtube: A critical analysis of self-supervision, or what we can learn from a single image (Paper Explained)](https://youtu.be/l5he9JNJqHA)
 - [X] [Youtube: Week 10 – Lecture: Self-supervised learning (SSL) in computer vision (CV)](https://www.youtube.com/watch?v=0KeR6i1_56g&feature=youtu.be)
@@ -1088,16 +1052,11 @@
     - [X] [Self-Supervised Part and Viewpoint Discovery from Image Collections](https://youtu.be/5kzU6NkvGX4)
     - [X] [Learning Visual Correspondences across Instances and Video Frames](https://youtu.be/_Sug0ICzKlk)
     - [X] [Limitless Labels in a Labelless World: Weak Supervision with Noisy Labels](https://youtu.be/UtxQkIoei0o)
-    - [ ] [Inverting Neural Networks for Data-free Knowledge Transfer](https://youtu.be/ddEtea4ntEU)
-    - [ ] [Learning Efficiently with Biologically Inspired Feedback](https://youtu.be/8N9AF8V52-E)
 - [ ] [Youtube: Self-Supervised Learning - What is Next? - Workshop at ECCV 2020, August 28th](https://www.youtube.com/playlist?list=PL53R9Jy9Cc0zdv9OqvJ5YsZH2-AMKo9gM)
     - [X] [Next Challenges for Self-Supervised Learning - Aäron van den Oord](https://www.youtube.com/watch?v=jJozjCG8Cqs) `0:20:13`
     - [X] [Perspectives on Unsupervised Representation Learning - Paolo Favaro](https://www.youtube.com/watch?v=APwHDZZcLuY) `0:42:41`
     - [X] [Learning and Transferring Visual Representations with Few Labels - Carl Doersch](https://www.youtube.com/watch?v=RWCc0nZOSBw) `0:32:53`
-    - [ ] [Multi-view Invariance and Grouping for Self-Supervised Learning - Ishan Misra](https://www.youtube.com/watch?v=gbziPIn9uDI) `0:36:31`
-    - [ ] [Representation Learning beyond Instance Discrimination and Semantic Categorization - Stella Yu](https://www.youtube.com/watch?v=F5mt4z-w_Mk) `0:43:09`
     - [X] [Self-Supervision as a Path to a Post-Dataset Era - Alexei Alyosha Efros](https://www.youtube.com/watch?v=iTbfEXFwDJc) `0:38:06`
-    - [ ] [Self-Supervision & Modularity: Cornerstones for Generalization in Embodied Agents - Deepak Pathak](https://www.youtube.com/watch?v=fUMpC_hoedA) `0:41:56`
 - [X] [Youtube: Marco Cuturi - A Primer on Optimal Transport](https://youtu.be/6iR1E6t1MMQ)
 - [X] [Youtube: Sebastian Ruder: Neural Semi-supervised Learning under Domain Shift](https://www.youtube.com/watch?v=tpAr5-Y4JxU)
 - [X] [Youtube: Clustering Algorithms](https://www.youtube.com/playlist?list=PLBv09BD7ez_6lYVoZ1RzVcOPIT5Lfjo0Y)
@@ -1826,6 +1785,9 @@
 - [ ] [Youtube: Deep Learning Methods for Emotion Detection from Text - Dr. Liron Allerhand](https://www.youtube.com/watch?v=DzAZ2Bq_dgU)
 - [X] [Youtube: Learning How to Learn NLP : Developing Introductory Concepts Through Scaffolded Discoveries](https://www.youtube.com/watch?v=EcnsJUBRMbk)
 - [ ] [Youtube: What are Transformer Neural Networks?](https://www.youtube.com/watch?v=XSSTuhyAmnI)
+- [X] [Youtube: Applied ML 2020 - 15 - Working with Text Data](https://www.youtube.com/watch?v=A8yDjNsUQJA) `1:27:08`
+- [X] [Youtube: Applied ML 2020 - 16 - Topic models for text data](https://www.youtube.com/watch?v=xdmFx4-3Ukw) `1:18:34`
+- [ ] [Youtube: Applied ML 2020 - 17 - Word vectors and document embeddings](https://www.youtube.com/watch?v=xgjnlGBpLUs) `1:03:04`
 
 ### Be familiar with multi-modal machine learning
 - [ ] [CMU: MultiModal Machine Learning Fall 2020](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)
@@ -1954,6 +1916,7 @@
 - [ ] [Datacamp: Machine Learning for Marketing in Python](https://www.datacamp.com/courses/machine-learning-for-marketing-in-python)
 - [ ] [Udacity: Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - [ ] [Udacity: Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
+- [ ] [Youtube: Applied ML 2020 - 21 - Time Series and Forecasting](https://www.youtube.com/watch?v=GVGEnaJsuu8) `1:12:36`
 
 ### Be familiar with Reinforcement Learning
 - [X] [DeepLizard: Reinforcement Learning - Goal Oriented Intelligence](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
@@ -1976,9 +1939,8 @@
 	- [X] [Deep Q-Network Image Processing and Environment Management - Reinforcement Learning Code Project](https://www.youtube.com/watch?v=jkdXDinWfo8) `0:21:53`
 	- [X] [Deep Q-Network Training Code - Reinforcement Learning Code Project](https://www.youtube.com/watch?v=ewRw996uevM) `0:19:46`
 
-### Be able to optimize performance metric
+### Be able to perform hyperparameter tuning
 - [X] [A recipe for training neural networks](http://karpathy.github.io/2019/04/25/recipe/)
-- [ ] [Article: Evaluating a machine learning model](https://www.jeremyjordan.me/evaluating-a-machine-learning-model/)
 - [ ] [Article: Hyperparameter tuning for machine learning models](https://www.jeremyjordan.me/hyperparameter-tuning/)
 - [ ] [Article: Hacker's Guide to Hyperparameter Tuning](https://www.curiousily.com/posts/hackers-guide-to-hyperparameter-tuning/)
 - [ ] [Article: Environment and Distribution Shift](http://d2l.ai/chapter_multilayer-perceptrons/environment.html#types-of-distribution-shift)
@@ -1992,10 +1954,16 @@
 - [X] [Youtube: Auto-Tuning Hyperparameters with Optuna and PyTorch](https://www.youtube.com/watch?v=P6NwZVl8ttc&t)
 
 ### Be familiar with literature on model interpretability
+- [ ] [Article: Model Interpretation Frameworks](https://medium.com/acing-ai/model-interpretation-frameworks-9f87b202f3b8)
 - [X] [Article: How to leverage Explainable Machine Learning](https://www.maartengrootendorst.com/blog/black-boxes/)
 - [X] [Article: TracIn — A Simple Method to Estimate Training Data Influence](https://ai.googleblog.com/2021/02/tracin-simple-method-to-estimate.html)
+- [ ] [Article: How to Explain the Prediction of a Machine Learning Model?](https://lilianweng.github.io/lil-log/2017/08/01/how-to-explain-the-prediction-of-a-machine-learning-model.html)
 - [ ] [NeurIPS 2020: Tutorial on Explaining ML Predictions: State-of-the-art, Challenges, and Opportunities](https://www.youtube.com/watch?v=EbpU4p_0hes&feature=emb_logo)
 - [ ] [Youtube: Jay Alammar - Take A Look Inside Language Models With Ecco](https://www.youtube.com/watch?v=rHrItfNeuh0)
+- [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
+- [X] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
+- [ ] [Youtube: SE4AI: Explainability and Interpretability (Part 1)](https://www.youtube.com/watch?v=uz2t2IROZRM) `1:17:45`
+- [ ] [Youtube: SE4AI: Explainability and Interpretability (Part 2)](https://www.youtube.com/watch?v=3xm5rMM_rCY) `1:21:50`
 
 ### Be able to optimize models for inference
 - [X] [Article: A Survey of Methods for Model Compression in NLP](https://www.pragmatic.ml/a-survey-of-methods-for-model-compression-in-nlp/)
@@ -2015,6 +1983,8 @@
 - [ ] [Article: Testing in Production, the safe way](https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1)
 - [X] [Article: How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/)
 - [X] [Article: 4 Lesser-Known Yet Awesome Tips for Pytest](https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c)
+- [ ] [Article: How to Unit Test Deep Learning: Tests in TensorFlow, mocking and test coverage](https://theaisummer.com/unit-test-deep-learning/)
+- [X] [Article: Test-Driven Machine Learning Development (Deployment Series: Guide 07)](https://mlinproduction.com/testing-machine-learning-models-deployment-series-07/)
 - [X] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
 - [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
 - [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
@@ -2023,30 +1993,10 @@
 - [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 - [X] [Youtube: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList | AISC](https://www.youtube.com/watch?v=A0od6RosVSA)
+- [ ] [Youtube: Lecture 10: ML Testing & Explainability (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=K42wdqpZymw) `1:41:12`
+- [X] [Youtube: Lab 8: Testing and Continuous Integration (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=D3YeQcE9tSg) `0:13:26`
 
-### Be able to serve models via APIs
-- [X] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
-- [X] [Article: Deploy BERT for Sentiment Analysis as REST API using PyTorch, Transformers by Hugging Face and FastAPI](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
-- [ ] [Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)
-- [X] [Article: Selecting gunicorn worker types for different python web applications.](https://medium.com/@nhudinhtuan/gunicorn-worker-types-practice-advice-for-better-performance-7a299bb8f929)
-- [X] [Article: Better performance by optimizing Gunicorn config](https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7)
-- [X] [Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
-- [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
-- [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-- [ ] [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
-- [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
-- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
-- [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
-- [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
-- [X] [Youtube: Python pydantic Introduction – Give your data classes super powers](https://www.youtube.com/watch?v=WJmqgJn9TXg)
-
-### Be able to build interactive UI for models
-- [X] [Article: Build and Deploy a Dashboard with Streamlit](https://www.maartengrootendorst.com/blog/streamlit/)
-- [X] [Article: New layout options for Streamlit](https://blog.streamlit.io/introducing-new-layout-options-for-streamlit/)
-
-### Be able to deploy model to production
-- [ ] [Article: Using Statistical Distances for Machine Learning Observability](https://towardsdatascience.com/using-statistical-distance-metrics-for-machine-learning-observability-4c874cded78)
-- [X] [Article: A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
+### Be familiar with ML System Design
 - [X] [Article: Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 - [X] [Article: Combining rule engines and machine learning](http://nlathia.github.io/2020/10/ML-and-rule-engines.html)
 - [X] [Article: Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)
@@ -2057,213 +2007,24 @@
 - [X] [Article: Key Concepts for Deploying Machine Learning Models to Mobile](https://spell.ml/blog/key-concepts-for-deploying-machine-learning-models-X7Q0phIAACIAqMWr)
 - [X] [Article: Machine Learning to Production](https://vikramriyer.github.io/machine-learning-to-production/#)
 - [X] [Article: Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
-- [X] [Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
-- [X] [Article: The correct way to evaluate online machine learning models](https://maxhalford.github.io/blog/online-learning-evaluation/)
-- [X] [Article: When is a neural net too big for production?](http://nlathia.github.io/2019/09/Large-NLP-in-prod.html)
-- [ ] [Article: ML Infrastructure Tools for Data Preparation](https://towardsdatascience.com/ml-infrastructure-tools-for-data-preparation-70d79e70f8d4)
 - [ ] [Article: ML Infrastructure Tools for Model Building](https://towardsdatascience.com/ml-infrastructure-tools-for-model-building-464770ac4fec)
 - [ ] [Article: ML Infrastructure Tools for Production (Part 1)](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb)
 - [ ] [Article: ML Infrastructure Tools for Production](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)
-- [ ] [Article: ML Infrastructure Tools — ML Observability](https://towardsdatascience.com/ml-infrastructure-tools-ml-observability-8e4d7df6db43)
-- [ ] [Article: Distributed model training using Horovod](https://spell.ml/blog/distributed-model-training-using-horovod-XvqEGRUAACgAa5th)
-- [X] [Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)
-- [X] [Article: Making model training scripts robust to spot interruptions](https://spell.ml/blog/spot-interruptions-XzQ5jRIAACIAK3h2)
-- [X] [Article: How To Pass Environment Info During Docker Builds](https://blog.bitsrc.io/how-to-pass-environment-info-during-docker-builds-1f7c5566dd0e)
-- [X] [Article: Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/)
-- [X] [Article: Setting Default Docker Environment Variables During Image Build](https://vsupalov.com/docker-build-time-env-values/)
-- [ ] [Article: The implications of pickling ML models](https://uwekorn.com/2021/04/26/implications-of-pickling-ml-models.html)
-- [ ] [Article: Getting oriented in the RAPIDS distributed ML ecosystem, part 1: ETL](https://spell.ml/blog/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-1-X1gixBIAAJ7nyzHa)
-- [ ] [Article: Getting oriented in the RAPIDS distributed ML ecosystem, part 2: training and scoring](https://spell.ml/blog/getting-oriented-in-the-rapids-distributed-ml-ecosystem-part-2-X68AOxIAACAAacZk)
-- [X] [Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)
-- [X] [Article: How to Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)
-- [ ] [Article: The Playbook to Monitor Your Model’s Performance in Production](https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245)
-- [X] [Article: The Playbook to Monitor Your Model’s Performance in Production](https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245)
-- [X] [Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)
-- [X] [Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)
 - [X] [Article: How to Deploy a Machine Learning Model](https://www.maartengrootendorst.com/blog/deploy/)
-- [X] [Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)
 - [X] [Article: Building a feature store](http://nlathia.github.io/2020/12/Building-a-feature-store.html)
 - [X] [Article: Model artifacts: the war stories](http://nlathia.github.io/2020/09/Model-artifacts-war-stories.html)
-- [X] [Article: Docker Explained Visually, For Non-Technical Folks](https://www.iteachrecruiters.com/blog/docker-explained-visually-for-non-technical-folks/)
-- [X] [Article: Tensorflow in Docker](http://blog.tabanpour.info/projects/2018/09/07/tf-docker-kube.html)
-- [X] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
-- [X] [Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
-- [ ] [Article: Deploying conda environments in (Docker) containers - how to do it right](https://uwekorn.com/2021/03/01/deploying-conda-environments-in-docker-how-to-do-it-right.html)
-- [X] [Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)
-- [X] [Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)
-- [X] [Article: How to scale services using Docker Compose](https://medium.com/@karthi.net/how-to-scale-services-using-docker-compose-31d7b83a6648)
-- [X] [Article: Understand Linux Load Averages and Monitor Performance of Linux](https://www.tecmint.com/understand-linux-load-averages-and-monitor-performance/)
-- [X] [Article: Preventing model drift with continuous monitoring and deployment using Github Actions and Algorithmia Insights](https://algorithmia.com/blog/preventing-model-drift-with-continuous-monitoring-and-deployment-using-github-actions-and-algorithmia-insights)
-- [X] [Article: Online batching with Spell serving](https://spell.ml/blog/online-batching-with-spell-serving-X_OKiBAAAASq6cL0)
-- [X] [Article: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
-- [ ] [Article: The Model’s Shipped; What Could Possibly go Wrong?](https://towardsdatascience.com/the-models-shipped-what-could-possibly-go-wrong-a657ad919868)
-- [X] [Article: Celery Execution Pools: What is it all about?](https://www.distributedpython.com/2018/10/26/celery-execution-pool/)
-- [ ] [Article: Getting started with large-scale ETL jobs using Dask and AWS EMR](https://spell.ml/blog/large-scale-etl-jobs-using-dask-Xyl8GhEAACQAjK6h)
-- [X] [Article: Distill: Why do we need Flask, Celery, and Redis? (with McDonalds in Between)](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/)
-- [X] [Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)
-- [ ] [Article: Understanding TensorFlow Serving](https://medium.com/acing-ai/understanding-tensorflow-serving-faca576b558c)
-- [ ] [Article: Serving models using Tensorflow Serving and Docker](https://medium.com/acing-ai/model-serving-using-tensorflow-serving-and-docker-492a347eb934)
 - [ ] [Article: Machine learning system design](https://medium.com/acing-ai/machine-learning-system-design-c3a35c7df07d)
 - [ ] [Article: What is ML model governance?](https://medium.com/acing-ai/what-is-ml-model-governance-ce1c3d452e6)
 - [ ] [Article: Building scalable and efficient ML Pipelines](https://medium.com/acing-ai/building-scalable-and-efficient-ml-pipelines-a9f61d2ecbbd)
 - [ ] [Article: What are common dataset challenges at scale?](https://medium.com/acing-ai/what-are-common-dataset-challenges-at-scale-6c440440d41d)
-- [ ] [Article: What is the difference between RPA and AI?](https://medium.com/acing-ai/what-is-the-difference-between-rpa-and-ai-42be6d787181)
-- [ ] [Article: Code reviews in data science](https://medium.com/acing-ai/code-reviews-in-data-science-7d8711a61189)
-- [ ] [Article: Continuous monitoring for data projects](https://medium.com/acing-ai/continuous-monitoring-for-data-projects-11fb1c00c7a4)
 - [ ] [Article: How to technically distinguish among data projects?](https://medium.com/acing-ai/how-to-technically-distinguish-among-data-projects-5792dda86cc0)
 - [ ] [Article: Securing ML applications](https://medium.com/acing-ai/securing-ml-applications-efa1bb7d75bd)
-- [ ] [Article: Machine Learning Techniques Primer](https://medium.com/acing-ai/machine-learning-techniques-primer-60edd9d14863)
-- [ ] [Article: Machine Learning System Design: Real-time processing](https://medium.com/acing-ai/machine-learning-system-design-real-time-processing-6a952793925)
 - [ ] [Article: Data Pipelines — Agile considerations](https://medium.com/acing-ai/data-pipelines-agile-considerations-8b1933909bb1)
-- [ ] [Article: Model Interpretation Frameworks](https://medium.com/acing-ai/model-interpretation-frameworks-9f87b202f3b8)
 - [ ] [Article: Data Lineage — An Operational perspective](https://medium.com/acing-ai/data-lineage-an-operational-perspective-d807e52e2198)
-- [ ] [Article: Incident Management in Machine Learning Systems](https://medium.com/acing-ai/incident-management-in-machine-learning-systems-d69b6e39fdee)
-- [ ] [Article: Quality assurance in data science](https://medium.com/acing-ai/qa-in-data-science-397476c09910)
-- [ ] [Article: ML Ops: Data Science Version Control](https://medium.com/acing-ai/ml-ops-data-science-version-control-5935c49d1b76)
-- [ ] [Article: Machine Learning System Design: Models-as-a-service](https://medium.com/acing-ai/machine-learning-system-design-models-as-a-service-32666eba0e6)
-- [ ] [Article: Decoding Netflix: Metaflow](https://medium.com/acing-ai/decoding-netflix-metaflow-2ad84b36199e)
-- [ ] [Blog: Python Speed](https://pythonspeed.com/)
-	- [ ] [Connection refused? Docker networking and how it impacts your image](https://pythonspeed.com/articles/docker-connection-refused/)
-	- [ ] [Faster or slower: the basics of Docker build caching](https://pythonspeed.com/articles/docker-caching-model/)
-	- [ ] [Where’s your code? Debugging ImportError and ModuleNotFoundErrors in your Docker image](https://pythonspeed.com/articles/importerror-docker/)
-	- [ ] [A tableau of crimes and misfortunes: the ever-useful docker history](https://pythonspeed.com/articles/docker-history/)
-	- [ ] [Broken by default: why you should avoid most Dockerfile examples](https://pythonspeed.com/articles/dockerizing-python-is-hard/)
-	- [ ] [A review of the official Dockerfile best practices: good, bad, and insecure](https://pythonspeed.com/articles/official-docker-best-practices/)
-	- [ ] [The best Docker base image for your Python application (February 2021)](https://pythonspeed.com/articles/base-image-python-docker-images/)
-	- [ ] [A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
-	- [ ] [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
-	- [ ] [When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
-	- [ ] [Building on solid ground: ensuring reproducible Docker builds for Python](https://pythonspeed.com/articles/reproducible-docker-builds-python/)
-	- [ ] [Push and pull: when and why to update your dependencies](https://pythonspeed.com/articles/when-update-dependencies/)
-	- [ ] [Installing system packages in Docker with minimal bloat](https://pythonspeed.com/articles/system-packages-docker/)
-	- [ ] [Less capabilities, more security: minimizing privilege escalation in Docker](https://pythonspeed.com/articles/root-capabilities-docker-security/)
-	- [ ] [Avoiding insecure images from Docker build caching](https://pythonspeed.com/articles/docker-cache-insecure-images/)
-	- [ ] [Build secrets in Docker and Compose, the secure way](https://pythonspeed.com/articles/build-secrets-docker-compose/)
-	- [ ] [Security scanners for Python and Docker: from code to dependencies](https://pythonspeed.com/articles/docker-python-security-scan/)
-	- [ ] [The high cost of slow Docker builds](https://pythonspeed.com/articles/high-cost-slow-docker-builds/)
-	- [ ] [Faster Docker builds with pipenv, poetry, or pip-tools](https://pythonspeed.com/articles/pipenv-docker/)
-	- [ ] [Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)
-	- [ ] [Poetry vs. Docker caching: Fight!](https://pythonspeed.com/articles/poetry-vs-docker-caching/)
-	- [ ] [Speed up pip downloads in Docker with BuildKit’s new caching](https://pythonspeed.com/articles/docker-cache-pip-downloads/)
-	- [ ] [Multi-stage builds #1: Smaller images for compiled code](https://pythonspeed.com/articles/smaller-python-docker-images/)
-	- [ ] [Multi-stage builds #2: Python specifics—virtualenv, –user, and other methods](https://pythonspeed.com/articles/multi-stage-docker-python/)
-	- [ ] [Multi-stage builds #3: Why your build is surprisingly slow, and how to speed it up](https://pythonspeed.com/articles/faster-multi-stage-builds/)
-	- [ ] [Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)
-	- [ ] [Activating a Conda environment in your Dockerfile](https://pythonspeed.com/articles/activate-conda-dockerfile/)
-	- [ ] [Shrink your Conda Docker images with conda-pack](https://pythonspeed.com/articles/conda-docker-image-size/)
-	- [ ] [Reproducible and upgradable Conda environments: dependency management with conda-lock](https://pythonspeed.com/articles/conda-dependency-management/)
-	- [ ] [What’s running in production? Making your Docker images identifiable](https://pythonspeed.com/articles/identifying-images/)
-	- [ ] [Decoupling database migrations from server startup: why and how](https://pythonspeed.com/articles/schema-migrations-server-startup/)
-	- [ ] [A Python prompt into a running process: debugging with Manhole](https://pythonspeed.com/articles/live-debugging-python/)
-	- [ ] [A thousand little details: developing software for ops](https://pythonspeed.com/articles/developing-tools-for-ops/)
-	- [ ] [Your Docker build needs a smoke test](https://pythonspeed.com/articles/test-your-docker-build/)
-	- [ ] [Where’s that log file? Debugging failed Docker builds](https://pythonspeed.com/articles/debugging-docker-build/)
-	- [ ] [“Let’s use Kubernetes!” Now you have 8 problems](https://pythonspeed.com/articles/dont-need-kubernetes/)
-	- [ ] [Docker BuildKit: faster builds, new features, and now it’s stable](https://pythonspeed.com/articles/docker-buildkit/)
-	- [ ] [Options for packaging your Python code: Wheels, Conda, Docker, and more](https://pythonspeed.com/articles/distributing-software/)
-	- [ ] [Docker vs. Singularity for data processing: UIDs and filesystem access](https://pythonspeed.com/articles/containers-filesystem-data-processing/)
-- [X] [Cortex Blog](https://www.cortex.dev/learn)
-	- [X] [Server-side batching: Scaling inference throughput in machine learning](https://www.cortex.dev/post/server-side-batching-scaling-inference-throughput)
-	- [X] [How we served 1,000 models on GPUs for $0.47](https://www.cortex.dev/post/how-we-served-1-000-models-on-gpus)
-	- [X] [Designing a machine learning platform for both data scientists and engineers](https://www.cortex.dev/post/designing-a-machine-learning-platform-for-both-data-scientists-and-engineers)
-	- [X] [How to serve batch predictions with TensorFlow Serving](https://www.cortex.dev/post/batch-prediction-with-tensorflow-serving)
-	- [X] [How to deploy Transformer models for language tasks](https://www.cortex.dev/post/how-to-deploy-text-transformer-models)
-	- [X] [How we scale machine learning model deployment on Kubernetes](https://www.cortex.dev/post/scale-machine-learning-model-deployment-kubernetes)
-	- [X] [Why we built a serverless machine learning platform—instead of using AWS Lambda](https://www.cortex.dev/post/serverless-machine-learning-aws-lambda)
-	- [X] [Why we don’t deploy machine learning models with Flask](https://www.cortex.dev/post/dont-deploy-machine-learning-models-with-flask)
-	- [X] [How to deploy machine learning models from a notebook to production](https://www.cortex.dev/post/deploy-machine-learning-models-from-a-notebook-to-production)
-	- [X] [A/B testing machine learning models in production](https://www.cortex.dev/post/a-b-testing-machine-learning-models)
-	- [X] [How to deploy 1,000 models on one CPU with TensorFlow Serving](https://www.cortex.dev/post/deploy-tensorflow-serving-multi-model-caching)
-	- [X] [How to reduce the cost of machine learning inference](https://www.cortex.dev/post/reduce-machine-learning-inference-cost)
-	- [X] [Improve NLP inference throughput 40x with ONNX and Hugging Face](https://www.cortex.dev/post/40x-nlp-inference-with-hugging-face-and-onnx)
-	- [X] [How to deploy PyTorch Lightning models to production](https://www.cortex.dev/post/deploy-pytorch-lightning-models)
-- [X] [Doc: Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
+- [ ] [Article: The Ultimate Guide to Model Retraining](https://mlinproduction.com/model-retraining/)
+- [ ] [Book: Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - [ ] [Doc: Lecture 3: Data engineering](https://docs.google.com/document/d/1b9iuZiDEGVLHyMmnf6w2y1aN6yWQhAyqk3GHlpI9q6M/edit)
-- [ ] [Luigi Patruno: ML in Production](https://mlinproduction.com/)
-    - [X] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
-    - [X] [Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)
-    - [X] [Article: Docker for Machine Learning – Part II](https://mlinproduction.com/docker-for-ml-part-2/)
-    - [X] [Article: Docker for Machine Learning – Part III](https://mlinproduction.com/docker-for-ml-part-3/)
-    - [X] [Article: Using Docker to Generate Machine Learning Predictions in Real Time](https://mlinproduction.com/docker-for-ml-part-4/)
-    - [X] [Article: Batch Inference vs Online Inference](https://mlinproduction.com/batch-inference-vs-online-inference/)
-    - [X] [Article: Storing Metadata from Machine Learning Experiments](https://mlinproduction.com/ml-metadata/)
-    - [X] [Article: How Data Leakage Impacts Machine Learning Models](https://mlinproduction.com/data-leakage/)
-    - [ ] [Article: An Introduction to Kubernetes for Data Scientists](https://mlinproduction.com/intro-to-kubernetes/)
-    - [ ] [Article: How to Use Kubernetes Pods for Machine Learning](https://mlinproduction.com/k8s-pods/)
-    - [ ] [Article: Kubernetes Jobs for Machine Learning](https://mlinproduction.com/k8s-jobs/)
-    - [ ] [Article: Kubernetes CronJobs for Machine Learning](https://mlinproduction.com/k8s-cronjobs/)
-    - [ ] [Article: Kubernetes Deployments for Machine Learning](https://mlinproduction.com/k8s-deployments/)
-    - [ ] [Article: Kubernetes Services for Machine Learning](https://mlinproduction.com/k8s-services/)
-    - [ ] [Article: The Ultimate Guide to Model Retraining](https://mlinproduction.com/model-retraining/)
-    - [ ] [Article: Top ML Resources: Interview with Eric Colson](https://mlinproduction.com/top-30-ml-in-production-resources-guide-eric-colson-interview/)
-    - [ ] [Article: Top ML Resources: Interview with Veronika Megler, PhD](https://mlinproduction.com/top-30-ml-in-production-resources-guide-veronika-megler-interview/)
-    - [ ] [Article: Top ML Resources: Interview with Erik Bernhardsson](https://mlinproduction.com/top-30-ml-in-production-resources-guide-erik-bernhardsson-interview/)
-    - [ ] [Article: Top ML Resources: Interview with Rui Carmo](https://mlinproduction.com/top-30-ml-in-production-resources-guide-rui-carmo-interview/)
-    - [ ] [Article: Top ML Resources: Interview with Jeremy Jordan](https://mlinproduction.com/top-30-ml-in-production-resources-guide-jeremy-jordan-interview/)
-    - [X] [Article: 5 Challenges to Running Machine Learning Systems in Production](https://mlinproduction.com/5-challenges-to-ml-in-production-solve-them-with-aws-sagemaker/)
-    - [ ] [Article: Enabling Machine-Learning-as-a-Service Through Privacy Preserving Machine Learning](https://mlinproduction.com/enabling-machine-learning-as-service-through-privacy-preserving-ml/)
-    - [X] [Article: What Does it Mean to Deploy a Machine Learning Model? (Deployment Series: Guide 01)](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
-    - [X] [Article: Software Interfaces for Machine Learning Deployment (Deployment Series: Guide 02)](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)
-    - [X] [Article: Batch Inference for Machine Learning Deployment (Deployment Series: Guide 03)](https://mlinproduction.com/batch-inference-for-machine-learning-deployment-deployment-series-03/)
-    - [X] [Article: The Challenges of Online Inference (Deployment Series: Guide 04)](https://mlinproduction.com/the-challenges-of-online-inference-deployment-series-04/)
-    - [X] [Article: Online Inference for ML Deployment (Deployment Series: Guide 05)](https://mlinproduction.com/online-inference-for-ml-deployment-deployment-series-05/)
-    - [X] [Article: Model Registries for ML Deployment (Deployment Series: Guide 06)](https://mlinproduction.com/model-registries-for-ml-deployment-deployment-series-06/)
-    - [X] [Article: Test-Driven Machine Learning Development (Deployment Series: Guide 07)](https://mlinproduction.com/testing-machine-learning-models-deployment-series-07/)
-    - [X] [Article: A/B Testing Machine Learning Models (Deployment Series: Guide 08)](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)
-    - [X] [Article: Lessons Learned from 15 Years of Monitoring Machine Learning in Production](https://mlinproduction.com/lessons-learned-from-15-years-of-monitoring-machine-learning-in-production/)
-    - [X] [Article: Why is it Important to Monitor Machine Learning Models?](https://mlinproduction.com/why-is-it-important-to-monitor-machine-learning-models/)
-    - [X] [Article: Maximizing Business Impact with Machine Learning](https://mlinproduction.com/maximizing-business-impact-with-machine-learning/)
-- [X] [Article: Proxy Metrics](https://gibsonbiddle.medium.com/4-proxy-metrics-a82dd30ca810)
-- [X] [Article: Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
-- [ ] [Article: Unit Testing Celery Tasks](https://www.distributedpython.com/2018/05/01/unit-testing-celery-tasks/)
-- [ ] [Article: Testing Celery Chains](https://www.distributedpython.com/2018/05/15/testing-celery-chains/)
-- [ ] [Article: Task Routing in Celery](https://www.distributedpython.com/2018/05/29/task-routing/)
-- [ ] [Article: Dynamic Task Routing in Celery](https://www.distributedpython.com/2018/06/05/dynamic-task-routing/)
-- [ ] [Article: Dockerize a Celery app with Django and RabbitMQ](https://www.distributedpython.com/2018/06/12/celery-django-docker/)
-- [ ] [Article: How to call a Celery task from another app](https://www.distributedpython.com/2018/06/19/call-celery-task-outside-codebase/)
-- [ ] [Article: Distributed Monte Carlo with Celery chords](https://www.distributedpython.com/2018/06/26/celery-monte-carlo/)
-- [ ] [Article: An incredibly simple no-frills Celery setup](https://www.distributedpython.com/2018/07/03/simple-celery-setup/)
-- [ ] [Article: 3 Strategies to Customise Celery logging handlers](https://www.distributedpython.com/2018/08/28/celery-logging/)
-- [ ] [Article: Celery task exceptions and automatic retries](https://www.distributedpython.com/2018/09/04/error-handling-retry/)
-- [X] [Article: Concurrency and Parallelism](https://www.distributedpython.com/2018/09/14/concurrency-and-parallelism/)
-- [ ] [Article: Celery, docker and the missing startup banner](https://www.distributedpython.com/2018/10/01/celery-docker-startup/)
-- [ ] [Article: Monitoring a Dockerized Celery Cluster with Flower](https://www.distributedpython.com/2018/10/13/flower-docker/)
-- [ ] [Article: Quick Guide: Custom Celery Task Logger](https://www.distributedpython.com/2018/11/06/celery-task-logger-format/)
-- [ ] [Article: Celery on Docker: From the Ground up](https://www.distributedpython.com/2018/11/15/celery-docker/)
-- [ ] [Article: Kubernetes for Python Developers: Part 1](https://www.distributedpython.com/2018/11/28/kubernetes-python-developers-part-1/)
-- [ ] [Article: Auto-reload Celery on code changes](https://www.distributedpython.com/2019/04/23/celery-reload/)
-- [ ] [Book: Building Intelligent Systems: A Guide to Machine Learning Engineering](https://www.amazon.com/Building-Intelligent-Systems-Learning-Engineering/dp/1484234316)
-- [ ] [Datacamp: Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [X] [Datacamp: Data Engineering for Everyone](https://www.datacamp.com/courses/data-engineering-for-everyone)
-- [X] [Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)
-- [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
-- [X] [Pluralsight: Docker and Kubernetes: The Big Picture](https://www.pluralsight.com/courses/docker-kubernetes-big-picture)
-- [X] [Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)
-- [X] [Pluralsight: AWS Networking Deep Dive: Virtual Private Cloud (VPC)](https://www.pluralsight.com/courses/aws-networking-deep-dive-vpc)
-- [X] [Pluralsight: AWS VPC Operations](https://www.pluralsight.com/courses/aws-vpc-operations)
-- [X] [Pluralsight: Building Applications Using Elastic Beanstalk](https://www.pluralsight.com/courses/elastic-beanstalk-building-applications)
-- [ ] [Servers for Hackers Series](https://serversforhackers.com/)
-- [ ] [The Hacker's Guide to Scaling Python](https://scaling-python.com/)
-- [ ] [Udacity: Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [X] [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
-- [ ] [Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
-- [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
-- [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
-- [X] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
-- [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
-- [X] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
-- [X] [Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
-- [X] [Whitepaper: Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
-- [X] [Whitepaper: Microservices on AWS](https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/microservices-on-aws.pdf)
-- [X] [Whitepaper: Optimizing Enterprise Economics with Serverless Architectures](https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf)
-- [X] [Whitepaper: Practicing Continuous Integration and Continuous Delivery on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
-- [X] [Whitepaper: Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
-- [X] [Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
-- [X] [Youtube: Deploying a machine learning model to the cloud using AWS Lambda](https://www.youtube.com/watch?v=4ocbx9IeBMU&feature=youtu.be)
-- [X] [Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)
-- [X] [Youtube: Human-Centric Machine Learning Infrastructure @Netflix](https://www.youtube.com/watch?v=XV5VGddmP24&feature=youtu.be)
-- [ ] [Youtube: Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)
-- [ ] [Youtube: OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.youtube.com/watch?v=hBMHohkRgAA)
 - [ ] [Youtube: Applied ML in Production](https://www.youtube.com/playlist?list=PLqy_sIcckLC2jrxQhyqWDhL_9Uwxz8UFq)
     - [X] [Objective · Applied ML in Production](https://www.youtube.com/watch?v=_sYrVHGRqPo) `0:02:38`
     - [X] [Solution · Applied ML in Production](https://www.youtube.com/watch?v=Gi1VlFV8e_k) `0:08:53`
@@ -2271,55 +2032,30 @@
     - [X] [Iteration · Applied ML in Production](https://www.youtube.com/watch?v=Bit1IUVWrkY) `0:04:35`
     - [X] [Annotation · Applied ML in Production](https://www.youtube.com/watch?v=Kj_5ZO6nsfk) `0:14:34`
     - [X] [Exploratory Data Analysis (EDA) · Applied ML in Production](https://www.youtube.com/watch?v=3Vrlvrjigvs&feature=emb_logo) `0:09:02`
-- [ ] [MLOps Community Talks](https://www.youtube.com/playlist?list=PL3vkEKxWd-uutUO2zB0diYlANmsnbGizD)
-	- [X] [Our 1st MLOps Meetup - Luke Marsden](https://www.youtube.com/watch?v=P5cNwyeq0_c) `0:56:11`
-	- [ ] [MLOps Community  Meetup #3: Hierarchy of Machine Learning Needs with Phil Winder](https://www.youtube.com/watch?v=MRES5IxVnME) `0:58:25`
-	- [ ] [MLOps Community March 25 2020 featuring Charles Radclyffe](https://www.youtube.com/watch?v=l52sRMVPVk0) `1:03:42`
-	- [ ] [MLOps #4: Shubhi Jain - Building an ML Platform @SurveyMonkey](https://www.youtube.com/watch?v=oq1g4s2dUHE) `0:55:42`
-	- [ ] [MLOps Meetup #6: Mid-Scale Production Feature Engineering with Dr. Venkata Pingali](https://www.youtube.com/watch?v=1CcYuVVwOGg) `1:01:35`
-	- [ ] [MLOps meetup #5 High Stakes ML with Flavio CLesio](https://www.youtube.com/watch?v=9g4deV1uNZo) `0:55:27`
-	- [ ] [MLOps meetup #7 Alex Spanos // TrueLayer 's MLOps Pipeline](https://www.youtube.com/watch?v=cUxK28ocZcw) `0:56:17`
-	- [ ] [#8 Optimizing your ML workflow with kubeflow 1.0](https://www.youtube.com/watch?v=jXRbj5xnBy4) `1:03:41`
-	- [ ] [#10 MLOps the Elephant and the Blind Men with Saurav Chakravorty](https://www.youtube.com/watch?v=RTBq7e3FhEw) `0:55:02`
-	- [ ] [#11 Machine Learning at scale in Mercado Libre with Carlos de la Torre](https://www.youtube.com/watch?v=ypySVdT9U7Q) `0:59:28`
-	- [ ] [MLOps meetup #12 // Why data scientists should know data engineering with Dan Sullivan](https://www.youtube.com/watch?v=LdnmC6PDBuY) `0:58:28`
-	- [X] [#13 Maximizing job opportunities as a data scientists with Anthony Kelly](https://www.youtube.com/watch?v=-xAyfWL_HXs) `0:58:24`
-	- [ ] [MLOps #14: Kubeflow vs MLflow with Byron Allen](https://www.youtube.com/watch?v=TsGQZ0D3688) `0:54:57`
-	- [ ] [MLOps #15 - Scaling Human in the Loop Machine Learning with Robert Munro](https://www.youtube.com/watch?v=LwbbGsuNpao) `0:55:04`
-	- [ ] [#16 Venture Capital In Machine Learning Startups with John Spindler](https://www.youtube.com/watch?v=v9OvXxTUBtg) `1:05:41`
-	- [ ] [MLOps #17 // The challenges of ML Operations and how Hermione helps along the way](https://www.youtube.com/watch?v=cDRXLqKJ6I0) `1:01:30`
-	- [ ] [MLOps #18 // Nubank - Running a fintech on ML](https://www.youtube.com/watch?v=ry_P5D_d7XA) `0:53:19`
-	- [ ] [MLOps #19 // DataOps and Data versioning in ML](https://www.youtube.com/watch?v=ojV1tK9jXH8) `1:01:55`
-	- [ ] [MLOps #21 Build vs Buy an ML platform // Diego Oppenheimer - CEO Algorithmia](https://www.youtube.com/watch?v=1bHQE11Qq0k) `0:57:20`
-	- [ ] [MLOps #22 Deep Dive on Paperspace Tooling // Misha Kutsovsky - Senior ML Architect at Paperspace](https://www.youtube.com/watch?v=qMHUE5b1Ee4) `1:07:15`
-	- [ ] [Feature Stores: An essential part of the ML stack to build great data / Kevin Stumpf - CTO at Tecton](https://www.youtube.com/watch?v=IjO8VUCIZxc) `1:05:46`
-	- [ ] [MLOps #24 Monitoring the ML stack // Lina Weichbrodt](https://www.youtube.com/watch?v=Un30yb1WlpU) `0:55:32`
-	- [ ] [MLOps #25 - How to become a better data scientist: the definite guide // Alexey Grigorev](https://www.youtube.com/watch?v=f531HULH8KA) `1:00:42`
-	- [ ] [MLOps #26 Python and Dask: Scaling the DataFrame // Dan Gerlanc - Founder of Enplus Advisors](https://www.youtube.com/watch?v=wUokn3RQ9_A) `1:28:56`
-	- [ ] [#27 How to Leverage ML Tooling Ecosystem  Mariya Davydova   Head of Product at Neu ro](https://www.youtube.com/watch?v=kZ4F48Er__k) `0:55:57`
-	- [ ] [MLOps #28 ML Observability // Aparna Dhinakaran - Chief Product Officer at Arize AI](https://www.youtube.com/watch?v=joTF9BRwWp4) `0:55:04`
-	- [ ] [MLOps #29 Continuous Evaluation & Model Experimentation // Danny Ma - Founder of Sydney Data Science](https://www.youtube.com/watch?v=i4QNpM20QOc) `1:00:46`
-	- [ ] [MLOps Coffee Sessions #6 Continuous Integration for ML // Featuring Elle O'Brien](https://www.youtube.com/watch?v=L98VxJDHXMM) `1:01:46`
-	- [ ] [MLOps #30 Scaling ML Capabilities in Large Organizations // Bertjan Broeksema & Axel Goblet](https://www.youtube.com/watch?v=aeYnfU26WGk) `1:02:47`
-	- [ ] [MLOps #31 Path to Production and Monetizing Machine Learning // Vin Vashishta - Data Scientist](https://www.youtube.com/watch?v=voO0B0_BsuQ) `0:56:35`
-	- [ ] [MLOps #32 Creating Beautiful Ambient Music with Google Brain’s Music Transformer // Daniel Jeffries](https://www.youtube.com/watch?v=z95ciIqMuRo) `0:55:52`
-	- [ ] [MLOps #33 Building Say Less: An AI-Powered Summarization App // Yoav Zimmerman - Model Zoo](https://www.youtube.com/watch?v=RoYl0waMfMc) `0:53:08`
-	- [ ] [MLOps #34 Owned By Statistics: How Kubeflow & MLOps Can Help Secure ML Workloads // David Aronchick](https://www.youtube.com/watch?v=ml4vlXzVFeE) `0:56:18`
-	- [ ] [MLOps #35: Streaming Machine Learning with Apache Kafka and Tiered Storage // Kai Waehner, Confluent](https://www.youtube.com/watch?v=Ur969-WX1BY) `0:52:50`
-	- [ ] [Bring Your On-Prem ML Use Cases to Production on Google Cloud using Kubeflow](https://www.youtube.com/watch?v=JZAc_yZgByg) `0:20:28`
-	- [ ] [Moving deep learning from research to prod using DeterminedAI and Kubeflow // David Hershey](https://www.youtube.com/watch?v=-UymDRk5ISY) `0:56:06`
-	- [ ] [MLOps Coffee Sessions #11: Analyzing “Continuous Delivery and Automation Pipelines in ML" // Part 3](https://www.youtube.com/watch?v=sL2Z_s0ZkPo) `1:06:28`
-	- [ ] [MLOps Coffee Sessions #14 Conversation with the creators of Dask // Hugo Bowne and Matthew Rocklin](https://www.youtube.com/watch?v=tXckHqfkPqg) `0:56:27`
-	- [ ] [When You Say Data Scientist Do You Mean Data Engineer? Lessons Learned From Start Up Life](https://www.youtube.com/watch?v=v2HzCcAT1t8) `1:00:43`
-	- [ ] [Scalable Python for Everyone, Everywhere // Matthew Rocklin // MLOps  Meetup #37](https://www.youtube.com/watch?v=FIJuh4PXkrk) `0:57:07`
-	- [ ] [Operationalize Open Source Models with SAS Open Model Manager // Ivan Nardini // MLOps Meetup #39](https://www.youtube.com/watch?v=SNRsTYmb19U) `0:56:53`
-	- [ ] [Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8) `0:57:05`
-	- [ ] [Hands-on serving models using KFserving // Theofilos Papapanagiotou // MLOps Meetup #40](https://www.youtube.com/watch?v=VtZ9LWyJPdc) `0:57:40`
-	- [ ] [Luigi in Production // MLOps Coffee Sessions #18 // Luigi Patruno ML in Production](https://www.youtube.com/watch?v=ShBod1yXUeg) `0:47:23`
-	- [ ] [Metaflow: Supercharging Our Data Scientist Productivity // Ravi Kiran Chirravuri // MLOps Meetup #41](https://www.youtube.com/watch?v=1iuJvF_SE9Q) `1:00:30`
-	- [ ] [UN Global Platform // Mark Craddock // Co-Founder & CTO, Global Certification // MLOps Meetup #42](https://www.youtube.com/watch?v=6oFCqGE_2-U) `0:58:48`
-	- [ ] [The Current MLOps Landscape // Nathan Benaich & Timothy Chen // MLOps Meetup #43](https://www.youtube.com/watch?v=i6HZ2vjFLIs) `0:58:31`
-	- [ ] [A Conversation with Seattle Data Guy // Benjamin Rogojan // MLOps Coffee Sessions #21](https://www.youtube.com/watch?v=o-YXAq9vii4) `0:47:11`
+- [ ] [Youtube: SE4AI: Software Architecture of AI-Enabled Systems](https://www.youtube.com/watch?v=KIC-sFz5OT8) `1:14:24`
+- [ ] [Youtube: SE4AI: Invited Talk Molham Aref "Business Systems with Machine Learning"](https://www.youtube.com/watch?v=_bvrzYOA8dY) `0:47:53`
+- [ ] [Youtube: MLOps #4: Shubhi Jain - Building an ML Platform @SurveyMonkey](https://www.youtube.com/watch?v=oq1g4s2dUHE) `0:55:42`
+- [ ] [Youtube: MLOps Meetup #6: Mid-Scale Production Feature Engineering with Dr. Venkata Pingali](https://www.youtube.com/watch?v=1CcYuVVwOGg) `1:01:35`
+- [ ] [Youtube: MLOps meetup #5 High Stakes ML with Flavio CLesio](https://www.youtube.com/watch?v=9g4deV1uNZo) `0:55:27`
+- [ ] [Youtube: MLOps meetup #7 Alex Spanos // TrueLayer 's MLOps Pipeline](https://www.youtube.com/watch?v=cUxK28ocZcw) `0:56:17`
+- [ ] [Youtube: #11 Machine Learning at scale in Mercado Libre with Carlos de la Torre](https://www.youtube.com/watch?v=ypySVdT9U7Q) `0:59:28`
+- [ ] [Youtube: MLOps #14: Kubeflow vs MLflow with Byron Allen](https://www.youtube.com/watch?v=TsGQZ0D3688) `0:54:57`
+- [ ] [Youtube: MLOps #15 - Scaling Human in the Loop Machine Learning with Robert Munro](https://www.youtube.com/watch?v=LwbbGsuNpao) `0:55:04`
+- [ ] [Youtube: MLOps #18 // Nubank - Running a fintech on ML](https://www.youtube.com/watch?v=ry_P5D_d7XA) `0:53:19`
+- [ ] [Youtube: Feature Stores: An essential part of the ML stack to build great data / Kevin Stumpf - CTO at Tecton](https://www.youtube.com/watch?v=IjO8VUCIZxc) `1:05:46`
+- [ ] [Youtube: MLOps #31 Path to Production and Monetizing Machine Learning // Vin Vashishta - Data Scientist](https://www.youtube.com/watch?v=voO0B0_BsuQ) `0:56:35`
+- [ ] [Youtube: MLOps #35: Streaming Machine Learning with Apache Kafka and Tiered Storage // Kai Waehner, Confluent](https://www.youtube.com/watch?v=Ur969-WX1BY) `0:52:50`
+- [ ] [Youtube: Luigi in Production // MLOps Coffee Sessions #18 // Luigi Patruno ML in Production](https://www.youtube.com/watch?v=ShBod1yXUeg) `0:47:23`
+- [ ] [Youtube: The Current MLOps Landscape // Nathan Benaich & Timothy Chen // MLOps Meetup #43](https://www.youtube.com/watch?v=i6HZ2vjFLIs) `0:58:31`
+- [ ] [Youtube: MLSys Seminars Fall 2020](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+    - [X] [Stanford MLSys Seminar Episode 0: ML + Systems](https://www.youtube.com/watch?v=OEiNnfdxBRE) `0:11:49`
+    - [ ] [Stanford MLSys Seminar Episode 1: Marco Tulio Ribeiro](https://www.youtube.com/watch?v=VqiTtdY58Ts) `1:00:38`
+    - [ ] [Stanford MLSys Seminar Episode 2: Matei Zaharia](https://www.youtube.com/watch?v=nCQ9WqXPIS4) `0:59:44`
+    - [ ] [Stanford MLSys Seminar Episode 3: Virginia Smith](https://www.youtube.com/watch?v=laCyJICLyWg) `1:00:55`
+    - [ ] [Stanford MLSys Seminar Episode 4: Alex Ratner](https://www.youtube.com/watch?v=pDVV4zKNqIE) `1:13:34`
+    - [X] [Stanford MLSys Seminar Episode 5: Chip Huyen](https://www.youtube.com/watch?v=c_AUuTuPA5k) `1:06:44`
+- [ ] [Youtube: Xavier Amatriain on Practical Deep Learning Systems (Full Stack Deep Learning - November 2019)](https://www.youtube.com/watch?v=5ygO8FxNB8c&list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib&index=4)
+- [ ] [Article: Decoding Netflix: Metaflow](https://medium.com/acing-ai/decoding-netflix-metaflow-2ad84b36199e)
 - [ ] [Youtube: Avoid cascading failures in a distributed system](https://www.youtube.com/watch?v=xrizarXJgC8)
 - [ ] [Youtube: How databases scale writes: The power of the log](https://www.youtube.com/watch?v=_5vrfuwhvlQ)
 - [ ] [Youtube: How to avoid a single point of failure in distributed systems](https://www.youtube.com/watch?v=-BOysyYErLY)
@@ -2337,8 +2073,6 @@
 - [X] [Youtube: What is a microservice architecture and it's advantages?](https://www.youtube.com/watch?v=qYhRvH9tJKw)
 - [X] [Youtube: What is Consistent Hashing and Where is it used?](https://www.youtube.com/watch?v=zaRkONvyGr8)
 - [X] [Youtube: What is a Message Queue and Where is it used?](https://www.youtube.com/watch?v=oUJbuFMyBDk)
-- [X] [Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)
-- [X] [Youtube: PyData Vancouver meetup: cortex.dev : Serving machine learning models in production](https://www.youtube.com/watch?v=_2HMDhgPkSQ)
 - [ ] [Youtube: 5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4)
 - [ ] [Youtube: Whatsapp System Design: Chat Messaging Systems for Interviews](https://www.youtube.com/watch?v=vvhC64hQZMk)
 - [ ] [Youtube: Capacity Estimation: How much data does YouTube store daily?](https://www.youtube.com/watch?v=0myM0k1mjZw)
@@ -2347,7 +2081,6 @@
 - [ ] [Youtube: What is the Publisher Subscriber Model?](https://www.youtube.com/watch?v=FMhbR_kQeHw)
 - [ ] [Youtube: Distributed Consensus and Data Replication strategies on the server](https://www.youtube.com/watch?v=GeGxgmPTe4c)
 - [ ] [Youtube: System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)
-- [X] [Youtube: Why Your Web Server Should Log to Stdout (Especially with Docker)](https://www.youtube.com/watch?v=aQikNWEaJUQ&feature=emb_logo)
 - [ ] [Youtube: Relational database index vs. NoSQL index](https://www.youtube.com/watch?v=mTNkqMDCasI)
 - [ ] [Youtube: What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
 - [ ] [Youtube: Distributed Consensus and Data Replication strategies on the server](https://www.youtube.com/watch?v=GeGxgmPTe4c)
@@ -2360,6 +2093,199 @@
 - [ ] [Youtube: Capacity Estimation: How much data does YouTube store daily?](https://www.youtube.com/watch?v=0myM0k1mjZw)
 - [ ] [Youtube: How databases scale writes: The power of the log](https://www.youtube.com/watch?v=_5vrfuwhvlQ)
 - [ ] [Youtube: System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)
+- [X] [Youtube: Human-Centric Machine Learning Infrastructure @Netflix](https://www.youtube.com/watch?v=XV5VGddmP24&feature=youtu.be)
+
+
+### Be able to serve ML models
+- [ ] [Article: The implications of pickling ML models](https://uwekorn.com/2021/04/26/implications-of-pickling-ml-models.html)
+- [X] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
+- [X] [Article: Deploy BERT for Sentiment Analysis as REST API using PyTorch, Transformers by Hugging Face and FastAPI](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
+- [ ] [Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)
+- [X] [Article: Selecting gunicorn worker types for different python web applications.](https://medium.com/@nhudinhtuan/gunicorn-worker-types-practice-advice-for-better-performance-7a299bb8f929)
+- [X] [Article: Better performance by optimizing Gunicorn config](https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7)
+- [X] [Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
+- [X] [Article: How to Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)
+- [X] [Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)
+- [X] [Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)
+- [ ] [Article: Understanding TensorFlow Serving](https://medium.com/acing-ai/understanding-tensorflow-serving-faca576b558c)
+- [ ] [Article: Serving models using Tensorflow Serving and Docker](https://medium.com/acing-ai/model-serving-using-tensorflow-serving-and-docker-492a347eb934)
+- [X] [Article: Batch Inference vs Online Inference](https://mlinproduction.com/batch-inference-vs-online-inference/)
+- [X] [Article: Online batching with Spell serving](https://spell.ml/blog/online-batching-with-spell-serving-X_OKiBAAAASq6cL0)
+- [ ] [Article: Machine Learning System Design: Real-time processing](https://medium.com/acing-ai/machine-learning-system-design-real-time-processing-6a952793925)
+- [ ] [Article: Machine Learning System Design: Models-as-a-service](https://medium.com/acing-ai/machine-learning-system-design-models-as-a-service-32666eba0e6)
+- [X] [Article: What Does it Mean to Deploy a Machine Learning Model? (Deployment Series: Guide 01)](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
+- [X] [Article: Software Interfaces for Machine Learning Deployment (Deployment Series: Guide 02)](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)
+- [X] [Article: Batch Inference for Machine Learning Deployment (Deployment Series: Guide 03)](https://mlinproduction.com/batch-inference-for-machine-learning-deployment-deployment-series-03/)
+- [X] [Article: The Challenges of Online Inference (Deployment Series: Guide 04)](https://mlinproduction.com/the-challenges-of-online-inference-deployment-series-04/)
+- [X] [Article: Online Inference for ML Deployment (Deployment Series: Guide 05)](https://mlinproduction.com/online-inference-for-ml-deployment-deployment-series-05/)
+- [X] [Article: Model Registries for ML Deployment (Deployment Series: Guide 06)](https://mlinproduction.com/model-registries-for-ml-deployment-deployment-series-06/)
+- [X] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
+- [X] [Article: How Data Leakage Impacts Machine Learning Models](https://mlinproduction.com/data-leakage/)
+- [X] [Article: 5 Challenges to Running Machine Learning Systems in Production](https://mlinproduction.com/5-challenges-to-ml-in-production-solve-them-with-aws-sagemaker/)
+- [ ] [Article: Enabling Machine-Learning-as-a-Service Through Privacy Preserving Machine Learning](https://mlinproduction.com/enabling-machine-learning-as-service-through-privacy-preserving-ml/)
+- [X] [Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)
+- [X] [Cortex Blog](https://www.cortex.dev/learn)
+	- [X] [Server-side batching: Scaling inference throughput in machine learning](https://www.cortex.dev/post/server-side-batching-scaling-inference-throughput)
+	- [X] [How we served 1,000 models on GPUs for $0.47](https://www.cortex.dev/post/how-we-served-1-000-models-on-gpus)
+	- [X] [Designing a machine learning platform for both data scientists and engineers](https://www.cortex.dev/post/designing-a-machine-learning-platform-for-both-data-scientists-and-engineers)
+	- [X] [How to serve batch predictions with TensorFlow Serving](https://www.cortex.dev/post/batch-prediction-with-tensorflow-serving)
+	- [X] [How to deploy Transformer models for language tasks](https://www.cortex.dev/post/how-to-deploy-text-transformer-models)
+	- [X] [How we scale machine learning model deployment on Kubernetes](https://www.cortex.dev/post/scale-machine-learning-model-deployment-kubernetes)
+	- [X] [Why we built a serverless machine learning platform—instead of using AWS Lambda](https://www.cortex.dev/post/serverless-machine-learning-aws-lambda)
+	- [X] [Why we don’t deploy machine learning models with Flask](https://www.cortex.dev/post/dont-deploy-machine-learning-models-with-flask)
+	- [X] [How to deploy machine learning models from a notebook to production](https://www.cortex.dev/post/deploy-machine-learning-models-from-a-notebook-to-production)
+	- [X] [A/B testing machine learning models in production](https://www.cortex.dev/post/a-b-testing-machine-learning-models)
+	- [X] [How to deploy 1,000 models on one CPU with TensorFlow Serving](https://www.cortex.dev/post/deploy-tensorflow-serving-multi-model-caching)
+	- [X] [How to reduce the cost of machine learning inference](https://www.cortex.dev/post/reduce-machine-learning-inference-cost)
+	- [X] [Improve NLP inference throughput 40x with ONNX and Hugging Face](https://www.cortex.dev/post/40x-nlp-inference-with-hugging-face-and-onnx)
+	- [X] [How to deploy PyTorch Lightning models to production](https://www.cortex.dev/post/deploy-pytorch-lightning-models)
+- [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
+- [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+- [ ] [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+- [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+- [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
+- [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
+- [X] [Youtube: Python pydantic Introduction – Give your data classes super powers](https://www.youtube.com/watch?v=WJmqgJn9TXg)
+- [X] [Youtube: PyData Vancouver meetup: cortex.dev : Serving machine learning models in production](https://www.youtube.com/watch?v=_2HMDhgPkSQ)
+- [X] [Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`
+- [ ] [Youtube: Hands-on serving models using KFserving // Theofilos Papapanagiotou // MLOps Meetup #40](https://www.youtube.com/watch?v=VtZ9LWyJPdc) `0:57:40`
+- [X] [Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)
+### Be able to setup batch inference
+- [X] [Article: Celery Execution Pools: What is it all about?](https://www.distributedpython.com/2018/10/26/celery-execution-pool/)
+- [X] [Article: Distill: Why do we need Flask, Celery, and Redis? (with McDonalds in Between)](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/)
+- [X] [Article: Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
+- [ ] [Article: Unit Testing Celery Tasks](https://www.distributedpython.com/2018/05/01/unit-testing-celery-tasks/)
+- [ ] [Article: Testing Celery Chains](https://www.distributedpython.com/2018/05/15/testing-celery-chains/)
+- [ ] [Article: Task Routing in Celery](https://www.distributedpython.com/2018/05/29/task-routing/)
+- [ ] [Article: Dynamic Task Routing in Celery](https://www.distributedpython.com/2018/06/05/dynamic-task-routing/)
+- [ ] [Article: Dockerize a Celery app with Django and RabbitMQ](https://www.distributedpython.com/2018/06/12/celery-django-docker/)
+- [ ] [Article: How to call a Celery task from another app](https://www.distributedpython.com/2018/06/19/call-celery-task-outside-codebase/)
+- [ ] [Article: Distributed Monte Carlo with Celery chords](https://www.distributedpython.com/2018/06/26/celery-monte-carlo/)
+- [ ] [Article: An incredibly simple no-frills Celery setup](https://www.distributedpython.com/2018/07/03/simple-celery-setup/)
+- [ ] [Article: 3 Strategies to Customise Celery logging handlers](https://www.distributedpython.com/2018/08/28/celery-logging/)
+- [ ] [Article: Celery task exceptions and automatic retries](https://www.distributedpython.com/2018/09/04/error-handling-retry/)
+- [X] [Article: Concurrency and Parallelism](https://www.distributedpython.com/2018/09/14/concurrency-and-parallelism/)
+- [ ] [Article: Celery, docker and the missing startup banner](https://www.distributedpython.com/2018/10/01/celery-docker-startup/)
+- [ ] [Article: Monitoring a Dockerized Celery Cluster with Flower](https://www.distributedpython.com/2018/10/13/flower-docker/)
+- [ ] [Article: Quick Guide: Custom Celery Task Logger](https://www.distributedpython.com/2018/11/06/celery-task-logger-format/)
+- [ ] [Article: Celery on Docker: From the Ground up](https://www.distributedpython.com/2018/11/15/celery-docker/)
+- [ ] [Article: Auto-reload Celery on code changes](https://www.distributedpython.com/2019/04/23/celery-reload/)
+
+### Be able to build interactive UI for models
+- [X] [Article: Build and Deploy a Dashboard with Streamlit](https://www.maartengrootendorst.com/blog/streamlit/)
+- [X] [Article: New layout options for Streamlit](https://blog.streamlit.io/introducing-new-layout-options-for-streamlit/)
+
+### Be able to use Docker for containerization
+- [X] [Article: How To Pass Environment Info During Docker Builds](https://blog.bitsrc.io/how-to-pass-environment-info-during-docker-builds-1f7c5566dd0e)
+- [X] [Article: Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/)
+- [X] [Article: Setting Default Docker Environment Variables During Image Build](https://vsupalov.com/docker-build-time-env-values/)
+- [X] [Article: Docker Explained Visually, For Non-Technical Folks](https://www.iteachrecruiters.com/blog/docker-explained-visually-for-non-technical-folks/)
+- [X] [Article: Tensorflow in Docker](http://blog.tabanpour.info/projects/2018/09/07/tf-docker-kube.html)
+- [X] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
+- [X] [Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
+- [ ] [Article: Deploying conda environments in (Docker) containers - how to do it right](https://uwekorn.com/2021/03/01/deploying-conda-environments-in-docker-how-to-do-it-right.html)
+- [X] [Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)
+- [X] [Article: How to scale services using Docker Compose](https://medium.com/@karthi.net/how-to-scale-services-using-docker-compose-31d7b83a6648)
+- [X] [Article: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+- [X] [Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)
+- [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
+- [X] [Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)
+- [X] [Article: Docker for Machine Learning – Part II](https://mlinproduction.com/docker-for-ml-part-2/)
+- [X] [Article: Docker for Machine Learning – Part III](https://mlinproduction.com/docker-for-ml-part-3/)
+- [X] [Article: Using Docker to Generate Machine Learning Predictions in Real Time](https://mlinproduction.com/docker-for-ml-part-4/)
+- [ ] [Article: Connection refused? Docker networking and how it impacts your image](https://pythonspeed.com/articles/docker-connection-refused/)
+- [ ] [Article: Faster or slower: the basics of Docker build caching](https://pythonspeed.com/articles/docker-caching-model/)
+- [ ] [Article: Where’s your code? Debugging ImportError and ModuleNotFoundErrors in your Docker image](https://pythonspeed.com/articles/importerror-docker/)
+- [ ] [Article: A tableau of crimes and misfortunes: the ever-useful docker history](https://pythonspeed.com/articles/docker-history/)
+- [ ] [Article: Broken by default: why you should avoid most Dockerfile examples](https://pythonspeed.com/articles/dockerizing-python-is-hard/)
+- [ ] [Article: A review of the official Dockerfile best practices: good, bad, and insecure](https://pythonspeed.com/articles/official-docker-best-practices/)
+- [ ] [Article: The best Docker base image for your Python application (February 2021)](https://pythonspeed.com/articles/base-image-python-docker-images/)
+- [ ] [Article: A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
+- [ ] [Article: Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
+- [ ] [Article: Building on solid ground: ensuring reproducible Docker builds for Python](https://pythonspeed.com/articles/reproducible-docker-builds-python/)
+- [ ] [Article: Installing system packages in Docker with minimal bloat](https://pythonspeed.com/articles/system-packages-docker/)
+- [ ] [Article: Less capabilities, more security: minimizing privilege escalation in Docker](https://pythonspeed.com/articles/root-capabilities-docker-security/)
+- [ ] [Article: Avoiding insecure images from Docker build caching](https://pythonspeed.com/articles/docker-cache-insecure-images/)
+- [ ] [Article: Build secrets in Docker and Compose, the secure way](https://pythonspeed.com/articles/build-secrets-docker-compose/)
+- [ ] [Article: Security scanners for Python and Docker: from code to dependencies](https://pythonspeed.com/articles/docker-python-security-scan/)
+- [ ] [Article: The high cost of slow Docker builds](https://pythonspeed.com/articles/high-cost-slow-docker-builds/)
+- [ ] [Article: Faster Docker builds with pipenv, poetry, or pip-tools](https://pythonspeed.com/articles/pipenv-docker/)
+- [ ] [Article: Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)
+- [ ] [Article: Poetry vs. Docker caching: Fight!](https://pythonspeed.com/articles/poetry-vs-docker-caching/)
+- [ ] [Article: Speed up pip downloads in Docker with BuildKit’s new caching](https://pythonspeed.com/articles/docker-cache-pip-downloads/)
+- [ ] [Article: Multi-stage builds #1: Smaller images for compiled code](https://pythonspeed.com/articles/smaller-python-docker-images/)
+- [ ] [Article: Multi-stage builds #2: Python specifics—virtualenv, –user, and other methods](https://pythonspeed.com/articles/multi-stage-docker-python/)
+- [ ] [Article: Multi-stage builds #3: Why your build is surprisingly slow, and how to speed it up](https://pythonspeed.com/articles/faster-multi-stage-builds/)
+- [ ] [Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)
+- [ ] [Article: Activating a Conda environment in your Dockerfile](https://pythonspeed.com/articles/activate-conda-dockerfile/)
+- [ ] [Article: Shrink your Conda Docker images with conda-pack](https://pythonspeed.com/articles/conda-docker-image-size/)
+- [ ] [Article: What’s running in production? Making your Docker images identifiable](https://pythonspeed.com/articles/identifying-images/)
+- [ ] [Article: Your Docker build needs a smoke test](https://pythonspeed.com/articles/test-your-docker-build/)
+- [ ] [Article: Docker BuildKit: faster builds, new features, and now it’s stable](https://pythonspeed.com/articles/docker-buildkit/)
+- [ ] [Article: Docker vs. Singularity for data processing: UIDs and filesystem access](https://pythonspeed.com/articles/containers-filesystem-data-processing/)
+- [ ] [Article: Where’s that log file? Debugging failed Docker builds](https://pythonspeed.com/articles/debugging-docker-build/)
+- [ ] [Article: An Introduction to Kubernetes for Data Scientists](https://mlinproduction.com/intro-to-kubernetes/)
+- [ ] [Article: How to Use Kubernetes Pods for Machine Learning](https://mlinproduction.com/k8s-pods/)
+- [ ] [Article: Kubernetes Jobs for Machine Learning](https://mlinproduction.com/k8s-jobs/)
+- [ ] [Article: Kubernetes CronJobs for Machine Learning](https://mlinproduction.com/k8s-cronjobs/)
+- [ ] [Article: Kubernetes Deployments for Machine Learning](https://mlinproduction.com/k8s-deployments/)
+- [ ] [Article: Kubernetes Services for Machine Learning](https://mlinproduction.com/k8s-services/)
+- [ ] [“Let’s use Kubernetes!” Now you have 8 problems](https://pythonspeed.com/articles/dont-need-kubernetes/)
+- [ ] [Article: Kubernetes for Python Developers: Part 1](https://www.distributedpython.com/2018/11/28/kubernetes-python-developers-part-1/)
+- [X] [Doc: Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
+- [X] [Pluralsight: Docker and Kubernetes: The Big Picture](https://www.pluralsight.com/courses/docker-kubernetes-big-picture)
+- [ ] [Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+- [X] [Youtube: Docker](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620810184000)
+- [X] [Youtube: Why Your Web Server Should Log to Stdout (Especially with Docker)](https://www.youtube.com/watch?v=aQikNWEaJUQ&feature=emb_logo)
+
+### Be able to use Cloud
+- [X] [Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)
+- [ ] [Article: Getting started with large-scale ETL jobs using Dask and AWS EMR](https://spell.ml/blog/large-scale-etl-jobs-using-dask-Xyl8GhEAACQAjK6h)
+- [X] [Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)
+- [X] [Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)
+- [X] [Pluralsight: AWS Networking Deep Dive: Virtual Private Cloud (VPC)](https://www.pluralsight.com/courses/aws-networking-deep-dive-vpc)
+- [X] [Pluralsight: AWS VPC Operations](https://www.pluralsight.com/courses/aws-vpc-operations)
+- [X] [Pluralsight: Building Applications Using Elastic Beanstalk](https://www.pluralsight.com/courses/elastic-beanstalk-building-applications)
+- [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
+- [X] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
+- [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+- [X] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+- [X] [Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
+- [X] [Whitepaper: Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
+- [X] [Whitepaper: Microservices on AWS](https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/microservices-on-aws.pdf)
+- [X] [Whitepaper: Optimizing Enterprise Economics with Serverless Architectures](https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf)
+- [X] [Whitepaper: Practicing Continuous Integration and Continuous Delivery on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
+- [X] [Whitepaper: Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
+
+### Be familiar with serverless architecture
+- [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
+- [X] [Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
+- [X] [Youtube: Deploying a machine learning model to the cloud using AWS Lambda](https://www.youtube.com/watch?v=4ocbx9IeBMU&feature=youtu.be)
+
+### Be able to monitor ML models
+- [X] [Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
+- [X] [Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)
+- [ ] [Article: The Playbook to Monitor Your Model’s Performance in Production](https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245)
+- [X] [Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)
+- [X] [Article: Preventing model drift with continuous monitoring and deployment using Github Actions and Algorithmia Insights](https://algorithmia.com/blog/preventing-model-drift-with-continuous-monitoring-and-deployment-using-github-actions-and-algorithmia-insights)
+- [ ] [Article: Continuous monitoring for data projects](https://medium.com/acing-ai/continuous-monitoring-for-data-projects-11fb1c00c7a4)
+- [X] [Article: Lessons Learned from 15 Years of Monitoring Machine Learning in Production](https://mlinproduction.com/lessons-learned-from-15-years-of-monitoring-machine-learning-in-production/)
+- [X] [Article: Why is it Important to Monitor Machine Learning Models?](https://mlinproduction.com/why-is-it-important-to-monitor-machine-learning-models/)
+- [ ] [Article: Using Statistical Distances for Machine Learning Observability](https://towardsdatascience.com/using-statistical-distance-metrics-for-machine-learning-observability-4c874cded78)
+- [ ] [Article: The Model’s Shipped; What Could Possibly go Wrong?](https://towardsdatascience.com/the-models-shipped-what-could-possibly-go-wrong-a657ad919868)
+- [ ] [Article: Quality assurance in data science](https://medium.com/acing-ai/qa-in-data-science-397476c09910)
+- [ ] [Youtube: Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)
+- [ ] [Article: Incident Management in Machine Learning Systems](https://medium.com/acing-ai/incident-management-in-machine-learning-systems-d69b6e39fdee)
+- [ ] [Article: ML Infrastructure Tools — ML Observability](https://towardsdatascience.com/ml-infrastructure-tools-ml-observability-8e4d7df6db43)
+- [ ] [Youtube: MLOps #24 Monitoring the ML stack // Lina Weichbrodt](https://www.youtube.com/watch?v=Un30yb1WlpU) `0:55:32`
+- [X] [Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)
+- [X] [Youtube: Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`
+- [ ] [Youtube: OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.youtube.com/watch?v=hBMHohkRgAA)
+- [ ] [Youtube: MLOps #28 ML Observability // Aparna Dhinakaran - Chief Product Officer at Arize AI](https://www.youtube.com/watch?v=joTF9BRwWp4) `0:55:04`
+- [ ] [Youtube: MLOps #29 Continuous Evaluation & Model Experimentation // Danny Ma - Founder of Sydney Data Science](https://www.youtube.com/watch?v=i4QNpM20QOc) `1:00:46`
+- [ ] [Youtube: SE4AI: Quality Assessment in Production](https://www.youtube.com/watch?v=RaaNSXKFDGk) `1:18:45`
+- [ ] [Youtube: SE4AI: Infrastructure Quality, Deployment and Operations](https://www.youtube.com/watch?v=iBaJgWjpK24) `1:04:54`
 
 ### Be able to perform load testing
 - [X] [Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)
@@ -2367,6 +2293,7 @@
 ### Be able to perform A/B testing
 - [X] [Article: Multi-Armed Bandit (MAB) – A/B Testing Sans Regret](https://vwo.com/blog/multi-armed-bandit-algorithm/)
 - [X] [Article: When to Run Bandit Tests Instead of A/B/n Tests](https://cxl.com/blog/bandit-tests/)
+- [X] [Article: A/B Testing Machine Learning Models (Deployment Series: Guide 08)](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)
 - [ ] [Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)
 - [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 - [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
@@ -2374,33 +2301,23 @@
 
 ### Be proficient in Python
 - [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
+- [ ] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
 - [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
 - [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
 - [X] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
 - [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
-- [ ] [Article: Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
-- [ ] [Article: Hypermodern Python Chapter 2: Testing](https://cjolowicz.github.io/posts/hypermodern-python-02-testing/)
-- [ ] [Article: Hypermodern Python Chapter 3: Linting](https://cjolowicz.github.io/posts/hypermodern-python-03-linting/)
-- [ ] [Article: Hypermodern Python Chapter 4: Typing](https://cjolowicz.github.io/posts/hypermodern-python-04-typing/)
-- [ ] [Article: Hypermodern Python Chapter 5: Documentation](https://cjolowicz.github.io/posts/hypermodern-python-05-documentation/)
-- [ ] [Article: Hypermodern Python Chapter 6: CI/CD](https://cjolowicz.github.io/posts/hypermodern-python-06-ci-cd/)
 - [ ] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
 - [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+- [ ] [Article: A Python prompt into a running process: debugging with Manhole](https://pythonspeed.com/articles/live-debugging-python/)
 - [X] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
 - [X] [Book: A Byte of Python](https://python.swaroopch.com)
 - [X] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
 - [ ] [Book: Python 201](https://leanpub.com/python201)
-- [ ] [Book: Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
-- [ ] [Book: Real Python](https://www.goodreads.com/book/show/20750754-real-python)
 - [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
 - [ ] [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
-- [X] [Calmcode: logging](https://calmcode.io/logging/introduction.html)
-- [X] [Calmcode: tqdm](https://calmcode.io/tqdm/making-a-progress-bar.html)
-- [X] [Calmcode: virtualenv](https://calmcode.io/virtualenv/intro.html)
 - [X] [Calmcode: ray](https://calmcode.io/ray/introduction.html)
 - [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
 - [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
-- [ ] [Doc: Python Lifecycle Training](https://sp-fm.github.io/python-lifecycle-training/index.html)
 - [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
 - [X] [Datacamp: Python for Spreadsheet Users](https://www.datacamp.com/courses/python-for-spreadsheet-users)
 - [X] [Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
@@ -2411,17 +2328,13 @@
 - [X] [Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
 - [X] [Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
 - [ ] [Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
-- [X] [Datacamp: Object-Oriented Programming in Python](https://datacamp.com/courses/object-oriented-programming-in-python)
 - [X] [edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)
 - [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
 - [X] [Google's Python Class](https://developers.google.com/edu/python/)
 - [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
 - [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
-- [ ] [Udacity: Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
-- [ ] [Udacity: Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 - [X] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
 - [X] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
-- [ ] [Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)
 - [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
 - [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
 - [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
@@ -2488,53 +2401,7 @@
 - [X] [Article: Python remote debugging with PyCharm, CUDA, and Conda](https://medium.com/@n1r44/python-remote-debugging-with-pycharm-cuda-and-conda-87d27695634c)
 - [X] [Article: How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)
 - [X] [Article: Docker as Remote Interpreter for PyCharm Professional](https://www.inovex.de/blog/docker-remote-interpreter-pycharm-professional/)
-- [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
-- [ ] [Video: Pycharm Tips](https://www.jetbrains.com/pycharm/guide/tips/)
-- [ ] [Youtube: Productive pytest with PyCharm](https://www.youtube.com/watch?v=ixqeebhUa-w)
 - [X] [Youtube: Getting Started with Python in Visual Studio Code](https://www.youtube.com/watch?v=7EXd4_ttIuw)
-- [ ] [Youtube: 42 PyCharm Tips and Tricks](https://www.youtube.com/watch?v=NoDx0MEESDw&list=PLQ176FUIyIUbDwdvWZNuB7FrCc6hHregy&index=35)
-- [ ] [Youtube: Pycharm Quick Tips & Tricks](https://www.youtube.com/playlist?list=PLCTHcU1KoD99eyuXqUJHZy90-9jU2H2Y2)
-	- [ ] [How to use Live Edit to edit HTML&CSS in PyCharm](https://www.youtube.com/watch?v=xf90Ko64hRc) `0:00:49`
-	- [ ] [How to let PyCharm install and generate the imports while you write a symbol](https://www.youtube.com/watch?v=ulT1LSWFqqE) `0:00:35`
-	- [ ] [How to enforce One Import Per Line in PyCharm](https://www.youtube.com/watch?v=XB4SnJ4XmUs) `0:00:39`
-	- [ ] [How to optimize imports in PyCharm](https://www.youtube.com/watch?v=lNm5ISUZqCE) `0:01:15`
-	- [ ] [How to use the navigation bar to move around your project tree in PyCharm](https://www.youtube.com/watch?v=JQE95x7t4aU) `0:01:09`
-	- [ ] [How to use Recent Files to open the tool window in PyCharm](https://www.youtube.com/watch?v=ITV0HRKYnXI) `0:00:43`
-	- [ ] [How to navigate to symbol using the keyboard in PyCharm](https://www.youtube.com/watch?v=1QoP0U8xg98) `0:00:41`
-	- [ ] [How to navigate the cursor position back and forth in PyCharm](https://www.youtube.com/watch?v=_i2gYYfC9H0) `0:00:48`
-	- [ ] [How to use the 'find action' shortcut in PyCharm](https://www.youtube.com/watch?v=ESYmaaX5Tzg) `0:01:40`
-	- [ ] [How to activate the navigation bar in PyCharm](https://www.youtube.com/watch?v=-uyCSK6gvp4) `0:01:36`
-	- [ ] [How to navigate to file using the keyboard in PyCharm](https://www.youtube.com/watch?v=0NFMM143Y5w) `0:00:58`
-	- [ ] [How to open a file using the keyboard in PyCharm](https://www.youtube.com/watch?v=37n-a4mg36Q) `0:01:03`
-	- [ ] [How to use speed search to navigate files in PyCharm](https://www.youtube.com/watch?v=i9l5YuDgJOw) `0:01:07`
-	- [ ] [How to activate the navigation bar and create a file in PyCharm](https://www.youtube.com/watch?v=h6s20RMLIXk) `0:01:09`
-	- [ ] [How to use the find in path dialog in PyCharm](https://www.youtube.com/watch?v=AlFEEDMpW8c) `0:00:50`
-	- [ ] [How to use drag-n-drop to create a SQLite database in PyCharm](https://www.youtube.com/watch?v=U2sAgysf1Hc) `0:00:40`
-	- [ ] [How to evaluate expressions during debugging in PyCharm](https://www.youtube.com/watch?v=zoSKHJdrSfI) `0:01:13`
-	- [ ] [How to add conditions to your breakpoints in PyCharm](https://www.youtube.com/watch?v=aIlXb2QpxXc) `0:01:33`
-	- [ ] [How to use refactor to rename a file and its references in PyCharm](https://www.youtube.com/watch?v=IqPm9RYTNBM) `0:01:06`
-	- [ ] [How to quickly view parameter information in PyCharm](https://www.youtube.com/watch?v=hfWhDwp7zz8) `0:00:38`
-	- [ ] [How to view arguments and documentation without interrupting your flow](https://www.youtube.com/watch?v=etvFP6kXsmo) `0:01:08`
-	- [ ] [How to make and extend selections in PyCharm](https://www.youtube.com/watch?v=mvZg7TaRjCM) `0:00:39`
-	- [ ] [How to reformat your code in PyCharm](https://www.youtube.com/watch?v=0WfDm3KQ-Cw) `0:00:46`
-	- [ ] [How to smart-add a new line in PyCharm](https://www.youtube.com/watch?v=pHmv6RzKrDk) `0:01:03`
-	- [ ] [How to split the screen in PyCharm](https://www.youtube.com/watch?v=VcqbOtn1s0w) `0:01:35`
-	- [ ] [How to get PyCharm adding fields in a constructor for you](https://www.youtube.com/watch?v=eJW507pl4qk) `0:00:47`
-	- [ ] [How to use refactoring to rename symbols in PyCharm](https://www.youtube.com/watch?v=cJ0tP9kxoYk) `0:01:13`
-	- [ ] [How to avoid disasters by using the local history in PyCharm](https://www.youtube.com/watch?v=hoCkDQCfjwM) `0:01:21`
-	- [ ] [How to run your project from the keyboard in PyCharm](https://www.youtube.com/watch?v=oSEMKeUVjlE) `0:01:21`
-	- [ ] [How to disable tabs in PyCharm](https://www.youtube.com/watch?v=k7P__ZhUv-g) `0:00:55`
-	- [ ] [How to speed up coverage in PyCharm](https://www.youtube.com/watch?v=OCH_gPfrvzw) `0:01:34`
-	- [ ] [How to enable auto-run for your tests in PyCharm](https://www.youtube.com/watch?v=4kHncS_gPX0) `0:01:45`
-	- [ ] [How to run a single test in PyCharm](https://www.youtube.com/watch?v=-3SS0s-Y420) `0:01:08`
-	- [ ] [How to use the gutter to quickly spot missing tests in PyCharm](https://www.youtube.com/watch?v=HQ_bqOBXZ5w) `0:01:06`
-	- [ ] [How to reword a commit message in PyCharm](https://www.youtube.com/watch?v=3JSyNP1JRxA) `0:00:49`
-	- [ ] [How to do partial commits in PyCharm](https://www.youtube.com/watch?v=NQ-q361wD9Q) `0:01:01`
-	- [ ] [How to put a project under version control in PyCharm](https://www.youtube.com/watch?v=36RFkThiZug) `0:01:08`
-	- [ ] [How to get started with a repository from GitHub in PyCharm](https://www.youtube.com/watch?v=ukbvdF5wqPQ) `0:01:07`
-	- [ ] [How to undo the last commit in PyCharm](https://www.youtube.com/watch?v=R5L5fZi_ldg) `0:00:52`
-	- [ ] [How to quickly show your npm scripts in PyCharm](https://www.youtube.com/watch?v=Nv5vO2loJ_c) `0:01:25`
-	- [ ] [How to use 'surround with' to insert elements in PyCharm](https://www.youtube.com/watch?v=GK7DEI6zOB8) `0:01:11`
 - [X] [VSCode Keyboard Shortcuts For Productivity](https://youtu.be/eGE-tFalwpA)
 - [X] [Getting Started with Jupyter Notebooks in VS Code](https://youtu.be/Ozq24uAshXo)
 - [X] [Notebooks in VS Code Are Getting Revamped!](https://youtu.be/g5EykzAsCC0)
@@ -2610,7 +2477,6 @@
 - [ ] [Article: Analysis of Data Science Interview Questions](https://medium.com/acing-ai/analysis-of-data-science-interview-questions-424b7390555f)
 - [ ] [Article: Visa Data Science Interviews](https://medium.com/acing-ai/visa-inc-data-science-interviews-d0ec7ec01e47)
 - [ ] [Article: Data Science Quiz— Part 1](https://medium.com/acing-ai/data-science-quiz-part-1-2ff84ef9741e)
-- [ ] [Book: Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - [ ] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
 - [X] [Datacamp: Practicing Machine Learning Interview Questions in Python](https://www.datacamp.com/courses/practicing-machine-learning-interview-questions-in-python)
 - [X] [Datacamp: Kaggle Competition](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
@@ -2626,6 +2492,7 @@
 - [X] [Youtube: The Importance of Writing in a Tech Career - Eugene Yan](https://youtu.be/vXWGd7olv3c)
 - [X] [Youtube: How to prepare for Machine Learning interviews- Part 1 | Applied AI Course](https://youtu.be/sLAnpLlkh9U?list=LL)
 - [X] [Youtube: How to prepare for Machine Learning interviews- Part 2 | Applied AI Course](https://youtu.be/JxTR1LM4YSA?list=LL)
+- [X] [Youtube: Guest Lecture - Chip Huyen - Machine Learning Interviews - Full Stack Deep Learning](https://youtu.be/pli1K75PSa8)
 
 ### Broaden Perspective
 - [X] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
