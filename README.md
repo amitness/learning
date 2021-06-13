@@ -626,7 +626,7 @@
 	- [ ] [Introduction](https://uniroma1.zoom.us/rec/share/ssE1viyJfyIIBVCdvc2yR--sdP1H8wrA8F_Bt78ZBh-z1g-O-5tk8R85g0QeC0hY.4xWqTsm4xJBi0GB-?startTime=1620198661000)
 	- [ ] [Deep learning recap](https://uniroma1.zoom.us/rec/share/ssE1viyJfyIIBVCdvc2yR--sdP1H8wrA8F_Bt78ZBh-z1g-O-5tk8R85g0QeC0hY.4xWqTsm4xJBi0GB-?startTime=1620203001000)
 	- [ ] [Git & Scripting](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620371740000)
-	- [ ] [Hydra configuration](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620378786000)
+	- [X] [Hydra configuration](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620378786000)
 	- [X] [Data versioning with DVC Part 1](https://uniroma1.zoom.us/rec/share/74BYg5pKsplJLy4p-Yvo6g5bFa7eAEATwgqv5jzu6brzNZETWA9nISj_CK8_o192.WDm8fOY7zzd96bLA?startTime=1620383404000)
 	- [X] [Data versioning with DVC Part 2](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620803785000)
 	- [ ] [Docker](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620810184000)
