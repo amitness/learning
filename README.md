@@ -203,6 +203,7 @@
 - [X] [Youtube: Google Wave: Natural Language Processing](https://www.youtube.com/watch?v=Sx3Fpw0XCXk)
 - [ ] [Youtube: Natural Language Understanding in Alexa](https://www.youtube.com/watch?v=U1yT_4xcglY)
 - [ ] [Youtube: The Machine Learning Behind Alexa’s AI Systems](https://www.youtube.com/watch?v=Dkg1ULBASNA)
+- [X] [Youtube: Ines Montani Keynote - Applied NLP Thinking](https://www.youtube.com/watch?v=mJqFI7vhqdA)
 
 ### Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
@@ -626,8 +627,8 @@
 	- [ ] [Deep learning recap](https://uniroma1.zoom.us/rec/share/ssE1viyJfyIIBVCdvc2yR--sdP1H8wrA8F_Bt78ZBh-z1g-O-5tk8R85g0QeC0hY.4xWqTsm4xJBi0GB-?startTime=1620203001000)
 	- [ ] [Git & Scripting](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620371740000)
 	- [ ] [Hydra configuration](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620378786000)
-	- [ ] [Data versioning with DVC Part 1](https://uniroma1.zoom.us/rec/share/74BYg5pKsplJLy4p-Yvo6g5bFa7eAEATwgqv5jzu6brzNZETWA9nISj_CK8_o192.WDm8fOY7zzd96bLA?startTime=1620383404000)
-	- [ ] [Data versioning with DVC Part 2](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620803785000)
+	- [X] [Data versioning with DVC Part 1](https://uniroma1.zoom.us/rec/share/74BYg5pKsplJLy4p-Yvo6g5bFa7eAEATwgqv5jzu6brzNZETWA9nISj_CK8_o192.WDm8fOY7zzd96bLA?startTime=1620383404000)
+	- [X] [Data versioning with DVC Part 2](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620803785000)
 	- [ ] [Docker](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620810184000)
 	- [ ] [Weight & Biases](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620976559000)
 	- [ ] [Continuous integration](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620983293000)
@@ -876,6 +877,7 @@
 
 ### Be able to implement models in scikit-learn
 - [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
+- [X] [Article: Curve Fitting With Python](https://machinelearningmastery.com/curve-fitting-with-python/)
 - [X] [Article: A Guide to Calibration Plots in Python](https://changhsinlee.com/python-calibration-plot/)
 - [X] [Calmcode: human-learn](https://calmcode.io/human-learn/introduction.html)
 - [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
@@ -983,6 +985,7 @@
 - [X] [PyTorch Developer Day 2020 | Full Livestream](https://www.youtube.com/watch?v=jaPVoObpdO0)
 - [X] [Youtube: Lightning Chat: How a Grandmaster Won a Kaggle Competition Using Pytorch Lightning](https://www.youtube.com/watch?app=desktop&v=0HQCK_l-njI)
 - [ ] [Youtube: Production Inference Deployment with PyTorch](https://youtu.be/Dk88zv1KYMI)
+- [ ] [Youtube: What is Automatic Differentiation?](https://www.youtube.com/watch?v=wG_nF1awSSY)
 
 ### Be able to implement models using cloud services
 - [X] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
@@ -1310,6 +1313,9 @@
 - [ ] [Article: Find My Food: Semantic Embeddings for Food Search Using Siamese Networks](https://bytes.swiggy.com/find-my-food-semantic-embeddings-for-food-search-using-siamese-networks-abb55be0b639)
 - [ ] [Article: Learning To Rank Restaurants](https://bytes.swiggy.com/learning-to-rank-restaurants-c6a69ba4b330)
 - [ ] [Article: Is Word Sense Disambiguation outdated?](https://annabreit.medium.com/is-word-sense-disambiguation-outdated-ef05a139576)
+- [ ] [Article: Named-Entity evaluation metrics based on entity-level](http://www.davidsbatista.net/blog/2018/05/09/Named_Entity_Evaluation/)
+- [ ] [Article: Comparison Of Ngram Fuzzy Matching Approaches](http://chappers.github.io/web%20micro%20log/2015/04/29/comparison-of-ngram-fuzzy-matching-approaches/)
+- [ ] [Article: String similarity — the basic know your algorithms guide!](https://itnext.io/string-similarity-the-basic-know-your-algorithms-guide-3de3d7346227)
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Book: Embeddings in Natural Language Processing](http://josecamachocollados.com/book_embNLP_draft.pdf)
 - [ ] [Book: Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)
@@ -1818,6 +1824,8 @@
 - [X] [Youtube: Transform customer service with machine learning (Google Cloud Next '17)](https://www.youtube.com/watch?v=bRnN4pBAsfc)
 - [X] [Youtube: Real life aspects of opinion sentiment analysis within customer reviews - Dr. Jonathan Yaniv](https://www.youtube.com/watch?v=CVn0yR49yxA)
 - [ ] [Youtube: Deep Learning Methods for Emotion Detection from Text - Dr. Liron Allerhand](https://www.youtube.com/watch?v=DzAZ2Bq_dgU)
+- [X] [Youtube: Learning How to Learn NLP : Developing Introductory Concepts Through Scaffolded Discoveries](https://www.youtube.com/watch?v=EcnsJUBRMbk)
+- [ ] [Youtube: What are Transformer Neural Networks?](https://www.youtube.com/watch?v=XSSTuhyAmnI)
 
 ### Be familiar with multi-modal machine learning
 - [ ] [CMU: MultiModal Machine Learning Fall 2020](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)
