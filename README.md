@@ -1788,7 +1788,7 @@
   - [ ] [Training State-of-the-Art Sentence Embedding Models](https://www.youtube.com/watch?v=RHXZKUr8qOY) `0:43:43`
 - [X] [Youtube: Fine-tuning a large language model without your own supercomputer](https://www.youtube.com/watch?v=RG-yV5zgqjQ)
 - [X] [Youtube: How to build a custom spell checker using python NLP](https://www.youtube.com/watch?v=LEA3TDV98zE)
-- [ ] [Youtube: Transformers 🤗 to Rule Them All? Under the Hood of the AI Recruiter Chatbot 🤖, with Keisuke Inoue](https://www.youtube.com/watch?v=aYYaDFXLF3c)
+- [X] [Youtube: Transformers 🤗 to Rule Them All? Under the Hood of the AI Recruiter Chatbot 🤖, with Keisuke Inoue](https://www.youtube.com/watch?v=aYYaDFXLF3c)
 - [X] [Youtube: Artificial Intelligence and Natural Language Processing in E-Commerce by Katherine Munro | smec](https://www.youtube.com/watch?v=r7JI_5mt3To)
 - [X] [Youtube: Abhishek Thakur - Classifying Search Queries Without User Click Data](https://www.youtube.com/watch?v=6e12EMglzTs)
 - [X] [Youtube: Chatbots Revisted | by Abhishek Thakur | Kaggle Days Warsaw](https://www.youtube.com/watch?v=yQqyl0PZ2Wg)
