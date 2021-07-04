@@ -1768,7 +1768,7 @@
 	- [X] [18- Long Short Term Memory (LSTM) Networks Explained Easily](https://www.youtube.com/watch?v=eCvz-kB4yko) `0:28:08`
 	- [X] [19- How to Implement an RNN-LSTM Network for Music Genre Classification](https://www.youtube.com/watch?v=4nXI0h2sq2I) `0:14:29`
 - [X] [Youtube: Advanced Information Retrieval 2021 - TU Wien](https://www.youtube.com/playlist?list=PLSg1mducmHTPZPDoal4m59pPxxsceXF-y)
-	- [ ] [AIR - 2021 Course Introduction](https://www.youtube.com/watch?v=6FNISntK6Sk) `0:21:39`
+	- [X] [AIR - 2021 Course Introduction](https://www.youtube.com/watch?v=6FNISntK6Sk) `0:21:39`
 	- [ ] [Crash Course IR - Fundamentals](https://www.youtube.com/watch?v=ZC94KSDd4DM) `0:46:31`
 	- [ ] [Crash Course IR - Evaluation](https://www.youtube.com/watch?v=EiDltQZ713I) `0:37:15`
 	- [ ] [Crash Course IR - Test Collections](https://www.youtube.com/watch?v=pRRveh3D0pI) `0:51:12`
