@@ -1707,7 +1707,7 @@
 	- [X] [NLP Lecture 7(c) - Statistical Constituency Parsing](https://www.youtube.com/watch?v=avmq_oVGOOM) `0:09:38`
 	- [X] [NLP Lecture 7(d) - Dependency Parsing](https://www.youtube.com/watch?v=2jLk93iIyrw) `0:17:15`
 - [X] [Youtube: LING 83 Teaching Video: Constituency Parsing](https://www.youtube.com/watch?v=G_bd2z4mIiI)
-- [ ] [Youtube: SpaCy for Digital Humanities with Python Tutorials](https://www.youtube.com/playlist?list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo)
+- [X] [Youtube: SpaCy for Digital Humanities with Python Tutorials](https://www.youtube.com/playlist?list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo)
 	- [X] [Introduction to SpaCy and Cleaning Data (SpaCy and Python Tutorials for DH - 01)](https://www.youtube.com/watch?v=8HZ4BjWMod4) `0:06:07`
 	- [X] [How to Install SpaCy and Models (Spacy and Python Tutorial for DH 02)](https://www.youtube.com/watch?v=yqruv_QQctI) `0:07:40`
 	- [X] [How to Separate Sentences in SpaCy (SpaCy and Python Tutorials for DH - 03)](https://www.youtube.com/watch?v=ytAyCO-n8tY) `0:08:33`
@@ -1733,10 +1733,10 @@
 	- [X] [How to Training Custom Entities into spaCy Models (Named Entity Recognition for DH 09 03)](https://www.youtube.com/watch?v=EcwehOuoqxw) `0:15:29`
 	- [X] [How to Add and Place Pipes from other Models into a New Model (NER for DH 09 04)](https://www.youtube.com/watch?v=fNvTnf10N2M) `0:12:24`
 	- [X] [How to Add Custom Functions to spaCy Pipeline (NER for DH 09.05)](https://www.youtube.com/watch?v=XE22cAnwmuQ) `0:15:20`
-	- [ ] [Precision vs. Recall and Adding PERSON to Holocaust NER Pipeline (Named Entity Recognition DH 09.06)](https://www.youtube.com/watch?v=-321RJ_Rna8) `0:26:02`
-	- [ ] [Finalizing the Holocaust NER Pipeline (Named Entity Recognition for DH 09.07)](https://www.youtube.com/watch?v=MYs0W2fPxSo) `0:14:16`
-	- [ ] [Classical Latin Named Entity Recognition (NER for DH 10.01)](https://www.youtube.com/watch?v=zywMBYmV6Ew) `0:55:30`
-	- [ ] [How to Package spaCy Models (Even with Custom Factories) (NER for DH 11)](https://www.youtube.com/watch?v=AGM7lXfQECM) `0:15:31`
+	- [X] [Precision vs. Recall and Adding PERSON to Holocaust NER Pipeline (Named Entity Recognition DH 09.06)](https://www.youtube.com/watch?v=-321RJ_Rna8) `0:26:02`
+	- [X] [Finalizing the Holocaust NER Pipeline (Named Entity Recognition for DH 09.07)](https://www.youtube.com/watch?v=MYs0W2fPxSo) `0:14:16`
+	- [X] [Classical Latin Named Entity Recognition (NER for DH 10.01)](https://www.youtube.com/watch?v=zywMBYmV6Ew) `0:55:30`
+	- [X] [How to Package spaCy Models (Even with Custom Factories) (NER for DH 11)](https://www.youtube.com/watch?v=AGM7lXfQECM) `0:15:31`
 - [ ] [Youtube: Billion-scale Approximate Nearest Neighbor Search](https://www.youtube.com/watch?v=SKrHs03i08Q)
 - [X] [Youtube: Data Science - Fuzzy Record Matching](https://www.youtube.com/watch?v=YhrKvEjpBYo)
 - [X] [Youtube: Minimum Edit Distance Dynamic Programming](https://www.youtube.com/watch?v=We3YDTzNXEk)
