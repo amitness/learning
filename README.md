@@ -1810,7 +1810,7 @@
 - [X] [Youtube: A Briefish Introduction to Discourse Representation Theory](https://www.youtube.com/watch?v=FR9Ukj0V4Do)
 - [ ] [Youtube: HuggingFace Crash Course - Sentiment Analysis, Model Hub, Fine Tuning](https://www.youtube.com/watch?v=GSt00_-0ncQ)
 - [X] [Youtube: Huggingface Course Part 1](https://huggingface.co/course/)
-- [ ] [Youtube: Should we care about linguistics?](http://www.ipam.ucla.edu/abstract/?tid=14546)
+- [X] [Youtube: Should we care about linguistics?](http://www.ipam.ucla.edu/abstract/?tid=14546)
 
 ### Be familiar with multi-modal machine learning
 - [ ] [CMU: MultiModal Machine Learning Fall 2020](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)
