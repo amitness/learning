@@ -165,7 +165,7 @@
 - [X] [Youtube: Leaving the lab: Building NLP applications that real people can use](https://youtu.be/Z2FdH3j8Wbc?list=LL)
 - [ ] [Youtube: Machine Learning at Uber (Natural Language Processing Use Cases)](https://www.youtube.com/watch?v=R9z6s0Jx2p0)
 - [X] [Youtube: Google Wave: Natural Language Processing](https://www.youtube.com/watch?v=Sx3Fpw0XCXk)
-- [ ] [Youtube: Natural Language Understanding in Alexa](https://www.youtube.com/watch?v=U1yT_4xcglY)
+- [X] [Youtube: Natural Language Understanding in Alexa](https://www.youtube.com/watch?v=U1yT_4xcglY)
 - [ ] [Youtube: The Machine Learning Behind Alexa’s AI Systems](https://www.youtube.com/watch?v=Dkg1ULBASNA)
 - [X] [Youtube: Ines Montani Keynote - Applied NLP Thinking](https://www.youtube.com/watch?v=mJqFI7vhqdA)
 - [X] [Youtube: Lecture 9: Lukas Biewald](https://youtu.be/25_kBogrzrs)
