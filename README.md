@@ -1782,8 +1782,8 @@
 	- [ ] [Domain Specific Applications](https://www.youtube.com/watch?v=rHXTpHIiq6U) `0:38:32`
 	- [ ] [Dense Retrieval ❤ Knowledge Distillation](https://www.youtube.com/watch?v=EJ_7Gx6amt8) `0:59:28`
 - [ ] [Youtube: Introduction to Dense Text Representation](https://www.youtube.com/playlist?list=PL7kaex1gKh6BDLHEwEeO45wZRDm5QlRil)
-  - [ ] [Introduction to Dense Text Representations - Part 1](https://www.youtube.com/watch?v=qmN1fJ7Fdmo) `0:12:56`
-  - [ ] [Introduction to Dense Text Representations - Part 2](https://www.youtube.com/watch?v=0RV-q0--NLs) `0:23:13`
+  - [X] [Introduction to Dense Text Representations - Part 1](https://www.youtube.com/watch?v=qmN1fJ7Fdmo) `0:12:56`
+  - [X] [Introduction to Dense Text Representations - Part 2](https://www.youtube.com/watch?v=0RV-q0--NLs) `0:23:13`
   - [ ] [Introduction to Dense Text Representation - Part 3](https://www.youtube.com/watch?v=t4Gf4LruVZ4) `0:38:07`
   - [ ] [Training State-of-the-Art Sentence Embedding Models](https://www.youtube.com/watch?v=RHXZKUr8qOY) `0:43:43`
 - [X] [Youtube: Fine-tuning a large language model without your own supercomputer](https://www.youtube.com/watch?v=RG-yV5zgqjQ)
