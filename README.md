@@ -688,7 +688,7 @@
 - [X] [Youtube: Weights and Biases Tutorial](https://www.youtube.com/playlist?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
 - [X] [Youtube: Integrate Weights & Biases with PyTorch](https://www.youtube.com/watch?v=G7GH0SeNBMA&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=2)
 - [X] [Youtube: Log (Almost) Anything with Weights & Biases](https://www.youtube.com/watch?v=96MxRvx15Ts&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=3)
-- [ ] [Youtube: Lab 5: Experiment Management (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8ylfWMYhLD4) `0:30:41`
+- [X] [Youtube: Lab 5: Experiment Management (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8ylfWMYhLD4) `0:30:41`
 - [X] [Youtube: Lecture 5: Tracking Experiments](https://youtu.be/Eiz1zcqrqw0)
 - [ ] [Youtube: Weight & Biases](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620976559000)
 - [ ] [Youtube: SE4AI: Versioning, Provenance, and Reproducibility](https://www.youtube.com/watch?v=eGlIW28eRfA) `1:18:29`
