@@ -1745,6 +1745,11 @@
 - [X] [Youtube: HuggingFace Crash Course - Sentiment Analysis, Model Hub, Fine Tuning](https://www.youtube.com/watch?v=GSt00_-0ncQ)
 - [X] [Youtube: Huggingface Course Part 1](https://huggingface.co/course/)
 - [X] [Youtube: Should we care about linguistics?](http://www.ipam.ucla.edu/abstract/?tid=14546)
+- [ ] [Youtube: Transformers From Scratch](https://www.youtube.com/playlist?list=PLIUOU7oqGTLj-k75kkirRrCybsJzCKCJW)
+  - [ ] [How-to Use HuggingFace's Datasets - Transformers From Scratch #1](https://www.youtube.com/watch?v=GhGUZrcB-WM) `0:14:21`
+  - [ ] [Build a Custom Transformer Tokenizer - Transformers From Scratch #2](https://www.youtube.com/watch?v=JIeAB8vvBQo) `0:14:17`
+  - [ ] [Building MLM Training Input Pipeline - Transformers From Scratch #3](https://www.youtube.com/watch?v=heTYbpr9mD8) `0:23:11`
+  - [ ] [Training and Testing an Italian BERT - Transformers From Scratch #4](https://www.youtube.com/watch?v=35Pdoyi6ZoQ) `0:30:38`
 
 ### Be familiar with multi-modal machine learning
 - [ ] [CMU: MultiModal Machine Learning Fall 2020](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)
