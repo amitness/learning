@@ -113,7 +113,7 @@
 	- [X] [Rachael Tatman - Conversational A.I. and Linguistics](https://www.youtube.com/watch?v=n_CTGZSq4m0) `0:36:51`
 	- [X] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
 	- [X] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
-- [ ] [Youtube: [CVPR'21 WAD] Keynote - Andrej Karpathy, Tesla](https://youtu.be/g6bOwQdCJrc)
+- [X] [Youtube: [CVPR'21 WAD] Keynote - Andrej Karpathy, Tesla](https://youtu.be/g6bOwQdCJrc)
 
 ### Be able to frame an ML problem
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
