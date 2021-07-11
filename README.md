@@ -853,6 +853,7 @@
 - [X] [Article: Transform your ML-model to Pytorch with Hummingbird](https://www.maartengrootendorst.com/blog/humming/)
 - [X] [Article: PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
 - [X] [Article: Pad pack sequences for Pytorch batch processing with DataLoader](https://suzyahyah.github.io/pytorch/2019/07/01/DataLoader-Pad-Pack-Sequence.html)
+- [ ] [Article: Model Parallelism](https://huggingface.co/transformers/master/parallelism.html)
 - [ ] [Notebook: Tensor Arithmetic](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks/1-Pytorch-Introduction.ipynb)
 - [ ] [Notebook: Autograd](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks//2-Pytorch-Autograd.ipynb)
 - [ ] [Notebook: Optimization](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks//3-Pytorch-Optimizers.ipynb)
@@ -1859,6 +1860,7 @@
 - [X] [Youtube: DETR: End-to-End Object Detection with Transformers (Paper Explained)](https://www.youtube.com/watch?v=T35ba_VXkMY)
 - [ ] [Youtube: Unpaired Image-Image Translation using CycleGANs](https://www.youtube.com/watch?v=NyAosnNQv_U) `0:16:22`
 - [ ] [Youtube: Formula Indexing, Search, and Entry in the MathSeer Project](https://youtu.be/QXkS4XkmZRI) `0:52:07`
+- [ ] [Youtube: What's new in computer vision | July Queensland AI](https://www.youtube.com/watch?v=IYg46wNyDgo) `1:21:33`
 
 ### Be able to model graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
