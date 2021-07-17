@@ -191,7 +191,7 @@
 - [X] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
 - [X] [Youtube: ECCV 2020 WSL tutorial: 4. Human-in-the-loop annotations](https://youtu.be/PCwpO3mLhZk?list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr)
 - [X] [Youtube: Active Learning: Why Smart Labeling is the Future of Data Annotation | Alectio](https://youtu.be/V33Ut36eUsY?list=LL)
-- [ ] [Youtube: Lecture 8: Data Management (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=QlPiiyd8zQI) `0:59:42`
+- [X] [Youtube: Lecture 8: Data Management (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=QlPiiyd8zQI) `0:59:42`
 - [X] [Youtube: Lab 6: Data Labeling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=iFvk9cGbIZ4) `0:05:06`
 - [X] [Youtube: Lecture 6: Data Management](https://youtu.be/T5jv8-xZhZI)
 - [ ] [Youtube: SE4AI: Data Quality](https://www.youtube.com/watch?v=60lBFv9tyWk) `1:07:15`
