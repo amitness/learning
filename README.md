@@ -63,10 +63,10 @@
 - [ ] [Article: How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
 - [ ] [Real-world AI Case Studies](#)
 	- [X] [Andrej Karpathy on AI at Tesla (Full Stack Deep Learning - August 2018)](https://www.youtube.com/watch?v=ZVJTqAuPvTU&list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib&index=7)
-	- [ ] [Jai Ranganathan at Data Science at Uber (Full Stack Deep Learning - August 2018)](https://youtu.be/8PjTWFfjkeY?list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib)
-	- [ ] [John Apostolopoulos of Cisco discusses "Machine Learning in Networking"](https://www.youtube.com/watch?v=9XdGZVohnno) `0:48:44`
+	- [X] [Jai Ranganathan at Data Science at Uber (Full Stack Deep Learning - August 2018)](https://youtu.be/8PjTWFfjkeY?list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib)
+	- [X] [John Apostolopoulos of Cisco discusses "Machine Learning in Networking"](https://www.youtube.com/watch?v=9XdGZVohnno) `0:48:44`
 	- [X] [Joaquin Candela, Director of Applied Machine Learning, Facebook in conversation with Esteban Arcaute](https://www.youtube.com/watch?v=Fw8adDBBfog) `0:52:27`
-	- [ ] [Eric Colson, Chief Algorithms Officer, Stitch Fix](https://www.youtube.com/watch?v=z_OGYzT_MBo) `0:53:57`
+	- [X] [Eric Colson, Chief Algorithms Officer, Stitch Fix](https://www.youtube.com/watch?v=z_OGYzT_MBo) `0:53:57`
 	- [ ] [Claudia Perlich, Advisor to Dstillery and Adjunct Professor NYU Stern School of Business](https://www.youtube.com/watch?v=p0cQUErM5xs) `0:51:59`
 	- [ ] [Jeff Dean, Google Senior Fellow and SVP Google AI - Deep Learning to Solve Challenging Problems](https://www.youtube.com/watch?v=imlp8DGNkk0) `0:58:45`
 	- [ ] [James Parr,  Director of Frontier Development Lab (NASA), FDL Europe & CEO, Trillium Technologies](https://www.youtube.com/watch?v=suamFkw9jws) `0:55:46`
