@@ -210,7 +210,7 @@
 ### Be able to manipulate data with Pandas
 - [X] [Article: Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
 - [X] [Article: A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
-- [ ] [Article: Comprehensive Guide to Grouping and Aggregating with Pandas](https://pbpython.com/groupby-agg.html)
+- [X] [Article: Comprehensive Guide to Grouping and Aggregating with Pandas](https://pbpython.com/groupby-agg.html)
 - [X] [Article: 8 Python Pandas Value_counts() tricks that make your work more efficient](https://re-thought.com/pandas-value_counts/)
 - [X] [Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
 - [X] [Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)
