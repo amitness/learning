@@ -586,7 +586,7 @@
 - [X] [Youtube: Hydra configuration](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620378786000)
 - [X] [Youtube: Continuous integration](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620983293000)
 - [X] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
-- [ ] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)
+- [X] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)
 - [X] [Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)
 - [ ] [Youtube: Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8daKeuaWgjk) `0:58:13`
 - [ ] [Youtube: Lecture 5: ML Projects (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=pxisK6RMn1s) `1:13:14`
