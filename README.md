@@ -72,7 +72,7 @@
 	- [X] [James Parr,  Director of Frontier Development Lab (NASA), FDL Europe & CEO, Trillium Technologies](https://www.youtube.com/watch?v=suamFkw9jws) `0:55:46`
 	- [X] [Daphne Koller, Founder & CEO of Insitro -  In Conversation with Carlos Bustamante](https://www.youtube.com/watch?v=uyLT7EfWmsg) `0:49:29`
 	- [X] [Eric Horvitz, Microsoft Research  - AI in the Open World: Advances, Aspirations, and Rough Edges](https://www.youtube.com/watch?v=4owh40tJ0wA) `0:56:11`
-	- [ ] [Tony Jebara, Netflix - Machine Learning for Recommendation and Personalization](https://www.youtube.com/watch?v=5u35GY24A0Q) `0:55:20`
+	- [X] [Tony Jebara, Netflix - Machine Learning for Recommendation and Personalization](https://www.youtube.com/watch?v=5u35GY24A0Q) `0:55:20`
 - [X] [Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
 - [X] [Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)
 - [X] [Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)
