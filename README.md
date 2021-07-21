@@ -67,11 +67,11 @@
 	- [X] [John Apostolopoulos of Cisco discusses "Machine Learning in Networking"](https://www.youtube.com/watch?v=9XdGZVohnno) `0:48:44`
 	- [X] [Joaquin Candela, Director of Applied Machine Learning, Facebook in conversation with Esteban Arcaute](https://www.youtube.com/watch?v=Fw8adDBBfog) `0:52:27`
 	- [X] [Eric Colson, Chief Algorithms Officer, Stitch Fix](https://www.youtube.com/watch?v=z_OGYzT_MBo) `0:53:57`
-	- [ ] [Claudia Perlich, Advisor to Dstillery and Adjunct Professor NYU Stern School of Business](https://www.youtube.com/watch?v=p0cQUErM5xs) `0:51:59`
-	- [ ] [Jeff Dean, Google Senior Fellow and SVP Google AI - Deep Learning to Solve Challenging Problems](https://www.youtube.com/watch?v=imlp8DGNkk0) `0:58:45`
-	- [ ] [James Parr,  Director of Frontier Development Lab (NASA), FDL Europe & CEO, Trillium Technologies](https://www.youtube.com/watch?v=suamFkw9jws) `0:55:46`
-	- [ ] [Daphne Koller, Founder & CEO of Insitro -  In Conversation with Carlos Bustamante](https://www.youtube.com/watch?v=uyLT7EfWmsg) `0:49:29`
-	- [ ] [Eric Horvitz, Microsoft Research  - AI in the Open World: Advances, Aspirations, and Rough Edges](https://www.youtube.com/watch?v=4owh40tJ0wA) `0:56:11`
+	- [X] [Claudia Perlich, Advisor to Dstillery and Adjunct Professor NYU Stern School of Business](https://www.youtube.com/watch?v=p0cQUErM5xs) `0:51:59`
+	- [X] [Jeff Dean, Google Senior Fellow and SVP Google AI - Deep Learning to Solve Challenging Problems](https://www.youtube.com/watch?v=imlp8DGNkk0) `0:58:45`
+	- [X] [James Parr,  Director of Frontier Development Lab (NASA), FDL Europe & CEO, Trillium Technologies](https://www.youtube.com/watch?v=suamFkw9jws) `0:55:46`
+	- [X] [Daphne Koller, Founder & CEO of Insitro -  In Conversation with Carlos Bustamante](https://www.youtube.com/watch?v=uyLT7EfWmsg) `0:49:29`
+	- [X] [Eric Horvitz, Microsoft Research  - AI in the Open World: Advances, Aspirations, and Rough Edges](https://www.youtube.com/watch?v=4owh40tJ0wA) `0:56:11`
 	- [ ] [Tony Jebara, Netflix - Machine Learning for Recommendation and Personalization](https://www.youtube.com/watch?v=5u35GY24A0Q) `0:55:20`
 - [X] [Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
 - [X] [Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)
