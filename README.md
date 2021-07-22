@@ -6,11 +6,11 @@
 </p>
 
 **Learning Philosophy**: 
-- [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
-- [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)
-- [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
 - [Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
 - [Just in Time Learning](https://www.developgoodhabits.com/just-in-time-learning/)
+- [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)
+- [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
+- [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
 
 ### Have basic business understanding
 - [X] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
@@ -29,39 +29,16 @@
 - [X] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 - [ ] [Udacity: App Monetization](https://www.udacity.com/course/app-monetization--ud518)
 - [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
-- [ ] [Udacity: Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
 - [ ] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
-- [ ] [Youtube: SEO Unlocked](https://youtu.be/Q_lySNxCag0?list=PLJR61fXkAx11Oi6EpqJ9Es4rVOIZhwlSG)
-	- [X] [Welcome to the SEO Unlocked](https://www.youtube.com/watch?v=Q_lySNxCag0) `0:10:09`
-	- [X] [Introduction to SEO and Why It's Important](https://www.youtube.com/watch?v=pIbQfOcsEsE) `0:10:29`
-	- [ ] [Keyword Research Part 1](https://www.youtube.com/watch?v=CYicoAcAi0A) `0:19:20`
-	- [ ] [Keyword Research Part 2](https://www.youtube.com/watch?v=U655ixy-sdE) `0:09:56`
-	- [ ] [On-page and technical SEO Part 1](https://www.youtube.com/watch?v=PXDPqXHLSOY) `0:22:58`
-	- [ ] [On-page and technical SEO Part 2](https://www.youtube.com/watch?v=utLaKIJKygA) `0:12:16`
-	- [ ] [Mastering Technical SEO Audits](https://www.youtube.com/watch?v=k04rHijEPSw) `0:16:35`
-	- [ ] [Content Marketing Part 1](https://www.youtube.com/watch?v=zks1MFJsyUc) `0:24:09`
-	- [ ] [Advanced Content Marketing Tactics](https://www.youtube.com/watch?v=cJbKV2_B-xc) `0:09:54`
-	- [ ] [The 10 Commandments of Content Marketing](https://www.youtube.com/watch?v=28MeI9YccNY) `0:19:01`
-	- [ ] [How to Edit Your Content For SEO](https://www.youtube.com/watch?v=-1hw7akbdBQ) `0:10:59`
-	- [ ] [Discover Your Competitive Strategy](https://www.youtube.com/watch?v=aNBotpi7J98) `0:09:12`
-	- [ ] [Over 4 Million Backlinks Built With This Simple Process](https://www.youtube.com/watch?v=h-4ksx-b_ns) `0:11:09`
-	- [ ] [How to Get POWERFUL Backlinks for Faster Rankings](https://www.youtube.com/watch?v=qO5xeRYk20Q) `0:09:40`
-	- [ ] [Get THOUSANDS of Backlinks On Semi-Autopilot](https://www.youtube.com/watch?v=SbDIDbiVPzs) `0:06:32`
-	- [ ] [How To Get The Most Out Of Google Analytics](https://www.youtube.com/watch?v=a9yVBuk5Amo) `0:07:45`
-	- [ ] [How to Setup Google Search Console](https://www.youtube.com/watch?v=7TKyZR5XQqQ) `0:09:21`
-	- [ ] [How to Use Advanced Features in Google Analytics](https://www.youtube.com/watch?v=hAkiH_3hC9E) `0:10:52`
-	- [ ] [A Deep Dive Into Branding, Data & Experience](https://www.youtube.com/watch?v=738TjOhTq3k) `0:14:03`
-	- [ ] [How To Create A Compelling Brand](https://www.youtube.com/watch?v=ttT3IbkZ_Qo) `0:05:52`
-	- [ ] [Designing Your Customer Experience & Case Studies](https://www.youtube.com/watch?v=CRz0pn3N5bs) `0:07:32`
 
 
 ### Be familiar with how ML is applied at other companies
 - [X] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
-- [ ] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
+- [X] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
 - [X] [Article: Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
-- [ ] [Article: Machine Learning @ Monzo in 2020](http://nlathia.github.io/2020/10/Monzo-ML.html)
+- [X] [Article: Machine Learning @ Monzo in 2020](http://nlathia.github.io/2020/10/Monzo-ML.html)
 - [ ] [Article: How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
-- [ ] [Real-world AI Case Studies](#)
+- [X] [Real-world AI Case Studies](#)
 	- [X] [Andrej Karpathy on AI at Tesla (Full Stack Deep Learning - August 2018)](https://www.youtube.com/watch?v=ZVJTqAuPvTU&list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib&index=7)
 	- [X] [Jai Ranganathan at Data Science at Uber (Full Stack Deep Learning - August 2018)](https://youtu.be/8PjTWFfjkeY?list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib)
 	- [X] [John Apostolopoulos of Cisco discusses "Machine Learning in Networking"](https://www.youtube.com/watch?v=9XdGZVohnno) `0:48:44`
@@ -106,13 +83,10 @@
 - [X] [Youtube: Lecture 13: Research Directions](https://youtu.be/vF7UgqaegVI)
 - [X] [Youtube: Lecture 14: Jeremy Howard](https://youtu.be/hZd3X_nGdew)
 - [X] [Youtube: Lecture 15: Richard Socher](https://youtu.be/yvMgcLKuvVg)
-- [ ] [Youtube: Gradient Dissent Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
-	- [ ] [DeepChem creator Bharath Ramsundar on using deep learning for molecules and medicine discovery](https://www.youtube.com/watch?v=GnkpVjp117k) `0:55:11`
-	- [X] [Machine learning across industries with Vicki Boykis](https://www.youtube.com/watch?v=pOnRSYSNuXI) `0:34:02`
-	- [ ] [Designing ML models for millions of consumer robots - Angela Bassa and Danielle Dean](https://www.youtube.com/watch?v=W55uO4gIlQ4) `0:52:38`
-	- [X] [Rachael Tatman - Conversational A.I. and Linguistics](https://www.youtube.com/watch?v=n_CTGZSq4m0) `0:36:51`
-	- [X] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
-	- [X] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
+- [X] [Youtube: Machine learning across industries with Vicki Boykis](https://www.youtube.com/watch?v=pOnRSYSNuXI) `0:34:02`
+- [X] [Youtube: Rachael Tatman - Conversational A.I. and Linguistics](https://www.youtube.com/watch?v=n_CTGZSq4m0) `0:36:51`
+- [X] [Youtube: Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
+- [X] [Youtube: Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
 - [X] [Youtube: [CVPR'21 WAD] Keynote - Andrej Karpathy, Tesla](https://youtu.be/g6bOwQdCJrc)
 
 ### Be able to frame an ML problem
@@ -159,15 +133,15 @@
 - [X] [Netflix: The Great Hack](https://www.netflix.com/np/title/80117542)
 - [X] [Netflix: The Social Dilemma](https://www.netflix.com/np/title/81254224)
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
-    - [X] [Lesson 1: Disinformation](http://ethics.fast.ai/videos/?lesson=1)
-    - [ ] [Lesson 2: Bias & Fairness](http://ethics.fast.ai/videos/?lesson=2)
-    - [ ] [Lesson 3: Ethical Foundations & Practical Tools](http://ethics.fast.ai/videos/?lesson=3)
-    - [ ] [Lesson 4: Privacy and surveillance](http://ethics.fast.ai/videos/?lesson=4)
-    - [ ] [Lesson 4 continued: Privacy and surveillance](http://ethics.fast.ai/videos/?lesson=5)
-    - [ ] [Lesson 5.1: The problem with metrics](http://ethics.fast.ai/videos/?lesson=6)
-    - [ ] [Lesson 5.2: Our Ecosystem, Venture Capital, & Hypergrowth](http://ethics.fast.ai/videos/?lesson=7)
-    - [ ] [Lesson 5.3: Losing the Forest for the Trees, guest lecture by Ali Alkhatib](http://ethics.fast.ai/videos/?lesson=8)
-    - [ ] [Lesson 6: Algorithmic Colonialism, and Next Steps](http://ethics.fast.ai/videos/?lesson=9)
+    - [X] [Lesson 1: Disinformation](https://www.youtube.com/watch?v=eFjk79ykWZk)
+    - [ ] [Lesson 2: Bias & Fairness](https://www.youtube.com/watch?v=mG-cTS3fnnw)
+    - [ ] [Lesson 3: Ethical Foundations & Practical Tools](https://youtu.be/s0s5A4xK0xQ)
+    - [ ] [Lesson 4: Privacy and surveillance](https://youtu.be/79_rwZhewbQ)
+    - [ ] [Lesson 4 continued: Privacy and surveillance](https://youtu.be/HwfeDeqbmsI)
+    - [ ] [Lesson 5.1: The problem with metrics](https://youtu.be/US42H1znvKU)
+    - [ ] [Lesson 5.2: Our Ecosystem, Venture Capital, & Hypergrowth](https://youtu.be/TKYr4sS1SFw)
+    - [ ] [Lesson 5.3: Losing the Forest for the Trees, guest lecture by Ali Alkhatib](https://youtu.be/upU-_ECq80Y)
+    - [ ] [Lesson 6: Algorithmic Colonialism, and Next Steps](https://youtu.be/Nzvoc7aaEzw)
 - [ ] [Youtube: Lecture 9: Ethics (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=AoYD4eB3Vo4) `1:04:50`
 - [ ] [Youtube: SE4AI: Ethics and Fairness](https://www.youtube.com/watch?v=0wCJKw3-siY) `1:18:37`
 - [ ] [Youtube: SE4AI: Security](https://www.youtube.com/watch?v=5ZdrNYvTmq8) `1:18:24`
@@ -262,7 +236,7 @@
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
 ### Be able to use Linux
-- [ ] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
+- [X] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
 - [X] [Article: Understand Linux Load Averages and Monitor Performance of Linux](https://www.tecmint.com/understand-linux-load-averages-and-monitor-performance/)
 - [X] [Article: Command-line Tools can be 235x Faster than your Hadoop Cluster](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 - [X] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
@@ -271,8 +245,6 @@
 - [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
 - [X] [Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)
 - [X] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
-- [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
-- [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
 - [ ] [MIT: The Missing Semester of CS Education](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 	- [X] [Lecture 1: Course Overview + The Shell (2020)](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) `0:48:16`
 	- [ ] [Lecture 2: Shell Tools and Scripting (2020)](https://www.youtube.com/watch?v=kgII-YWo3Zw) `0:48:55`
@@ -313,7 +285,6 @@
 - [ ] [Datacamp: Dealing with Missing Data in Python](https://www.datacamp.com/courses/dealing-with-missing-data-in-python)
 - [ ] [Datacamp: Exploratory Data Analysis in Python](https://www.datacamp.com/courses/exploratory-data-analysis-in-python)
 - [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
-- [ ] [Google: Feature Engineering](https://www.coursera.org/learn/feature-engineering)
 - [ ] [Udacity: Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 - [X] [Youtube: Applied ML 2020 - 04 - Preprocessing](https://www.youtube.com/watch?v=XpOBSaktb6s) `1:07:40`
 - [X] [Youtube: Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
@@ -342,11 +313,7 @@
 - [ ] [Datacamp: Improving Your Data Visualizations in Python](https://www.datacamp.com/courses/improving-your-data-visualizations-in-python)
 - [ ] [Datacamp: Visualizing Geospatial Data in Python](https://www.datacamp.com/courses/visualizing-geospatial-data-in-python)
 - [ ] [Datacamp: Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
-- [ ] [Udacity: Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
-- [ ] [Youtube: Jake VanderPlas - Exploratory Data Visualization with Vega, Vega-Lite, and Altair - PyCon 2018](https://www.youtube.com/watch?v=ms29ZPUKxbU)
-- [ ] [Youtube: Shantam Raj- Rapidly emulating professional visualizations from New York Times| PyData Global 2020](https://www.youtube.com/watch?v=pPHhv7qsQ_8)
 - [X] [Youtube: Applied ML 2020 - 02 Visualization and matplotlib](https://www.youtube.com/watch?v=OW3oco7nlV4) `1:07:30`
-- [ ] [UWData: Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum)
 
 ### Be able to do literature review using research papers
 - [X] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
@@ -373,16 +340,13 @@
 - [X] [Paper: Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/abs/1912.01991)
 - [X] [Paper: FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685)
 - [X] [Paper: Self-Labelling via Simultalaneous Clustering and Representation Learning](https://www.robots.ox.ac.uk/~vgg/research/self-label/)
-- [ ] [Paper: A Survey on Contextual Embeddings](https://arxiv.org/abs/2003.07278v1)
 - [X] [Paper: A survey on Semi-, Self- and Unsupervised Techniques in Image Classification](https://arxiv.org/abs/2002.08721)
-- [ ] [Paper: Shortcut Learning in Deep Neural Networks](https://arxiv.org/abs/2004.07780)
 - [X] [Paper: Multi-document Summarization by using TextRank and Maximal Marginal Relevance for Text in Bahasa Indonesia](https://www.researchgate.net/publication/338940065_Multi-document_Summarization_by_using_TextRank_and_Maximal_Marginal_Relevance_for_Text_in_Bahasa_Indonesia)
 - [X] [Paper: Train Once, Test Anywhere: Zero-Shot Learning for Text Classification](https://arxiv.org/abs/1712.05972)
 - [X] [Paper: Zero-shot Text Classification With Generative Language Models](https://arxiv.org/abs/1912.10165)
 - [X] [Paper: How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
 - [X] [Paper: Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
 - [X] [Paper: Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
-- [ ] [Paper: Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
 - [X] [Paper: Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)
 - [X] [Paper: Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
 - [X] [Paper: Temporal Ensembling for Semi-Supervised Learning](https://arxiv.org/abs/1610.02242)
@@ -392,15 +356,12 @@
 - [X] [Paper: Question Generation via Overgenerating Transformations and Ranking](http://www.cs.cmu.edu/~mheilman/papers/heilman-smith-qg-tech-report.pdf)
 - [X] [Paper: Good Question! Statistical Ranking for Question Generation](https://www.aclweb.org/anthology/N10-1086.pdf)
 - [ ] [Paper: Towards ML Engineering: A Brief History Of TensorFlow Extended (TFX)](https://arxiv.org/pdf/2010.02013v2.pdf)
-- [ ] [Paper: Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf)
 - [X] [Paper: Neural Text Generation: A Practical Guide](https://cs.stanford.edu/~zxie/textgen.pdf)
 - [ ] [Paper: Pest Management In Cotton Farms: An AI-System Case Study from the Global South](https://dl.acm.org/doi/10.1145/3394486.3403363)
 - [ ] [Paper: BERT2DNN: BERT Distillation with Massive Unlabeled Data for Online E-Commerce Search](https://arxiv.org/abs/2010.10442)
 - [ ] [Paper: On the surprising similarities between supervised and self-supervised models](https://arxiv.org/abs/2010.08377)
 - [X] [Paper: All-but-the-Top: Simple and Effective Postprocessing for Word Representations](https://arxiv.org/abs/1702.01417)
 - [X] [Paper: Simple and Effective Dimensionality Reduction for Word Embeddings](https://arxiv.org/abs/1708.03629)
-- [ ] [Paper: A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556v1)
-- [ ] [Paper: The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures](https://arxiv.org/abs/2104.10640)
 - [X] [Paper: AutoCompete: A Framework for Machine Learning Competitions](https://arxiv.org/abs/1507.02188)
 - [X] [Paper: Cost-effective Deployment of BERT Models in Serverless Environment](https://mareksuppa.com/pdfs/naacl_2021_bert_serverless.pdf)
 - [X] [Paper: Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)
@@ -535,15 +496,11 @@
 	- [ ] [StatQuest: Odds and Log(Odds), Clearly Explained!!!](https://www.youtube.com/watch?v=ARfXDSkQf1Y) `0:11:30`
 	- [ ] [StatQuest: Odds Ratios and Log(Odds Ratios), Clearly Explained!!!](https://www.youtube.com/watch?v=8nm0G-1uJzA) `0:16:20`
 	- [ ] [Live 2020-04-20!!! Expected Values](https://www.youtube.com/watch?v=fU2PuYKsr6M) `0:33:00`
-- [ ] [Udacity: Algebra Review](https://www.udacity.com/course/intro-algebra-review--ma004)
-- [ ] [Udacity: Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222)
 - [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
 - [ ] [Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - [ ] [Udacity: Statistics](https://www.udacity.com/course/statistics--st095)
 - [ ] [Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [ ] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-- [ ] [Youtube: Visualizing Deep Learning](https://www.youtube.com/playlist?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
-    - [X] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://www.youtube.com/watch?v=UOvPeC8WOt8&feature=youtu.be)
 
 ### Be able to setup project structure
 - [X] [Article: pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a)
@@ -591,7 +548,6 @@
 - [ ] [Youtube: Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8daKeuaWgjk) `0:58:13`
 - [ ] [Youtube: Lecture 5: ML Projects (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=pxisK6RMn1s) `1:13:14`
 - [ ] [Youtube: Lecture 6: Infrastructure & Tooling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=760Mc_b3_N0) `1:07:21`
-- [ ] [Youtube: Yangqing Jia on Deep Learning Frameworks (Full Stack Deep Learning - August 2018)](https://youtu.be/s2MWUamDYUI?list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib)
 
 ### Be able to version control code
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
@@ -612,11 +568,8 @@
 - [ ] [Youtube: DVC Basics](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg)
 	- [X] [Versioning Data with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=kLKBcPonMYw) `0:13:04`
 	- [X] [Sharing Data and Models with DVC (Hands-On Data Science Tutorial!)](https://www.youtube.com/watch?v=EE7Gk84OZY8) `0:08:53`
-	- [ ] [Machine Learning Pipelines with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=71IGzyH95UY) `0:10:04`
-	- [ ] [Machine Learning Experiments with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=iduHPtBncBk) `0:07:29`
 - [ ] [Article: ML Ops: Data Science Version Control](https://medium.com/acing-ai/ml-ops-data-science-version-control-5935c49d1b76)
 - [X] [Youtube: Data versioning in machine learning projects - Dmitry Petrov](https://www.youtube.com/watch?v=BneW7jgB298) `0:34:44`
-- [ ] [Youtube: MLOps #19 // DataOps and Data versioning in ML](https://www.youtube.com/watch?v=ojV1tK9jXH8) `1:01:55`
 - [X] [Zoom: Data versioning with DVC Part 1](https://uniroma1.zoom.us/rec/share/74BYg5pKsplJLy4p-Yvo6g5bFa7eAEATwgqv5jzu6brzNZETWA9nISj_CK8_o192.WDm8fOY7zzd96bLA?startTime=1620383404000)
 - [X] [Zoom: Data versioning with DVC Part 2](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620803785000)
 
@@ -785,7 +738,6 @@
     - [X] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
     - [X] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
 - [X] [Youtube: Deep Double Descent](https://youtu.be/R29awq6jvUw)
-- [ ] [Youtube: Applied ML 2020 - 01 Introduction](https://www.youtube.com/watch?v=rbvpiPJuK64) `1:16:01`
 
 ### Be able to implement models in scikit-learn
 - [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
@@ -807,8 +759,6 @@
 ### Be able to implement models in Tensorflow and Keras
 - [X] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
 - [X] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
-- [ ] [Coursera: Getting Started With Tensorflow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
-- [ ] [Coursera: Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
 - [X] [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 - [ ] [Book: Deep Learning with Python (Page: 276)](https://www.manning.com/books/deep-learning-with-python)
 - [X] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
@@ -816,7 +766,6 @@
 - [X] [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
 - [X] [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
 - [X] [Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
-- [ ] [Google: Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow)
 - [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [X] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
 - [X] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
@@ -998,12 +947,12 @@
     - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 2](https://www.youtube.com/watch?v=KjcSfpLin7U&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=58&t=0s)
     - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 3](https://www.youtube.com/watch?v=EqMwbP7Smxg&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=59&t=0s)
     - [ ] [Deep Learning: Weakly and Self-Supervised Learning - Part 4](https://www.youtube.com/watch?v=zIDdTstAqWU&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj&index=60&t=0s)
-- [ ] [ECCV 2020: New Frontiers for Learning with Limited Labels or Data](https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/)
+- [X] [ECCV 2020: New Frontiers for Learning with Limited Labels or Data](https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/)
     - [X] [Introduction to New Frontiers on Learning with Limited Labels or Data](https://youtu.be/lHsLUYk80z4)
     - [X] [Self-Supervised Part and Viewpoint Discovery from Image Collections](https://youtu.be/5kzU6NkvGX4)
     - [X] [Learning Visual Correspondences across Instances and Video Frames](https://youtu.be/_Sug0ICzKlk)
     - [X] [Limitless Labels in a Labelless World: Weak Supervision with Noisy Labels](https://youtu.be/UtxQkIoei0o)
-- [ ] [Youtube: Self-Supervised Learning - What is Next? - Workshop at ECCV 2020, August 28th](https://www.youtube.com/playlist?list=PL53R9Jy9Cc0zdv9OqvJ5YsZH2-AMKo9gM)
+- [X] [Youtube: Self-Supervised Learning - What is Next? - Workshop at ECCV 2020, August 28th](https://www.youtube.com/playlist?list=PL53R9Jy9Cc0zdv9OqvJ5YsZH2-AMKo9gM)
     - [X] [Next Challenges for Self-Supervised Learning - Aäron van den Oord](https://www.youtube.com/watch?v=jJozjCG8Cqs) `0:20:13`
     - [X] [Perspectives on Unsupervised Representation Learning - Paolo Favaro](https://www.youtube.com/watch?v=APwHDZZcLuY) `0:42:41`
     - [X] [Learning and Transferring Visual Representations with Few Labels - Carl Doersch](https://www.youtube.com/watch?v=RWCc0nZOSBw) `0:32:53`
@@ -1011,8 +960,6 @@
 - [X] [Youtube: Marco Cuturi - A Primer on Optimal Transport](https://youtu.be/6iR1E6t1MMQ)
 - [X] [Youtube: Sebastian Ruder: Neural Semi-supervised Learning under Domain Shift](https://www.youtube.com/watch?v=tpAr5-Y4JxU)
 - [X] [Youtube: Clustering Algorithms](https://www.youtube.com/playlist?list=PLBv09BD7ez_6lYVoZ1RzVcOPIT5Lfjo0Y)
-- [ ] [Youtube: Beyond supervised learning](https://www.youtube.com/watch?v=lFWJB1ig0e0)
-- [ ] [Youtube: The InfoNCE loss in self-supervised learning](https://slideslive.com/38938406/the-infonce-loss-in-selfsupervised-learning)
 
 ### Be able to implement NLP models
 - [X] [Article: Fixing common Unicode mistakes with Python â€“ after they’ve been made](http://blog.conceptnet.io/posts/2012/fixing-common-unicode-mistakes-with-python-after-theyve-been-made/)
@@ -1742,7 +1689,7 @@
 - [X] [Youtube: Real life aspects of opinion sentiment analysis within customer reviews - Dr. Jonathan Yaniv](https://www.youtube.com/watch?v=CVn0yR49yxA)
 - [X] [Youtube: Deep Learning Methods for Emotion Detection from Text - Dr. Liron Allerhand](https://www.youtube.com/watch?v=DzAZ2Bq_dgU)
 - [X] [Youtube: Learning How to Learn NLP : Developing Introductory Concepts Through Scaffolded Discoveries](https://www.youtube.com/watch?v=EcnsJUBRMbk)
-- [ ] [Youtube: What are Transformer Neural Networks?](https://www.youtube.com/watch?v=XSSTuhyAmnI)
+- [X] [Youtube: What are Transformer Neural Networks?](https://www.youtube.com/watch?v=XSSTuhyAmnI)
 - [X] [Youtube: Applied ML 2020 - 15 - Working with Text Data](https://www.youtube.com/watch?v=A8yDjNsUQJA) `1:27:08`
 - [X] [Youtube: Applied ML 2020 - 16 - Topic models for text data](https://www.youtube.com/watch?v=xdmFx4-3Ukw) `1:18:34`
 - [ ] [Youtube: Applied ML 2020 - 17 - Word vectors and document embeddings](https://www.youtube.com/watch?v=xgjnlGBpLUs) `1:03:04`
@@ -1825,7 +1772,6 @@
 - [ ] [Book: Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
 - [ ] [Book: Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/)
 - [ ] [Coursera: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
-- [ ] [Datacamp: Biomedical Image Analysis in Python](https://www.datacamp.com/courses/biomedical-image-analysis-in-python)
 - [ ] [Datacamp: Image Processing in Python](https://www.datacamp.com/courses/image-processing-in-python)
 - [X] [Google: ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
 - [ ] [Stanford: CS231N Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
@@ -1844,7 +1790,6 @@
 	- [ ] [CS231n Winter 2016: Lecture 14: Videos and Unsupervised Learning](https://www.youtube.com/watch?v=ekyBklxwQMU) `1:17:36`
 	- [ ] [CS231n Winter 2016: Lecture 13: Segmentation, soft attention, spatial transformers](https://www.youtube.com/watch?v=ByjaPdWXKJ4) `1:10:59`
 	- [X] [CS231n Winter 2016: Lecture 15: Invited Talk by Jeff Dean](https://www.youtube.com/watch?v=T7YkPWpwFD4) `1:14:49`
-- [ ] [Udacity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [ ] [Youtube: Autoencoders - EXPLAINED](https://www.youtube.com/watch?v=7mRfwaGGAPg) `0:10:53`
 - [ ] [Youtube: Building an Image Captioner with Neural Networks](https://www.youtube.com/watch?v=c_bVBYxX5EU) `0:12:54`
 - [ ] [Youtube: Convolution Neural Networks - EXPLAINED](https://www.youtube.com/watch?v=m8pOnJxOcqY) `0:19:20`
@@ -1857,7 +1802,6 @@
 - [X] [Youtube: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Paper Explained)](https://www.youtube.com/watch?v=TrdevFK_am4)
 - [X] [Youtube: Deep Residual Learning for Image Recognition (Paper Explained)](https://www.youtube.com/watch?v=GWt6Fu05voI)
 - [ ] [Youtube: Evolution of Face Generation |  Evolution of GANs](https://www.youtube.com/watch?v=C1YUYWP-6rE) `0:12:23`
-- [ ] [Youtube: AI creates Image Classifiers…by DRAWING?](https://www.youtube.com/watch?v=BeYbQkbKox8) `0:09:04`
 - [ ] [Youtube: ConvNets Scaled Efficiently](https://www.youtube.com/watch?v=fC39F8AqPo0) `0:13:19`
 - [X] [Youtube: Implementing ResNet from scratch](https://www.youtube.com/playlist?list=PLbMqOoYQ3MxywF4R6MOJO7i9jFEeSGSSC)
 - [X] [Youtube: DETR: End-to-End Object Detection with Transformers (Paper Explained)](https://www.youtube.com/watch?v=T35ba_VXkMY)
@@ -1886,7 +1830,7 @@
 - [ ] [Udacity: Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 - [ ] [Youtube: Applied ML 2020 - 21 - Time Series and Forecasting](https://www.youtube.com/watch?v=GVGEnaJsuu8) `1:12:36`
 
-### Be familiar with Reinforcement Learning
+### Be familiar with basics of Reinforcement Learning
 - [X] [DeepLizard: Reinforcement Learning - Goal Oriented Intelligence](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 	- [X] [Reinforcement Learning Series Intro - Syllabus Overview](https://www.youtube.com/watch?v=nyjbcRQ-uQ8) `0:05:51`
 	- [X] [Markov Decision Processes (MDPs) - Structuring a Reinforcement Learning Problem](https://www.youtube.com/watch?v=my207WNoeyA) `0:06:34`
@@ -2119,6 +2063,7 @@
 - [X] [Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`
 - [ ] [Youtube: Hands-on serving models using KFserving // Theofilos Papapanagiotou // MLOps Meetup #40](https://www.youtube.com/watch?v=VtZ9LWyJPdc) `0:57:40`
 - [X] [Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)
+
 ### Be able to setup batch inference
 - [X] [Article: Celery Execution Pools: What is it all about?](https://www.distributedpython.com/2018/10/26/celery-execution-pool/)
 - [X] [Article: Distill: Why do we need Flask, Celery, and Redis? (with McDonalds in Between)](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/)
@@ -2307,11 +2252,6 @@
 - [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
 - [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 
-### Be familiar with compiled languages
-- [X] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
-- [ ] [Udacity: C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210)
-- [X] [Udacity: Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
-
 ### Have a general understanding of other parts of the stack
 - [ ] [Book: Refactoring UI](https://refactoringui.com/book/)
 - [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
@@ -2459,7 +2399,6 @@
 - [ ] [Udacity: Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243)
 - [ ] [Udacity: Craft Your Cover Letter](https://www.udacity.com/course/craft-your-cover-letter--ud244)
 - [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
-- [ ] [Youtube: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
 - [X] [Youtube: Panel Discussion: Do I need a PhD to work in ML? (Full Stack Deep Learning - Spring 2021)](https://youtu.be/sTxL2lspnTU?list=LL)
 - [X] [Youtube: The Importance of Writing in a Tech Career - Eugene Yan](https://youtu.be/vXWGd7olv3c)
 - [X] [Youtube: How to prepare for Machine Learning interviews- Part 1 | Applied AI Course](https://youtu.be/sLAnpLlkh9U?list=LL)
