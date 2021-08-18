@@ -126,6 +126,7 @@
 - [X] [Youtube: Hugging Face, Transformers | NLP Research and Open Source | Interview with Julien Chaumond](https://www.youtube.com/watch?v=ejWkDviM5QM)
 - [X] [Youtube: Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020](https://www.youtube.com/watch?v=nJAmN6gWdK8&ab_channel=PyData)
 - [X] [Youtube: Building intuitions before building models](https://youtu.be/xNGI0B_Sn1E?list=LL)
+- [X] [Youtube: Recent Breakthroughs in AI with Andrej Karpathy and Lex Fridman](https://www.youtube.com/watch?v=Xl0xAJJqPfY)
 
 ### Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
@@ -1704,6 +1705,8 @@
   - [ ] [Build a Custom Transformer Tokenizer - Transformers From Scratch #2](https://www.youtube.com/watch?v=JIeAB8vvBQo) `0:14:17`
   - [ ] [Building MLM Training Input Pipeline - Transformers From Scratch #3](https://www.youtube.com/watch?v=heTYbpr9mD8) `0:23:11`
   - [ ] [Training and Testing an Italian BERT - Transformers From Scratch #4](https://www.youtube.com/watch?v=35Pdoyi6ZoQ) `0:30:38`
+- [X] [In Search of Best Practices for NLP Projects | Ivan Bilan | PyData Pune Meetup | December 2020](https://www.youtube.com/watch?v=0S9iai4Ld4I) `0:50:00` 
+- [X] [Youtube: Generating and Understanding Natural Language with AI (Aidan Gomez, PhD)](https://www.youtube.com/watch?v=ps1B2WxlxV0) `0:52:12`
 
 ### Be familiar with multi-modal machine learning
 - [ ] [CMU: MultiModal Machine Learning Fall 2020](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)
@@ -2406,6 +2409,7 @@
 - [X] [Youtube: How to prepare for Machine Learning interviews- Part 1 | Applied AI Course](https://youtu.be/sLAnpLlkh9U?list=LL)
 - [X] [Youtube: How to prepare for Machine Learning interviews- Part 2 | Applied AI Course](https://youtu.be/JxTR1LM4YSA?list=LL)
 - [X] [Youtube: Guest Lecture - Chip Huyen - Machine Learning Interviews - Full Stack Deep Learning](https://youtu.be/pli1K75PSa8)
+- [X] [Youtube: Tutorial: Technical Blogging for Python Programmers](https://www.youtube.com/watch?v=mmU25Xd0BGs)
 
 ### Broaden Perspective
 - [X] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
@@ -2426,3 +2430,4 @@
 - [X] [Youtube: The Great ML Stagnation (Mark Saroufim and Dr. Mathew Salvaris)](https://www.youtube.com/watch?v=BwhBtvCNwxo)
 - [X] [Youtube: What Machine Learning Can Teach Us About Life: 7 Lessons - Talk Python Live Stream](https://www.youtube.com/watch?v=EE1u1dbPZWQ)
 - [X] [Youtube: Ross Tuck - Things I Believe Now That I'm Old at Laracon EU 2014](https://www.youtube.com/watch?v=ZBiexI2mv-k)
+- [X] [Youtube: "How to teach programming (and other things)?" by Felienne Hermans](https://www.youtube.com/watch?v=g1ib43q3uXQ) `0:52:08`
