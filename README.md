@@ -33,9 +33,9 @@
 
 
 ### Be familiar with how ML is applied at other companies
-- [ ] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
-- [ ] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
-- [ ] [Article: Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
+- [X] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
+- [X] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
+- [X] [Article: Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
 - [ ] [Article: Machine Learning @ Monzo in 2020](http://nlathia.github.io/2020/10/Monzo-ML.html)
 - [ ] [Article: How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
 - [ ] [Real-world AI Case Studies](#)
