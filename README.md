@@ -1178,6 +1178,7 @@
 - [ ] [Article: Comparison Of Ngram Fuzzy Matching Approaches](http://chappers.github.io/web%20micro%20log/2015/04/29/comparison-of-ngram-fuzzy-matching-approaches/)
 - [ ] [Article: String similarity — the basic know your algorithms guide!](https://itnext.io/string-similarity-the-basic-know-your-algorithms-guide-3de3d7346227)
 - [ ] [Article: Evolution of Word to Vector](https://medium.com/co-learning-lounge/nlp-word-embedding-tfidf-bert-word2vec-d7f04340af7f)
+- [X] [Article: Unsupervised Auto-labeling of Websites](https://pincone.com/blog/unsupervised-auto-labeling-of-websites) 
 - [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Book: Embeddings in Natural Language Processing](http://josecamachocollados.com/book_embNLP_draft.pdf)
 - [ ] [Book: Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)
@@ -1707,6 +1708,7 @@
   - [ ] [Training and Testing an Italian BERT - Transformers From Scratch #4](https://www.youtube.com/watch?v=35Pdoyi6ZoQ) `0:30:38`
 - [X] [In Search of Best Practices for NLP Projects | Ivan Bilan | PyData Pune Meetup | December 2020](https://www.youtube.com/watch?v=0S9iai4Ld4I) `0:50:00` 
 - [X] [Youtube: Generating and Understanding Natural Language with AI (Aidan Gomez, PhD)](https://www.youtube.com/watch?v=ps1B2WxlxV0) `0:52:12`
+- [X] [Youtube: The giant leaps in language technology -- and who's left behind | Kalika Bali](https://www.youtube.com/watch?v=Mkelhs_OVMc)
 
 ### Be familiar with multi-modal machine learning
 - [ ] [CMU: MultiModal Machine Learning Fall 2020](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)
@@ -2431,3 +2433,4 @@
 - [X] [Youtube: What Machine Learning Can Teach Us About Life: 7 Lessons - Talk Python Live Stream](https://www.youtube.com/watch?v=EE1u1dbPZWQ)
 - [X] [Youtube: Ross Tuck - Things I Believe Now That I'm Old at Laracon EU 2014](https://www.youtube.com/watch?v=ZBiexI2mv-k)
 - [X] [Youtube: "How to teach programming (and other things)?" by Felienne Hermans](https://www.youtube.com/watch?v=g1ib43q3uXQ) `0:52:08`
+- [X] [Youtube: The secrets of learning a new language | Lýdia Machová](https://www.youtube.com/watch?v=o_XVt5rdpFY)
