@@ -1708,6 +1708,7 @@
 	- [ ] [Lecture 9.2: Multimodal RL](https://www.youtube.com/watch?v=UsAgvMC5fRs)
 	- [ ] [Lecture 10.1: Fusion and co-learning](https://www.youtube.com/watch?v=2xr4P0WGKSA)
 	- [ ] [Lecture 10.2: New research directions](https://www.youtube.com/watch?v=g3ZpSiwusrM)
+- [X] [Youtube: W&B Paper Reading Group: MDETR with author Aishwarya Kamath](https://www.youtube.com/watch?v=I68nn_0odto)
 
 ### Be familiar with Recommendation Systems
 - [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
