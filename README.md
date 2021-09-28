@@ -1240,6 +1240,13 @@
 	- [X] [CMU Multilingual NLP 2020 (21): Information Extraction](https://www.youtube.com/watch?v=uNIy-v2DUgc) `0:41:00`
 	- [X] [CMU Multilingual NLP 2020 (22): Multilingual NLP for Indigenous Languages](https://www.youtube.com/watch?v=wilwuzgLWdk) `1:21:58`
 	- [X] [CMU Multilingual NLP 2020 (23): Universal Translation at Scale](https://www.youtube.com/watch?v=mcl--ktVpjg) `1:27:33`
+- [ ] [CMU Advanced NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
+	- [ ] [CMU Advanced NLP 2021 (1): Introduction to NLP](https://www.youtube.com/watch?v=pGC-QiNbuwA) `1:08:39`
+	- [ ] [CMU Advanced NLP 2021 (2): Text Classification](https://www.youtube.com/watch?v=7tGbA5QqJUg) `1:16:56`
+	- [ ] [CMU Advanced NLP 2021 (3): Language Modeling and Neural Networks](https://www.youtube.com/watch?v=cH8DiwmJu-U) `1:16:37`
+	- [ ] [CMU Advanced NLP 2021 (4): Text Classification](https://www.youtube.com/watch?v=SmTl55AuUeQ) `1:14:19`
+	- [ ] [CMU Advanced NLP 2021 (5): Recurrent Neural Networks](https://www.youtube.com/watch?v=1aQwed1TTrY) `1:13:43`
+	- [ ] [CMU Advanced NLP 2021 (6): Conditional Generation](https://www.youtube.com/watch?v=vLgLUCXuERU) `1:17:56`
 - [ ] [CS685: Advanced Natural Language Processing](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
 	- [ ] [UMass CS685 (Advanced NLP): Attention mechanisms](https://www.youtube.com/watch?v=3qdQAtfq1jU) `0:48:53`
 	- [ ] [UMass CS685 (Advanced NLP): Question answering](https://www.youtube.com/watch?v=nfHBN2D47rc) `0:59:50`
