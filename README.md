@@ -367,6 +367,12 @@
 - [X] [Paper: AutoCompete: A Framework for Machine Learning Competitions](https://arxiv.org/abs/1507.02188)
 - [X] [Paper: Cost-effective Deployment of BERT Models in Serverless Environment](https://mareksuppa.com/pdfs/naacl_2021_bert_serverless.pdf)
 - [X] [Paper: Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)
+- [X] [Paper: What Does BERT Learn about the Structure of Language?](https://aclanthology.org/P19-1356/)
+- [X] [Paper: What do RNN Language Models Learn about Filler–Gap Dependencies?](https://aclanthology.org/W18-5423/)
+- [X] [Paper: Symbol Grounding and its Implications for Artificial Intelligence](https://www.researchgate.net/publication/221573971_Symbol_Grounding_and_its_Implications_for_Artificial_Intelligence)
+- [X] [Paper: Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world](https://aclanthology.org/P14-1132/)
+- [X] [Paper: MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding](https://arxiv.org/abs/2104.12763)
+- [X] [Paper: Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs](https://arxiv.org/abs/2011.15124)
 - [X] [Youtube: mixup: Beyond Empirical Risk Minimization (Paper Explained)](https://www.youtube.com/watch?v=a-VQfQqIMrE)
 
 ### Be able to model problems mathematically
