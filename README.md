@@ -2328,6 +2328,7 @@
 - [X] [Book: The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
 - [X] [Calmcode: Remote Work](https://calmcode.io/remote/introduction.html)
 - [X] [Youtube: Building a psychologically safe workplace | Amy Edmondson | TEDxHGSE](https://youtu.be/LhoLuui9gX8)
+- [X] [Youtube: A short introduction to LaTeX and Overleaf](https://www.youtube.com/watch?v=dkojsBJ-S-g)
 
 ### Be familiar with the hiring pipeline
 - [X] [Article: What You Need to Know Before Considering a PhD](https://www.fast.ai/2018/08/27/grad-school/)
