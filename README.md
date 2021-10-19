@@ -36,7 +36,7 @@
 - [X] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
 - [X] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
 - [X] [Article: Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
-- [ ] [Article: Machine Learning @ Monzo in 2020](http://nlathia.github.io/2020/10/Monzo-ML.html)
+- [X] [Article: Machine Learning @ Monzo in 2020](http://nlathia.github.io/2020/10/Monzo-ML.html)
 - [ ] [Article: How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
 - [ ] [Real-world AI Case Studies](#)
 	- [ ] [Andrej Karpathy on AI at Tesla (Full Stack Deep Learning - August 2018)](https://www.youtube.com/watch?v=ZVJTqAuPvTU&list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib&index=7)
