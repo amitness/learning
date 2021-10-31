@@ -366,6 +366,14 @@
 - [ ] [Paper: AutoCompete: A Framework for Machine Learning Competitions](https://arxiv.org/abs/1507.02188)
 - [ ] [Paper: Cost-effective Deployment of BERT Models in Serverless Environment](https://mareksuppa.com/pdfs/naacl_2021_bert_serverless.pdf)
 - [ ] [Paper: Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)
+- [ ] [Paper: What Does BERT Learn about the Structure of Language?](https://aclanthology.org/P19-1356/)
+- [ ] [Paper: What do RNN Language Models Learn about Filler–Gap Dependencies?](https://aclanthology.org/W18-5423/)
+- [ ] [Paper: Symbol Grounding and its Implications for Artificial Intelligence](https://www.researchgate.net/publication/221573971_Symbol_Grounding_and_its_Implications_for_Artificial_Intelligence)
+- [ ] [Paper: Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world](https://aclanthology.org/P14-1132/)
+- [ ] [Paper: MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding](https://arxiv.org/abs/2104.12763)
+- [ ] [Paper: Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs](https://arxiv.org/abs/2011.15124)
+- [ ] [Paper: Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
+- [ ] [Paper: The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
 - [ ] [Youtube: mixup: Beyond Empirical Risk Minimization (Paper Explained)](https://www.youtube.com/watch?v=a-VQfQqIMrE)
 
 ### Be able to model problems mathematically
@@ -2347,6 +2355,7 @@
 - [ ] [Book: The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
 - [ ] [Calmcode: Remote Work](https://calmcode.io/remote/introduction.html)
 - [ ] [Youtube: Building a psychologically safe workplace | Amy Edmondson | TEDxHGSE](https://youtu.be/LhoLuui9gX8)
+- [ ] [Youtube: A short introduction to LaTeX and Overleaf](https://www.youtube.com/watch?v=dkojsBJ-S-g)
 
 ### Be familiar with the hiring pipeline
 - [ ] [Article: What You Need to Know Before Considering a PhD](https://www.fast.ai/2018/08/27/grad-school/)
