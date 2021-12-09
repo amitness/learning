@@ -161,6 +161,7 @@
 - [X] [Article: Exploring the Role of Human Raters in Creating NLP Datasets](https://medium.com/jigsaw/creating-labeled-datasets-and-exploring-the-role-of-human-raters-56367b6db298)
 - [X] [Article: Inter-Annotator Agreement (IAA)](https://towardsdatascience.com/inter-annotator-agreement-2f46c6d37bf3)
 - [X] [Article: How to compute inter-rater reliability metrics (Cohen’s Kappa, Fleiss’s Kappa, Cronbach Alpha, Krippendorff Alpha, Scott’s Pi, Inter-class correlation) in Python](https://learnaitech.com/how-to-compute-inter-rater-reliablity-metrics-cohens-kappa-fleisss-kappa-cronbach-alpha-kripndorff-alpha-scotts-pi-inter-class-correlation-in-python/)
+- [X] [Article: The Pitfalls of Inter-Rater Reliability in Data Labeling and Machine Learning](https://www.surgehq.ai/blog/the-pitfalls-of-inter-rater-reliability-in-data-labeling-and-machine-learning)
 - [X] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
 - [X] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
 - [X] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
