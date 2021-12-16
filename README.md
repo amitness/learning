@@ -916,6 +916,7 @@
 - [ ] [Article: Grouping data points with k-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/)
 - [ ] [Article: A gentle introduction to HDBSCAN and density-based clustering](https://towardsdatascience.com/a-gentle-introduction-to-hdbscan-and-density-based-clustering-5fd79329c1e8)
 - [ ] [Article: Deepfakes: Face synthesis with GANs and Autoencoders](https://theaisummer.com/deepfakes/)
+- [X] [Article: The 3 Deep Learning Frameworks For End-to-End Speech Recognition That Power Your Devices](https://heartbeat.comet.ml/the-3-deep-learning-frameworks-for-end-to-end-speech-recognition-that-power-your-devices-37b891ddc380)
 - [ ] [Article: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://medium.com/@nainaakash012/unsupervised-learning-of-visual-features-by-contrasting-cluster-assignments-fbedc8b9c3db)
 - [ ] [Berkeley: Deep Unsupervised Learning Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 	- [X] [L1 Introduction -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=V9Roouqfu-M) `1:10:02`
@@ -1188,7 +1189,8 @@
 - [ ] [Article: String similarity — the basic know your algorithms guide!](https://itnext.io/string-similarity-the-basic-know-your-algorithms-guide-3de3d7346227)
 - [ ] [Article: Evolution of Word to Vector](https://medium.com/co-learning-lounge/nlp-word-embedding-tfidf-bert-word2vec-d7f04340af7f)
 - [X] [Article: Unsupervised Auto-labeling of Websites](https://pincone.com/blog/unsupervised-auto-labeling-of-websites) 
-- [X] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+- [X] [Article: A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+- [X] [Article: Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)
 - [ ] [Book: Embeddings in Natural Language Processing](http://josecamachocollados.com/book_embNLP_draft.pdf)
 - [ ] [Book: Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
@@ -1703,6 +1705,8 @@
 - [X] [In Search of Best Practices for NLP Projects | Ivan Bilan | PyData Pune Meetup | December 2020](https://www.youtube.com/watch?v=0S9iai4Ld4I) `0:50:00` 
 - [X] [Youtube: Generating and Understanding Natural Language with AI (Aidan Gomez, PhD)](https://www.youtube.com/watch?v=ps1B2WxlxV0) `0:52:12`
 - [X] [Youtube: The giant leaps in language technology -- and who's left behind | Kalika Bali](https://www.youtube.com/watch?v=Mkelhs_OVMc)
+- [ ] [Youtube: ML for Audio Study Group](#)
+	- [X] [ML for Audio Study Group - Kick Off](https://www.youtube.com/watch?v=cAviRhkqdnc)
 
 ### Be familiar with multi-modal machine learning
 - [ ] [CMU: MultiModal Machine Learning Fall 2020](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)
@@ -1811,11 +1815,11 @@
 - [ ] [Youtube: Formula Indexing, Search, and Entry in the MathSeer Project](https://youtu.be/QXkS4XkmZRI) `0:52:07`
 - [ ] [Youtube: What's new in computer vision | July Queensland AI](https://www.youtube.com/watch?v=IYg46wNyDgo) `1:21:33`
 
-### Be able to model graphs and network data
+### Be familiar with graphs and network data
 - [X] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 - [ ] [Datacamp: Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
 
-### Be able to implement models for timeseries and forecasting
+### Be familiar with timeseries and forecasting
 - [ ] [Datacamp: Machine Learning for Finance in Python](https://www.datacamp.com/courses/machine-learning-for-finance-in-python)
 - [X] [Datacamp: Introduction to Time Series Analysis in Python](https://www.datacamp.com/courses/introduction-to-time-series-analysis-in-python)
 - [ ] [Datacamp: Machine Learning for Time Series Data in Python](https://www.datacamp.com/courses/machine-learning-for-time-series-data-in-python)
