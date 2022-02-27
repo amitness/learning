@@ -376,6 +376,7 @@
 - [X] [Paper: Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs](https://arxiv.org/abs/2011.15124)
 - [X] [Paper: Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
 - [X] [Paper: The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
+- [X] [Paper: Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering](https://arxiv.org/abs/1612.00837)
 - [X] [Youtube: mixup: Beyond Empirical Risk Minimization (Paper Explained)](https://www.youtube.com/watch?v=a-VQfQqIMrE)
 
 ### Be able to model problems mathematically
