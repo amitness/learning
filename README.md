@@ -377,6 +377,7 @@
 - [X] [Paper: Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
 - [X] [Paper: The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
 - [X] [Paper: Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering](https://arxiv.org/abs/1612.00837)
+- [X] [Paper: ‘Calling on the classical phone’: a distributional model of adjective-noun errors in learners’ English](http://aurelieherbelot.net/resources/papers/coling2016_error_detection_final.pdf)
 - [X] [Youtube: mixup: Beyond Empirical Risk Minimization (Paper Explained)](https://www.youtube.com/watch?v=a-VQfQqIMrE)
 
 ### Be able to model problems mathematically
