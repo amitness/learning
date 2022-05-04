@@ -474,7 +474,7 @@
 	- [ ] [Statistics Fundamentals: The Mean, Variance and Standard Deviation](https://www.youtube.com/watch?v=SzZ6GpcfoQY) `0:14:22`
 	- [ ] [StatQuest: What is a statistical model?](https://www.youtube.com/watch?v=yQhTtdq_y9M) `0:03:45`
 	- [ ] [StatQuest: Sampling A Distribution](https://www.youtube.com/watch?v=XLCWeSVzHUU) `0:03:48`
-	- [ ] [Hypothesis Testing and The Null Hypothesis](https://www.youtube.com/watch?v=0oc49DyA3hU) `0:14:40`
+	- [X] [Hypothesis Testing and The Null Hypothesis](https://www.youtube.com/watch?v=0oc49DyA3hU) `0:14:40`
 	- [ ] [Alternative Hypotheses: Main Ideas!!!](https://www.youtube.com/watch?v=5koKb5B_YWo) `0:09:49`
 	- [ ] [p-values: What they are and how to interpret them](https://www.youtube.com/watch?v=vemZtEM63GY) `0:11:22`
 	- [ ] [How to calculate p-values](https://www.youtube.com/watch?v=JQc3yx0-Q9E) `0:25:15`
