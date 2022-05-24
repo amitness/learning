@@ -2401,7 +2401,7 @@
 - [ ] [Article: Visa Data Science Interviews](https://medium.com/acing-ai/visa-inc-data-science-interviews-d0ec7ec01e47)
 - [ ] [Article: Data Science Quiz— Part 1](https://medium.com/acing-ai/data-science-quiz-part-1-2ff84ef9741e)
 - [ ] [Book: Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
-- [ ] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
+- [X] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
 - [X] [Datacamp: Practicing Machine Learning Interview Questions in Python](https://www.datacamp.com/courses/practicing-machine-learning-interview-questions-in-python)
 - [X] [Datacamp: Kaggle Competition](https://www.datacamp.com/courses/winning-a-kaggle-competition-in-python)
 - [X] [Udacity: Optimize your GitHub](https://www.udacity.com/course/optimize-your-github--ud247)
