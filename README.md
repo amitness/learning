@@ -434,6 +434,7 @@
 - [X] [Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)
 - [X] [Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
 - [X] [Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
+- [X] [Datacamp: Hypothesis Testing in Python](https://www.datacamp.com/courses/hypothesis-testing-in-python)
 - [X] [Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 - [X] [Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
 - [ ] [Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
