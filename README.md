@@ -437,6 +437,7 @@
 - [X] [Datacamp: Hypothesis Testing in Python](https://www.datacamp.com/courses/hypothesis-testing-in-python)
 - [X] [Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 - [X] [Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
+- [X] [Datacamp: Experimental Design in Python](https://datacamp.com/courses/experimental-design-in-python)
 - [ ] [Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
 - [X] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
 - [ ] [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
