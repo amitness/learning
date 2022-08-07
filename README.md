@@ -6,7 +6,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ## Strengthen generic core skills
 
 <details>
-<summary><h4>Databases</h3></summary>
+<summary>Databases</summary>
 
 - [X] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
 - [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
@@ -27,7 +27,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary><h4>Linux</h3></summary>
+<summary>Linux</summary>
 
 - [X] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
 - [X] [Article: Understand Linux Load Averages and Monitor Performance of Linux](https://www.tecmint.com/understand-linux-load-averages-and-monitor-performance/)
@@ -60,7 +60,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary><h4>Project Structure</h3></summary>
+<summary>Project Structure</summary>
 
 - [X] [Article: pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a)
 - [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
@@ -110,7 +110,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary><h4>Version Control</h3></summary>
+<summary>Version Control</summary>
 
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
 - [X] [Article: How to Become a Master of Git Tags](https://blog.daftcode.pl/how-to-become-a-master-of-git-tags-b70fbd9609d9)
@@ -129,7 +129,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 
 
 <details>
-<summary><h4>Software Testing</h3></summary>
+<summary>Software Testing</summary>
 
 - [X] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml)
 - [X] [Article: Unit Testing for Data Scientists](https://www.maartengrootendorst.com/blog/unit/)
@@ -151,7 +151,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary><h4>Programming (Python)</h3></summary>
+<summary>Programming (Python)</summary>
 
 - [X] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
 - [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
@@ -196,7 +196,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 
 
 <details>
-<summary><h4>Code Editors</h3></summary>
+<summary>Code Editors</summary>
 
 - [X] [Article: Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
 - [X] [Article: Python remote debugging with PyCharm, CUDA, and Conda](https://medium.com/@n1r44/python-remote-debugging-with-pycharm-cuda-and-conda-87d27695634c)
@@ -213,7 +213,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary><h4>Docker and Containerization</h3></summary>
+<summary>Docker and Containerization</summary>
 
 - [X] [Article: How To Pass Environment Info During Docker Builds](https://blog.bitsrc.io/how-to-pass-environment-info-during-docker-builds-1f7c5566dd0e)
 - [X] [Article: Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/)
@@ -279,7 +279,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary><h4>Cloud Computing</h3></summary>
+<summary>Cloud Computing</summary>
 
 - [X] [Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)
 - [ ] [Article: Getting started with large-scale ETL jobs using Dask and AWS EMR](https://spell.ml/blog/large-scale-etl-jobs-using-dask-Xyl8GhEAACQAjK6h)
@@ -305,7 +305,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary><h4>Monitoring</h4></summary>
+<summary>Monitoring</summary>
 
 - [X] [Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
 - [X] [Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)
@@ -332,7 +332,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary><h4>Data Structures and Algorithms</h4></summary>
+<summary>Data Structures and Algorithms</summary>
 
 - [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
 - [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
@@ -343,7 +343,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary><h4>Frontend Technology</h4></summary>
+<summary>Frontend Technology</summary>
 
 - [ ] [Book: Refactoring UI](https://refactoringui.com/book/)
 - [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
@@ -376,7 +376,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 
 
 <details>
-<summary><h4>Infrastructure and System Design</h4></summary>
+<summary>Infrastructure and System Design</summary>
 
 - [ ] [Article: The implications of pickling ML models](https://uwekorn.com/2021/04/26/implications-of-pickling-ml-models.html)
 - [X] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
