@@ -1,16 +1,349 @@
 # learning
 
+Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by building both strong core skills and [adjacent skills](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
 
-<p align="center">
-  <img src="https://i.imgur.com/A5J6Qdb.png" width="316" height="292"/>
-</p>
 
-**Learning Philosophy**: 
-- [Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
-- [Just in Time Learning](https://www.developgoodhabits.com/just-in-time-learning/)
-- [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)
-- [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
-- [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
+## Develop core software engineering skills
+
+<details>
+<summary><h4>Databases</h3></summary>
+
+- [X] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
+- [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+- [ ] [Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)
+- [ ] [Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)
+- [ ] [Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)
+- [ ] [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+- [X] [Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)
+- [ ] [Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+- [ ] [Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)
+- [ ] [Datacamp: Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)
+- [ ] [Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)
+- [ ] [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)
+- [ ] [Datacamp: Database Design](https://www.datacamp.com/courses/database-design)
+- [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+- [X] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+</details>
+
+<details>
+<summary><h4>Linux</h3></summary>
+
+- [X] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
+- [X] [Article: Understand Linux Load Averages and Monitor Performance of Linux](https://www.tecmint.com/understand-linux-load-averages-and-monitor-performance/)
+- [X] [Article: Command-line Tools can be 235x Faster than your Hadoop Cluster](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
+- [X] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
+- [X] [Calmcode: entr](https://calmcode.io/entr/introduction.html)
+- [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+- [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+- [X] [Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)
+- [X] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
+- [ ] [MIT: The Missing Semester of CS Education](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+	- [X] [Lecture 1: Course Overview + The Shell (2020)](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) `0:48:16`
+	- [ ] [Lecture 2: Shell Tools and Scripting (2020)](https://www.youtube.com/watch?v=kgII-YWo3Zw) `0:48:55`
+	- [ ] [Lecture 3: Editors (vim) (2020)](https://www.youtube.com/watch?v=a6Q8Na575qc) `0:48:26`
+	- [ ] [Lecture 4: Data Wrangling (2020)](https://www.youtube.com/watch?v=sz_dsktIjt4) `0:50:03`
+	- [ ] [Lecture 5: Command-line Environment (2020)](https://www.youtube.com/watch?v=e8BO_dYxk5c) `0:56:06`
+	- [ ] [Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`
+	- [ ] [Lecture 7: Debugging and Profiling (2020)](https://www.youtube.com/watch?v=l812pUnKxME) `0:54:13`
+	- [ ] [Lecture 8: Metaprogramming (2020)](https://www.youtube.com/watch?v=_Ms1Z4xfqv4) `0:49:52`
+	- [ ] [Lecture 9: Security and Cryptography (2020)](https://www.youtube.com/watch?v=tjwobAmnKTo) `1:00:59`
+	- [ ] [Lecture 10: Potpourri (2020)](https://www.youtube.com/watch?v=JZDt-PRq0uo) `0:57:54`
+	- [ ] [Lecture 11: Q&A (2020)](https://www.youtube.com/watch?v=Wz50FvGG6xU) `0:53:52`
+- [ ] [Thoughtbot: Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
+- [ ] [Thoughtbot: tmux](https://thoughtbot.com/upcase/tmux)
+- [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+- [X] [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+- [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
+- [ ] [Youtube: GNU Parallel](https://www.youtube.com/playlist?list=PL284C9FF2488BC6D1)
+</details>
+
+<details>
+<summary><h4>Project Structure</h3></summary>
+
+- [X] [Article: pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a)
+- [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
+- [ ] [Article: Logging and Debugging in Machine Learning - How to use Python debugger and the logging module to find errors in your AI application](https://theaisummer.com/logging-debugging/)
+- [ ] [Article: Best practices to write Deep Learning code: Project structure, OOP, Type checking and documentation](https://theaisummer.com/best-practices-deep-learning-code/)
+- [X] [Article: Configuring Google Colab Like A Pro](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
+- [X] [Article: Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)
+- [ ] [Article: Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+- [ ] [Article: Hypermodern Python Chapter 2: Testing](https://cjolowicz.github.io/posts/hypermodern-python-02-testing/)
+- [ ] [Article: Hypermodern Python Chapter 3: Linting](https://cjolowicz.github.io/posts/hypermodern-python-03-linting/)
+- [ ] [Article: Hypermodern Python Chapter 4: Typing](https://cjolowicz.github.io/posts/hypermodern-python-04-typing/)
+- [ ] [Article: Hypermodern Python Chapter 5: Documentation](https://cjolowicz.github.io/posts/hypermodern-python-05-documentation/)
+- [ ] [Article: Hypermodern Python Chapter 6: CI/CD](https://cjolowicz.github.io/posts/hypermodern-python-06-ci-cd/)
+- [ ] [Article: Push and pull: when and why to update your dependencies](https://pythonspeed.com/articles/when-update-dependencies/)
+- [ ] [Article: Reproducible and upgradable Conda environments: dependency management with conda-lock](https://pythonspeed.com/articles/conda-dependency-management/)
+- [ ] [Article: Options for packaging your Python code: Wheels, Conda, Docker, and more](https://pythonspeed.com/articles/distributing-software/)
+- [X] [Article: Making model training scripts robust to spot interruptions](https://spell.ml/blog/spot-interruptions-XzQ5jRIAACIAK3h2)
+- [X] [Calmcode: logging](https://calmcode.io/logging/introduction.html)
+- [X] [Calmcode: tqdm](https://calmcode.io/tqdm/making-a-progress-bar.html)
+- [X] [Calmcode: virtualenv](https://calmcode.io/virtualenv/intro.html)
+- [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+- [ ] [Doc: Python Lifecycle Training](https://sp-fm.github.io/python-lifecycle-training/index.html)
+- [X] [Datacamp: Introduction to Data Engineering](https://www.datacamp.com/courses/introduction-to-data-engineering)
+- [X] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
+- [ ] [Datacamp: Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
+- [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
+- [X] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
+- [X] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
+- [ ] [Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)
+- [X] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
+- [X] [Developing Python Packages](https://www.datacamp.com/courses/developing-python-packages)
+- [X] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
+- [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-utorialtorialp-a-local-python-environment-windows)
+- [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+- [X] [Youtube: Lecture 1: Introduction to Deep Learning](https://youtu.be/5AjG5OPQuBM)
+- [X] [Youtube: Lecture 2: Setting Up Machine Learning Projects](https://youtu.be/tBUK1_cHu-8)
+- [X] [Youtube: Lecture 3: Introduction to the Text Recognizer Project](https://youtu.be/mmlvGLSXKLc)
+- [X] [Youtube: Lecture 4: Infrastructure and Tooling](https://youtu.be/f6jAz1zyrDI)
+- [X] [Youtube: Hydra configuration](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620378786000)
+- [X] [Youtube: Continuous integration](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620983293000)
+- [X] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
+- [X] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)
+- [X] [Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)
+- [ ] [Youtube: Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8daKeuaWgjk) `0:58:13`
+- [ ] [Youtube: Lecture 5: ML Projects (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=pxisK6RMn1s) `1:13:14`
+- [ ] [Youtube: Lecture 6: Infrastructure & Tooling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=760Mc_b3_N0) `1:07:21`
+</details>
+
+<details>
+<summary><h4>Version Control</h3></summary>
+
+- [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
+- [X] [Article: How to Become a Master of Git Tags](https://blog.daftcode.pl/how-to-become-a-master-of-git-tags-b70fbd9609d9)
+- [X] [Article: How to track large files in Github / Bitbucket? Git LFS to the rescue](https://pgaijin66.medium.com/how-to-track-large-files-in-github-bitbucket-git-lfs-to-the-rescue-2f298e07b3d2)
+- [ ] [Article: Keep your git directory clean with `git clean` and `git trash`](https://coderwall.com/p/g16jpq/keep-your-git-directory-clean-with-git-clean-and-git-trash)
+- [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+- [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
+- [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+- [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
+- [X] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+- [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [X] [Youtube: 045 Introduction to Git LFS](https://youtu.be/xPFLAAhuGy0)
+- [X] [Youtube: Git & Scripting](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620371740000)
+</details>
+
+
+<details>
+<summary><h4>Software Testing</h3></summary>
+
+- [X] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml)
+- [X] [Article: Unit Testing for Data Scientists](https://www.maartengrootendorst.com/blog/unit/)
+- [ ] [Article: Testing in Production, the safe way](https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1)
+- [X] [Article: How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/)
+- [X] [Article: 4 Lesser-Known Yet Awesome Tips for Pytest](https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c)
+- [ ] [Article: How to Unit Test Deep Learning: Tests in TensorFlow, mocking and test coverage](https://theaisummer.com/unit-test-deep-learning/)
+- [X] [Article: Test-Driven Machine Learning Development (Deployment Series: Guide 07)](https://mlinproduction.com/testing-machine-learning-models-deployment-series-07/)
+- [X] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
+- [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
+- [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+- [ ] [Thoughtbot: Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
+- [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
+- [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
+- [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+- [X] [Youtube: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList | AISC](https://www.youtube.com/watch?v=A0od6RosVSA)
+- [ ] [Youtube: Lecture 10: ML Testing & Explainability (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=K42wdqpZymw) `1:41:12`
+- [X] [Youtube: Lab 8: Testing and Continuous Integration (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=D3YeQcE9tSg) `0:13:26`
+</details>
+
+<details>
+<summary><h4>Programming (Python)</h3></summary>
+
+- [X] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
+- [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
+- [ ] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
+- [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
+- [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
+- [X] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
+- [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
+- [ ] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+- [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+- [ ] [Article: A Python prompt into a running process: debugging with Manhole](https://pythonspeed.com/articles/live-debugging-python/)
+- [X] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
+- [X] [Book: A Byte of Python](https://python.swaroopch.com)
+- [X] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
+- [ ] [Book: Python 201](https://leanpub.com/python201)
+- [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
+- [ ] [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
+- [X] [Calmcode: ray](https://calmcode.io/ray/introduction.html)
+- [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
+- [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
+- [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
+- [X] [Datacamp: Python for Spreadsheet Users](https://www.datacamp.com/courses/python-for-spreadsheet-users)
+- [X] [Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
+- [X] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+- [X] [Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+- [X] [Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
+- [X] [Datacamp: Intro to Python for Finance](https://www.datacamp.com/courses/intro-to-python-for-finance)
+- [X] [Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
+- [X] [Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
+- [ ] [Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
+- [X] [edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)
+- [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
+- [X] [Google's Python Class](https://developers.google.com/edu/python/)
+- [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
+- [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
+- [X] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
+- [X] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
+- [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
+- [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
+- [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
+</details>
+
+
+<details>
+<summary><h4>Code Editors</h3></summary>
+
+- [X] [Article: Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
+- [X] [Article: Python remote debugging with PyCharm, CUDA, and Conda](https://medium.com/@n1r44/python-remote-debugging-with-pycharm-cuda-and-conda-87d27695634c)
+- [X] [Article: How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)
+- [X] [Article: Docker as Remote Interpreter for PyCharm Professional](https://www.inovex.de/blog/docker-remote-interpreter-pycharm-professional/)
+- [X] [Youtube: Getting Started with Python in Visual Studio Code](https://www.youtube.com/watch?v=7EXd4_ttIuw)
+- [X] [Youtube: VSCode Keyboard Shortcuts For Productivity](https://youtu.be/eGE-tFalwpA)
+- [X] [Youtube: Getting Started with Jupyter Notebooks in VS Code](https://youtu.be/Ozq24uAshXo)
+- [X] [Youtube: Notebooks in VS Code Are Getting Revamped!](https://youtu.be/g5EykzAsCC0)
+- [X] [Youtube: Getting Started with PyTorch in VS Code](https://youtu.be/A9lQHnFaqlU)
+- [X] [Youtube: What every GitHub user should know about VS Code - GitHub Satellite 2020](https://youtu.be/T6sW1Dk9B4E)
+- [X] [VS Code and GitHub](https://www.youtube.com/playlist?list=PLj6YeMhvp2S4UPBCWyhLPcOxGkmLI2BOz)
+- [X] [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
+</details>
+
+<details>
+<summary><h4>Docker and Containerization</h3></summary>
+
+- [X] [Article: How To Pass Environment Info During Docker Builds](https://blog.bitsrc.io/how-to-pass-environment-info-during-docker-builds-1f7c5566dd0e)
+- [X] [Article: Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/)
+- [X] [Article: Setting Default Docker Environment Variables During Image Build](https://vsupalov.com/docker-build-time-env-values/)
+- [X] [Article: Docker Explained Visually, For Non-Technical Folks](https://www.iteachrecruiters.com/blog/docker-explained-visually-for-non-technical-folks/)
+- [X] [Article: Tensorflow in Docker](http://blog.tabanpour.info/projects/2018/09/07/tf-docker-kube.html)
+- [X] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
+- [X] [Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
+- [ ] [Article: Deploying conda environments in (Docker) containers - how to do it right](https://uwekorn.com/2021/03/01/deploying-conda-environments-in-docker-how-to-do-it-right.html)
+- [X] [Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)
+- [X] [Article: How to scale services using Docker Compose](https://medium.com/@karthi.net/how-to-scale-services-using-docker-compose-31d7b83a6648)
+- [X] [Article: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+- [X] [Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)
+- [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
+- [X] [Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)
+- [X] [Article: Docker for Machine Learning – Part II](https://mlinproduction.com/docker-for-ml-part-2/)
+- [X] [Article: Docker for Machine Learning – Part III](https://mlinproduction.com/docker-for-ml-part-3/)
+- [X] [Article: Using Docker to Generate Machine Learning Predictions in Real Time](https://mlinproduction.com/docker-for-ml-part-4/)
+- [ ] [Article: Connection refused? Docker networking and how it impacts your image](https://pythonspeed.com/articles/docker-connection-refused/)
+- [ ] [Article: Faster or slower: the basics of Docker build caching](https://pythonspeed.com/articles/docker-caching-model/)
+- [ ] [Article: Where’s your code? Debugging ImportError and ModuleNotFoundErrors in your Docker image](https://pythonspeed.com/articles/importerror-docker/)
+- [ ] [Article: A tableau of crimes and misfortunes: the ever-useful docker history](https://pythonspeed.com/articles/docker-history/)
+- [ ] [Article: Broken by default: why you should avoid most Dockerfile examples](https://pythonspeed.com/articles/dockerizing-python-is-hard/)
+- [ ] [Article: A review of the official Dockerfile best practices: good, bad, and insecure](https://pythonspeed.com/articles/official-docker-best-practices/)
+- [ ] [Article: The best Docker base image for your Python application (February 2021)](https://pythonspeed.com/articles/base-image-python-docker-images/)
+- [ ] [Article: A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
+- [ ] [Article: Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
+- [ ] [Article: Building on solid ground: ensuring reproducible Docker builds for Python](https://pythonspeed.com/articles/reproducible-docker-builds-python/)
+- [ ] [Article: Installing system packages in Docker with minimal bloat](https://pythonspeed.com/articles/system-packages-docker/)
+- [ ] [Article: Less capabilities, more security: minimizing privilege escalation in Docker](https://pythonspeed.com/articles/root-capabilities-docker-security/)
+- [ ] [Article: Avoiding insecure images from Docker build caching](https://pythonspeed.com/articles/docker-cache-insecure-images/)
+- [ ] [Article: Build secrets in Docker and Compose, the secure way](https://pythonspeed.com/articles/build-secrets-docker-compose/)
+- [ ] [Article: Security scanners for Python and Docker: from code to dependencies](https://pythonspeed.com/articles/docker-python-security-scan/)
+- [ ] [Article: The high cost of slow Docker builds](https://pythonspeed.com/articles/high-cost-slow-docker-builds/)
+- [ ] [Article: Faster Docker builds with pipenv, poetry, or pip-tools](https://pythonspeed.com/articles/pipenv-docker/)
+- [ ] [Article: Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)
+- [ ] [Article: Poetry vs. Docker caching: Fight!](https://pythonspeed.com/articles/poetry-vs-docker-caching/)
+- [ ] [Article: Speed up pip downloads in Docker with BuildKit’s new caching](https://pythonspeed.com/articles/docker-cache-pip-downloads/)
+- [ ] [Article: Multi-stage builds #1: Smaller images for compiled code](https://pythonspeed.com/articles/smaller-python-docker-images/)
+- [ ] [Article: Multi-stage builds #2: Python specifics—virtualenv, –user, and other methods](https://pythonspeed.com/articles/multi-stage-docker-python/)
+- [ ] [Article: Multi-stage builds #3: Why your build is surprisingly slow, and how to speed it up](https://pythonspeed.com/articles/faster-multi-stage-builds/)
+- [ ] [Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)
+- [ ] [Article: Activating a Conda environment in your Dockerfile](https://pythonspeed.com/articles/activate-conda-dockerfile/)
+- [ ] [Article: Shrink your Conda Docker images with conda-pack](https://pythonspeed.com/articles/conda-docker-image-size/)
+- [ ] [Article: What’s running in production? Making your Docker images identifiable](https://pythonspeed.com/articles/identifying-images/)
+- [ ] [Article: Your Docker build needs a smoke test](https://pythonspeed.com/articles/test-your-docker-build/)
+- [ ] [Article: Docker BuildKit: faster builds, new features, and now it’s stable](https://pythonspeed.com/articles/docker-buildkit/)
+- [ ] [Article: Docker vs. Singularity for data processing: UIDs and filesystem access](https://pythonspeed.com/articles/containers-filesystem-data-processing/)
+- [ ] [Article: Where’s that log file? Debugging failed Docker builds](https://pythonspeed.com/articles/debugging-docker-build/)
+- [ ] [Article: An Introduction to Kubernetes for Data Scientists](https://mlinproduction.com/intro-to-kubernetes/)
+- [ ] [Article: How to Use Kubernetes Pods for Machine Learning](https://mlinproduction.com/k8s-pods/)
+- [ ] [Article: Kubernetes Jobs for Machine Learning](https://mlinproduction.com/k8s-jobs/)
+- [ ] [Article: Kubernetes CronJobs for Machine Learning](https://mlinproduction.com/k8s-cronjobs/)
+- [ ] [Article: Kubernetes Deployments for Machine Learning](https://mlinproduction.com/k8s-deployments/)
+- [ ] [Article: Kubernetes Services for Machine Learning](https://mlinproduction.com/k8s-services/)
+- [ ] [“Let’s use Kubernetes!” Now you have 8 problems](https://pythonspeed.com/articles/dont-need-kubernetes/)
+- [ ] [Article: Kubernetes for Python Developers: Part 1](https://www.distributedpython.com/2018/11/28/kubernetes-python-developers-part-1/)
+- [X] [Doc: Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
+- [X] [Pluralsight: Docker and Kubernetes: The Big Picture](https://www.pluralsight.com/courses/docker-kubernetes-big-picture)
+- [ ] [Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+- [X] [Youtube: Docker](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620810184000)
+- [X] [Youtube: Why Your Web Server Should Log to Stdout (Especially with Docker)](https://www.youtube.com/watch?v=aQikNWEaJUQ&feature=emb_logo)
+</details>
+
+<details>
+<summary><h4>Cloud Computing</h3></summary>
+
+- [X] [Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)
+- [ ] [Article: Getting started with large-scale ETL jobs using Dask and AWS EMR](https://spell.ml/blog/large-scale-etl-jobs-using-dask-Xyl8GhEAACQAjK6h)
+- [X] [Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)
+- [X] [Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)
+- [X] [Pluralsight: AWS Networking Deep Dive: Virtual Private Cloud (VPC)](https://www.pluralsight.com/courses/aws-networking-deep-dive-vpc)
+- [X] [Pluralsight: AWS VPC Operations](https://www.pluralsight.com/courses/aws-vpc-operations)
+- [X] [Pluralsight: Building Applications Using Elastic Beanstalk](https://www.pluralsight.com/courses/elastic-beanstalk-building-applications)
+- [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
+- [X] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
+- [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+- [X] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+- [X] [Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
+- [X] [Whitepaper: Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
+- [X] [Whitepaper: Microservices on AWS](https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/microservices-on-aws.pdf)
+- [X] [Whitepaper: Optimizing Enterprise Economics with Serverless Architectures](https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf)
+- [X] [Whitepaper: Practicing Continuous Integration and Continuous Delivery on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
+- [X] [Whitepaper: Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
+- [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
+- [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+- [X] [Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
+- [X] [Youtube: Deploying a machine learning model to the cloud using AWS Lambda](https://www.youtube.com/watch?v=4ocbx9IeBMU&feature=youtu.be)
+</details>
+
+<details>
+<summary><h4>Monitoring</h4></summary>
+
+- [X] [Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
+- [X] [Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)
+- [ ] [Article: The Playbook to Monitor Your Model’s Performance in Production](https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245)
+- [X] [Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)
+- [X] [Article: Preventing model drift with continuous monitoring and deployment using Github Actions and Algorithmia Insights](https://algorithmia.com/blog/preventing-model-drift-with-continuous-monitoring-and-deployment-using-github-actions-and-algorithmia-insights)
+- [ ] [Article: Continuous monitoring for data projects](https://medium.com/acing-ai/continuous-monitoring-for-data-projects-11fb1c00c7a4)
+- [X] [Article: Lessons Learned from 15 Years of Monitoring Machine Learning in Production](https://mlinproduction.com/lessons-learned-from-15-years-of-monitoring-machine-learning-in-production/)
+- [X] [Article: Why is it Important to Monitor Machine Learning Models?](https://mlinproduction.com/why-is-it-important-to-monitor-machine-learning-models/)
+- [ ] [Article: Using Statistical Distances for Machine Learning Observability](https://towardsdatascience.com/using-statistical-distance-metrics-for-machine-learning-observability-4c874cded78)
+- [ ] [Article: The Model’s Shipped; What Could Possibly go Wrong?](https://towardsdatascience.com/the-models-shipped-what-could-possibly-go-wrong-a657ad919868)
+- [ ] [Article: Quality assurance in data science](https://medium.com/acing-ai/qa-in-data-science-397476c09910)
+- [ ] [Youtube: Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)
+- [ ] [Article: Incident Management in Machine Learning Systems](https://medium.com/acing-ai/incident-management-in-machine-learning-systems-d69b6e39fdee)
+- [ ] [Article: ML Infrastructure Tools — ML Observability](https://towardsdatascience.com/ml-infrastructure-tools-ml-observability-8e4d7df6db43)
+- [ ] [Youtube: MLOps #24 Monitoring the ML stack // Lina Weichbrodt](https://www.youtube.com/watch?v=Un30yb1WlpU) `0:55:32`
+- [X] [Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)
+- [X] [Youtube: Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`
+- [ ] [Youtube: OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.youtube.com/watch?v=hBMHohkRgAA)
+- [ ] [Youtube: MLOps #28 ML Observability // Aparna Dhinakaran - Chief Product Officer at Arize AI](https://www.youtube.com/watch?v=joTF9BRwWp4) `0:55:04`
+- [ ] [Youtube: MLOps #29 Continuous Evaluation & Model Experimentation // Danny Ma - Founder of Sydney Data Science](https://www.youtube.com/watch?v=i4QNpM20QOc) `1:00:46`
+- [ ] [Youtube: SE4AI: Quality Assessment in Production](https://www.youtube.com/watch?v=RaaNSXKFDGk) `1:18:45`
+- [ ] [Youtube: SE4AI: Infrastructure Quality, Deployment and Operations](https://www.youtube.com/watch?v=iBaJgWjpK24) `1:04:54`
+</details>
+
+<details>
+<summary><h4>Data Structures and Algorithms</h4></summary>
+
+- [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
+- [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
+- [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
+- [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+- [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
+</details>
+
+<details>
+<summary><h2>Specialization: Machine Learning</h4></summary>
 
 ### Have basic business understanding
 - [X] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
@@ -211,53 +544,7 @@
 - [ ] [Datacamp: Error and Uncertainty in Spreadsheets](https://www.datacamp.com/courses/error-and-uncertainty-in-spreadsheets)
 - [X] [edX: Analyzing and Visualizing Data with Excel](https://www.edx.org/course/analyzing-visualizing-data-excel-microsoft-dat206x-7)
 
-### Be able to manipulate data in databases
-- [X] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
-- [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
-- [ ] [Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)
-- [ ] [Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)
-- [ ] [Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)
-- [ ] [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
-- [X] [Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)
-- [ ] [Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
-- [ ] [Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)
-- [ ] [Datacamp: Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)
-- [ ] [Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)
-- [ ] [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)
-- [ ] [Datacamp: Database Design](https://www.datacamp.com/courses/database-design)
-- [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
-- [X] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-- [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
-### Be able to use Linux
-- [X] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
-- [X] [Article: Understand Linux Load Averages and Monitor Performance of Linux](https://www.tecmint.com/understand-linux-load-averages-and-monitor-performance/)
-- [X] [Article: Command-line Tools can be 235x Faster than your Hadoop Cluster](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
-- [X] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
-- [X] [Calmcode: entr](https://calmcode.io/entr/introduction.html)
-- [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-- [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
-- [X] [Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)
-- [X] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
-- [ ] [MIT: The Missing Semester of CS Education](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
-	- [X] [Lecture 1: Course Overview + The Shell (2020)](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) `0:48:16`
-	- [ ] [Lecture 2: Shell Tools and Scripting (2020)](https://www.youtube.com/watch?v=kgII-YWo3Zw) `0:48:55`
-	- [ ] [Lecture 3: Editors (vim) (2020)](https://www.youtube.com/watch?v=a6Q8Na575qc) `0:48:26`
-	- [ ] [Lecture 4: Data Wrangling (2020)](https://www.youtube.com/watch?v=sz_dsktIjt4) `0:50:03`
-	- [ ] [Lecture 5: Command-line Environment (2020)](https://www.youtube.com/watch?v=e8BO_dYxk5c) `0:56:06`
-	- [ ] [Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`
-	- [ ] [Lecture 7: Debugging and Profiling (2020)](https://www.youtube.com/watch?v=l812pUnKxME) `0:54:13`
-	- [ ] [Lecture 8: Metaprogramming (2020)](https://www.youtube.com/watch?v=_Ms1Z4xfqv4) `0:49:52`
-	- [ ] [Lecture 9: Security and Cryptography (2020)](https://www.youtube.com/watch?v=tjwobAmnKTo) `1:00:59`
-	- [ ] [Lecture 10: Potpourri (2020)](https://www.youtube.com/watch?v=JZDt-PRq0uo) `0:57:54`
-	- [ ] [Lecture 11: Q&A (2020)](https://www.youtube.com/watch?v=Wz50FvGG6xU) `0:53:52`
-- [ ] [Thoughtbot: Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
-- [ ] [Thoughtbot: tmux](https://thoughtbot.com/upcase/tmux)
-- [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
-- [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
-- [X] [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
-- [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
-- [ ] [Youtube: GNU Parallel](https://www.youtube.com/playlist?list=PL284C9FF2488BC6D1)
 
 ### Be able to perform feature selection and engineering
 - [X] [Article: Tips for Advanced Feature Engineering](https://www.maartengrootendorst.com/blog/feature-engineering/)
@@ -510,67 +797,9 @@
 - [ ] [Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [X] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
-### Be able to setup project structure
-- [X] [Article: pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a)
-- [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
-- [ ] [Article: Logging and Debugging in Machine Learning - How to use Python debugger and the logging module to find errors in your AI application](https://theaisummer.com/logging-debugging/)
-- [ ] [Article: Best practices to write Deep Learning code: Project structure, OOP, Type checking and documentation](https://theaisummer.com/best-practices-deep-learning-code/)
-- [X] [Article: Configuring Google Colab Like A Pro](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
-- [X] [Article: Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)
-- [ ] [Article: Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
-- [ ] [Article: Hypermodern Python Chapter 2: Testing](https://cjolowicz.github.io/posts/hypermodern-python-02-testing/)
-- [ ] [Article: Hypermodern Python Chapter 3: Linting](https://cjolowicz.github.io/posts/hypermodern-python-03-linting/)
-- [ ] [Article: Hypermodern Python Chapter 4: Typing](https://cjolowicz.github.io/posts/hypermodern-python-04-typing/)
-- [ ] [Article: Hypermodern Python Chapter 5: Documentation](https://cjolowicz.github.io/posts/hypermodern-python-05-documentation/)
-- [ ] [Article: Hypermodern Python Chapter 6: CI/CD](https://cjolowicz.github.io/posts/hypermodern-python-06-ci-cd/)
-- [ ] [Article: Push and pull: when and why to update your dependencies](https://pythonspeed.com/articles/when-update-dependencies/)
-- [ ] [Article: Reproducible and upgradable Conda environments: dependency management with conda-lock](https://pythonspeed.com/articles/conda-dependency-management/)
-- [ ] [Article: Options for packaging your Python code: Wheels, Conda, Docker, and more](https://pythonspeed.com/articles/distributing-software/)
-- [X] [Article: Making model training scripts robust to spot interruptions](https://spell.ml/blog/spot-interruptions-XzQ5jRIAACIAK3h2)
-- [X] [Calmcode: logging](https://calmcode.io/logging/introduction.html)
-- [X] [Calmcode: tqdm](https://calmcode.io/tqdm/making-a-progress-bar.html)
-- [X] [Calmcode: virtualenv](https://calmcode.io/virtualenv/intro.html)
-- [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
-- [ ] [Doc: Python Lifecycle Training](https://sp-fm.github.io/python-lifecycle-training/index.html)
-- [X] [Datacamp: Introduction to Data Engineering](https://www.datacamp.com/courses/introduction-to-data-engineering)
-- [X] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
-- [ ] [Datacamp: Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
-- [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
-- [X] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
-- [X] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
-- [ ] [Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)
-- [X] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
-- [X] [Developing Python Packages](https://www.datacamp.com/courses/developing-python-packages)
-- [X] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
-- [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-utorialtorialp-a-local-python-environment-windows)
-- [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
-- [X] [Youtube: Lecture 1: Introduction to Deep Learning](https://youtu.be/5AjG5OPQuBM)
-- [X] [Youtube: Lecture 2: Setting Up Machine Learning Projects](https://youtu.be/tBUK1_cHu-8)
-- [X] [Youtube: Lecture 3: Introduction to the Text Recognizer Project](https://youtu.be/mmlvGLSXKLc)
-- [X] [Youtube: Lecture 4: Infrastructure and Tooling](https://youtu.be/f6jAz1zyrDI)
-- [X] [Youtube: Hydra configuration](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620378786000)
-- [X] [Youtube: Continuous integration](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620983293000)
-- [X] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
-- [X] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)
-- [X] [Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)
-- [ ] [Youtube: Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8daKeuaWgjk) `0:58:13`
-- [ ] [Youtube: Lecture 5: ML Projects (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=pxisK6RMn1s) `1:13:14`
-- [ ] [Youtube: Lecture 6: Infrastructure & Tooling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=760Mc_b3_N0) `1:07:21`
 
-### Be able to version control code
-- [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
-- [X] [Article: How to Become a Master of Git Tags](https://blog.daftcode.pl/how-to-become-a-master-of-git-tags-b70fbd9609d9)
-- [X] [Article: How to track large files in Github / Bitbucket? Git LFS to the rescue](https://pgaijin66.medium.com/how-to-track-large-files-in-github-bitbucket-git-lfs-to-the-rescue-2f298e07b3d2)
-- [ ] [Article: Keep your git directory clean with `git clean` and `git trash`](https://coderwall.com/p/g16jpq/keep-your-git-directory-clean-with-git-clean-and-git-trash)
-- [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
-- [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
-- [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
-- [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
-- [X] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
-- [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-- [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-- [X] [Youtube: 045 Introduction to Git LFS](https://youtu.be/xPFLAAhuGy0)
-- [X] [Youtube: Git & Scripting](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620371740000)
+
+
 
 ### Be able to version control data
 - [ ] [Youtube: DVC Basics](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg)
@@ -1683,24 +1912,7 @@
 - [ ] [Article: How to accelerate and compress neural networks with quantization](https://towardsdatascience.com/how-to-accelerate-and-compress-neural-networks-with-quantization-edfbbabb6af7)
 - [ ] [Article: Scaling up BERT-like model Inference on modern CPU - Part 1](https://huggingface.co/blog/bert-cpu-scaling-part-1)
 
-### Be able to write unit tests
-- [X] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml)
-- [X] [Article: Unit Testing for Data Scientists](https://www.maartengrootendorst.com/blog/unit/)
-- [ ] [Article: Testing in Production, the safe way](https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1)
-- [X] [Article: How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/)
-- [X] [Article: 4 Lesser-Known Yet Awesome Tips for Pytest](https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c)
-- [ ] [Article: How to Unit Test Deep Learning: Tests in TensorFlow, mocking and test coverage](https://theaisummer.com/unit-test-deep-learning/)
-- [X] [Article: Test-Driven Machine Learning Development (Deployment Series: Guide 07)](https://mlinproduction.com/testing-machine-learning-models-deployment-series-07/)
-- [X] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
-- [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
-- [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-- [ ] [Thoughtbot: Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
-- [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
-- [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
-- [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
-- [X] [Youtube: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList | AISC](https://www.youtube.com/watch?v=A0od6RosVSA)
-- [ ] [Youtube: Lecture 10: ML Testing & Explainability (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=K42wdqpZymw) `1:41:12`
-- [X] [Youtube: Lab 8: Testing and Continuous Integration (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=D3YeQcE9tSg) `0:13:26`
+
 
 ### Be familiar with ML System Design
 - [X] [Article: Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
@@ -1869,116 +2081,9 @@
 - [X] [Article: Build and Deploy a Dashboard with Streamlit](https://www.maartengrootendorst.com/blog/streamlit/)
 - [X] [Article: New layout options for Streamlit](https://blog.streamlit.io/introducing-new-layout-options-for-streamlit/)
 
-### Be able to use Docker for containerization
-- [X] [Article: How To Pass Environment Info During Docker Builds](https://blog.bitsrc.io/how-to-pass-environment-info-during-docker-builds-1f7c5566dd0e)
-- [X] [Article: Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/)
-- [X] [Article: Setting Default Docker Environment Variables During Image Build](https://vsupalov.com/docker-build-time-env-values/)
-- [X] [Article: Docker Explained Visually, For Non-Technical Folks](https://www.iteachrecruiters.com/blog/docker-explained-visually-for-non-technical-folks/)
-- [X] [Article: Tensorflow in Docker](http://blog.tabanpour.info/projects/2018/09/07/tf-docker-kube.html)
-- [X] [Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)
-- [X] [Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
-- [ ] [Article: Deploying conda environments in (Docker) containers - how to do it right](https://uwekorn.com/2021/03/01/deploying-conda-environments-in-docker-how-to-do-it-right.html)
-- [X] [Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)
-- [X] [Article: How to scale services using Docker Compose](https://medium.com/@karthi.net/how-to-scale-services-using-docker-compose-31d7b83a6648)
-- [X] [Article: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
-- [X] [Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)
-- [X] [Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)
-- [X] [Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)
-- [X] [Article: Docker for Machine Learning – Part II](https://mlinproduction.com/docker-for-ml-part-2/)
-- [X] [Article: Docker for Machine Learning – Part III](https://mlinproduction.com/docker-for-ml-part-3/)
-- [X] [Article: Using Docker to Generate Machine Learning Predictions in Real Time](https://mlinproduction.com/docker-for-ml-part-4/)
-- [ ] [Article: Connection refused? Docker networking and how it impacts your image](https://pythonspeed.com/articles/docker-connection-refused/)
-- [ ] [Article: Faster or slower: the basics of Docker build caching](https://pythonspeed.com/articles/docker-caching-model/)
-- [ ] [Article: Where’s your code? Debugging ImportError and ModuleNotFoundErrors in your Docker image](https://pythonspeed.com/articles/importerror-docker/)
-- [ ] [Article: A tableau of crimes and misfortunes: the ever-useful docker history](https://pythonspeed.com/articles/docker-history/)
-- [ ] [Article: Broken by default: why you should avoid most Dockerfile examples](https://pythonspeed.com/articles/dockerizing-python-is-hard/)
-- [ ] [Article: A review of the official Dockerfile best practices: good, bad, and insecure](https://pythonspeed.com/articles/official-docker-best-practices/)
-- [ ] [Article: The best Docker base image for your Python application (February 2021)](https://pythonspeed.com/articles/base-image-python-docker-images/)
-- [ ] [Article: A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
-- [ ] [Article: Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
-- [ ] [Article: Building on solid ground: ensuring reproducible Docker builds for Python](https://pythonspeed.com/articles/reproducible-docker-builds-python/)
-- [ ] [Article: Installing system packages in Docker with minimal bloat](https://pythonspeed.com/articles/system-packages-docker/)
-- [ ] [Article: Less capabilities, more security: minimizing privilege escalation in Docker](https://pythonspeed.com/articles/root-capabilities-docker-security/)
-- [ ] [Article: Avoiding insecure images from Docker build caching](https://pythonspeed.com/articles/docker-cache-insecure-images/)
-- [ ] [Article: Build secrets in Docker and Compose, the secure way](https://pythonspeed.com/articles/build-secrets-docker-compose/)
-- [ ] [Article: Security scanners for Python and Docker: from code to dependencies](https://pythonspeed.com/articles/docker-python-security-scan/)
-- [ ] [Article: The high cost of slow Docker builds](https://pythonspeed.com/articles/high-cost-slow-docker-builds/)
-- [ ] [Article: Faster Docker builds with pipenv, poetry, or pip-tools](https://pythonspeed.com/articles/pipenv-docker/)
-- [ ] [Article: Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)
-- [ ] [Article: Poetry vs. Docker caching: Fight!](https://pythonspeed.com/articles/poetry-vs-docker-caching/)
-- [ ] [Article: Speed up pip downloads in Docker with BuildKit’s new caching](https://pythonspeed.com/articles/docker-cache-pip-downloads/)
-- [ ] [Article: Multi-stage builds #1: Smaller images for compiled code](https://pythonspeed.com/articles/smaller-python-docker-images/)
-- [ ] [Article: Multi-stage builds #2: Python specifics—virtualenv, –user, and other methods](https://pythonspeed.com/articles/multi-stage-docker-python/)
-- [ ] [Article: Multi-stage builds #3: Why your build is surprisingly slow, and how to speed it up](https://pythonspeed.com/articles/faster-multi-stage-builds/)
-- [ ] [Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)
-- [ ] [Article: Activating a Conda environment in your Dockerfile](https://pythonspeed.com/articles/activate-conda-dockerfile/)
-- [ ] [Article: Shrink your Conda Docker images with conda-pack](https://pythonspeed.com/articles/conda-docker-image-size/)
-- [ ] [Article: What’s running in production? Making your Docker images identifiable](https://pythonspeed.com/articles/identifying-images/)
-- [ ] [Article: Your Docker build needs a smoke test](https://pythonspeed.com/articles/test-your-docker-build/)
-- [ ] [Article: Docker BuildKit: faster builds, new features, and now it’s stable](https://pythonspeed.com/articles/docker-buildkit/)
-- [ ] [Article: Docker vs. Singularity for data processing: UIDs and filesystem access](https://pythonspeed.com/articles/containers-filesystem-data-processing/)
-- [ ] [Article: Where’s that log file? Debugging failed Docker builds](https://pythonspeed.com/articles/debugging-docker-build/)
-- [ ] [Article: An Introduction to Kubernetes for Data Scientists](https://mlinproduction.com/intro-to-kubernetes/)
-- [ ] [Article: How to Use Kubernetes Pods for Machine Learning](https://mlinproduction.com/k8s-pods/)
-- [ ] [Article: Kubernetes Jobs for Machine Learning](https://mlinproduction.com/k8s-jobs/)
-- [ ] [Article: Kubernetes CronJobs for Machine Learning](https://mlinproduction.com/k8s-cronjobs/)
-- [ ] [Article: Kubernetes Deployments for Machine Learning](https://mlinproduction.com/k8s-deployments/)
-- [ ] [Article: Kubernetes Services for Machine Learning](https://mlinproduction.com/k8s-services/)
-- [ ] [“Let’s use Kubernetes!” Now you have 8 problems](https://pythonspeed.com/articles/dont-need-kubernetes/)
-- [ ] [Article: Kubernetes for Python Developers: Part 1](https://www.distributedpython.com/2018/11/28/kubernetes-python-developers-part-1/)
-- [X] [Doc: Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
-- [X] [Pluralsight: Docker and Kubernetes: The Big Picture](https://www.pluralsight.com/courses/docker-kubernetes-big-picture)
-- [ ] [Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
-- [X] [Youtube: Docker](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620810184000)
-- [X] [Youtube: Why Your Web Server Should Log to Stdout (Especially with Docker)](https://www.youtube.com/watch?v=aQikNWEaJUQ&feature=emb_logo)
 
-### Be able to use Cloud
-- [X] [Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)
-- [ ] [Article: Getting started with large-scale ETL jobs using Dask and AWS EMR](https://spell.ml/blog/large-scale-etl-jobs-using-dask-Xyl8GhEAACQAjK6h)
-- [X] [Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)
-- [X] [Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)
-- [X] [Pluralsight: AWS Networking Deep Dive: Virtual Private Cloud (VPC)](https://www.pluralsight.com/courses/aws-networking-deep-dive-vpc)
-- [X] [Pluralsight: AWS VPC Operations](https://www.pluralsight.com/courses/aws-vpc-operations)
-- [X] [Pluralsight: Building Applications Using Elastic Beanstalk](https://www.pluralsight.com/courses/elastic-beanstalk-building-applications)
-- [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
-- [X] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
-- [X] [Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
-- [X] [Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
-- [X] [Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
-- [X] [Whitepaper: Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
-- [X] [Whitepaper: Microservices on AWS](https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/microservices-on-aws.pdf)
-- [X] [Whitepaper: Optimizing Enterprise Economics with Serverless Architectures](https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf)
-- [X] [Whitepaper: Practicing Continuous Integration and Continuous Delivery on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
-- [X] [Whitepaper: Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
 
-### Be familiar with serverless architecture
-- [X] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
-- [X] [Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
-- [X] [Youtube: Deploying a machine learning model to the cloud using AWS Lambda](https://www.youtube.com/watch?v=4ocbx9IeBMU&feature=youtu.be)
 
-### Be able to monitor ML models
-- [X] [Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
-- [X] [Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)
-- [ ] [Article: The Playbook to Monitor Your Model’s Performance in Production](https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245)
-- [X] [Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)
-- [X] [Article: Preventing model drift with continuous monitoring and deployment using Github Actions and Algorithmia Insights](https://algorithmia.com/blog/preventing-model-drift-with-continuous-monitoring-and-deployment-using-github-actions-and-algorithmia-insights)
-- [ ] [Article: Continuous monitoring for data projects](https://medium.com/acing-ai/continuous-monitoring-for-data-projects-11fb1c00c7a4)
-- [X] [Article: Lessons Learned from 15 Years of Monitoring Machine Learning in Production](https://mlinproduction.com/lessons-learned-from-15-years-of-monitoring-machine-learning-in-production/)
-- [X] [Article: Why is it Important to Monitor Machine Learning Models?](https://mlinproduction.com/why-is-it-important-to-monitor-machine-learning-models/)
-- [ ] [Article: Using Statistical Distances for Machine Learning Observability](https://towardsdatascience.com/using-statistical-distance-metrics-for-machine-learning-observability-4c874cded78)
-- [ ] [Article: The Model’s Shipped; What Could Possibly go Wrong?](https://towardsdatascience.com/the-models-shipped-what-could-possibly-go-wrong-a657ad919868)
-- [ ] [Article: Quality assurance in data science](https://medium.com/acing-ai/qa-in-data-science-397476c09910)
-- [ ] [Youtube: Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)
-- [ ] [Article: Incident Management in Machine Learning Systems](https://medium.com/acing-ai/incident-management-in-machine-learning-systems-d69b6e39fdee)
-- [ ] [Article: ML Infrastructure Tools — ML Observability](https://towardsdatascience.com/ml-infrastructure-tools-ml-observability-8e4d7df6db43)
-- [ ] [Youtube: MLOps #24 Monitoring the ML stack // Lina Weichbrodt](https://www.youtube.com/watch?v=Un30yb1WlpU) `0:55:32`
-- [X] [Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)
-- [X] [Youtube: Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`
-- [ ] [Youtube: OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.youtube.com/watch?v=hBMHohkRgAA)
-- [ ] [Youtube: MLOps #28 ML Observability // Aparna Dhinakaran - Chief Product Officer at Arize AI](https://www.youtube.com/watch?v=joTF9BRwWp4) `0:55:04`
-- [ ] [Youtube: MLOps #29 Continuous Evaluation & Model Experimentation // Danny Ma - Founder of Sydney Data Science](https://www.youtube.com/watch?v=i4QNpM20QOc) `1:00:46`
-- [ ] [Youtube: SE4AI: Quality Assessment in Production](https://www.youtube.com/watch?v=RaaNSXKFDGk) `1:18:45`
-- [ ] [Youtube: SE4AI: Infrastructure Quality, Deployment and Operations](https://www.youtube.com/watch?v=iBaJgWjpK24) `1:04:54`
 
 ### Be able to perform load testing
 - [X] [Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)
@@ -1992,46 +2097,6 @@
 - [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 - [ ] [Youtube: Hypothesis testing with Applications in Data Science](https://www.youtube.com/watch?v=kx-pcQAPvoc) `0:10:33`
 
-### Be proficient in Python
-- [X] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
-- [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
-- [ ] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
-- [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
-- [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
-- [X] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
-- [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
-- [ ] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
-- [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
-- [ ] [Article: A Python prompt into a running process: debugging with Manhole](https://pythonspeed.com/articles/live-debugging-python/)
-- [X] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
-- [X] [Book: A Byte of Python](https://python.swaroopch.com)
-- [X] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
-- [ ] [Book: Python 201](https://leanpub.com/python201)
-- [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
-- [ ] [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
-- [X] [Calmcode: ray](https://calmcode.io/ray/introduction.html)
-- [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
-- [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
-- [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
-- [X] [Datacamp: Python for Spreadsheet Users](https://www.datacamp.com/courses/python-for-spreadsheet-users)
-- [X] [Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
-- [X] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
-- [X] [Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
-- [X] [Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
-- [X] [Datacamp: Intro to Python for Finance](https://www.datacamp.com/courses/intro-to-python-for-finance)
-- [X] [Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
-- [X] [Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
-- [ ] [Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
-- [X] [edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)
-- [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
-- [X] [Google's Python Class](https://developers.google.com/edu/python/)
-- [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
-- [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
-- [X] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
-- [X] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
-- [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
-- [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
-- [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 
 ### Have a general understanding of other parts of the stack
 - [ ] [Book: Refactoring UI](https://refactoringui.com/book/)
@@ -2062,17 +2127,7 @@
 - [X] [Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)
 - [X] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
 
-### Be familiar with fundamental Computer Science concepts
-- [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
-- [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
-- [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
-- [ ] [Crashcourse: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
-- [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
-- [ ] [Udacity: Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
-- [ ] [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/courses/cs313)
-- [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
-- [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+
 
 ### Be able to apply proper software engineering process
 - [X] [Pluralsight: Security Awareness: Basic Concepts and Terminology](https://app.pluralsight.com/library/courses/security-awareness-basic-concepts-terminology)
@@ -2085,19 +2140,7 @@
 - [ ] [Udacity: Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
 - [ ] [Udacity: Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 
-### Be able to efficiently use a text editor
-- [X] [Article: Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
-- [X] [Article: Python remote debugging with PyCharm, CUDA, and Conda](https://medium.com/@n1r44/python-remote-debugging-with-pycharm-cuda-and-conda-87d27695634c)
-- [X] [Article: How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)
-- [X] [Article: Docker as Remote Interpreter for PyCharm Professional](https://www.inovex.de/blog/docker-remote-interpreter-pycharm-professional/)
-- [X] [Youtube: Getting Started with Python in Visual Studio Code](https://www.youtube.com/watch?v=7EXd4_ttIuw)
-- [X] [Youtube: VSCode Keyboard Shortcuts For Productivity](https://youtu.be/eGE-tFalwpA)
-- [X] [Youtube: Getting Started with Jupyter Notebooks in VS Code](https://youtu.be/Ozq24uAshXo)
-- [X] [Youtube: Notebooks in VS Code Are Getting Revamped!](https://youtu.be/g5EykzAsCC0)
-- [X] [Youtube: Getting Started with PyTorch in VS Code](https://youtu.be/A9lQHnFaqlU)
-- [X] [Youtube: What every GitHub user should know about VS Code - GitHub Satellite 2020](https://youtu.be/T6sW1Dk9B4E)
-- [X] [VS Code and GitHub](https://www.youtube.com/playlist?list=PLj6YeMhvp2S4UPBCWyhLPcOxGkmLI2BOz)
-- [X] [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
+
 
 ### Be able to communicate and collaborate well
 - [ ] [Google: Technical Writing](https://developers.google.com/tech-writing)
@@ -2209,3 +2252,5 @@
 - [X] [Youtube: Ross Tuck - Things I Believe Now That I'm Old at Laracon EU 2014](https://www.youtube.com/watch?v=ZBiexI2mv-k)
 - [X] [Youtube: "How to teach programming (and other things)?" by Felienne Hermans](https://www.youtube.com/watch?v=g1ib43q3uXQ) `0:52:08`
 - [X] [Youtube: The secrets of learning a new language | Lýdia Machová](https://www.youtube.com/watch?v=o_XVt5rdpFY)
+
+</details>
