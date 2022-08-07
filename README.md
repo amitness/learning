@@ -1,9 +1,9 @@
 # learning
 
-Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by building both strong core skills and [adjacent skills](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
+Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by building strong core skills and [adjacent skills](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
 
 
-## Develop core software engineering skills
+## Strengthen generic core skills
 
 <details>
 <summary><h4>Databases</h3></summary>
@@ -343,7 +343,105 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary><h2>Specialization: Machine Learning</h4></summary>
+<summary><h4>Frontend Technology</h4></summary>
+
+- [ ] [Book: Refactoring UI](https://refactoringui.com/book/)
+- [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [X] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
+- [X] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
+- [X] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
+- [X] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
+- [X] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
+- [X] [Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)
+- [X] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
+- [X] [Code School: Fundamentals of Design](https://www.pluralsight.com/courses/code-school-fundamentals-of-design)
+- [X] [Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)
+- [X] [(ES6) - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+- [X] [Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)
+- [X] [Pluralsight: HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture)
+- [X] [Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)
+- [X] [Pluralsight: Introduction to CSS](https://www.pluralsight.com/courses/css-intro)
+- [X] [Pluralsight: CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)
+- [X] [Pluralsight: CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)
+- [X] [Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)
+- [ ] [Thoughtbot: Design for Developers](https://thoughtbot.com/upcase/design-for-developers)
+- [X] [Treehouse: HTML](https://teamtreehouse.com/library/html)
+- [X] [Treehouse: Javascript Booleans](https://teamtreehouse.com/library/javascript-booleans)
+- [X] [Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
+- [X] [Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
+- [X] [Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)
+- [X] [Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)
+- [X] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
+</details>
+
+
+<details>
+<summary><h4>Infrastructure and System Design</h4></summary>
+
+- [ ] [Article: The implications of pickling ML models](https://uwekorn.com/2021/04/26/implications-of-pickling-ml-models.html)
+- [X] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
+- [X] [Article: Deploy BERT for Sentiment Analysis as REST API using PyTorch, Transformers by Hugging Face and FastAPI](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
+- [ ] [Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)
+- [X] [Article: Selecting gunicorn worker types for different python web applications.](https://medium.com/@nhudinhtuan/gunicorn-worker-types-practice-advice-for-better-performance-7a299bb8f929)
+- [X] [Article: Better performance by optimizing Gunicorn config](https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7)
+- [X] [Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
+- [X] [Article: How to Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)
+- [X] [Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)
+- [X] [Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)
+- [ ] [Article: Understanding TensorFlow Serving](https://medium.com/acing-ai/understanding-tensorflow-serving-faca576b558c)
+- [ ] [Article: Serving models using Tensorflow Serving and Docker](https://medium.com/acing-ai/model-serving-using-tensorflow-serving-and-docker-492a347eb934)
+- [X] [Article: Batch Inference vs Online Inference](https://mlinproduction.com/batch-inference-vs-online-inference/)
+- [X] [Article: Online batching with Spell serving](https://spell.ml/blog/online-batching-with-spell-serving-X_OKiBAAAASq6cL0)
+- [ ] [Article: Machine Learning System Design: Real-time processing](https://medium.com/acing-ai/machine-learning-system-design-real-time-processing-6a952793925)
+- [ ] [Article: Machine Learning System Design: Models-as-a-service](https://medium.com/acing-ai/machine-learning-system-design-models-as-a-service-32666eba0e6)
+- [X] [Article: What Does it Mean to Deploy a Machine Learning Model? (Deployment Series: Guide 01)](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
+- [X] [Article: Software Interfaces for Machine Learning Deployment (Deployment Series: Guide 02)](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)
+- [X] [Article: Batch Inference for Machine Learning Deployment (Deployment Series: Guide 03)](https://mlinproduction.com/batch-inference-for-machine-learning-deployment-deployment-series-03/)
+- [X] [Article: The Challenges of Online Inference (Deployment Series: Guide 04)](https://mlinproduction.com/the-challenges-of-online-inference-deployment-series-04/)
+- [X] [Article: Online Inference for ML Deployment (Deployment Series: Guide 05)](https://mlinproduction.com/online-inference-for-ml-deployment-deployment-series-05/)
+- [X] [Article: Model Registries for ML Deployment (Deployment Series: Guide 06)](https://mlinproduction.com/model-registries-for-ml-deployment-deployment-series-06/)
+- [X] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
+- [X] [Article: How Data Leakage Impacts Machine Learning Models](https://mlinproduction.com/data-leakage/)
+- [X] [Article: 5 Challenges to Running Machine Learning Systems in Production](https://mlinproduction.com/5-challenges-to-ml-in-production-solve-them-with-aws-sagemaker/)
+- [ ] [Article: Enabling Machine-Learning-as-a-Service Through Privacy Preserving Machine Learning](https://mlinproduction.com/enabling-machine-learning-as-service-through-privacy-preserving-ml/)
+- [X] [Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)
+- [X] [Cortex Blog](https://www.cortex.dev/learn)
+- [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
+- [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+- [ ] [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+- [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+- [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
+- [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
+- [X] [Youtube: Python pydantic Introduction – Give your data classes super powers](https://www.youtube.com/watch?v=WJmqgJn9TXg)
+- [X] [Youtube: PyData Vancouver meetup: cortex.dev : Serving machine learning models in production](https://www.youtube.com/watch?v=_2HMDhgPkSQ)
+- [X] [Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`
+- [ ] [Youtube: Hands-on serving models using KFserving // Theofilos Papapanagiotou // MLOps Meetup #40](https://www.youtube.com/watch?v=VtZ9LWyJPdc) `0:57:40`
+- [X] [Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)
+- [X] [Article: Celery Execution Pools: What is it all about?](https://www.distributedpython.com/2018/10/26/celery-execution-pool/)
+- [X] [Article: Distill: Why do we need Flask, Celery, and Redis? (with McDonalds in Between)](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/)
+- [X] [Article: Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
+- [ ] [Article: Unit Testing Celery Tasks](https://www.distributedpython.com/2018/05/01/unit-testing-celery-tasks/)
+- [ ] [Article: Testing Celery Chains](https://www.distributedpython.com/2018/05/15/testing-celery-chains/)
+- [ ] [Article: Task Routing in Celery](https://www.distributedpython.com/2018/05/29/task-routing/)
+- [ ] [Article: Dynamic Task Routing in Celery](https://www.distributedpython.com/2018/06/05/dynamic-task-routing/)
+- [ ] [Article: Dockerize a Celery app with Django and RabbitMQ](https://www.distributedpython.com/2018/06/12/celery-django-docker/)
+- [ ] [Article: How to call a Celery task from another app](https://www.distributedpython.com/2018/06/19/call-celery-task-outside-codebase/)
+- [ ] [Article: Distributed Monte Carlo with Celery chords](https://www.distributedpython.com/2018/06/26/celery-monte-carlo/)
+- [ ] [Article: An incredibly simple no-frills Celery setup](https://www.distributedpython.com/2018/07/03/simple-celery-setup/)
+- [ ] [Article: 3 Strategies to Customise Celery logging handlers](https://www.distributedpython.com/2018/08/28/celery-logging/)
+- [ ] [Article: Celery task exceptions and automatic retries](https://www.distributedpython.com/2018/09/04/error-handling-retry/)
+- [X] [Article: Concurrency and Parallelism](https://www.distributedpython.com/2018/09/14/concurrency-and-parallelism/)
+- [ ] [Article: Celery, docker and the missing startup banner](https://www.distributedpython.com/2018/10/01/celery-docker-startup/)
+- [ ] [Article: Monitoring a Dockerized Celery Cluster with Flower](https://www.distributedpython.com/2018/10/13/flower-docker/)
+- [ ] [Article: Quick Guide: Custom Celery Task Logger](https://www.distributedpython.com/2018/11/06/celery-task-logger-format/)
+- [ ] [Article: Celery on Docker: From the Ground up](https://www.distributedpython.com/2018/11/15/celery-docker/)
+- [ ] [Article: Auto-reload Celery on code changes](https://www.distributedpython.com/2019/04/23/celery-reload/)
+- [X] [Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)
+</details>
+
+<details>
+<summary><h2>Specialize in Machine Learning</h4></summary>
 
 ### Have basic business understanding
 - [X] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
@@ -796,8 +894,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Udacity: Statistics](https://www.udacity.com/course/statistics--st095)
 - [ ] [Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [X] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-
-
 
 
 
@@ -2014,68 +2110,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [X] [Youtube: Human-Centric Machine Learning Infrastructure @Netflix](https://www.youtube.com/watch?v=XV5VGddmP24&feature=youtu.be)
 
 
-### Be able to serve ML models
-- [ ] [Article: The implications of pickling ML models](https://uwekorn.com/2021/04/26/implications-of-pickling-ml-models.html)
-- [X] [Article: Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
-- [X] [Article: Deploy BERT for Sentiment Analysis as REST API using PyTorch, Transformers by Hugging Face and FastAPI](https://www.curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/)
-- [ ] [Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)
-- [X] [Article: Selecting gunicorn worker types for different python web applications.](https://medium.com/@nhudinhtuan/gunicorn-worker-types-practice-advice-for-better-performance-7a299bb8f929)
-- [X] [Article: Better performance by optimizing Gunicorn config](https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7)
-- [X] [Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
-- [X] [Article: How to Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)
-- [X] [Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)
-- [X] [Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)
-- [ ] [Article: Understanding TensorFlow Serving](https://medium.com/acing-ai/understanding-tensorflow-serving-faca576b558c)
-- [ ] [Article: Serving models using Tensorflow Serving and Docker](https://medium.com/acing-ai/model-serving-using-tensorflow-serving-and-docker-492a347eb934)
-- [X] [Article: Batch Inference vs Online Inference](https://mlinproduction.com/batch-inference-vs-online-inference/)
-- [X] [Article: Online batching with Spell serving](https://spell.ml/blog/online-batching-with-spell-serving-X_OKiBAAAASq6cL0)
-- [ ] [Article: Machine Learning System Design: Real-time processing](https://medium.com/acing-ai/machine-learning-system-design-real-time-processing-6a952793925)
-- [ ] [Article: Machine Learning System Design: Models-as-a-service](https://medium.com/acing-ai/machine-learning-system-design-models-as-a-service-32666eba0e6)
-- [X] [Article: What Does it Mean to Deploy a Machine Learning Model? (Deployment Series: Guide 01)](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
-- [X] [Article: Software Interfaces for Machine Learning Deployment (Deployment Series: Guide 02)](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)
-- [X] [Article: Batch Inference for Machine Learning Deployment (Deployment Series: Guide 03)](https://mlinproduction.com/batch-inference-for-machine-learning-deployment-deployment-series-03/)
-- [X] [Article: The Challenges of Online Inference (Deployment Series: Guide 04)](https://mlinproduction.com/the-challenges-of-online-inference-deployment-series-04/)
-- [X] [Article: Online Inference for ML Deployment (Deployment Series: Guide 05)](https://mlinproduction.com/online-inference-for-ml-deployment-deployment-series-05/)
-- [X] [Article: Model Registries for ML Deployment (Deployment Series: Guide 06)](https://mlinproduction.com/model-registries-for-ml-deployment-deployment-series-06/)
-- [X] [Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)
-- [X] [Article: How Data Leakage Impacts Machine Learning Models](https://mlinproduction.com/data-leakage/)
-- [X] [Article: 5 Challenges to Running Machine Learning Systems in Production](https://mlinproduction.com/5-challenges-to-ml-in-production-solve-them-with-aws-sagemaker/)
-- [ ] [Article: Enabling Machine-Learning-as-a-Service Through Privacy Preserving Machine Learning](https://mlinproduction.com/enabling-machine-learning-as-service-through-privacy-preserving-ml/)
-- [X] [Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)
-- [X] [Cortex Blog](https://www.cortex.dev/learn)
-- [X] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
-- [ ] [Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-- [ ] [Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
-- [ ] [Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
-- [ ] [Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
-- [X] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
-- [X] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
-- [X] [Youtube: Python pydantic Introduction – Give your data classes super powers](https://www.youtube.com/watch?v=WJmqgJn9TXg)
-- [X] [Youtube: PyData Vancouver meetup: cortex.dev : Serving machine learning models in production](https://www.youtube.com/watch?v=_2HMDhgPkSQ)
-- [X] [Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`
-- [ ] [Youtube: Hands-on serving models using KFserving // Theofilos Papapanagiotou // MLOps Meetup #40](https://www.youtube.com/watch?v=VtZ9LWyJPdc) `0:57:40`
-- [X] [Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)
 
-### Be able to setup batch inference
-- [X] [Article: Celery Execution Pools: What is it all about?](https://www.distributedpython.com/2018/10/26/celery-execution-pool/)
-- [X] [Article: Distill: Why do we need Flask, Celery, and Redis? (with McDonalds in Between)](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/)
-- [X] [Article: Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)
-- [ ] [Article: Unit Testing Celery Tasks](https://www.distributedpython.com/2018/05/01/unit-testing-celery-tasks/)
-- [ ] [Article: Testing Celery Chains](https://www.distributedpython.com/2018/05/15/testing-celery-chains/)
-- [ ] [Article: Task Routing in Celery](https://www.distributedpython.com/2018/05/29/task-routing/)
-- [ ] [Article: Dynamic Task Routing in Celery](https://www.distributedpython.com/2018/06/05/dynamic-task-routing/)
-- [ ] [Article: Dockerize a Celery app with Django and RabbitMQ](https://www.distributedpython.com/2018/06/12/celery-django-docker/)
-- [ ] [Article: How to call a Celery task from another app](https://www.distributedpython.com/2018/06/19/call-celery-task-outside-codebase/)
-- [ ] [Article: Distributed Monte Carlo with Celery chords](https://www.distributedpython.com/2018/06/26/celery-monte-carlo/)
-- [ ] [Article: An incredibly simple no-frills Celery setup](https://www.distributedpython.com/2018/07/03/simple-celery-setup/)
-- [ ] [Article: 3 Strategies to Customise Celery logging handlers](https://www.distributedpython.com/2018/08/28/celery-logging/)
-- [ ] [Article: Celery task exceptions and automatic retries](https://www.distributedpython.com/2018/09/04/error-handling-retry/)
-- [X] [Article: Concurrency and Parallelism](https://www.distributedpython.com/2018/09/14/concurrency-and-parallelism/)
-- [ ] [Article: Celery, docker and the missing startup banner](https://www.distributedpython.com/2018/10/01/celery-docker-startup/)
-- [ ] [Article: Monitoring a Dockerized Celery Cluster with Flower](https://www.distributedpython.com/2018/10/13/flower-docker/)
-- [ ] [Article: Quick Guide: Custom Celery Task Logger](https://www.distributedpython.com/2018/11/06/celery-task-logger-format/)
-- [ ] [Article: Celery on Docker: From the Ground up](https://www.distributedpython.com/2018/11/15/celery-docker/)
-- [ ] [Article: Auto-reload Celery on code changes](https://www.distributedpython.com/2019/04/23/celery-reload/)
 
 ### Be able to build interactive UI for models
 - [X] [Article: Build and Deploy a Dashboard with Streamlit](https://www.maartengrootendorst.com/blog/streamlit/)
@@ -2083,10 +2118,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 
 
 
-
-
-### Be able to perform load testing
-- [X] [Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)
 
 ### Be able to perform A/B testing
 - [X] [Article: Multi-Armed Bandit (MAB) – A/B Testing Sans Regret](https://vwo.com/blog/multi-armed-bandit-algorithm/)
@@ -2097,35 +2128,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 - [ ] [Youtube: Hypothesis testing with Applications in Data Science](https://www.youtube.com/watch?v=kx-pcQAPvoc) `0:10:33`
 
-
-### Have a general understanding of other parts of the stack
-- [ ] [Book: Refactoring UI](https://refactoringui.com/book/)
-- [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
-- [X] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
-- [X] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
-- [X] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
-- [X] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
-- [X] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
-- [X] [Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)
-- [X] [Codecademy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
-- [X] [Code School: Fundamentals of Design](https://www.pluralsight.com/courses/code-school-fundamentals-of-design)
-- [X] [Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)
-- [X] [(ES6) - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
-- [X] [Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)
-- [X] [Pluralsight: HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture)
-- [X] [Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)
-- [X] [Pluralsight: Introduction to CSS](https://www.pluralsight.com/courses/css-intro)
-- [X] [Pluralsight: CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)
-- [X] [Pluralsight: CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)
-- [X] [Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)
-- [ ] [Thoughtbot: Design for Developers](https://thoughtbot.com/upcase/design-for-developers)
-- [X] [Treehouse: HTML](https://teamtreehouse.com/library/html)
-- [X] [Treehouse: Javascript Booleans](https://teamtreehouse.com/library/javascript-booleans)
-- [X] [Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
-- [X] [Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
-- [X] [Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)
-- [X] [Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)
-- [X] [Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)
 
 
 
@@ -2139,7 +2141,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Udacity: Product Design](https://www.udacity.com/course/product-design--ud509)
 - [ ] [Udacity: Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
 - [ ] [Udacity: Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-
 
 
 ### Be able to communicate and collaborate well
