@@ -24,6 +24,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)
 - [ ] [Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)
 - [ ] [Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
+- [ ] [Scaler Topics: Introduction to Databases](https://www.scaler.com/topics/dbms/what-is-database/)
 </details>
 
 <details>
@@ -192,6 +193,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
 - [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
 - [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
+- [ ] [Scaler Topics: Introduction to Python Programming](https://www.scaler.com/topics/python/what-is-python/)
 </details>
 
 
@@ -302,6 +304,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 - [X] [Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
 - [X] [Youtube: Deploying a machine learning model to the cloud using AWS Lambda](https://www.youtube.com/watch?v=4ocbx9IeBMU&feature=youtu.be)
+- [ ] [Scaler Topics: Virtualization in Cloud Computing](https://www.scaler.com/topics/virtualization-in-cloud-computing/)
 </details>
 
 <details>
@@ -340,6 +343,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
+- [ ] [Scaler Topics: Data Structures](https://www.scaler.com/topics/data-structures/what-is-data-structure/)
 </details>
 
 <details>
