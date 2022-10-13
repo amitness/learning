@@ -93,7 +93,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [X] [Developing Python Packages](https://www.datacamp.com/courses/developing-python-packages)
 - [X] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
 - [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-utorialtorialp-a-local-python-environment-windows)
-- [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 - [X] [Youtube: Lecture 1: Introduction to Deep Learning](https://youtu.be/5AjG5OPQuBM)
 - [X] [Youtube: Lecture 2: Setting Up Machine Learning Projects](https://youtu.be/tBUK1_cHu-8)
 - [X] [Youtube: Lecture 3: Introduction to the Text Recognizer Project](https://youtu.be/mmlvGLSXKLc)
