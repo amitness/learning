@@ -324,42 +324,19 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary>Infrastructure and System Design</summary>
+<summary>Backend Technology</summary>
 
 |Concept|Resource|Done|
 |---|---|---|
-||[Article: The implications of pickling ML models](https://uwekorn.com/2021/04/26/implications-of-pickling-ml-models.html)||
 ||[Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)||
 ||[Article: Selecting gunicorn worker types for different python web applications.](https://medium.com/@nhudinhtuan/gunicorn-worker-types-practice-advice-for-better-performance-7a299bb8f929)|✓|
 ||[Article: Better performance by optimizing Gunicorn config](https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7)|✓|
-||[Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)|✓|
-||[Article: How to Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)|✓|
-||[Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)|✓|
 ||[Article: Understanding TensorFlow Serving](https://medium.com/acing-ai/understanding-tensorflow-serving-faca576b558c)||
 ||[Article: Serving models using Tensorflow Serving and Docker](https://medium.com/acing-ai/model-serving-using-tensorflow-serving-and-docker-492a347eb934)||
-||[Article: Batch Inference vs Online Inference](https://mlinproduction.com/batch-inference-vs-online-inference/)|✓|
-||[Article: Online batching with Spell serving](https://spell.ml/blog/online-batching-with-spell-serving-X_OKiBAAAASq6cL0)|✓|
-||[Article: Machine Learning System Design: Real-time processing](https://medium.com/acing-ai/machine-learning-system-design-real-time-processing-6a952793925)||
-||[Article: Machine Learning System Design: Models-as-a-service](https://medium.com/acing-ai/machine-learning-system-design-models-as-a-service-32666eba0e6)||
-||[Article: What Does it Mean to Deploy a Machine Learning Model? (Deployment Series: Guide 01)](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)|✓|
-||[Article: Software Interfaces for Machine Learning Deployment (Deployment Series: Guide 02)](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)|✓|
-||[Article: Batch Inference for Machine Learning Deployment (Deployment Series: Guide 03)](https://mlinproduction.com/batch-inference-for-machine-learning-deployment-deployment-series-03/)|✓|
-||[Article: The Challenges of Online Inference (Deployment Series: Guide 04)](https://mlinproduction.com/the-challenges-of-online-inference-deployment-series-04/)|✓|
-||[Article: Online Inference for ML Deployment (Deployment Series: Guide 05)](https://mlinproduction.com/online-inference-for-ml-deployment-deployment-series-05/)|✓|
-||[Article: Model Registries for ML Deployment (Deployment Series: Guide 06)](https://mlinproduction.com/model-registries-for-ml-deployment-deployment-series-06/)|✓|
-||[Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)|✓|
-||[Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)|✓|
-||[Django Best Practices](http://slides.com/sudipkafle/django-best-practices)|✓|
-||[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)||
-||[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)||
-||[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)||
-||[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)||
 ||[Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)|✓|
 ||[Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)|✓|
 ||[Youtube: Python pydantic Introduction – Give your data classes super powers](https://www.youtube.com/watch?v=WJmqgJn9TXg)|✓|
 ||[Youtube: PyData Vancouver meetup: cortex.dev : Serving machine learning models in production](https://www.youtube.com/watch?v=_2HMDhgPkSQ)|✓|
-||[Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`|✓|
-||[Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)|✓|
 |Celery|[Article: Celery Execution Pools: What is it all about?](https://www.distributedpython.com/2018/10/26/celery-execution-pool/)|✓|
 ||[Article: Distill: Why do we need Flask, Celery, and Redis? (with McDonalds in Between)](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/)|✓|
 ||[Article: Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)|✓|
@@ -379,7 +356,33 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Article: Quick Guide: Custom Celery Task Logger](https://www.distributedpython.com/2018/11/06/celery-task-logger-format/)||
 ||[Article: Celery on Docker: From the Ground up](https://www.distributedpython.com/2018/11/15/celery-docker/)||
 ||[Article: Auto-reload Celery on code changes](https://www.distributedpython.com/2019/04/23/celery-reload/)||
-||[Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)|✓|
+</details>
+
+<details>
+<summary>Infrastructure and System Design</summary>
+|Concept|Resource|Done|
+|---|---|---|
+||[Article: The implications of pickling ML models](https://uwekorn.com/2021/04/26/implications-of-pickling-ml-models.html)||
+||[Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)|✓|
+||[Article: How to Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)|✓|
+||[Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)|✓|
+||[Article: Batch Inference vs Online Inference](https://mlinproduction.com/batch-inference-vs-online-inference/)|✓|
+||[Article: Machine Learning System Design: Real-time processing](https://medium.com/acing-ai/machine-learning-system-design-real-time-processing-6a952793925)||
+||[Article: Machine Learning System Design: Models-as-a-service](https://medium.com/acing-ai/machine-learning-system-design-models-as-a-service-32666eba0e6)||
+||[Article: What Does it Mean to Deploy a Machine Learning Model? (Deployment Series: Guide 01)](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)|✓|
+||[Article: Software Interfaces for Machine Learning Deployment (Deployment Series: Guide 02)](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)|✓|
+||[Article: Batch Inference for Machine Learning Deployment (Deployment Series: Guide 03)](https://mlinproduction.com/batch-inference-for-machine-learning-deployment-deployment-series-03/)|✓|
+||[Article: The Challenges of Online Inference (Deployment Series: Guide 04)](https://mlinproduction.com/the-challenges-of-online-inference-deployment-series-04/)|✓|
+||[Article: Online Inference for ML Deployment (Deployment Series: Guide 05)](https://mlinproduction.com/online-inference-for-ml-deployment-deployment-series-05/)|✓|
+||[Article: Model Registries for ML Deployment (Deployment Series: Guide 06)](https://mlinproduction.com/model-registries-for-ml-deployment-deployment-series-06/)|✓|
+||[Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)|✓|
+||[Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)|✓|
+||[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)||
+||[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)||
+||[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)||
+||[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)||
+||[Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`|✓|
+||[Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)|✓|
 ||[Article: Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)|✓|
 ||[Article: Combining rule engines and machine learning](http://nlathia.github.io/2020/10/ML-and-rule-engines.html)|✓|
 ||[Article: Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)|✓|
@@ -767,6 +770,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)||
 ||[Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)||
 ||[Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)||
+|Load Testing|[Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)|✓|
 |Monitoring|[Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)|✓|
 ||[Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)|✓|
 ||[Article: The Playbook to Monitor Your Model’s Performance in Production](https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245)||
@@ -786,4 +790,5 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Youtube: MLOps #29 Continuous Evaluation & Model Experimentation // Danny Ma - Founder of Sydney Data Science](https://www.youtube.com/watch?v=i4QNpM20QOc) `1:00:46`||
 ||[Youtube: SE4AI: Quality Assessment in Production](https://www.youtube.com/watch?v=RaaNSXKFDGk) `1:18:45`||
 ||[Youtube: SE4AI: Infrastructure Quality, Deployment and Operations](https://www.youtube.com/watch?v=iBaJgWjpK24) `1:04:54`||
+
 </details>
