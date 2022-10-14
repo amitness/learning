@@ -49,12 +49,9 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 	- [ ] [Lecture 9: Security and Cryptography (2020)](https://www.youtube.com/watch?v=tjwobAmnKTo) `1:00:59`
 	- [ ] [Lecture 10: Potpourri (2020)](https://www.youtube.com/watch?v=JZDt-PRq0uo) `0:57:54`
 	- [ ] [Lecture 11: Q&A (2020)](https://www.youtube.com/watch?v=Wz50FvGG6xU) `0:53:52`
-- [ ] [Thoughtbot: Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
-- [ ] [Thoughtbot: tmux](https://thoughtbot.com/upcase/tmux)
 - [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 - [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
 - [X] [Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
-- [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 - [ ] [Youtube: GNU Parallel](https://www.youtube.com/playlist?list=PL284C9FF2488BC6D1)
 </details>
 
@@ -102,9 +99,9 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [X] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
 - [X] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)
 - [X] [Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)
-- [ ] [Youtube: Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8daKeuaWgjk) `0:58:13`
 - [ ] [Youtube: Lecture 5: ML Projects (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=pxisK6RMn1s) `1:13:14`
 - [ ] [Youtube: Lecture 6: Infrastructure & Tooling (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=760Mc_b3_N0) `1:07:21`
+- [ ] [Youtube: Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=8daKeuaWgjk) `0:58:13`
 </details>
 
 <details>
@@ -139,13 +136,9 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [X] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
 - [X] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
 - [ ] [Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-- [ ] [Thoughtbot: Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
-- [ ] [Udacity: Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
-- [ ] [Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)
-- [ ] [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 - [X] [Youtube: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList | AISC](https://www.youtube.com/watch?v=A0od6RosVSA)
-- [ ] [Youtube: Lecture 10: ML Testing & Explainability (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=K42wdqpZymw) `1:41:12`
 - [X] [Youtube: Lab 8: Testing and Continuous Integration (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=D3YeQcE9tSg) `0:13:26`
+- [ ] [Youtube: Lecture 10: ML Testing & Explainability (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=K42wdqpZymw) `1:41:12`
 </details>
 
 <details>
@@ -189,7 +182,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [X] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
 - [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
 - [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
-- [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 </details>
 
 
@@ -280,7 +272,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 <summary>Cloud Computing</summary>
 
 - [X] [Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)
-- [ ] [Article: Getting started with large-scale ETL jobs using Dask and AWS EMR](https://spell.ml/blog/large-scale-etl-jobs-using-dask-Xyl8GhEAACQAjK6h)
 - [X] [Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)
 - [X] [Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)
 - [X] [Pluralsight: AWS Networking Deep Dive: Virtual Private Cloud (VPC)](https://www.pluralsight.com/courses/aws-networking-deep-dive-vpc)
@@ -337,6 +328,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+- [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 </details>
 
@@ -599,11 +591,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
 - [X] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
 - [ ] [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
-- [ ] [Khan Academy: Precalculus](https://www.khanacademy.org/math/precalculus)
-- [ ] [Khan Academy: Probability](https://www.khanacademy.org/mission/probability)
-- [ ] [Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
-- [ ] [Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
-- [ ] [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - [ ] [MIT: 18.06 Linear Algebra (Professor Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 	- [X] [1. The Geometry of Linear Equations](https://www.youtube.com/watch?v=J7DzL2_Na80) `0:39:49`
 	- [X] [2. Elimination with Matrices.](https://www.youtube.com/watch?v=QVKj3LADCnA) `0:47:41`
@@ -1216,7 +1203,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [X] [Article: PyTorch Lightning: Metrics](https://medium.com/pytorch/pytorch-lightning-metrics-35cb5ab31857)
 - [X] [Article: PyTorch Multi-GPU Metrics Library and More in PyTorch Lightning 0.8.1](https://medium.com/pytorch/pytorch-multi-gpu-metrics-and-more-in-pytorch-lightning-0-8-1-b7cadd04893e)
 - [ ] [Article: Distributed model training in PyTorch using DistributedDataParallel](https://spell.ml/blog/pytorch-distributed-data-parallel-XvEaABIAAB8Ars0e)
-- [ ] [Article: Distributed model training in PyTorch using DistributedDataParallel](https://spell.ml/blog/pytorch-distributed-data-parallel-XvEaABIAAB8Ars0e)
 - [ ] [Article: EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
 - [ ] [Article: Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/)
 - [ ] [Article: Fit More and Train Faster With ZeRO via DeepSpeed and FairScale](https://huggingface.co/blog/zero-deepspeed-fairscale)
@@ -1250,7 +1236,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [X] [Youtube: Lightning Chat: How a Grandmaster Won a Kaggle Competition Using Pytorch Lightning](https://www.youtube.com/watch?app=desktop&v=0HQCK_l-njI)
 - [ ] [Youtube: Production Inference Deployment with PyTorch](https://youtu.be/Dk88zv1KYMI)
 - [ ] [Youtube: What is Automatic Differentiation?](https://www.youtube.com/watch?v=wG_nF1awSSY)
-- [ ] [Youtube: JAX: accelerated machine learning research via composable function transformations in Python](https://www.youtube.com/watch?v=BzuEGdGHKjc)
 
 ### Be able to implement models using cloud services
 - [X] [AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)
@@ -2157,58 +2142,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [X] [Article: Advice to aspiring data scientists: start a blog](http://varianceexplained.org/r/start-blog/)
 - [ ] [Article: Systems Design Interview Guide](http://patrickhalina.com/posts/systems-design-interview-guide/)
 - [ ] [Article: A Guide to Cold Emailing](http://eugenevinitsky.github.io/posts/2020-12-25-coldemails.html)
-- [ ] [Article: Uber Data Science Interview](https://medium.com/acing-ai/uber-ai-interview-questions-acing-the-ai-interview-9532794bc057)
-- [ ] [Article: Google Data Science Interview](https://medium.com/acing-ai/google-ai-interview-questions-acing-the-ai-interview-1791ad7dc3ae)
-- [ ] [Article: Facebook Data Science Interview](https://medium.com/acing-ai/facebook-ai-interview-questions-acing-the-ai-interview-5982add0af55)
-- [ ] [Article: Acing the Data Science Interview — Part 1](https://medium.com/acing-ai/steps-to-ace-the-ai-interview-part-1-298249080e59)
-- [ ] [Article: Acing the Data Science Interview — Part 2](https://medium.com/acing-ai/steps-to-ace-the-ai-interview-part-2-b25f91582f5f)
-- [ ] [Article: Amazon Data Science Interview](https://medium.com/acing-ai/amazon-ai-interview-questions-acing-the-ai-interview-3ed4e671920f)
-- [ ] [Article: Microsoft Data Science Interview](https://medium.com/acing-ai/microsoft-ai-interview-questions-acing-the-ai-interview-be6972f790ea)
-- [ ] [Article: Microsoft Data Science Interview](https://medium.com/acing-ai/microsoft-ai-interview-questions-acing-the-ai-interview-be6972f790ea)
-- [ ] [Article: Apple AI Interview Questions — Acing the AI Interview](https://medium.com/acing-ai/apple-ai-interview-questions-acing-the-ai-interview-803a65b0e795)
-- [ ] [Article: Salesforce Data Science Interview— Acing the AI Interview](https://medium.com/acing-ai/salesforce-ai-interview-questions-acing-the-ai-interview-75e177c4734)
-- [ ] [Article: LinkedIn Data Science Interview](https://medium.com/acing-ai/linkedin-ai-interview-questions-acing-the-ai-interview-41028c4b0704)
-- [ ] [Article: Netflix Data Science Interview](https://medium.com/acing-ai/netflix-data-science-interview-questions-acing-the-ai-interview-176cd3a0009f)
-- [ ] [Article: Walmart Data Science Interview](https://medium.com/acing-ai/walmart-data-science-interview-questions-acing-the-ai-interview-a775b264b015)
-- [ ] [Article: Twitter Data Science Interview](https://medium.com/acing-ai/twitter-data-science-interview-questions-acing-the-ai-interview-f8204a97159f)
-- [ ] [Article: Ebay Data Science Interview](https://medium.com/acing-ai/ebay-data-science-interview-questions-acing-the-ai-interview-4f18b58fcc07)
-- [ ] [Article: Zillow Data Science Interview](https://medium.com/acing-ai/zillow-data-science-interview-questions-acing-the-ai-interview-eb42f0707c8)
-- [ ] [Article: Intel Data Science Interview](https://medium.com/acing-ai/intel-ai-interview-questions-acing-the-ai-interview-d4a62dbb593c)
-- [ ] [Article: Adobe Data Science Interview](https://medium.com/acing-ai/adobe-ai-interview-questions-acing-the-ai-interview-ef7a8099110b)
-- [ ] [Article: Tesla Data Science Interview](https://medium.com/acing-ai/tesla-ai-interview-questions-acing-the-ai-interview-88b2e94ccbbf)
-- [ ] [Article: IBM Data Science Interview](https://medium.com/acing-ai/ibm-artificial-intelligence-interview-questions-57ce1de3f6cf)
-- [ ] [Article: Top Data Science Interview Questions & Answers](https://medium.com/acing-ai/top-ai-interview-questions-answers-acing-the-ai-interview-61bf52ca34d4)
-- [ ] [Article: Top Data Science Interview Questions & Answers — Part 2](https://medium.com/acing-ai/top-data-science-interview-questions-answers-part-2-20f8c458056d)
-- [ ] [Article: Top Data Science Interview Questions & Answers — Part 3](https://medium.com/acing-ai/top-ai-interview-questions-answers-part-3-30b13ae2e2bc)
-- [ ] [Article: Data Science Interview Questions and Solutions — Linear and Logistic regression](https://medium.com/acing-ai/data-science-and-machine-learning-interview-questions-and-solutions-8aa2cbc02711)
-- [ ] [Article: Capital One Data Science Interview](https://medium.com/acing-ai/capital-one-data-science-interview-questions-b6263d8a3af6)
-- [ ] [Article: Paypal Data Science Interview](https://medium.com/acing-ai/paypal-data-science-interview-questions-fab98407cd02)
-- [ ] [Article: Airbnb Data Science Interview](https://medium.com/acing-ai/airbnb-data-science-interview-questions-27e8c3e2038d)
-- [ ] [Article: Spotify Data Science Interview Questions](https://medium.com/acing-ai/spotify-data-science-interview-questions-bc7c32c7f637)
-- [ ] [Article: Yelp Data Science Interview](https://medium.com/acing-ai/yelp-data-science-interview-questions-d787344c49b2)
-- [ ] [Article: Twitch Data Science Interview](https://medium.com/acing-ai/twitch-data-science-interview-questions-f430fba332dd)
-- [ ] [Article: Oracle Data Science Interview](https://medium.com/acing-ai/oracle-data-science-interview-questions-a85e47e75813)
-- [ ] [Article: Citrix Data Science Interview](https://medium.com/acing-ai/citrix-data-science-interview-questions-8ce5e421479)
-- [ ] [Article: Quora Data Science Interview](https://medium.com/acing-ai/quora-data-science-interview-questions-701dbba4ed2d)
-- [ ] [Article: Splunk Data Science Interview](https://medium.com/acing-ai/splunk-data-science-interview-questions-b13b5b1026cc)
-- [ ] [Article: JP Morgan Data Science Interview](https://medium.com/acing-ai/jp-morgan-data-science-interview-questions-f4d523b9a856)
-- [ ] [Article: Stripe Data Science Interview Questions](https://medium.com/acing-ai/stripe-data-science-interview-questions-35843c00ef83)
-- [ ] [Article: Box Data Science Interview](https://medium.com/acing-ai/box-data-science-interview-questions-3ed82dcf8200)
-- [ ] [Article: Instacart Data Science Interview Questions](https://medium.com/acing-ai/instacart-data-science-interview-questions-e8d89bea1a34)
-- [ ] [Article: Square Data Science Interview](https://medium.com/acing-ai/square-data-science-interview-questions-daa67cfe96c9)
-- [ ] [Article: AmEx Data Science Interview](https://medium.com/acing-ai/amex-data-science-interview-questions-a8d2634c647)
-- [ ] [Article: Citibank Data Science Interview](https://medium.com/acing-ai/citibank-data-science-interview-questions-1ac5c71ff29)
-- [ ] [Article: Sprint Data Science Interview](https://medium.com/acing-ai/sprint-data-science-interview-questions-82f5e007bb5c)
-- [ ] [Article: Dropbox Data Science Interview](https://medium.com/acing-ai/dropbox-data-science-interview-questions-3cf9d63c5708)
-- [ ] [Article: Booking.com Data Science Interview](https://medium.com/acing-ai/booking-com-data-science-interview-questions-377bfca8a9b3)
-- [ ] [Article: Lyft Data Science Interview](https://medium.com/acing-ai/lyft-data-science-interview-questions-463f2d5bdea4)
-- [ ] [Article: Expedia Data Science Interview](https://medium.com/acing-ai/expedia-data-science-interview-questions-b97f25f364d4)
-- [ ] [Article: Shopify Data Science Interview Questions](https://medium.com/acing-ai/shopify-data-science-interview-questions-82f40f1d8596)
-- [ ] [Article: Goldman Sachs Data Science Interviews](https://medium.com/acing-ai/goldman-sachs-data-science-interviews-7b6789d568f1)
-- [ ] [Article: Workday Data Science Interviews](https://medium.com/acing-ai/workday-data-science-interviews-39ecf16e5465)
-- [ ] [Article: Acing Data Science Interviews](https://medium.com/acing-ai/acing-data-science-interviews-346ecf1ebf2d)
-- [ ] [Article: Analysis of Data Science Interview Questions](https://medium.com/acing-ai/analysis-of-data-science-interview-questions-424b7390555f)
-- [ ] [Article: Visa Data Science Interviews](https://medium.com/acing-ai/visa-inc-data-science-interviews-d0ec7ec01e47)
 - [ ] [Article: Data Science Quiz— Part 1](https://medium.com/acing-ai/data-science-quiz-part-1-2ff84ef9741e)
 - [ ] [Book: Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
 - [X] [Datacamp: Preparing for Statistics Interview Questions in Python](https://www.datacamp.com/courses/preparing-for-statistics-interview-questions-in-python)
@@ -2220,7 +2153,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [X] [Udacity: Full-Stack Interview Prep](https://www.udacity.com/course/full-stack-interview-prep--ud252)
 - [ ] [Udacity: Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243)
 - [ ] [Udacity: Craft Your Cover Letter](https://www.udacity.com/course/craft-your-cover-letter--ud244)
-- [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [X] [Youtube: Panel Discussion: Do I need a PhD to work in ML? (Full Stack Deep Learning - Spring 2021)](https://youtu.be/sTxL2lspnTU?list=LL)
 - [X] [Youtube: The Importance of Writing in a Tech Career - Eugene Yan](https://youtu.be/vXWGd7olv3c)
 - [X] [Youtube: How to prepare for Machine Learning interviews- Part 1 | Applied AI Course](https://youtu.be/sLAnpLlkh9U?list=LL)
