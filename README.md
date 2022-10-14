@@ -328,6 +328,10 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 
 |Concept|Resource|Done|
 |---|---|---|
+|Theory|[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)||
+||[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)||
+||[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)||
+||[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)||
 |FastAPI|[Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)||
 ||[Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)|✓|
 ||[Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)|✓|
@@ -360,10 +364,9 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 
 <details>
 <summary>Infrastructure and System Design</summary>
+
 |Concept|Resource|Done|
 |---|---|---|
-||[Article: Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)|✓|
-||[Article: Combining rule engines and machine learning](http://nlathia.github.io/2020/10/ML-and-rule-engines.html)|✓|
 ||[Article: Batch Inference vs Online Inference](https://mlinproduction.com/batch-inference-vs-online-inference/)|✓|
 ||[Article: Machine Learning System Design: Real-time processing](https://medium.com/acing-ai/machine-learning-system-design-real-time-processing-6a952793925)||
 ||[Article: Machine Learning System Design: Models-as-a-service](https://medium.com/acing-ai/machine-learning-system-design-models-as-a-service-32666eba0e6)||
@@ -373,64 +376,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Article: The Challenges of Online Inference (Deployment Series: Guide 04)](https://mlinproduction.com/the-challenges-of-online-inference-deployment-series-04/)|✓|
 ||[Article: Online Inference for ML Deployment (Deployment Series: Guide 05)](https://mlinproduction.com/online-inference-for-ml-deployment-deployment-series-05/)|✓|
 ||[Article: Model Registries for ML Deployment (Deployment Series: Guide 06)](https://mlinproduction.com/model-registries-for-ml-deployment-deployment-series-06/)|✓|
-||[Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)|✓|
-||[Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)|✓|
-||[Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)|✓|
-||[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)||
-||[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)||
-||[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)||
-||[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)||
-||[Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`|✓|
-||[Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)|✓|
-||[Article: Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)|✓|
-||[Article: Getting machine learning to production](http://veekaybee.github.io/2020/06/09/ml-in-prod/)|✓|
-||[Article: How to build scalable Machine Learning systems — Part 1/2](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)|✓|
-||[Article: How to properly ship and deploy your machine learning model](https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4)|✓|
-||[Article: How to put machine learning models into production](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)|✓|
-||[Article: Key Concepts for Deploying Machine Learning Models to Mobile](https://spell.ml/blog/key-concepts-for-deploying-machine-learning-models-X7Q0phIAACIAqMWr)|✓|
-||[Article: Machine Learning to Production](https://vikramriyer.github.io/machine-learning-to-production/#)|✓|
-||[Article: Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)|✓|
-||[Article: ML Infrastructure Tools for Model Building](https://towardsdatascience.com/ml-infrastructure-tools-for-model-building-464770ac4fec)||
-||[Article: ML Infrastructure Tools for Production (Part 1)](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb)||
-||[Article: ML Infrastructure Tools for Production](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)||
-||[Article: How to Deploy a Machine Learning Model](https://www.maartengrootendorst.com/blog/deploy/)|✓|
-||[Article: Building a feature store](http://nlathia.github.io/2020/12/Building-a-feature-store.html)|✓|
-||[Article: Model artifacts: the war stories](http://nlathia.github.io/2020/09/Model-artifacts-war-stories.html)|✓|
-||[Article: Machine learning system design](https://medium.com/acing-ai/machine-learning-system-design-c3a35c7df07d)||
-||[Article: What is ML model governance?](https://medium.com/acing-ai/what-is-ml-model-governance-ce1c3d452e6)||
-||[Article: Building scalable and efficient ML Pipelines](https://medium.com/acing-ai/building-scalable-and-efficient-ml-pipelines-a9f61d2ecbbd)||
-||[Article: What are common dataset challenges at scale?](https://medium.com/acing-ai/what-are-common-dataset-challenges-at-scale-6c440440d41d)||
-||[Article: How to technically distinguish among data projects?](https://medium.com/acing-ai/how-to-technically-distinguish-among-data-projects-5792dda86cc0)||
-||[Article: Securing ML applications](https://medium.com/acing-ai/securing-ml-applications-efa1bb7d75bd)||
-||[Article: Data Pipelines — Agile considerations](https://medium.com/acing-ai/data-pipelines-agile-considerations-8b1933909bb1)||
-||[Article: Data Lineage — An Operational perspective](https://medium.com/acing-ai/data-lineage-an-operational-perspective-d807e52e2198)||
-||[Article: The Ultimate Guide to Model Retraining](https://mlinproduction.com/model-retraining/)||
-||[Book: Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)||
-||[Doc: Lecture 3: Data engineering](https://docs.google.com/document/d/1b9iuZiDEGVLHyMmnf6w2y1aN6yWQhAyqk3GHlpI9q6M/edit)||
-||[Datacamp: Data Engineering for Everyone](https://www.datacamp.com/courses/data-engineering-for-everyone)|✓|
-||[Youtube: Applied ML in Production](https://www.youtube.com/playlist?list=PLqy_sIcckLC2jrxQhyqWDhL_9Uwxz8UFq)|✓|
-||[Youtube: SE4AI: Software Architecture of AI-Enabled Systems](https://www.youtube.com/watch?v=KIC-sFz5OT8) `1:14:24`||
-||[Youtube: SE4AI: Invited Talk Molham Aref "Business Systems with Machine Learning"](https://www.youtube.com/watch?v=_bvrzYOA8dY) `0:47:53`||
-||[Youtube: MLOps #4: Shubhi Jain - Building an ML Platform @SurveyMonkey](https://www.youtube.com/watch?v=oq1g4s2dUHE) `0:55:42`||
-||[Youtube: MLOps Meetup #6: Mid-Scale Production Feature Engineering with Dr. Venkata Pingali](https://www.youtube.com/watch?v=1CcYuVVwOGg) `1:01:35`||
-||[Youtube: MLOps meetup #5 High Stakes ML with Flavio CLesio](https://www.youtube.com/watch?v=9g4deV1uNZo) `0:55:27`||
-||[Youtube: MLOps meetup #7 Alex Spanos // TrueLayer 's MLOps Pipeline](https://www.youtube.com/watch?v=cUxK28ocZcw) `0:56:17`||
-||[Youtube: #11 Machine Learning at scale in Mercado Libre with Carlos de la Torre](https://www.youtube.com/watch?v=ypySVdT9U7Q) `0:59:28`||
-||[Youtube: MLOps #14: Kubeflow vs MLflow with Byron Allen](https://www.youtube.com/watch?v=TsGQZ0D3688) `0:54:57`||
-||[Youtube: MLOps #15 - Scaling Human in the Loop Machine Learning with Robert Munro](https://www.youtube.com/watch?v=LwbbGsuNpao) `0:55:04`||
-||[Youtube: MLOps #18 // Nubank - Running a fintech on ML](https://www.youtube.com/watch?v=ry_P5D_d7XA) `0:53:19`||
-||[Youtube: Feature Stores: An essential part of the ML stack to build great data / Kevin Stumpf - CTO at Tecton](https://www.youtube.com/watch?v=IjO8VUCIZxc) `1:05:46`||
-||[Youtube: MLOps #31 Path to Production and Monetizing Machine Learning // Vin Vashishta - Data Scientist](https://www.youtube.com/watch?v=voO0B0_BsuQ) `0:56:35`||
-||[Youtube: MLOps #35: Streaming Machine Learning with Apache Kafka and Tiered Storage // Kai Waehner, Confluent](https://www.youtube.com/watch?v=Ur969-WX1BY) `0:52:50`||
-||[Youtube: Luigi in Production // MLOps Coffee Sessions #18 // Luigi Patruno ML in Production](https://www.youtube.com/watch?v=ShBod1yXUeg) `0:47:23`||
-||[Youtube: The Current MLOps Landscape // Nathan Benaich & Timothy Chen // MLOps Meetup #43](https://www.youtube.com/watch?v=i6HZ2vjFLIs) `0:58:31`||
-||[Stanford MLSys Seminar Episode 0: ML + Systems](https://www.youtube.com/watch?v=OEiNnfdxBRE) `0:11:49`|✓|
-||[Stanford MLSys Seminar Episode 1: Marco Tulio Ribeiro](https://www.youtube.com/watch?v=VqiTtdY58Ts) `1:00:38`||
-||[Stanford MLSys Seminar Episode 2: Matei Zaharia](https://www.youtube.com/watch?v=nCQ9WqXPIS4) `0:59:44`||
-||[Stanford MLSys Seminar Episode 3: Virginia Smith](https://www.youtube.com/watch?v=laCyJICLyWg) `1:00:55`||
-||[Stanford MLSys Seminar Episode 4: Alex Ratner](https://www.youtube.com/watch?v=pDVV4zKNqIE) `1:13:34`||
-||[Stanford MLSys Seminar Episode 5: Chip Huyen](https://www.youtube.com/watch?v=c_AUuTuPA5k) `1:06:44`|✓|
-||[Youtube: Xavier Amatriain on Practical Deep Learning Systems (Full Stack Deep Learning - November 2019)](https://www.youtube.com/watch?v=5ygO8FxNB8c&list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib&index=4)||
 ||[Youtube: A friendly introduction to System Design](https://www.youtube.com/watch?v=quLrc3PbuIw)||
 ||[Youtube: Avoid cascading failures in a distributed system](https://www.youtube.com/watch?v=xrizarXJgC8)||
 ||[Youtube: How databases scale writes: The power of the log](https://www.youtube.com/watch?v=_5vrfuwhvlQ)||
@@ -465,6 +410,55 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Youtube: Whatsapp System Design: Chat Messaging Systems for Interviews](https://www.youtube.com/watch?v=vvhC64hQZMk)||
 ||[Youtube: How Netflix onboards new content: Video Processing at scale](https://www.youtube.com/watch?v=x9Hrn0oNmJM)||
 ||[Youtube: System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)||
+||[Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)|✓|
+||[Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)|✓|
+||[Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`|✓|
+||[Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)|✓|
+||[Article: Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)|✓|
+||[Article: Getting machine learning to production](http://veekaybee.github.io/2020/06/09/ml-in-prod/)|✓|
+||[Article: How to build scalable Machine Learning systems — Part 1/2](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)|✓|
+||[Article: How to properly ship and deploy your machine learning model](https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4)|✓|
+||[Article: How to put machine learning models into production](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)|✓|
+||[Article: Key Concepts for Deploying Machine Learning Models to Mobile](https://spell.ml/blog/key-concepts-for-deploying-machine-learning-models-X7Q0phIAACIAqMWr)|✓|
+||[Article: Machine Learning to Production](https://vikramriyer.github.io/machine-learning-to-production/#)|✓|
+||[Article: Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)|✓|
+||[Article: ML Infrastructure Tools for Model Building](https://towardsdatascience.com/ml-infrastructure-tools-for-model-building-464770ac4fec)||
+||[Article: ML Infrastructure Tools for Production (Part 1)](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb)||
+||[Article: ML Infrastructure Tools for Production](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)||
+||[Article: How to Deploy a Machine Learning Model](https://www.maartengrootendorst.com/blog/deploy/)|✓|
+||[Article: Building a feature store](http://nlathia.github.io/2020/12/Building-a-feature-store.html)|✓|
+||[Article: Model artifacts: the war stories](http://nlathia.github.io/2020/09/Model-artifacts-war-stories.html)|✓|
+||[Article: Securing ML applications](https://medium.com/acing-ai/securing-ml-applications-efa1bb7d75bd)||
+||[Article: Data Pipelines — Agile considerations](https://medium.com/acing-ai/data-pipelines-agile-considerations-8b1933909bb1)||
+||[Article: Data Lineage — An Operational perspective](https://medium.com/acing-ai/data-lineage-an-operational-perspective-d807e52e2198)||
+||[Article: The Ultimate Guide to Model Retraining](https://mlinproduction.com/model-retraining/)||
+||[Book: Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)||
+||[Doc: Lecture 3: Data engineering](https://docs.google.com/document/d/1b9iuZiDEGVLHyMmnf6w2y1aN6yWQhAyqk3GHlpI9q6M/edit)||
+||[Datacamp: Data Engineering for Everyone](https://www.datacamp.com/courses/data-engineering-for-everyone)|✓|
+||[Youtube: Applied ML in Production](https://www.youtube.com/playlist?list=PLqy_sIcckLC2jrxQhyqWDhL_9Uwxz8UFq)|✓|
+||[Youtube: SE4AI: Software Architecture of AI-Enabled Systems](https://www.youtube.com/watch?v=KIC-sFz5OT8) `1:14:24`||
+||[Youtube: SE4AI: Invited Talk Molham Aref "Business Systems with Machine Learning"](https://www.youtube.com/watch?v=_bvrzYOA8dY) `0:47:53`||
+||[Youtube: MLOps #4: Shubhi Jain - Building an ML Platform @SurveyMonkey](https://www.youtube.com/watch?v=oq1g4s2dUHE) `0:55:42`||
+||[Youtube: MLOps Meetup #6: Mid-Scale Production Feature Engineering with Dr. Venkata Pingali](https://www.youtube.com/watch?v=1CcYuVVwOGg) `1:01:35`||
+||[Youtube: MLOps meetup #5 High Stakes ML with Flavio CLesio](https://www.youtube.com/watch?v=9g4deV1uNZo) `0:55:27`||
+||[Youtube: MLOps meetup #7 Alex Spanos // TrueLayer 's MLOps Pipeline](https://www.youtube.com/watch?v=cUxK28ocZcw) `0:56:17`||
+||[Youtube: #11 Machine Learning at scale in Mercado Libre with Carlos de la Torre](https://www.youtube.com/watch?v=ypySVdT9U7Q) `0:59:28`||
+||[Youtube: MLOps #14: Kubeflow vs MLflow with Byron Allen](https://www.youtube.com/watch?v=TsGQZ0D3688) `0:54:57`||
+||[Youtube: MLOps #15 - Scaling Human in the Loop Machine Learning with Robert Munro](https://www.youtube.com/watch?v=LwbbGsuNpao) `0:55:04`||
+||[Youtube: MLOps #18 // Nubank - Running a fintech on ML](https://www.youtube.com/watch?v=ry_P5D_d7XA) `0:53:19`||
+||[Youtube: Feature Stores: An essential part of the ML stack to build great data / Kevin Stumpf - CTO at Tecton](https://www.youtube.com/watch?v=IjO8VUCIZxc) `1:05:46`||
+||[Youtube: MLOps #31 Path to Production and Monetizing Machine Learning // Vin Vashishta - Data Scientist](https://www.youtube.com/watch?v=voO0B0_BsuQ) `0:56:35`||
+||[Youtube: MLOps #35: Streaming Machine Learning with Apache Kafka and Tiered Storage // Kai Waehner, Confluent](https://www.youtube.com/watch?v=Ur969-WX1BY) `0:52:50`||
+||[Youtube: Luigi in Production // MLOps Coffee Sessions #18 // Luigi Patruno ML in Production](https://www.youtube.com/watch?v=ShBod1yXUeg) `0:47:23`||
+||[Youtube: The Current MLOps Landscape // Nathan Benaich & Timothy Chen // MLOps Meetup #43](https://www.youtube.com/watch?v=i6HZ2vjFLIs) `0:58:31`||
+||[Stanford MLSys Seminar Episode 0: ML + Systems](https://www.youtube.com/watch?v=OEiNnfdxBRE) `0:11:49`|✓|
+||[Stanford MLSys Seminar Episode 1: Marco Tulio Ribeiro](https://www.youtube.com/watch?v=VqiTtdY58Ts) `1:00:38`||
+||[Stanford MLSys Seminar Episode 2: Matei Zaharia](https://www.youtube.com/watch?v=nCQ9WqXPIS4) `0:59:44`||
+||[Stanford MLSys Seminar Episode 3: Virginia Smith](https://www.youtube.com/watch?v=laCyJICLyWg) `1:00:55`||
+||[Stanford MLSys Seminar Episode 4: Alex Ratner](https://www.youtube.com/watch?v=pDVV4zKNqIE) `1:13:34`||
+||[Stanford MLSys Seminar Episode 5: Chip Huyen](https://www.youtube.com/watch?v=c_AUuTuPA5k) `1:06:44`|✓|
+||[Youtube: Xavier Amatriain on Practical Deep Learning Systems (Full Stack Deep Learning - November 2019)](https://www.youtube.com/watch?v=5ygO8FxNB8c&list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib&index=4)||
+
 </details>
 
 <details>
