@@ -328,15 +328,15 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 
 |Concept|Resource|Done|
 |---|---|---|
-||[Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)||
-||[Article: Selecting gunicorn worker types for different python web applications.](https://medium.com/@nhudinhtuan/gunicorn-worker-types-practice-advice-for-better-performance-7a299bb8f929)|✓|
-||[Article: Better performance by optimizing Gunicorn config](https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7)|✓|
-||[Article: Understanding TensorFlow Serving](https://medium.com/acing-ai/understanding-tensorflow-serving-faca576b558c)||
-||[Article: Serving models using Tensorflow Serving and Docker](https://medium.com/acing-ai/model-serving-using-tensorflow-serving-and-docker-492a347eb934)||
+|FastAPI|[Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)||
 ||[Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)|✓|
 ||[Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)|✓|
 ||[Youtube: Python pydantic Introduction – Give your data classes super powers](https://www.youtube.com/watch?v=WJmqgJn9TXg)|✓|
-||[Youtube: PyData Vancouver meetup: cortex.dev : Serving machine learning models in production](https://www.youtube.com/watch?v=_2HMDhgPkSQ)|✓|
+|Gunicorn|[Article: Selecting gunicorn worker types for different python web applications.](https://medium.com/@nhudinhtuan/gunicorn-worker-types-practice-advice-for-better-performance-7a299bb8f929)|✓|
+||[Article: Better performance by optimizing Gunicorn config](https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb547674b7)|✓|
+|Tensorflow Serving|[Article: Understanding TensorFlow Serving](https://medium.com/acing-ai/understanding-tensorflow-serving-faca576b558c)||
+||[Article: Serving models using Tensorflow Serving and Docker](https://medium.com/acing-ai/model-serving-using-tensorflow-serving-and-docker-492a347eb934)||
+|Cortex|[Youtube: PyData Vancouver meetup: cortex.dev : Serving machine learning models in production](https://www.youtube.com/watch?v=_2HMDhgPkSQ)|✓|
 |Celery|[Article: Celery Execution Pools: What is it all about?](https://www.distributedpython.com/2018/10/26/celery-execution-pool/)|✓|
 ||[Article: Distill: Why do we need Flask, Celery, and Redis? (with McDonalds in Between)](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/)|✓|
 ||[Article: Celery: an overview of the architecture and how it works](https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/)|✓|
@@ -362,10 +362,8 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 <summary>Infrastructure and System Design</summary>
 |Concept|Resource|Done|
 |---|---|---|
-||[Article: The implications of pickling ML models](https://uwekorn.com/2021/04/26/implications-of-pickling-ml-models.html)||
-||[Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)|✓|
-||[Article: How to Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/)|✓|
-||[Article: MLOps concepts for busy engineers: model serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS)|✓|
+||[Article: Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)|✓|
+||[Article: Combining rule engines and machine learning](http://nlathia.github.io/2020/10/ML-and-rule-engines.html)|✓|
 ||[Article: Batch Inference vs Online Inference](https://mlinproduction.com/batch-inference-vs-online-inference/)|✓|
 ||[Article: Machine Learning System Design: Real-time processing](https://medium.com/acing-ai/machine-learning-system-design-real-time-processing-6a952793925)||
 ||[Article: Machine Learning System Design: Models-as-a-service](https://medium.com/acing-ai/machine-learning-system-design-models-as-a-service-32666eba0e6)||
@@ -375,6 +373,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Article: The Challenges of Online Inference (Deployment Series: Guide 04)](https://mlinproduction.com/the-challenges-of-online-inference-deployment-series-04/)|✓|
 ||[Article: Online Inference for ML Deployment (Deployment Series: Guide 05)](https://mlinproduction.com/online-inference-for-ml-deployment-deployment-series-05/)|✓|
 ||[Article: Model Registries for ML Deployment (Deployment Series: Guide 06)](https://mlinproduction.com/model-registries-for-ml-deployment-deployment-series-06/)|✓|
+||[Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)|✓|
 ||[Video: You trained a machine learning model. Now what?](https://www.youtube.com/watch?v=Vugbn17LDPQ)|✓|
 ||[Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)|✓|
 ||[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)||
@@ -383,8 +382,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)||
 ||[Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`|✓|
 ||[Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)|✓|
-||[Article: Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)|✓|
-||[Article: Combining rule engines and machine learning](http://nlathia.github.io/2020/10/ML-and-rule-engines.html)|✓|
 ||[Article: Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)|✓|
 ||[Article: Getting machine learning to production](http://veekaybee.github.io/2020/06/09/ml-in-prod/)|✓|
 ||[Article: How to build scalable Machine Learning systems — Part 1/2](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)|✓|
@@ -434,14 +431,13 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Stanford MLSys Seminar Episode 4: Alex Ratner](https://www.youtube.com/watch?v=pDVV4zKNqIE) `1:13:34`||
 ||[Stanford MLSys Seminar Episode 5: Chip Huyen](https://www.youtube.com/watch?v=c_AUuTuPA5k) `1:06:44`|✓|
 ||[Youtube: Xavier Amatriain on Practical Deep Learning Systems (Full Stack Deep Learning - November 2019)](https://www.youtube.com/watch?v=5ygO8FxNB8c&list=PL1T8fO7ArWlf4EkqeguoD70LsnOJ7c9Ib&index=4)||
-||[Article: Decoding Netflix: Metaflow](https://medium.com/acing-ai/decoding-netflix-metaflow-2ad84b36199e)||
+||[Youtube: A friendly introduction to System Design](https://www.youtube.com/watch?v=quLrc3PbuIw)||
 ||[Youtube: Avoid cascading failures in a distributed system](https://www.youtube.com/watch?v=xrizarXJgC8)||
 ||[Youtube: How databases scale writes: The power of the log](https://www.youtube.com/watch?v=_5vrfuwhvlQ)||
 ||[Youtube: How to avoid a single point of failure in distributed systems](https://www.youtube.com/watch?v=-BOysyYErLY)||
 ||[Youtube: How to start with distributed systems? Beginner's guide to scaling systems.](https://www.youtube.com/watch?v=SqcXvc3ZmRU)||
 ||[Youtube: What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)||
 ||[Youtube: Why do Databases fail? AntiPatterns to avoid!](https://www.youtube.com/watch?v=9T-gNZ5bGCw)|✓|
-||[Youtube: A friendly introduction to System Design](https://www.youtube.com/watch?v=quLrc3PbuIw)||
 ||[Youtube: Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)||
 ||[Youtube: Introduction to NoSQL databases](https://www.youtube.com/watch?v=xQnIN9bW0og)||
 ||[Youtube: System Design Basics: Horizontal vs. Vertical Scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0)||
@@ -452,11 +448,8 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Youtube: What is a microservice architecture and it's advantages?](https://www.youtube.com/watch?v=qYhRvH9tJKw)|✓|
 ||[Youtube: What is Consistent Hashing and Where is it used?](https://www.youtube.com/watch?v=zaRkONvyGr8)|✓|
 ||[Youtube: What is a Message Queue and Where is it used?](https://www.youtube.com/watch?v=oUJbuFMyBDk)|✓|
-||[Youtube: 5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4)||
-||[Youtube: Whatsapp System Design: Chat Messaging Systems for Interviews](https://www.youtube.com/watch?v=vvhC64hQZMk)||
 ||[Youtube: Capacity Estimation: How much data does YouTube store daily?](https://www.youtube.com/watch?v=0myM0k1mjZw)||
 ||[Youtube: What is Database Sharding?](https://www.youtube.com/watch?v=5faMjKuB9bc)||
-||[Youtube: How Netflix onboards new content: Video Processing at scale](https://www.youtube.com/watch?v=x9Hrn0oNmJM)||
 ||[Youtube: What is the Publisher Subscriber Model?](https://www.youtube.com/watch?v=FMhbR_kQeHw)||
 ||[Youtube: Distributed Consensus and Data Replication strategies on the server](https://www.youtube.com/watch?v=GeGxgmPTe4c)||
 ||[Youtube: System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)||
@@ -469,8 +462,9 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Youtube: Relational database index vs. NoSQL index](https://www.youtube.com/watch?v=mTNkqMDCasI)||
 ||[Youtube: How to start with distributed systems? Beginner's guide to scaling systems.](https://www.youtube.com/watch?v=SqcXvc3ZmRU)||
 ||[Youtube: How databases scale writes: The power of the log](https://www.youtube.com/watch?v=_5vrfuwhvlQ)||
+||[Youtube: Whatsapp System Design: Chat Messaging Systems for Interviews](https://www.youtube.com/watch?v=vvhC64hQZMk)||
+||[Youtube: How Netflix onboards new content: Video Processing at scale](https://www.youtube.com/watch?v=x9Hrn0oNmJM)||
 ||[Youtube: System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)||
-||[Youtube: Human-Centric Machine Learning Infrastructure @Netflix](https://www.youtube.com/watch?v=XV5VGddmP24&feature=youtu.be)|✓|
 </details>
 
 <details>
