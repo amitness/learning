@@ -6,6 +6,63 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ## Strengthen generic core skills
 
 <details>
+<summary>Programming (Python)</summary>
+
+- [X] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
+- [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
+- [ ] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
+- [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
+- [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
+- [X] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
+- [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
+- [ ] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+- [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+- [ ] [Article: A Python prompt into a running process: debugging with Manhole](https://pythonspeed.com/articles/live-debugging-python/)
+- [X] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
+- [X] [Book: A Byte of Python](https://python.swaroopch.com)
+- [X] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
+- [ ] [Book: Python 201](https://leanpub.com/python201)
+- [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
+- [ ] [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
+- [X] [Calmcode: ray](https://calmcode.io/ray/introduction.html)
+- [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
+- [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
+- [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
+- [X] [Datacamp: Python for Spreadsheet Users](https://www.datacamp.com/courses/python-for-spreadsheet-users)
+- [X] [Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
+- [X] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+- [X] [Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+- [X] [Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
+- [X] [Datacamp: Intro to Python for Finance](https://www.datacamp.com/courses/intro-to-python-for-finance)
+- [X] [Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
+- [X] [Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
+- [ ] [Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
+- [X] [edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)
+- [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
+- [X] [Google's Python Class](https://developers.google.com/edu/python/)
+- [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
+- [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
+- [X] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
+- [X] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
+- [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
+- [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
+</details>
+
+
+<details>
+<summary>Data Structures and Algorithms</summary>
+
+- [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
+- [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
+- [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
+- [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+- [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
+- [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
+</details>
+
+
+<details>
 <summary>Databases</summary>
 
 - [X] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
@@ -141,48 +198,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Youtube: Lecture 10: ML Testing & Explainability (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=K42wdqpZymw) `1:41:12`
 </details>
 
-<details>
-<summary>Programming (Python)</summary>
-
-- [X] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
-- [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
-- [ ] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
-- [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
-- [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
-- [X] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
-- [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
-- [ ] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
-- [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
-- [ ] [Article: A Python prompt into a running process: debugging with Manhole](https://pythonspeed.com/articles/live-debugging-python/)
-- [X] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
-- [X] [Book: A Byte of Python](https://python.swaroopch.com)
-- [X] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
-- [ ] [Book: Python 201](https://leanpub.com/python201)
-- [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
-- [ ] [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
-- [X] [Calmcode: ray](https://calmcode.io/ray/introduction.html)
-- [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
-- [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
-- [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
-- [X] [Datacamp: Python for Spreadsheet Users](https://www.datacamp.com/courses/python-for-spreadsheet-users)
-- [X] [Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
-- [X] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
-- [X] [Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
-- [X] [Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
-- [X] [Datacamp: Intro to Python for Finance](https://www.datacamp.com/courses/intro-to-python-for-finance)
-- [X] [Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
-- [X] [Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
-- [ ] [Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
-- [X] [edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)
-- [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
-- [X] [Google's Python Class](https://developers.google.com/edu/python/)
-- [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
-- [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
-- [X] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
-- [X] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
-- [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
-- [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
-</details>
 
 
 <details>
@@ -320,17 +335,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 - [ ] [Youtube: SE4AI: Infrastructure Quality, Deployment and Operations](https://www.youtube.com/watch?v=iBaJgWjpK24) `1:04:54`
 </details>
 
-<details>
-<summary>Data Structures and Algorithms</summary>
-
-- [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
-- [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
-- [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
-- [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
-- [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
-- [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
-</details>
 
 <details>
 <summary>Frontend Technology</summary>
