@@ -254,6 +254,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: The Challenges of Online Inference (Deployment Series: Guide 04)](https://mlinproduction.com/the-challenges-of-online-inference-deployment-series-04/)|✓|
 ||[Article: Online Inference for ML Deployment (Deployment Series: Guide 05)](https://mlinproduction.com/online-inference-for-ml-deployment-deployment-series-05/)|✓|
 ||[Article: Model Registries for ML Deployment (Deployment Series: Guide 06)](https://mlinproduction.com/model-registries-for-ml-deployment-deployment-series-06/)|✓|
+
 ||[Youtube: A friendly introduction to System Design](https://www.youtube.com/watch?v=quLrc3PbuIw)||
 ||[Youtube: Avoid cascading failures in a distributed system](https://www.youtube.com/watch?v=xrizarXJgC8)||
 ||[Youtube: How databases scale writes: The power of the log](https://www.youtube.com/watch?v=_5vrfuwhvlQ)||
@@ -344,7 +345,7 @@ A running log of things I'm learning to build strong core software engineering s
 	
 |Concept|Resource|Done|
 |---|---|---|
-|Probability and Statistics|[Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)|✓|
+|Probability|[Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)|✓|
 ||[Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)||
 ||[Article: Entropy of a probability distribution — in layman’s terms](https://medium.com/@ajitrajasekharan/entropy-of-a-probability-distribution-explained-in-laymans-terms-8a4139b329bc)||
 ||[Article: KL Divergence — in layman’s terms](https://medium.com/@ajitrajasekharan/what-is-kl-divergence-d1fb7921ee5b)||
@@ -352,9 +353,9 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Cross-Entropy and KL Divergence](https://medium.com/swlh/cross-entropy-and-kl-divergence-522d9f71bd3d)||
 ||[Article: Why Randomness Is Information?](https://medium.com/swlh/why-randomness-is-information-f2468966b29d)||
 ||[Article: Basic Probability Theory](https://medium.com/swlh/probability-for-machine-learning-and-data-science-cccd4f4f1df1)||
-||[Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)|✓|
-||[Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)|✓|
 ||[Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)|✓|
+|Statistics|[Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)|✓|
+||[Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)|✓|
 ||[Datacamp: Hypothesis Testing in Python](https://www.datacamp.com/courses/hypothesis-testing-in-python)|✓|
 ||[Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)|✓|
 ||[Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)|✓|
