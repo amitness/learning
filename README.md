@@ -118,7 +118,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Lecture 7: Debugging and Profiling (2020)](https://www.youtube.com/watch?v=l812pUnKxME) `0:54:13`|✓|
 ||[Lecture 8: Metaprogramming (2020)](https://www.youtube.com/watch?v=_Ms1Z4xfqv4) `0:49:52`|✓|
 ||[Lecture 9: Security and Cryptography (2020)](https://www.youtube.com/watch?v=tjwobAmnKTo) `1:00:59`||
-||[Lecture 10: Potpourri (2020)](https://www.youtube.com/watch?v=JZDt-PRq0uo) `0:57:54`||
 ||[Lecture 11: Q&A (2020)](https://www.youtube.com/watch?v=Wz50FvGG6xU) `0:53:52`||
 ||[Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)|✓|
 ||[Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)|✓|
