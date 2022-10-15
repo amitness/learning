@@ -116,7 +116,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Lecture 5: Command-line Environment (2020)](https://www.youtube.com/watch?v=e8BO_dYxk5c) `0:56:06`|✓|
 ||[Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`||
 ||[Lecture 7: Debugging and Profiling (2020)](https://www.youtube.com/watch?v=l812pUnKxME) `0:54:13`|✓|
-||[Lecture 8: Metaprogramming (2020)](https://www.youtube.com/watch?v=_Ms1Z4xfqv4) `0:49:52`||
+||[Lecture 8: Metaprogramming (2020)](https://www.youtube.com/watch?v=_Ms1Z4xfqv4) `0:49:52`|✓|
 ||[Lecture 9: Security and Cryptography (2020)](https://www.youtube.com/watch?v=tjwobAmnKTo) `1:00:59`||
 ||[Lecture 10: Potpourri (2020)](https://www.youtube.com/watch?v=JZDt-PRq0uo) `0:57:54`||
 ||[Lecture 11: Q&A (2020)](https://www.youtube.com/watch?v=Wz50FvGG6xU) `0:53:52`||
