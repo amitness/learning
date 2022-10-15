@@ -1,9 +1,9 @@
 # learning
 
-Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by building strong core skills and [adjacent skills](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
+A running log of things I'm learning to build strong core software engineering skills while also expanding breadth of knowledge on [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
 
 
-## Strengthen generic core skills
+## Core Skills
 
 <details>
 <summary>Python Programming</summary>
@@ -77,29 +77,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary>Databases</summary>
-
-|Concept|Resource|Done|
-|---|---|---|
-||[Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)|✓|
-||[Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)||
-||[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)||
-||[Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)||
-||[Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)|✓|
-||[Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)|✓|
-||[Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)||
-||[Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)|✓|
-||[Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)||
-||[Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)||
-||[Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)||
-||[Datacamp: Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)||
-||[Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)||
-||[Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)||
-||[Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)||
-</details>
-
-<details>
-<summary>Linux and Command Line</summary>
+<summary>Linux & Command Line</summary>
 
 |Concept|Resource|Done|
 |---|---|---|
@@ -147,7 +125,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary>Code Editors</summary>
+<summary>Code Editor / IDE</summary>
 
 |Concept|Resource|Done|
 |---|---|---|
@@ -163,56 +141,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Youtube: Getting Started with PyTorch in VS Code](https://youtu.be/A9lQHnFaqlU)|✓|
 ||[Youtube: What every GitHub user should know about VS Code - GitHub Satellite 2020](https://youtu.be/T6sW1Dk9B4E)|✓|
 ||[VS Code and GitHub](https://www.youtube.com/playlist?list=PLj6YeMhvp2S4UPBCWyhLPcOxGkmLI2BOz)|✓|
-</details>
-
-<details>
-<summary>Cloud Computing</summary>
-
-|Concept|Resource|Done|
-|---|---|---|
-|Theory|[Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)|✓|
-||[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)||
-|AWS|[Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)|✓|
-||[Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)|✓|
-||[Pluralsight: AWS Networking Deep Dive: Virtual Private Cloud (VPC)](https://www.pluralsight.com/courses/aws-networking-deep-dive-vpc)|✓|
-||[Pluralsight: AWS VPC Operations](https://www.pluralsight.com/courses/aws-vpc-operations)|✓|
-||[Pluralsight: Building Applications Using Elastic Beanstalk](https://www.pluralsight.com/courses/elastic-beanstalk-building-applications)|✓|
-||[Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)|✓|
-||[Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)|✓|
-||[Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)|✓|
-||[Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)|✓|
-||[Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)|✓|
-||[Whitepaper: Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)|✓|
-||[Whitepaper: Microservices on AWS](https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/microservices-on-aws.pdf)|✓|
-||[Whitepaper: Optimizing Enterprise Economics with Serverless Architectures](https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf)|✓|
-||[Whitepaper: Practicing Continuous Integration and Continuous Delivery on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)|✓|
-||[Whitepaper: Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)|✓|
-||[Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)|✓|
-||[Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)|✓|
-||[Youtube: Deploying a machine learning model to the cloud using AWS Lambda](https://www.youtube.com/watch?v=4ocbx9IeBMU&feature=youtu.be)|✓|
-||[AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)|✓|
-||[AWS: Build a Text Classification Model with AWS Glue and Amazon SageMaker](https://www.aws.training/learningobject/video?id=27225)|✓|
-||[AWS: Deep Dive on Amazon Rekognition: Building Computer Visions Based Smart Applications](https://www.aws.training/learningobject/video?id=27230)|✓|
-||[AWS: Hands-on Rekognition: Automated Video Editing](https://www.aws.training/learningobject/video?id=27229)|✓|
-||[AWS: Introduction to Amazon Comprehend](https://www.aws.training/learningobject/video?id=16626)|✓|
-||[AWS: Introduction to Amazon Comprehend Medical](https://www.aws.training/learningobject/video?id=27159)|✓|
-||[AWS: Introduction to Amazon Elastic Inference](https://www.aws.training/learningobject/video?id=27172)|✓|
-||[AWS: Introduction to Amazon Forecast](https://www.aws.training/learningobject/video?id=27163)|✓|
-||[AWS: Introduction to Amazon Lex](https://www.aws.training/learningobject/video?id=16516)|✓|
-||[AWS: Introduction to Amazon Personalize](https://www.aws.training/learningobject/video?id=27158)|✓|
-||[AWS: Introduction to Amazon Polly](https://www.aws.training/learningobject/video?id=15886)|✓|
-||[AWS: Introduction to Amazon SageMaker Ground Truth](https://www.aws.training/learningobject/video?id=27162)|✓|
-||[AWS: Introduction to Amazon SageMaker Neo](https://www.aws.training/learningobject/video?id=27160)|✓|
-||[AWS: Introduction to Amazon Transcribe](https://www.aws.training/learningobject/video?id=19443)|✓|
-||[AWS: Introduction to Amazon Translate](https://www.aws.training/learningobject/video?id=19442)|✓|
-||[AWS: Introduction to AWS Marketplace - Machine Learning Category](https://www.aws.training/learningobject/video?id=27165)|✓|
-||[AWS: Machine Learning Exam Basics](https://www.aws.training/learningobject/curriculum?id=27271)|✓|
-||[AWS: Neural Machine Translation with Sockeye](https://www.aws.training/learningobject/video?id=27236)|✓|
-||[AWS: Process Model: CRISP-DM on the AWS Stack](https://www.aws.training/learningobject/wbc?id=27200)|✓|
-||[AWS: Satellite Image Classification in SageMaker](https://www.aws.training/learningobject/video?id=27231)|✓|
-||[Datacamp: Introduction to AWS Boto in Python](https://www.datacamp.com/courses/introduction-to-aws-boto-in-python)|✓|
-||[edX: Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)|✓|
-
 </details>
 
 <details>
@@ -288,6 +216,29 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Article: Celery on Docker: From the Ground up](https://www.distributedpython.com/2018/11/15/celery-docker/)||
 ||[Article: Auto-reload Celery on code changes](https://www.distributedpython.com/2019/04/23/celery-reload/)||
 </details>
+
+<details>
+<summary>Databases</summary>
+
+|Concept|Resource|Done|
+|---|---|---|
+||[Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)|✓|
+||[Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)||
+||[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)||
+||[Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)||
+||[Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)|✓|
+||[Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)|✓|
+||[Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)||
+||[Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)|✓|
+||[Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)||
+||[Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)||
+||[Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)||
+||[Datacamp: Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)||
+||[Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)||
+||[Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)||
+||[Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)||
+</details>
+
 
 <details>
 <summary>Infrastructure and System Design</summary>
@@ -541,7 +492,43 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 
 </details>
 
+<details>
+<summary>Deployment</summary>
 
+|Concept|Resource|Done|
+|---|---|---|
+|A/B Testing|[Article: Multi-Armed Bandit (MAB) – A/B Testing Sans Regret](https://vwo.com/blog/multi-armed-bandit-algorithm/)|✓|
+||[Article: When to Run Bandit Tests Instead of A/B/n Tests](https://cxl.com/blog/bandit-tests/)|✓|
+||[Article: A/B Testing Machine Learning Models (Deployment Series: Guide 08)](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)|✓|
+||[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)||
+||[Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)||
+||[Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)||
+|Load Testing|[Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)|✓|
+|Monitoring|[Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)|✓|
+||[Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)|✓|
+||[Article: The Playbook to Monitor Your Model’s Performance in Production](https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245)||
+||[Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)|✓|
+||[Article: Preventing model drift with continuous monitoring and deployment using Github Actions and Algorithmia Insights](https://algorithmia.com/blog/preventing-model-drift-with-continuous-monitoring-and-deployment-using-github-actions-and-algorithmia-insights)|✓|
+||[Article: Continuous monitoring for data projects](https://medium.com/acing-ai/continuous-monitoring-for-data-projects-11fb1c00c7a4)||
+||[Article: Lessons Learned from 15 Years of Monitoring Machine Learning in Production](https://mlinproduction.com/lessons-learned-from-15-years-of-monitoring-machine-learning-in-production/)|✓|
+||[Article: Using Statistical Distances for Machine Learning Observability](https://towardsdatascience.com/using-statistical-distance-metrics-for-machine-learning-observability-4c874cded78)||
+||[Youtube: Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)||
+||[Article: Incident Management in Machine Learning Systems](https://medium.com/acing-ai/incident-management-in-machine-learning-systems-d69b6e39fdee)||
+||[Article: ML Infrastructure Tools — ML Observability](https://towardsdatascience.com/ml-infrastructure-tools-ml-observability-8e4d7df6db43)||
+||[Youtube: MLOps #24 Monitoring the ML stack // Lina Weichbrodt](https://www.youtube.com/watch?v=Un30yb1WlpU) `0:55:32`||
+||[Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)|✓|
+||[Youtube: Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`|✓|
+||[Youtube: OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.youtube.com/watch?v=hBMHohkRgAA)||
+||[Youtube: MLOps #28 ML Observability // Aparna Dhinakaran - Chief Product Officer at Arize AI](https://www.youtube.com/watch?v=joTF9BRwWp4) `0:55:04`||
+||[Youtube: MLOps #29 Continuous Evaluation & Model Experimentation // Danny Ma - Founder of Sydney Data Science](https://www.youtube.com/watch?v=i4QNpM20QOc) `1:00:46`||
+||[Youtube: SE4AI: Quality Assessment in Production](https://www.youtube.com/watch?v=RaaNSXKFDGk) `1:18:45`||
+||[Youtube: SE4AI: Infrastructure Quality, Deployment and Operations](https://www.youtube.com/watch?v=iBaJgWjpK24) `1:04:54`||
+
+</details>
+
+
+
+## Specialized Skills
 <details>
 <summary>Machine Learning Libraries</summary>
 
@@ -675,40 +662,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 </details>
 
 <details>
-<summary>Deployment</summary>
-
-|Concept|Resource|Done|
-|---|---|---|
-|A/B Testing|[Article: Multi-Armed Bandit (MAB) – A/B Testing Sans Regret](https://vwo.com/blog/multi-armed-bandit-algorithm/)|✓|
-||[Article: When to Run Bandit Tests Instead of A/B/n Tests](https://cxl.com/blog/bandit-tests/)|✓|
-||[Article: A/B Testing Machine Learning Models (Deployment Series: Guide 08)](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)|✓|
-||[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)||
-||[Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)||
-||[Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)||
-|Load Testing|[Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)|✓|
-|Monitoring|[Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)|✓|
-||[Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)|✓|
-||[Article: The Playbook to Monitor Your Model’s Performance in Production](https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245)||
-||[Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)|✓|
-||[Article: Preventing model drift with continuous monitoring and deployment using Github Actions and Algorithmia Insights](https://algorithmia.com/blog/preventing-model-drift-with-continuous-monitoring-and-deployment-using-github-actions-and-algorithmia-insights)|✓|
-||[Article: Continuous monitoring for data projects](https://medium.com/acing-ai/continuous-monitoring-for-data-projects-11fb1c00c7a4)||
-||[Article: Lessons Learned from 15 Years of Monitoring Machine Learning in Production](https://mlinproduction.com/lessons-learned-from-15-years-of-monitoring-machine-learning-in-production/)|✓|
-||[Article: Using Statistical Distances for Machine Learning Observability](https://towardsdatascience.com/using-statistical-distance-metrics-for-machine-learning-observability-4c874cded78)||
-||[Youtube: Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)||
-||[Article: Incident Management in Machine Learning Systems](https://medium.com/acing-ai/incident-management-in-machine-learning-systems-d69b6e39fdee)||
-||[Article: ML Infrastructure Tools — ML Observability](https://towardsdatascience.com/ml-infrastructure-tools-ml-observability-8e4d7df6db43)||
-||[Youtube: MLOps #24 Monitoring the ML stack // Lina Weichbrodt](https://www.youtube.com/watch?v=Un30yb1WlpU) `0:55:32`||
-||[Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)|✓|
-||[Youtube: Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`|✓|
-||[Youtube: OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.youtube.com/watch?v=hBMHohkRgAA)||
-||[Youtube: MLOps #28 ML Observability // Aparna Dhinakaran - Chief Product Officer at Arize AI](https://www.youtube.com/watch?v=joTF9BRwWp4) `0:55:04`||
-||[Youtube: MLOps #29 Continuous Evaluation & Model Experimentation // Danny Ma - Founder of Sydney Data Science](https://www.youtube.com/watch?v=i4QNpM20QOc) `1:00:46`||
-||[Youtube: SE4AI: Quality Assessment in Production](https://www.youtube.com/watch?v=RaaNSXKFDGk) `1:18:45`||
-||[Youtube: SE4AI: Infrastructure Quality, Deployment and Operations](https://www.youtube.com/watch?v=iBaJgWjpK24) `1:04:54`||
-
-</details>
-
-<details>
 <summary>Docker and Containerization</summary>
 
 |Concept|Resource|Done|
@@ -774,6 +727,56 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Article: Kubernetes for Python Developers: Part 1](https://www.distributedpython.com/2018/11/28/kubernetes-python-developers-part-1/)||
 ||[Doc: Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)|✓|
 ||[Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)||
+</details>
+
+<details>
+<summary>Cloud Computing</summary>
+
+|Concept|Resource|Done|
+|---|---|---|
+|Theory|[Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)|✓|
+||[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)||
+|AWS|[Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)|✓|
+||[Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)|✓|
+||[Pluralsight: AWS Networking Deep Dive: Virtual Private Cloud (VPC)](https://www.pluralsight.com/courses/aws-networking-deep-dive-vpc)|✓|
+||[Pluralsight: AWS VPC Operations](https://www.pluralsight.com/courses/aws-vpc-operations)|✓|
+||[Pluralsight: Building Applications Using Elastic Beanstalk](https://www.pluralsight.com/courses/elastic-beanstalk-building-applications)|✓|
+||[Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)|✓|
+||[Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)|✓|
+||[Whitepaper: Architecting for the Cloud AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)|✓|
+||[Whitepaper: AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)|✓|
+||[Whitepaper: AWS Security Best Practices](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)|✓|
+||[Whitepaper: Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)|✓|
+||[Whitepaper: Microservices on AWS](https://docs.aws.amazon.com/aws-technical-content/latest/microservices-on-aws/microservices-on-aws.pdf)|✓|
+||[Whitepaper: Optimizing Enterprise Economics with Serverless Architectures](https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf)|✓|
+||[Whitepaper: Practicing Continuous Integration and Continuous Delivery on AWS](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)|✓|
+||[Whitepaper: Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)|✓|
+||[Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)|✓|
+||[Whitepaper: Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)|✓|
+||[Youtube: Deploying a machine learning model to the cloud using AWS Lambda](https://www.youtube.com/watch?v=4ocbx9IeBMU&feature=youtu.be)|✓|
+||[AWS: Amazon Transcribe Deep Dive: Using Feedback Loops to Improve Confidence Level of Transcription](https://www.aws.training/learningobject/video?id=27495)|✓|
+||[AWS: Build a Text Classification Model with AWS Glue and Amazon SageMaker](https://www.aws.training/learningobject/video?id=27225)|✓|
+||[AWS: Deep Dive on Amazon Rekognition: Building Computer Visions Based Smart Applications](https://www.aws.training/learningobject/video?id=27230)|✓|
+||[AWS: Hands-on Rekognition: Automated Video Editing](https://www.aws.training/learningobject/video?id=27229)|✓|
+||[AWS: Introduction to Amazon Comprehend](https://www.aws.training/learningobject/video?id=16626)|✓|
+||[AWS: Introduction to Amazon Comprehend Medical](https://www.aws.training/learningobject/video?id=27159)|✓|
+||[AWS: Introduction to Amazon Elastic Inference](https://www.aws.training/learningobject/video?id=27172)|✓|
+||[AWS: Introduction to Amazon Forecast](https://www.aws.training/learningobject/video?id=27163)|✓|
+||[AWS: Introduction to Amazon Lex](https://www.aws.training/learningobject/video?id=16516)|✓|
+||[AWS: Introduction to Amazon Personalize](https://www.aws.training/learningobject/video?id=27158)|✓|
+||[AWS: Introduction to Amazon Polly](https://www.aws.training/learningobject/video?id=15886)|✓|
+||[AWS: Introduction to Amazon SageMaker Ground Truth](https://www.aws.training/learningobject/video?id=27162)|✓|
+||[AWS: Introduction to Amazon SageMaker Neo](https://www.aws.training/learningobject/video?id=27160)|✓|
+||[AWS: Introduction to Amazon Transcribe](https://www.aws.training/learningobject/video?id=19443)|✓|
+||[AWS: Introduction to Amazon Translate](https://www.aws.training/learningobject/video?id=19442)|✓|
+||[AWS: Introduction to AWS Marketplace - Machine Learning Category](https://www.aws.training/learningobject/video?id=27165)|✓|
+||[AWS: Machine Learning Exam Basics](https://www.aws.training/learningobject/curriculum?id=27271)|✓|
+||[AWS: Neural Machine Translation with Sockeye](https://www.aws.training/learningobject/video?id=27236)|✓|
+||[AWS: Process Model: CRISP-DM on the AWS Stack](https://www.aws.training/learningobject/wbc?id=27200)|✓|
+||[AWS: Satellite Image Classification in SageMaker](https://www.aws.training/learningobject/video?id=27231)|✓|
+||[Datacamp: Introduction to AWS Boto in Python](https://www.datacamp.com/courses/introduction-to-aws-boto-in-python)|✓|
+||[edX: Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)|✓|
+
 </details>
 
 
