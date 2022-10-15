@@ -71,10 +71,8 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 |---|---|---|
 ||[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|✓|
 ||[Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )|✓|
-||[Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)||
+||[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)||
 ||[Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)||
-||[Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)||
-||[Udacity: Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)||
 
 </details>
 
@@ -114,11 +112,9 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Lecture 3: Editors (vim) (2020)](https://www.youtube.com/watch?v=a6Q8Na575qc) `0:48:26`||
 ||[Lecture 4: Data Wrangling (2020)](https://www.youtube.com/watch?v=sz_dsktIjt4) `0:50:03`|✓|
 ||[Lecture 5: Command-line Environment (2020)](https://www.youtube.com/watch?v=e8BO_dYxk5c) `0:56:06`|✓|
-||[Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`||
 ||[Lecture 7: Debugging and Profiling (2020)](https://www.youtube.com/watch?v=l812pUnKxME) `0:54:13`|✓|
 ||[Lecture 8: Metaprogramming (2020)](https://www.youtube.com/watch?v=_Ms1Z4xfqv4) `0:49:52`|✓|
 ||[Lecture 9: Security and Cryptography (2020)](https://www.youtube.com/watch?v=tjwobAmnKTo) `1:00:59`||
-||[Lecture 11: Q&A (2020)](https://www.youtube.com/watch?v=Wz50FvGG6xU) `0:53:52`||
 ||[Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)|✓|
 ||[Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)|✓|
 ||[Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)|✓|
@@ -127,7 +123,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Article: Command-line Tools can be 235x Faster than your Hadoop Cluster](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)|✓|
 ||[Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)|✓|
 ||[Calmcode: entr](https://calmcode.io/entr/introduction.html)|✓|
-||[Youtube: GNU Parallel](https://www.youtube.com/playlist?list=PL284C9FF2488BC6D1)||
 </details>
 
 <details>
@@ -140,6 +135,7 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|✓|
 ||[Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)||
 ||[Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)|✓|
+||[Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`||
 ||[Youtube: Git & Scripting](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620371740000)|✓|
 ||[Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)||
 ||[Article: How to Become a Master of Git Tags](https://blog.daftcode.pl/how-to-become-a-master-of-git-tags-b70fbd9609d9)|✓|
@@ -158,8 +154,8 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 |PyCharm|[Article: Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)|✓|
 ||[Article: Docker as Remote Interpreter for PyCharm Professional](https://www.inovex.de/blog/docker-remote-interpreter-pycharm-professional/)|✓|
 ||[Article: Python remote debugging with PyCharm, CUDA, and Conda](https://medium.com/@n1r44/python-remote-debugging-with-pycharm-cuda-and-conda-87d27695634c)|✓|
-||[Article: How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)|✓|
-|VSCode|[Youtube: Getting Started with Python in Visual Studio Code](https://www.youtube.com/watch?v=7EXd4_ttIuw)|✓|
+|VSCode|[Article: How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)|✓|
+||[Youtube: Getting Started with Python in Visual Studio Code](https://www.youtube.com/watch?v=7EXd4_ttIuw)|✓|
 ||[Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)|✓|
 ||[Youtube: VSCode Keyboard Shortcuts For Productivity](https://youtu.be/eGE-tFalwpA)|✓|
 ||[Youtube: Getting Started with Jupyter Notebooks in VS Code](https://youtu.be/Ozq24uAshXo)|✓|
@@ -167,74 +163,6 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Youtube: Getting Started with PyTorch in VS Code](https://youtu.be/A9lQHnFaqlU)|✓|
 ||[Youtube: What every GitHub user should know about VS Code - GitHub Satellite 2020](https://youtu.be/T6sW1Dk9B4E)|✓|
 ||[VS Code and GitHub](https://www.youtube.com/playlist?list=PLj6YeMhvp2S4UPBCWyhLPcOxGkmLI2BOz)|✓|
-</details>
-
-<details>
-<summary>Docker and Containerization</summary>
-
-|Concept|Resource|Done|
-|---|---|---|
-||[Article: How To Pass Environment Info During Docker Builds](https://blog.bitsrc.io/how-to-pass-environment-info-during-docker-builds-1f7c5566dd0e)|✓|
-||[Article: Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/)|✓|
-||[Article: Setting Default Docker Environment Variables During Image Build](https://vsupalov.com/docker-build-time-env-values/)|✓|
-||[Article: Docker Explained Visually, For Non-Technical Folks](https://www.iteachrecruiters.com/blog/docker-explained-visually-for-non-technical-folks/)|✓|
-||[Article: Tensorflow in Docker](http://blog.tabanpour.info/projects/2018/09/07/tf-docker-kube.html)|✓|
-||[Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)|✓|
-||[Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)|✓|
-||[Article: Deploying conda environments in (Docker) containers - how to do it right](https://uwekorn.com/2021/03/01/deploying-conda-environments-in-docker-how-to-do-it-right.html)||
-||[Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)|✓|
-||[Article: How to scale services using Docker Compose](https://medium.com/@karthi.net/how-to-scale-services-using-docker-compose-31d7b83a6648)|✓|
-||[Article: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)|✓|
-||[Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)|✓|
-||[Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)|✓|
-||[Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)|✓|
-||[Article: Docker for Machine Learning – Part II](https://mlinproduction.com/docker-for-ml-part-2/)|✓|
-||[Article: Docker for Machine Learning – Part III](https://mlinproduction.com/docker-for-ml-part-3/)|✓|
-||[Article: Using Docker to Generate Machine Learning Predictions in Real Time](https://mlinproduction.com/docker-for-ml-part-4/)|✓|
-||[Article: Connection refused? Docker networking and how it impacts your image](https://pythonspeed.com/articles/docker-connection-refused/)||
-||[Article: Faster or slower: the basics of Docker build caching](https://pythonspeed.com/articles/docker-caching-model/)||
-||[Article: Where’s your code? Debugging ImportError and ModuleNotFoundErrors in your Docker image](https://pythonspeed.com/articles/importerror-docker/)||
-||[Article: A tableau of crimes and misfortunes: the ever-useful docker history](https://pythonspeed.com/articles/docker-history/)||
-||[Article: Broken by default: why you should avoid most Dockerfile examples](https://pythonspeed.com/articles/dockerizing-python-is-hard/)||
-||[Article: A review of the official Dockerfile best practices: good, bad, and insecure](https://pythonspeed.com/articles/official-docker-best-practices/)||
-||[Article: The best Docker base image for your Python application (February 2021)](https://pythonspeed.com/articles/base-image-python-docker-images/)||
-||[Article: A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)||
-||[Article: Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)||
-||[Article: Building on solid ground: ensuring reproducible Docker builds for Python](https://pythonspeed.com/articles/reproducible-docker-builds-python/)||
-||[Article: Installing system packages in Docker with minimal bloat](https://pythonspeed.com/articles/system-packages-docker/)||
-||[Article: Less capabilities, more security: minimizing privilege escalation in Docker](https://pythonspeed.com/articles/root-capabilities-docker-security/)||
-||[Article: Avoiding insecure images from Docker build caching](https://pythonspeed.com/articles/docker-cache-insecure-images/)||
-||[Article: Build secrets in Docker and Compose, the secure way](https://pythonspeed.com/articles/build-secrets-docker-compose/)||
-||[Article: Security scanners for Python and Docker: from code to dependencies](https://pythonspeed.com/articles/docker-python-security-scan/)||
-||[Article: The high cost of slow Docker builds](https://pythonspeed.com/articles/high-cost-slow-docker-builds/)||
-||[Article: Faster Docker builds with pipenv, poetry, or pip-tools](https://pythonspeed.com/articles/pipenv-docker/)||
-||[Article: Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)||
-||[Article: Poetry vs. Docker caching: Fight!](https://pythonspeed.com/articles/poetry-vs-docker-caching/)||
-||[Article: Speed up pip downloads in Docker with BuildKit’s new caching](https://pythonspeed.com/articles/docker-cache-pip-downloads/)||
-||[Article: Multi-stage builds #1: Smaller images for compiled code](https://pythonspeed.com/articles/smaller-python-docker-images/)||
-||[Article: Multi-stage builds #2: Python specifics—virtualenv, –user, and other methods](https://pythonspeed.com/articles/multi-stage-docker-python/)||
-||[Article: Multi-stage builds #3: Why your build is surprisingly slow, and how to speed it up](https://pythonspeed.com/articles/faster-multi-stage-builds/)||
-||[Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)||
-||[Article: Activating a Conda environment in your Dockerfile](https://pythonspeed.com/articles/activate-conda-dockerfile/)||
-||[Article: Shrink your Conda Docker images with conda-pack](https://pythonspeed.com/articles/conda-docker-image-size/)||
-||[Article: What’s running in production? Making your Docker images identifiable](https://pythonspeed.com/articles/identifying-images/)||
-||[Article: Your Docker build needs a smoke test](https://pythonspeed.com/articles/test-your-docker-build/)||
-||[Article: Docker BuildKit: faster builds, new features, and now it’s stable](https://pythonspeed.com/articles/docker-buildkit/)||
-||[Article: Docker vs. Singularity for data processing: UIDs and filesystem access](https://pythonspeed.com/articles/containers-filesystem-data-processing/)||
-||[Article: Where’s that log file? Debugging failed Docker builds](https://pythonspeed.com/articles/debugging-docker-build/)||
-||[Article: An Introduction to Kubernetes for Data Scientists](https://mlinproduction.com/intro-to-kubernetes/)||
-||[Article: How to Use Kubernetes Pods for Machine Learning](https://mlinproduction.com/k8s-pods/)||
-||[Article: Kubernetes Jobs for Machine Learning](https://mlinproduction.com/k8s-jobs/)||
-||[Article: Kubernetes CronJobs for Machine Learning](https://mlinproduction.com/k8s-cronjobs/)||
-||[Article: Kubernetes Deployments for Machine Learning](https://mlinproduction.com/k8s-deployments/)||
-||[Article: Kubernetes Services for Machine Learning](https://mlinproduction.com/k8s-services/)||
-||[“Let’s use Kubernetes!” Now you have 8 problems](https://pythonspeed.com/articles/dont-need-kubernetes/)||
-||[Article: Kubernetes for Python Developers: Part 1](https://www.distributedpython.com/2018/11/28/kubernetes-python-developers-part-1/)||
-||[Doc: Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)|✓|
-||[Pluralsight: Docker and Kubernetes: The Big Picture](https://www.pluralsight.com/courses/docker-kubernetes-big-picture)|✓|
-||[Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)||
-||[Youtube: Docker](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620810184000)|✓|
-||[Youtube: Why Your Web Server Should Log to Stdout (Especially with Docker)](https://www.youtube.com/watch?v=aQikNWEaJUQ&feature=emb_logo)|✓|
 </details>
 
 <details>
@@ -779,3 +707,73 @@ Developing [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills) by b
 ||[Youtube: SE4AI: Infrastructure Quality, Deployment and Operations](https://www.youtube.com/watch?v=iBaJgWjpK24) `1:04:54`||
 
 </details>
+
+<details>
+<summary>Docker and Containerization</summary>
+
+|Concept|Resource|Done|
+|---|---|---|
+||[Pluralsight: Docker and Kubernetes: The Big Picture](https://www.pluralsight.com/courses/docker-kubernetes-big-picture)|✓|
+||[Youtube: Docker](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620810184000)|✓|
+||[Youtube: Why Your Web Server Should Log to Stdout (Especially with Docker)](https://www.youtube.com/watch?v=aQikNWEaJUQ&feature=emb_logo)|✓|
+||[Article: How To Pass Environment Info During Docker Builds](https://blog.bitsrc.io/how-to-pass-environment-info-during-docker-builds-1f7c5566dd0e)|✓|
+||[Article: Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/)|✓|
+||[Article: Setting Default Docker Environment Variables During Image Build](https://vsupalov.com/docker-build-time-env-values/)|✓|
+||[Article: Docker Explained Visually, For Non-Technical Folks](https://www.iteachrecruiters.com/blog/docker-explained-visually-for-non-technical-folks/)|✓|
+||[Article: Tensorflow in Docker](http://blog.tabanpour.info/projects/2018/09/07/tf-docker-kube.html)|✓|
+||[Article: Enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html)|✓|
+||[Article: How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)|✓|
+||[Article: Deploying conda environments in (Docker) containers - how to do it right](https://uwekorn.com/2021/03/01/deploying-conda-environments-in-docker-how-to-do-it-right.html)||
+||[Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)|✓|
+||[Article: How to scale services using Docker Compose](https://medium.com/@karthi.net/how-to-scale-services-using-docker-compose-31d7b83a6648)|✓|
+||[Article: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)|✓|
+||[Article: Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)|✓|
+||[Pluralsight: Docker and Containers: The Big Picture](https://www.pluralsight.com/courses/docker-containers-big-picture)|✓|
+||[Article: Docker for Machine Learning – Part I](https://mlinproduction.com/docker-for-ml-part-1/)|✓|
+||[Article: Docker for Machine Learning – Part II](https://mlinproduction.com/docker-for-ml-part-2/)|✓|
+||[Article: Docker for Machine Learning – Part III](https://mlinproduction.com/docker-for-ml-part-3/)|✓|
+||[Article: Using Docker to Generate Machine Learning Predictions in Real Time](https://mlinproduction.com/docker-for-ml-part-4/)|✓|
+||[Article: Connection refused? Docker networking and how it impacts your image](https://pythonspeed.com/articles/docker-connection-refused/)||
+||[Article: Faster or slower: the basics of Docker build caching](https://pythonspeed.com/articles/docker-caching-model/)||
+||[Article: Where’s your code? Debugging ImportError and ModuleNotFoundErrors in your Docker image](https://pythonspeed.com/articles/importerror-docker/)||
+||[Article: A tableau of crimes and misfortunes: the ever-useful docker history](https://pythonspeed.com/articles/docker-history/)||
+||[Article: Broken by default: why you should avoid most Dockerfile examples](https://pythonspeed.com/articles/dockerizing-python-is-hard/)||
+||[Article: A review of the official Dockerfile best practices: good, bad, and insecure](https://pythonspeed.com/articles/official-docker-best-practices/)||
+||[Article: The best Docker base image for your Python application (February 2021)](https://pythonspeed.com/articles/base-image-python-docker-images/)||
+||[Article: A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)||
+||[Article: Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)||
+||[Article: Building on solid ground: ensuring reproducible Docker builds for Python](https://pythonspeed.com/articles/reproducible-docker-builds-python/)||
+||[Article: Installing system packages in Docker with minimal bloat](https://pythonspeed.com/articles/system-packages-docker/)||
+||[Article: Less capabilities, more security: minimizing privilege escalation in Docker](https://pythonspeed.com/articles/root-capabilities-docker-security/)||
+||[Article: Avoiding insecure images from Docker build caching](https://pythonspeed.com/articles/docker-cache-insecure-images/)||
+||[Article: Build secrets in Docker and Compose, the secure way](https://pythonspeed.com/articles/build-secrets-docker-compose/)||
+||[Article: Security scanners for Python and Docker: from code to dependencies](https://pythonspeed.com/articles/docker-python-security-scan/)||
+||[Article: The high cost of slow Docker builds](https://pythonspeed.com/articles/high-cost-slow-docker-builds/)||
+||[Article: Faster Docker builds with pipenv, poetry, or pip-tools](https://pythonspeed.com/articles/pipenv-docker/)||
+||[Article: Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)||
+||[Article: Poetry vs. Docker caching: Fight!](https://pythonspeed.com/articles/poetry-vs-docker-caching/)||
+||[Article: Speed up pip downloads in Docker with BuildKit’s new caching](https://pythonspeed.com/articles/docker-cache-pip-downloads/)||
+||[Article: Multi-stage builds #1: Smaller images for compiled code](https://pythonspeed.com/articles/smaller-python-docker-images/)||
+||[Article: Multi-stage builds #2: Python specifics—virtualenv, –user, and other methods](https://pythonspeed.com/articles/multi-stage-docker-python/)||
+||[Article: Multi-stage builds #3: Why your build is surprisingly slow, and how to speed it up](https://pythonspeed.com/articles/faster-multi-stage-builds/)||
+||[Article: Configuring Gunicorn for Docker](https://pythonspeed.com/articles/gunicorn-in-docker/)||
+||[Article: Activating a Conda environment in your Dockerfile](https://pythonspeed.com/articles/activate-conda-dockerfile/)||
+||[Article: Shrink your Conda Docker images with conda-pack](https://pythonspeed.com/articles/conda-docker-image-size/)||
+||[Article: What’s running in production? Making your Docker images identifiable](https://pythonspeed.com/articles/identifying-images/)||
+||[Article: Your Docker build needs a smoke test](https://pythonspeed.com/articles/test-your-docker-build/)||
+||[Article: Docker BuildKit: faster builds, new features, and now it’s stable](https://pythonspeed.com/articles/docker-buildkit/)||
+||[Article: Docker vs. Singularity for data processing: UIDs and filesystem access](https://pythonspeed.com/articles/containers-filesystem-data-processing/)||
+||[Article: Where’s that log file? Debugging failed Docker builds](https://pythonspeed.com/articles/debugging-docker-build/)||
+||[Article: An Introduction to Kubernetes for Data Scientists](https://mlinproduction.com/intro-to-kubernetes/)||
+||[Article: How to Use Kubernetes Pods for Machine Learning](https://mlinproduction.com/k8s-pods/)||
+||[Article: Kubernetes Jobs for Machine Learning](https://mlinproduction.com/k8s-jobs/)||
+||[Article: Kubernetes CronJobs for Machine Learning](https://mlinproduction.com/k8s-cronjobs/)||
+||[Article: Kubernetes Deployments for Machine Learning](https://mlinproduction.com/k8s-deployments/)||
+||[Article: Kubernetes Services for Machine Learning](https://mlinproduction.com/k8s-services/)||
+||[“Let’s use Kubernetes!” Now you have 8 problems](https://pythonspeed.com/articles/dont-need-kubernetes/)||
+||[Article: Kubernetes for Python Developers: Part 1](https://www.distributedpython.com/2018/11/28/kubernetes-python-developers-part-1/)||
+||[Doc: Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)|✓|
+||[Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)||
+</details>
+
+
