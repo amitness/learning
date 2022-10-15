@@ -179,7 +179,7 @@ A running log of things I'm learning to build strong core software engineering s
 </details>
 
 <details>
-<summary>Backend Technology</summary>
+<summary>Backend & Web Servers</summary>
 
 |Concept|Resource|Done|
 |---|---|---|
@@ -187,6 +187,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)||
 ||[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)||
 ||[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)||
+||[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)||
 |FastAPI|[Article: Microservice in Python using FastAPI](https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc)||
 ||[Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)|✓|
 ||[Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)|✓|
@@ -240,7 +241,7 @@ A running log of things I'm learning to build strong core software engineering s
 </details>
 
 <details>
-<summary>Deployment and Monitoring</summary>
+<summary>Production Environment</summary>
 
 |Concept|Resource|Done|
 |---|---|---|
@@ -723,7 +724,6 @@ A running log of things I'm learning to build strong core software engineering s
 |Concept|Resource|Done|
 |---|---|---|
 |Theory|[Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)|✓|
-||[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)||
 |AWS|[Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)|✓|
 ||[Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)|✓|
 ||[Pluralsight: AWS Networking Deep Dive: Virtual Private Cloud (VPC)](https://www.pluralsight.com/courses/aws-networking-deep-dive-vpc)|✓|
