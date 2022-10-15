@@ -6,6 +6,31 @@ A running log of things I'm learning to build strong core software engineering s
 ## Core Skills
 
 <details>
+<summary>Business Understanding</summary>
+
+|Concept|Resource|Done|
+|---|---|---|
+||[Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)|✓|
+||[Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)|✓|
+||[Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)|✓|
+||[Book: How Google Works](https://www.howgoogleworks.net)|✓|
+||[Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)|✓|
+||[Book: Rework](https://www.goodreads.com/book/show/6732019-rework)|✓|
+||[Book: The Airbnb Story](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669)|✓|
+||[Book: The Personal MBA](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)|✓|
+||[Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)||
+|Marketing|[Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)|✓|
+||[Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)||
+||[Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)|✓|
+||[Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)|✓|
+||[Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)|✓|
+||[Moz: The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)|✓|
+||[Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)|✓|
+||[Udacity: App Monetization](https://www.udacity.com/course/app-monetization--ud518)||
+
+</details>
+
+<details>
 <summary>Python Programming</summary>
 
 |Concept|Resource|Done|
