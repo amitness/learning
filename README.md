@@ -239,12 +239,46 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)||
 </details>
 
-
 <details>
-<summary>Infrastructure and System Design</summary>
+<summary>Deployment and Monitoring</summary>
 
 |Concept|Resource|Done|
 |---|---|---|
+|A/B Testing|[Article: Multi-Armed Bandit (MAB) – A/B Testing Sans Regret](https://vwo.com/blog/multi-armed-bandit-algorithm/)|✓|
+||[Article: When to Run Bandit Tests Instead of A/B/n Tests](https://cxl.com/blog/bandit-tests/)|✓|
+||[Article: A/B Testing Machine Learning Models (Deployment Series: Guide 08)](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)|✓|
+||[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)||
+||[Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)||
+||[Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)||
+|Load Testing|[Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)|✓|
+|Monitoring|[Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)|✓|
+||[Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)|✓|
+||[Article: The Playbook to Monitor Your Model’s Performance in Production](https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245)||
+||[Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)|✓|
+||[Article: Preventing model drift with continuous monitoring and deployment using Github Actions and Algorithmia Insights](https://algorithmia.com/blog/preventing-model-drift-with-continuous-monitoring-and-deployment-using-github-actions-and-algorithmia-insights)|✓|
+||[Article: Continuous monitoring for data projects](https://medium.com/acing-ai/continuous-monitoring-for-data-projects-11fb1c00c7a4)||
+||[Article: Lessons Learned from 15 Years of Monitoring Machine Learning in Production](https://mlinproduction.com/lessons-learned-from-15-years-of-monitoring-machine-learning-in-production/)|✓|
+||[Article: Using Statistical Distances for Machine Learning Observability](https://towardsdatascience.com/using-statistical-distance-metrics-for-machine-learning-observability-4c874cded78)||
+||[Youtube: Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)||
+||[Article: Incident Management in Machine Learning Systems](https://medium.com/acing-ai/incident-management-in-machine-learning-systems-d69b6e39fdee)||
+||[Article: ML Infrastructure Tools — ML Observability](https://towardsdatascience.com/ml-infrastructure-tools-ml-observability-8e4d7df6db43)||
+||[Youtube: MLOps #24 Monitoring the ML stack // Lina Weichbrodt](https://www.youtube.com/watch?v=Un30yb1WlpU) `0:55:32`||
+||[Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)|✓|
+||[Youtube: Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`|✓|
+||[Youtube: OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.youtube.com/watch?v=hBMHohkRgAA)||
+||[Youtube: MLOps #28 ML Observability // Aparna Dhinakaran - Chief Product Officer at Arize AI](https://www.youtube.com/watch?v=joTF9BRwWp4) `0:55:04`||
+||[Youtube: MLOps #29 Continuous Evaluation & Model Experimentation // Danny Ma - Founder of Sydney Data Science](https://www.youtube.com/watch?v=i4QNpM20QOc) `1:00:46`||
+||[Youtube: SE4AI: Quality Assessment in Production](https://www.youtube.com/watch?v=RaaNSXKFDGk) `1:18:45`||
+||[Youtube: SE4AI: Infrastructure Quality, Deployment and Operations](https://www.youtube.com/watch?v=iBaJgWjpK24) `1:04:54`||
+
+</details>
+
+<details>
+<summary>System and Infrastructure Design</summary>
+
+|Concept|Resource|Done|
+|---|---|---|
+||[Datacamp: Data Engineering for Everyone](https://www.datacamp.com/courses/data-engineering-for-everyone)|✓|
 ||[Article: Batch Inference vs Online Inference](https://mlinproduction.com/batch-inference-vs-online-inference/)|✓|
 ||[Article: Machine Learning System Design: Real-time processing](https://medium.com/acing-ai/machine-learning-system-design-real-time-processing-6a952793925)||
 ||[Article: Machine Learning System Design: Models-as-a-service](https://medium.com/acing-ai/machine-learning-system-design-models-as-a-service-32666eba0e6)||
@@ -254,83 +288,71 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: The Challenges of Online Inference (Deployment Series: Guide 04)](https://mlinproduction.com/the-challenges-of-online-inference-deployment-series-04/)|✓|
 ||[Article: Online Inference for ML Deployment (Deployment Series: Guide 05)](https://mlinproduction.com/online-inference-for-ml-deployment-deployment-series-05/)|✓|
 ||[Article: Model Registries for ML Deployment (Deployment Series: Guide 06)](https://mlinproduction.com/model-registries-for-ml-deployment-deployment-series-06/)|✓|
-
 ||[Youtube: A friendly introduction to System Design](https://www.youtube.com/watch?v=quLrc3PbuIw)||
+||[Youtube: System Design Basics: Horizontal vs. Vertical Scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0)||
+||[Youtube: What is a microservice architecture and it's advantages?](https://www.youtube.com/watch?v=qYhRvH9tJKw)|✓|
+||[Youtube: Service discovery and heartbeats in micro-services](https://www.youtube.com/watch?v=lWE_UIbm8NA)||
 ||[Youtube: Avoid cascading failures in a distributed system](https://www.youtube.com/watch?v=xrizarXJgC8)||
 ||[Youtube: How databases scale writes: The power of the log](https://www.youtube.com/watch?v=_5vrfuwhvlQ)||
 ||[Youtube: How to avoid a single point of failure in distributed systems](https://www.youtube.com/watch?v=-BOysyYErLY)||
 ||[Youtube: How to start with distributed systems? Beginner's guide to scaling systems.](https://www.youtube.com/watch?v=SqcXvc3ZmRU)||
-||[Youtube: What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)||
+||[Youtube: What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)||
 ||[Youtube: Why do Databases fail? AntiPatterns to avoid!](https://www.youtube.com/watch?v=9T-gNZ5bGCw)|✓|
-||[Youtube: Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)||
-||[Youtube: Introduction to NoSQL databases](https://www.youtube.com/watch?v=xQnIN9bW0og)||
-||[Youtube: System Design Basics: Horizontal vs. Vertical Scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0)||
-||[Youtube: What is an API and how do you design it?](https://www.youtube.com/watch?v=_YlYuNMTCc8)||
-||[Youtube: Service discovery and heartbeats in micro-services](https://www.youtube.com/watch?v=lWE_UIbm8NA)||
-||[Youtube: System Design: Tinder as a microservice architecture](https://www.youtube.com/watch?v=tndzLznxq40)||
-||[Youtube: What is Load Balancing?](https://www.youtube.com/watch?v=K0Ta65OqQkY)|✓|
-||[Youtube: What is a microservice architecture and it's advantages?](https://www.youtube.com/watch?v=qYhRvH9tJKw)|✓|
 ||[Youtube: What is Consistent Hashing and Where is it used?](https://www.youtube.com/watch?v=zaRkONvyGr8)|✓|
 ||[Youtube: What is a Message Queue and Where is it used?](https://www.youtube.com/watch?v=oUJbuFMyBDk)|✓|
-||[Youtube: Capacity Estimation: How much data does YouTube store daily?](https://www.youtube.com/watch?v=0myM0k1mjZw)||
+||[Youtube: What is an API and how do you design it?](https://www.youtube.com/watch?v=_YlYuNMTCc8)||
+||[Youtube: Introduction to NoSQL databases](https://www.youtube.com/watch?v=xQnIN9bW0og)||
+||[Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)|✓|
 ||[Youtube: What is Database Sharding?](https://www.youtube.com/watch?v=5faMjKuB9bc)||
 ||[Youtube: What is the Publisher Subscriber Model?](https://www.youtube.com/watch?v=FMhbR_kQeHw)||
-||[Youtube: Distributed Consensus and Data Replication strategies on the server](https://www.youtube.com/watch?v=GeGxgmPTe4c)||
-||[Youtube: System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)||
+||[Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)|✓|
 ||[Youtube: Relational database index vs. NoSQL index](https://www.youtube.com/watch?v=mTNkqMDCasI)||
-||[Youtube: What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)||
+||[Youtube: Capacity Estimation: How much data does YouTube store daily?](https://www.youtube.com/watch?v=0myM0k1mjZw)||
+||[Youtube: What is Load Balancing?](https://www.youtube.com/watch?v=K0Ta65OqQkY)|✓|
 ||[Youtube: Distributed Consensus and Data Replication strategies on the server](https://www.youtube.com/watch?v=GeGxgmPTe4c)||
-||[Youtube: What is an API and how do you design it?](https://www.youtube.com/watch?v=_YlYuNMTCc8)||
 ||[Youtube: What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)||
-||[Youtube: Service discovery and heartbeats in micro-services](https://www.youtube.com/watch?v=lWE_UIbm8NA)||
-||[Youtube: Relational database index vs. NoSQL index](https://www.youtube.com/watch?v=mTNkqMDCasI)||
-||[Youtube: How to start with distributed systems? Beginner's guide to scaling systems.](https://www.youtube.com/watch?v=SqcXvc3ZmRU)||
-||[Youtube: How databases scale writes: The power of the log](https://www.youtube.com/watch?v=_5vrfuwhvlQ)||
+||[Youtube: Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)||
+||[Youtube: System Design: Tinder as a microservice architecture](https://www.youtube.com/watch?v=tndzLznxq40)||
+||[Youtube: System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)||
 ||[Youtube: Whatsapp System Design: Chat Messaging Systems for Interviews](https://www.youtube.com/watch?v=vvhC64hQZMk)||
 ||[Youtube: How Netflix onboards new content: Video Processing at scale](https://www.youtube.com/watch?v=x9Hrn0oNmJM)||
-||[Youtube: System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)||
-||[Article: Exponential Backoff And Jitter](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)|✓|
-||[Article: Shadow mode deployments](http://nlathia.github.io/2020/07/Shadow-mode-deployments.html)|✓|
-||[Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`|✓|
-||[Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)|✓|
-||[Article: Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)|✓|
-||[Article: Getting machine learning to production](http://veekaybee.github.io/2020/06/09/ml-in-prod/)|✓|
-||[Article: How to build scalable Machine Learning systems — Part 1/2](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)|✓|
+||[Article: Building a feature store](http://nlathia.github.io/2020/12/Building-a-feature-store.html)|✓|
+||[Article: Model artifacts: the war stories](http://nlathia.github.io/2020/09/Model-artifacts-war-stories.html)|✓|
+||[Youtube: Feature Stores: An essential part of the ML stack to build great data / Kevin Stumpf - CTO at Tecton](https://www.youtube.com/watch?v=IjO8VUCIZxc) `1:05:46`||
+||[Youtube: MLOps Meetup #6: Mid-Scale Production Feature Engineering with Dr. Venkata Pingali](https://www.youtube.com/watch?v=1CcYuVVwOGg) `1:01:35`||
+||[Article: How to Deploy a Machine Learning Model](https://www.maartengrootendorst.com/blog/deploy/)|✓|
 ||[Article: How to properly ship and deploy your machine learning model](https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4)|✓|
+||[Article: The Ultimate Guide to Model Retraining](https://mlinproduction.com/model-retraining/)||
+||[Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`|✓|
+||[Article: Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)|✓|
 ||[Article: How to put machine learning models into production](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)|✓|
 ||[Article: Key Concepts for Deploying Machine Learning Models to Mobile](https://spell.ml/blog/key-concepts-for-deploying-machine-learning-models-X7Q0phIAACIAqMWr)|✓|
-||[Article: Machine Learning to Production](https://vikramriyer.github.io/machine-learning-to-production/#)|✓|
+||[Youtube: MLOps meetup #5 High Stakes ML with Flavio CLesio](https://www.youtube.com/watch?v=9g4deV1uNZo) `0:55:27`||
+||[Youtube: MLOps meetup #7 Alex Spanos // TrueLayer 's MLOps Pipeline](https://www.youtube.com/watch?v=cUxK28ocZcw) `0:56:17`||
+||[Youtube: The Current MLOps Landscape // Nathan Benaich & Timothy Chen // MLOps Meetup #43](https://www.youtube.com/watch?v=i6HZ2vjFLIs) `0:58:31`||
+||[Article: How to build scalable Machine Learning systems — Part 1/2](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)|✓|
 ||[Article: Machine learning is going real-time](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)|✓|
+||[Book: Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)||
 ||[Article: ML Infrastructure Tools for Model Building](https://towardsdatascience.com/ml-infrastructure-tools-for-model-building-464770ac4fec)||
 ||[Article: ML Infrastructure Tools for Production (Part 1)](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb)||
 ||[Article: ML Infrastructure Tools for Production](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)||
-||[Article: How to Deploy a Machine Learning Model](https://www.maartengrootendorst.com/blog/deploy/)|✓|
-||[Article: Building a feature store](http://nlathia.github.io/2020/12/Building-a-feature-store.html)|✓|
-||[Article: Model artifacts: the war stories](http://nlathia.github.io/2020/09/Model-artifacts-war-stories.html)|✓|
-||[Article: Securing ML applications](https://medium.com/acing-ai/securing-ml-applications-efa1bb7d75bd)||
-||[Article: Data Pipelines — Agile considerations](https://medium.com/acing-ai/data-pipelines-agile-considerations-8b1933909bb1)||
 ||[Article: Data Lineage — An Operational perspective](https://medium.com/acing-ai/data-lineage-an-operational-perspective-d807e52e2198)||
-||[Article: The Ultimate Guide to Model Retraining](https://mlinproduction.com/model-retraining/)||
-||[Book: Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)||
-||[Doc: Lecture 3: Data engineering](https://docs.google.com/document/d/1b9iuZiDEGVLHyMmnf6w2y1aN6yWQhAyqk3GHlpI9q6M/edit)||
-||[Datacamp: Data Engineering for Everyone](https://www.datacamp.com/courses/data-engineering-for-everyone)|✓|
-||[Youtube: Applied ML in Production](https://www.youtube.com/playlist?list=PLqy_sIcckLC2jrxQhyqWDhL_9Uwxz8UFq)|✓|
-||[Youtube: SE4AI: Software Architecture of AI-Enabled Systems](https://www.youtube.com/watch?v=KIC-sFz5OT8) `1:14:24`||
+||[Article: Data Pipelines — Agile considerations](https://medium.com/acing-ai/data-pipelines-agile-considerations-8b1933909bb1)||
+||[Article: Securing ML applications](https://medium.com/acing-ai/securing-ml-applications-efa1bb7d75bd)||
+||[Article: Getting machine learning to production](http://veekaybee.github.io/2020/06/09/ml-in-prod/)|✓|
+||[Article: Machine Learning to Production](https://vikramriyer.github.io/machine-learning-to-production/#)|✓|
 ||[Youtube: SE4AI: Invited Talk Molham Aref "Business Systems with Machine Learning"](https://www.youtube.com/watch?v=_bvrzYOA8dY) `0:47:53`||
-||[Youtube: MLOps #4: Shubhi Jain - Building an ML Platform @SurveyMonkey](https://www.youtube.com/watch?v=oq1g4s2dUHE) `0:55:42`||
-||[Youtube: MLOps Meetup #6: Mid-Scale Production Feature Engineering with Dr. Venkata Pingali](https://www.youtube.com/watch?v=1CcYuVVwOGg) `1:01:35`||
-||[Youtube: MLOps meetup #5 High Stakes ML with Flavio CLesio](https://www.youtube.com/watch?v=9g4deV1uNZo) `0:55:27`||
-||[Youtube: MLOps meetup #7 Alex Spanos // TrueLayer 's MLOps Pipeline](https://www.youtube.com/watch?v=cUxK28ocZcw) `0:56:17`||
-||[Youtube: #11 Machine Learning at scale in Mercado Libre with Carlos de la Torre](https://www.youtube.com/watch?v=ypySVdT9U7Q) `0:59:28`||
-||[Youtube: MLOps #14: Kubeflow vs MLflow with Byron Allen](https://www.youtube.com/watch?v=TsGQZ0D3688) `0:54:57`||
-||[Youtube: MLOps #15 - Scaling Human in the Loop Machine Learning with Robert Munro](https://www.youtube.com/watch?v=LwbbGsuNpao) `0:55:04`||
-||[Youtube: MLOps #18 // Nubank - Running a fintech on ML](https://www.youtube.com/watch?v=ry_P5D_d7XA) `0:53:19`||
-||[Youtube: Feature Stores: An essential part of the ML stack to build great data / Kevin Stumpf - CTO at Tecton](https://www.youtube.com/watch?v=IjO8VUCIZxc) `1:05:46`||
+||[Youtube: SE4AI: Software Architecture of AI-Enabled Systems](https://www.youtube.com/watch?v=KIC-sFz5OT8) `1:14:24`||
 ||[Youtube: MLOps #31 Path to Production and Monetizing Machine Learning // Vin Vashishta - Data Scientist](https://www.youtube.com/watch?v=voO0B0_BsuQ) `0:56:35`||
 ||[Youtube: MLOps #35: Streaming Machine Learning with Apache Kafka and Tiered Storage // Kai Waehner, Confluent](https://www.youtube.com/watch?v=Ur969-WX1BY) `0:52:50`||
-||[Youtube: Luigi in Production // MLOps Coffee Sessions #18 // Luigi Patruno ML in Production](https://www.youtube.com/watch?v=ShBod1yXUeg) `0:47:23`||
-||[Youtube: The Current MLOps Landscape // Nathan Benaich & Timothy Chen // MLOps Meetup #43](https://www.youtube.com/watch?v=i6HZ2vjFLIs) `0:58:31`||
-||[Stanford MLSys Seminar Episode 0: ML + Systems](https://www.youtube.com/watch?v=OEiNnfdxBRE) `0:11:49`|✓|
+||[Youtube: MLOps #15 - Scaling Human in the Loop Machine Learning with Robert Munro](https://www.youtube.com/watch?v=LwbbGsuNpao) `0:55:04`||
+||[Youtube: MLOps #4: Shubhi Jain - Building an ML Platform @SurveyMonkey](https://www.youtube.com/watch?v=oq1g4s2dUHE) `0:55:42`||
+||[Youtube: #11 Machine Learning at scale in Mercado Libre with Carlos de la Torre](https://www.youtube.com/watch?v=ypySVdT9U7Q) `0:59:28`||
+||[Youtube: MLOps #18 // Nubank - Running a fintech on ML](https://www.youtube.com/watch?v=ry_P5D_d7XA) `0:53:19`||
+||[Youtube: Shawn Scully: Production and Beyond: Deploying and Managing Machine Learning Models](https://www.youtube.com/watch?v=q-VPALG6ogY&feature=youtu.be)|✓|
+||[Doc: Lecture 3: Data engineering](https://docs.google.com/document/d/1b9iuZiDEGVLHyMmnf6w2y1aN6yWQhAyqk3GHlpI9q6M/edit)||
+||[Youtube: MLOps #14: Kubeflow vs MLflow with Byron Allen](https://www.youtube.com/watch?v=TsGQZ0D3688) `0:54:57`||
+||[Youtube: Luigi in Production // MLOps Coffee Sessions #18 // Luigi Patruno ML in Production](https://www.youtube.com/watch?v=ShBod1yXUeg) `0:47:23`||||[Stanford MLSys Seminar Episode 0: ML + Systems](https://www.youtube.com/watch?v=OEiNnfdxBRE) `0:11:49`|✓|
 ||[Stanford MLSys Seminar Episode 1: Marco Tulio Ribeiro](https://www.youtube.com/watch?v=VqiTtdY58Ts) `1:00:38`||
 ||[Stanford MLSys Seminar Episode 2: Matei Zaharia](https://www.youtube.com/watch?v=nCQ9WqXPIS4) `0:59:44`||
 ||[Stanford MLSys Seminar Episode 3: Virginia Smith](https://www.youtube.com/watch?v=laCyJICLyWg) `1:00:55`||
@@ -492,41 +514,6 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Youtube: Tutorial: Technical Blogging for Python Programmers](https://www.youtube.com/watch?v=mmU25Xd0BGs)|✓|
 
 </details>
-
-<details>
-<summary>Deployment</summary>
-
-|Concept|Resource|Done|
-|---|---|---|
-|A/B Testing|[Article: Multi-Armed Bandit (MAB) – A/B Testing Sans Regret](https://vwo.com/blog/multi-armed-bandit-algorithm/)|✓|
-||[Article: When to Run Bandit Tests Instead of A/B/n Tests](https://cxl.com/blog/bandit-tests/)|✓|
-||[Article: A/B Testing Machine Learning Models (Deployment Series: Guide 08)](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)|✓|
-||[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)||
-||[Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)||
-||[Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)||
-|Load Testing|[Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)|✓|
-|Monitoring|[Article: Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)|✓|
-||[Article: How to Monitor Models](http://bugra.github.io/posts/2020/11/24/how-to-monitor-models/)|✓|
-||[Article: The Playbook to Monitor Your Model’s Performance in Production](https://towardsdatascience.com/the-playbook-to-monitor-your-models-performance-in-production-ec06c1cc3245)||
-||[Article: Monitoring your Machine Learning Model](https://www.maartengrootendorst.com/blog/monitor/)|✓|
-||[Article: Preventing model drift with continuous monitoring and deployment using Github Actions and Algorithmia Insights](https://algorithmia.com/blog/preventing-model-drift-with-continuous-monitoring-and-deployment-using-github-actions-and-algorithmia-insights)|✓|
-||[Article: Continuous monitoring for data projects](https://medium.com/acing-ai/continuous-monitoring-for-data-projects-11fb1c00c7a4)||
-||[Article: Lessons Learned from 15 Years of Monitoring Machine Learning in Production](https://mlinproduction.com/lessons-learned-from-15-years-of-monitoring-machine-learning-in-production/)|✓|
-||[Article: Using Statistical Distances for Machine Learning Observability](https://towardsdatascience.com/using-statistical-distance-metrics-for-machine-learning-observability-4c874cded78)||
-||[Youtube: Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)||
-||[Article: Incident Management in Machine Learning Systems](https://medium.com/acing-ai/incident-management-in-machine-learning-systems-d69b6e39fdee)||
-||[Article: ML Infrastructure Tools — ML Observability](https://towardsdatascience.com/ml-infrastructure-tools-ml-observability-8e4d7df6db43)||
-||[Youtube: MLOps #24 Monitoring the ML stack // Lina Weichbrodt](https://www.youtube.com/watch?v=Un30yb1WlpU) `0:55:32`||
-||[Youtube: Josh Wills: Visibility and Monitoring for Machine Learning Models](https://youtu.be/zbS9jBB8fz8)|✓|
-||[Youtube: Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=NfnpPrW30Zo) `0:36:55`|✓|
-||[Youtube: OpML '20 - How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.youtube.com/watch?v=hBMHohkRgAA)||
-||[Youtube: MLOps #28 ML Observability // Aparna Dhinakaran - Chief Product Officer at Arize AI](https://www.youtube.com/watch?v=joTF9BRwWp4) `0:55:04`||
-||[Youtube: MLOps #29 Continuous Evaluation & Model Experimentation // Danny Ma - Founder of Sydney Data Science](https://www.youtube.com/watch?v=i4QNpM20QOc) `1:00:46`||
-||[Youtube: SE4AI: Quality Assessment in Production](https://www.youtube.com/watch?v=RaaNSXKFDGk) `1:18:45`||
-||[Youtube: SE4AI: Infrastructure Quality, Deployment and Operations](https://www.youtube.com/watch?v=iBaJgWjpK24) `1:04:54`||
-
-</details>
-
 
 
 ## Specialized Skills
