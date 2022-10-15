@@ -37,6 +37,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)||
 ||[Calmcode: logging](https://calmcode.io/logging/introduction.html)|✓|
 ||[Calmcode: virtualenv](https://calmcode.io/virtualenv/intro.html)|✓|
+||[Calmcode: tqdm](https://calmcode.io/tqdm/making-a-progress-bar.html)|✓|
+||[Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)||
 |Regular Expression|[Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)|✓|
 ||[Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)|✓|
 ||[Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)|✓|
