@@ -10,7 +10,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Concept|Resource|Done|
 |---|---|---|
-|Syntax|[Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)|✓|
+|Language|[Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)|✓|
 ||[Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)|✓|
 ||[Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)|✓|
 ||[Datacamp: Python for Spreadsheet Users](https://www.datacamp.com/courses/python-for-spreadsheet-users)|✓|
