@@ -26,6 +26,10 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)|✓|
 ||[Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)||
 ||[Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)|✓|
+||[Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)|✓|
+||[Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)|✓|
+||[Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)|✓|
+||[Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)|✓|
 |Standard Library|[Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)|✓|
 ||[Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)||
 ||[Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)|✓|
