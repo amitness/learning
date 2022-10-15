@@ -697,7 +697,9 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Youtube: Lightning Chat: How a Grandmaster Won a Kaggle Competition Using Pytorch Lightning](https://www.youtube.com/watch?app=desktop&v=0HQCK_l-njI)|✓|
 ||[Youtube: Production Inference Deployment with PyTorch](https://youtu.be/Dk88zv1KYMI)||
 ||[Youtube: What is Automatic Differentiation?](https://www.youtube.com/watch?v=wG_nF1awSSY)||
-
+|BeautifulSoup|[Docs: Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)|✓|
+||[Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)|✓|
+||[Datacamp: Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)||
 </details>
 
 <details>
