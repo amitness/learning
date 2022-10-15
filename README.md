@@ -150,6 +150,25 @@ A running log of things I'm learning to build strong core software engineering s
 </details>
 
 <details>
+<summary>Test-Driven Development</summary>
+
+|Concept|Resource|Done|
+|---|---|---|
+|Test Cases|[Article: Test-Driven Machine Learning Development (Deployment Series: Guide 07)](https://mlinproduction.com/testing-machine-learning-models-deployment-series-07/)|✓|
+||[Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)|✓|
+||[Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)||
+||[Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)|✓|
+||[Article: How to cheat at unit tests with pytest and Black](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/)|✓|
+||[Youtube: Lab 8: Testing and Continuous Integration (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=D3YeQcE9tSg) `0:13:26`|✓|
+||[Article: 4 Lesser-Known Yet Awesome Tips for Pytest](https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c)|✓|
+||[Article: How to Unit Test Deep Learning: Tests in TensorFlow, mocking and test coverage](https://theaisummer.com/unit-test-deep-learning/)||
+||[Article: Unit Testing for Data Scientists](https://www.maartengrootendorst.com/blog/unit/)|✓|
+|ML|[Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml)|✓|
+||[Youtube: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList \| AISC](https://www.youtube.com/watch?v=A0od6RosVSA)|✓|
+||[Youtube: Lecture 10: ML Testing & Explainability (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=K42wdqpZymw) `1:41:12`||
+</details>
+
+<details>
 <summary>Web Technology</summary>
 
 |Concept|Resource|Done|
