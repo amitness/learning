@@ -955,6 +955,21 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: On word embeddings - Part 3: The secret ingredients of word2vec](https://ruder.io/secret-word2vec/)||
 ||[Article: Word embeddings in 2017: Trends and future direction](https://ruder.io/word-embeddings-2017/)||
 ||[Article: Brief review of word embedding families (2019)](https://medium.com/analytics-vidhya/brief-review-of-word-embedding-families-2019-b2bbc601bbfe)||
+||[Rasa Algorithm Whiteboard - Embeddings 1: Just Letters](https://www.youtube.com/watch?v=mWvnlVw_LiY) `0:13:48`|✓|
+||[Rasa Algorithm Whiteboard - Embeddings 2: CBOW and Skip Gram](https://www.youtube.com/watch?v=BWaHLmG1lak) `0:19:24`|✓|
+||[Rasa Algorithm Whiteboard - Embeddings 3: GloVe](https://www.youtube.com/watch?v=QoUYlxl1RGI) `0:19:12`|✓|
+||[Rasa Algorithm Whiteboard - Embeddings 4: Whatlies](https://www.youtube.com/watch?v=FwkwC7IJWO0) `0:14:03`|✓|
+||[Vector 1 Word Meaning](https://www.youtube.com/watch?v=EsfNYiLVtHI) `0:09:09`||
+||[Vector 2 Vector Semantics](https://www.youtube.com/watch?v=lrPxo-92GC0) `0:06:37`||
+||[Vector 3 Words and Vectors](https://www.youtube.com/watch?v=xtD47WHNhxk) `0:05:16`||
+||[Vector 4 Cosine Similarity](https://www.youtube.com/watch?v=-_i9Cg81rXA) `0:04:23`||
+||[Vector 5 TF IDF](https://www.youtube.com/watch?v=TBUpxFw8oIA) `0:05:32`||
+||[Vector 6 Word2vec](https://www.youtube.com/watch?v=FHhKmf1iPvw) `0:07:39`||
+||[Vector 7 Learning in Word2vec](https://www.youtube.com/watch?v=MGhVvEwFB9o) `0:07:36`||
+||[Vector 8 Properties of Embeddings](https://www.youtube.com/watch?v=QvFNqBRaCis) `0:06:08`||
+||[Article: Shrinking fastText embeddings so that it fits Google Colab](https://medium.com/@vasnetsov93/shrinking-fasttext-embeddings-so-that-it-fits-google-colab-cd59ab75959e)||
+||[Article: UNDERSTANDING WORD2VEC THROUGH CULTURAL DIMENSIONS](https://cameronraymond.me/blog/word2vec-cultural-dims/)|✓|
+||[Article: Evolution of Word to Vector](https://medium.com/co-learning-lounge/nlp-word-embedding-tfidf-bert-word2vec-d7f04340af7f)||
 |RNN|[Article: Long Short-Term Memory: From Zero to Hero with PyTorch](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/)|✓|
 ||[Datacamp: RNN for Language Modeling](https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python)|✓|
 ||[Article: Introduction to recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/)||
@@ -1022,6 +1037,11 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: How to Use n-gram Models to Detect Format Errors in Datasets](https://towardsdatascience.com/how-to-use-n-gram-models-to-detect-format-errors-in-datasets-bb2171842499)||
 ||[Article: Spelling Correction: How to make an accurate and fast corrector](https://towardsdatascience.com/spelling-correction-how-to-make-an-accurate-and-fast-corrector-dc6d0bcbba5f)|✓|
 ||[Article: Speller100: Zero-shot spelling correction at scale for 100-plus languages](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/)|✓|
+||[Article: Breaking the spell of the spelling check](https://www.slideshare.net/KhrystynaKulak/breaking-the-spell-of-the-spelling-check)|✓|
+||[Article: How to Write a Spelling Corrector](https://norvig.com/spell-correct.html)|✓|
+||[Article: Spellchecking by computer](https://www.dcs.bbk.ac.uk/~roger/spellchecking.html)|✓|
+||[Article: A Spellchecker Used to Be a Major Feat of Software Engineering](https://prog21.dadgum.com/29.html)|✓|
+||[Article: 1000x Faster Spelling Correction algorithm (2012)](https://wolfgarbe.medium.com/1000x-faster-spelling-correction-algorithm-2012-8701fcd87a5f)|✓|
 |Topic Modeling|[Article: Automatic Topic Labeling in 2018: History and Trends](https://medium.com/datadriveninvestor/automatic-topic-labeling-in-2018-history-and-trends-29c128cec17)||
 ||[Article: Interactive Topic Modeling with BERTopic](https://towardsdatascience.com/interactive-topic-modeling-with-bertopic-1ea55e7d73d8)||
 ||[Article: Understanding Climate Change Domains through Topic Modeling](https://omdena.com/blog/topic-modeling/)||
@@ -1115,13 +1135,12 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: How To Do Things With Words. And Counters](https://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb)||
 ||[Article: 10 Things You Need to Know About BERT and the Transformer Architecture That Are Reshaping the AI Landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape)|✓|
 ||[Article: Semantic Entailment](https://trishalaneeraj.github.io/2017-12-22/semantic-entailment)|✓|
-||[Article: Shrinking fastText embeddings so that it fits Google Colab](https://medium.com/@vasnetsov93/shrinking-fasttext-embeddings-so-that-it-fits-google-colab-cd59ab75959e)||
 ||[Article: Fuzzy Matching/Fuzzy Logic Explained](https://nanonets.com/blog/fuzzy-matching-fuzzy-logic/)|✓|
 ||[Article: All Our N-gram are Belong to You](https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html)|✓|
 ||[Article: Perplexity Intuition (and its derivation)](https://towardsdatascience.com/perplexity-intuition-and-derivation-105dd481c8f3)||
 ||[Article: Part of Speech Tagging with Hidden Markov Chain Models](https://towardsdatascience.com/part-of-speech-tagging-with-hidden-markov-chain-models-e9fccc835c0e)||
 ||[Article: NLP Year In Review](https://pakodas.substack.com/p/nlp-year-in-review)|✓|
-||[Article: UNDERSTANDING WORD2VEC THROUGH CULTURAL DIMENSIONS](https://cameronraymond.me/blog/word2vec-cultural-dims/)|✓|
+
 
 ||[Article: Aspect-Based Opinion Mining (NLP with Python)](https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800)||
 ||[Article: pyLDAvis: Topic Modelling Exploration Tool That Every NLP Data Scientist Should Know](https://neptune.ai/blog/pyldavis-topic-modelling-exploration-tool-that-every-nlp-data-scientist-should-know)||
@@ -1157,11 +1176,6 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: The 4 Biggest Open Problems in NLP](https://ruder.io/4-biggest-open-problems-in-nlp/)||
 ||[Article: How GPT3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)|✓|
 ||[Article: Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)||
-||[Article: Breaking the spell of the spelling check](https://www.slideshare.net/KhrystynaKulak/breaking-the-spell-of-the-spelling-check)|✓|
-||[Article: How to Write a Spelling Corrector](https://norvig.com/spell-correct.html)|✓|
-||[Article: Spellchecking by computer](https://www.dcs.bbk.ac.uk/~roger/spellchecking.html)|✓|
-||[Article: A Spellchecker Used to Be a Major Feat of Software Engineering](https://prog21.dadgum.com/29.html)|✓|
-||[Article: 1000x Faster Spelling Correction algorithm (2012)](https://wolfgarbe.medium.com/1000x-faster-spelling-correction-algorithm-2012-8701fcd87a5f)|✓|
 ||[Article: The Pruning Radix Trie — a Radix Trie on steroids](https://towardsdatascience.com/the-pruning-radix-trie-a-radix-trie-on-steroids-412807f77abc)|✓|
 ||[Article: Text Data Cleanup - Dynamic Embedding Visualisation](https://www.ntentional.com/nlp/visualization/bokeh/clustering/2020/06/29/Text-Cleaning-With-Clustering.html)|✓|
 ||[Article: Rotary Embeddings: A Relative Revolution](https://blog.eleuther.ai/rotary-embeddings/)||
@@ -1175,7 +1189,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Named-Entity evaluation metrics based on entity-level](http://www.davidsbatista.net/blog/2018/05/09/Named_Entity_Evaluation/)||
 ||[Article: Comparison Of Ngram Fuzzy Matching Approaches](http://chappers.github.io/web%20micro%20log/2015/04/29/comparison-of-ngram-fuzzy-matching-approaches/)||
 ||[Article: String similarity — the basic know your algorithms guide!](https://itnext.io/string-similarity-the-basic-know-your-algorithms-guide-3de3d7346227)||
-||[Article: Evolution of Word to Vector](https://medium.com/co-learning-lounge/nlp-word-embedding-tfidf-bert-word2vec-d7f04340af7f)||
+
 ||[Article: Unsupervised Auto-labeling of Websites](https://pincone.com/blog/unsupervised-auto-labeling-of-websites)|✓|
 ||[Article: A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)|✓|
 ||[Article: Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)|✓|
@@ -1306,14 +1320,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[8 8 Evaluating Search Engines 9 02](https://www.youtube.com/watch?v=b7pfLpVBN84) `0:09:03`||
 ||[Introduction to Named Entity Tagging](https://www.youtube.com/watch?v=7CRyqwCZFY0) `0:05:06`||
 ||[Introduction to Part of Speech Tagging](https://www.youtube.com/watch?v=WQYt3DRLpuQ) `0:09:03`||
-||[Vector 1 Word Meaning](https://www.youtube.com/watch?v=EsfNYiLVtHI) `0:09:09`||
-||[Vector 2 Vector Semantics](https://www.youtube.com/watch?v=lrPxo-92GC0) `0:06:37`||
-||[Vector 3 Words and Vectors](https://www.youtube.com/watch?v=xtD47WHNhxk) `0:05:16`||
-||[Vector 4 Cosine Similarity](https://www.youtube.com/watch?v=-_i9Cg81rXA) `0:04:23`||
-||[Vector 5 TF IDF](https://www.youtube.com/watch?v=TBUpxFw8oIA) `0:05:32`||
-||[Vector 6 Word2vec](https://www.youtube.com/watch?v=FHhKmf1iPvw) `0:07:39`||
-||[Vector 7 Learning in Word2vec](https://www.youtube.com/watch?v=MGhVvEwFB9o) `0:07:36`||
-||[Vector 8 Properties of Embeddings](https://www.youtube.com/watch?v=QvFNqBRaCis) `0:06:08`||
+
 ||[Neural Networks 1 Neural Units](https://www.youtube.com/watch?v=BtmsIy0j_dY) `0:05:41`||
 ||[Neural Networks 2 XOR](https://www.youtube.com/watch?v=s7nRWh_3BtA) `0:07:32`||
 ||[Neural Networks 3 Feedforward Neural Networks](https://www.youtube.com/watch?v=RMvTgWl6xog) `0:08:55`||
@@ -1347,10 +1354,6 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Rasa Algorithm Whiteboard - Diet Architecture 1: How it Works](https://www.youtube.com/watch?v=vWStcJDuOUk) `0:23:27`|✓|
 ||[Rasa Algorithm Whiteboard - Diet Architecture 2: Design Decisions](https://www.youtube.com/watch?v=KUGGuJ0aTL8) `0:15:06`|✓|
 ||[Rasa Algorithm Whiteboard - Diet Architecture 3: Benchmarking](https://www.youtube.com/watch?v=oj5oPGDlep4) `0:22:34`|✓|
-||[Rasa Algorithm Whiteboard - Embeddings 1: Just Letters](https://www.youtube.com/watch?v=mWvnlVw_LiY) `0:13:48`|✓|
-||[Rasa Algorithm Whiteboard - Embeddings 2: CBOW and Skip Gram](https://www.youtube.com/watch?v=BWaHLmG1lak) `0:19:24`|✓|
-||[Rasa Algorithm Whiteboard - Embeddings 3: GloVe](https://www.youtube.com/watch?v=QoUYlxl1RGI) `0:19:12`|✓|
-||[Rasa Algorithm Whiteboard - Embeddings 4: Whatlies](https://www.youtube.com/watch?v=FwkwC7IJWO0) `0:14:03`|✓|
 ||[Rasa Algorithm Whiteboard - Attention 1: Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA) `0:14:32`|✓|
 ||[Rasa Algorithm Whiteboard - Attention 2: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk) `0:12:26`|✓|
 ||[Rasa Algorithm Whiteboard - Attention 3: Multi Head Attention](https://www.youtube.com/watch?v=23XUv0T9L5c) `0:10:55`|✓|
