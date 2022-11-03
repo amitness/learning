@@ -568,6 +568,97 @@ A running log of things I'm learning to build strong core software engineering s
 
 
 ## Specialized Skills
+
+<details>
+<summary>Machine Learning Fundamentals</summary>
+
+|Concept|Resource|Done|
+|---|---|---|
+||[Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)||
+||[Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)||
+||[Article: Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/)||
+||[Article: Logistic regression](https://www.jeremyjordan.me/logistic-regression/)||
+||[Article: Decision trees](https://www.jeremyjordan.me/decision-trees/)|✓|
+||[Article: K-nearest neighbors](https://www.jeremyjordan.me/k-nearest-neighbors/)||
+||[Article: Support Vector Machines](https://www.jeremyjordan.me/support-vector-machines/)|✓|
+||[Article: Random forests](https://www.jeremyjordan.me/random-forests/)||
+||[Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)||
+||[Article: Hacker's Guide to Fundamental Machine Learning Algorithms with Python](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)||
+||[Article: Neural networks: activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/)||
+||[Article: Neural networks: training with backpropagation](https://www.jeremyjordan.me/neural-networks-training/)||
+||[Article: Neural Network from scratch-part 1](https://theaisummer.com/Neural_Network_from_scratch/)||
+||[Article: Neural Network from scratch-part 2](https://theaisummer.com/Neural_Network_from_scratch_part2/)||
+||[Article: Perceptron to Deep-Neural-Network](https://tsumansapkota.github.io/algorithm/2020/06/06/Perceptron-to-DeepNeuralNets/)||
+||[Article: One-vs-Rest strategy for Multi-Class Classification](https://www.geeksforgeeks.org/one-vs-rest-strategy-for-multi-class-classification/)|✓|
+||[Article: Multi-class Classification — One-vs-All & One-vs-One](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-class-classification-one-vs-all-one-vs-one-94daed32a87b)|✓|
+||[Article: One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)|✓|
+||[Article: Deep Learning Algorithms - The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)||
+||[Article: Machine Learning Techniques Primer](https://medium.com/acing-ai/machine-learning-techniques-primer-60edd9d14863)||
+||[Book: Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)||
+||[Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)||
+||[Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)||
+||[StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)||
+||[StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`|✓|
+||[StatQuest: Linear Models Pt.1 - Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo) `0:27:26`|✓|
+||[StatQuest: StatQuest: Linear Models Pt.2 - t-tests and ANOVA](https://www.youtube.com/watch?v=NF5_btOaCig) `0:11:37`|✓|
+||[StatQuest: Odds and Log(Odds), Clearly Explained!!!](https://www.youtube.com/watch?v=ARfXDSkQf1Y) `0:11:30`|✓|
+||[StatQuest: Odds Ratios and Log(Odds Ratios), Clearly Explained!!!](https://www.youtube.com/watch?v=8nm0G-1uJzA) `0:16:20`|✓|
+||[StatQuest: Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8) `0:08:47`|✓|
+||[Logistic Regression Details Pt1: Coefficients](https://www.youtube.com/watch?v=vN5cNN2-HWE) `0:19:02`|✓|
+||[Logistic Regression Details Pt 2: Maximum Likelihood](https://www.youtube.com/watch?v=BfKanl1aSG0) `0:10:23`|✓|
+||[Logistic Regression Details Pt 3: R-squared and p-value](https://www.youtube.com/watch?v=xxFYro8QuXA) `0:15:25`|✓|
+||[Saturated Models and Deviance](https://www.youtube.com/watch?v=9T0wlKdew6I) `0:18:39`|✓|
+||[Deviance Residuals](https://www.youtube.com/watch?v=JC56jS2gVUE) `0:06:18`|✓|
+||[Regularization Part 1: Ridge (L2) Regression](https://www.youtube.com/watch?v=Q81RR3yKn30) `0:20:26`|✓|
+||[Regularization Part 2: Lasso (L1) Regression](https://www.youtube.com/watch?v=NGf0voTMlcs) `0:08:19`|✓|
+||[Ridge vs Lasso Regression, Visualized!!!](https://www.youtube.com/watch?v=Xm2C_gTAl8c) `0:09:05`|✓|
+||[Regularization Part 3: Elastic Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) `0:05:19`|✓|
+||[StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ) `0:21:57`|✓|
+||[StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08) `0:06:04`|✓|
+||[StatQuest: PCA - Practical Tips](https://www.youtube.com/watch?v=oRvgq966yZg) `0:08:19`|✓|
+||[StatQuest: PCA in Python](https://www.youtube.com/watch?v=Lsue2gEM9D0) `0:11:37`|✓|
+||[StatQuest: Linear Discriminant Analysis (LDA) clearly explained.](https://www.youtube.com/watch?v=azXCzI57Yfc) `0:15:12`|✓|
+||[StatQuest: MDS and PCoA](https://www.youtube.com/watch?v=GEn-_dAyYME) `0:08:18`|✓|
+||[StatQuest: t-SNE, Clearly Explained](https://www.youtube.com/watch?v=NEaUSP4YerM) `0:11:47`|✓|
+||[StatQuest: Hierarchical Clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo) `0:11:19`|✓|
+||[StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA) `0:08:57`|✓|
+||[StatQuest: K-nearest neighbors, Clearly Explained](https://www.youtube.com/watch?v=HVXime0nQeI) `0:05:30`|✓|
+||[Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=O2L2Uv9pdDA) `0:15:12`|✓|
+||[Gaussian Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=H3EjCKtlVog) `0:09:41`|✓|
+||[StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk) `0:17:22`|✓|
+||[StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data](https://www.youtube.com/watch?v=wpNl-JwwplA) `0:05:16`|✓|
+||[Decision Trees in Python from Start to Finish](https://www.youtube.com/watch?v=q90UDEgYqeI) `1:06:23`||
+||[Regression Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=g9c66TUylZ4) `0:22:33`|✓|
+||[How to Prune Regression Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=D0efHEJsfHo) `0:16:15`|✓|
+||[StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) `0:09:54`|✓|
+||[StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=sQ870aTKqiM) `0:11:53`|✓|
+||[The Chain Rule](https://www.youtube.com/watch?v=wl1myxrtQHQ) `0:18:23`|✓|
+||[Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8) `0:23:54`|✓|
+||[Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI) `0:10:53`|✓|
+||[AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA) `0:20:54`||
+||[Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc) `0:15:52`||
+||[Gradient Boost Part 2: Regression Details](https://www.youtube.com/watch?v=2xudPOBz-vs) `0:26:45`||
+||[Gradient Boost Part 3: Classification](https://www.youtube.com/watch?v=jxuNLH5dXCs) `0:17:02`||
+||[Gradient Boost Part 4: Classification Details](https://www.youtube.com/watch?v=StWY5QWMXCw) `0:36:59`||
+||[Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)|✓|
+||[Support Vector Machines, Clearly Explained!!!](https://www.youtube.com/watch?v=efR1C6CvhmE) `0:20:32`|✓|
+||[Support Vector Machines Part 2: The Polynomial Kernel](https://www.youtube.com/watch?v=Toet3EiSFcM) `0:07:15`|✓|
+||[Support Vector Machines Part 3: The Radial (RBF) Kernel](https://www.youtube.com/watch?v=Qc5IyLW_hns) `0:15:52`|✓|
+||[XGBoost Part 1: Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E) `0:25:46`||
+||[XGBoost Part 2: Classification](https://www.youtube.com/watch?v=8b1JEDvenQU) `0:25:17`||
+||[XGBoost Part 3: Mathematical Details](https://www.youtube.com/watch?v=ZVFeW798-2I) `0:27:24`||
+||[XGBoost Part 4: Crazy Cool Optimizations](https://www.youtube.com/watch?v=oRrKeUCEbq8) `0:24:27`||
+||[Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)||
+||[StatQuest: Fiitting a curve to data, aka lowess, aka loess](https://www.youtube.com/watch?v=Vf7oJ6z2LCc) `0:10:10`||
+||[Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU) `0:14:31`||
+||[Udacity: Classification Models](https://www.udacity.com/course/classification-models--ud978)||
+||[Neural Networks from Scratch - P.1 Intro and Neuron Code](https://www.youtube.com/watch?v=Wo5dMEP_BbI) `0:16:59`||
+||[Neural Networks from Scratch - P.2 Coding a Layer](https://www.youtube.com/watch?v=lGLto9Xd7bU) `0:15:06`||
+||[Neural Networks from Scratch - P.3 The Dot Product](https://www.youtube.com/watch?v=tMrbN67U9d4) `0:25:17`||
+||[Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4) `0:33:46`||
+||[Neural Networks from Scratch - P.5 Hidden Layer Activation Functions](https://www.youtube.com/watch?v=gmjzbpSVY1A) `0:40:05`||
+</details>
+
 <details>
 <summary>Machine Learning Libraries</summary>
 
