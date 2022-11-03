@@ -942,11 +942,19 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Concept|Resource|Done|
 |---|---|---|
+|Fundamentals|[Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)|✓|
+||[Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)|✓|
+||[Stanford: CS214 From Languages to Information](https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)||
 |Preprocessing|[Article: Fixing common Unicode mistakes with Python â€“ after they’ve been made](http://blog.conceptnet.io/posts/2012/fixing-common-unicode-mistakes-with-python-after-theyve-been-made/)|✓|
+||[Datacamp: Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)|✓|
+||[Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)|✓|
+||[Datacamp: Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)|✓|
 |Keyword Extraction|[Article: 10 Popular Keyword Extraction Algorithms in Natural Language Processing](https://medium.com/mlearning-ai/10-popular-keyword-extraction-algorithms-in-natural-language-processing-8975ada5750c)||
 ||[Article: Build A Keyword Extraction API with Spacy, Flask, and FuzzyWuzzy](https://towardsdatascience.com/build-a-keyword-extraction-api-with-spacy-flask-and-fuzzywuzzy-4909d7ffc105)|✓|
+||[Article: Unsupervised Auto-labeling of Websites](https://pincone.com/blog/unsupervised-auto-labeling-of-websites)|✓|
 ||[Article: Keyword Extraction with BERT](https://www.maartengrootendorst.com/blog/keybert/)|✓|
 ||[Article: Topic Modeling for Keyword Extraction](http://bugra.github.io/posts/2017/2/5/topic-modeling-for-keyword-extraction/)|✓|
+||[Simple Unsupervised Keyphrase Extraction using Sentence Embeddings \| Research Paper Walkthrough](https://www.youtube.com/watch?v=ykClwtoLER8) `0:21:23`|✓|
 |Embeddings|[Article: The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)|✓|
 ||[Article: Intuition & Use-Cases of Embeddings in NLP & beyond](https://jalammar.github.io/skipgram-recommender-talk/)|✓|
 ||[Article: Learning Word Embedding](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)||
@@ -959,6 +967,11 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Rasa Algorithm Whiteboard - Embeddings 2: CBOW and Skip Gram](https://www.youtube.com/watch?v=BWaHLmG1lak) `0:19:24`|✓|
 ||[Rasa Algorithm Whiteboard - Embeddings 3: GloVe](https://www.youtube.com/watch?v=QoUYlxl1RGI) `0:19:12`|✓|
 ||[Rasa Algorithm Whiteboard - Embeddings 4: Whatlies](https://www.youtube.com/watch?v=FwkwC7IJWO0) `0:14:03`|✓|
+||[Rasa Algorithm Whiteboard - StarSpace](https://www.youtube.com/watch?v=ZT3_9Kjx7oI) `0:11:46`|✓|
+||[Rasa Algorithm Whiteboard - Countvectors](https://www.youtube.com/watch?v=Ju7l5ADg10U) `0:13:32`|✓|
+||[Rasa Algorithm Whiteboard - Subword Embeddings](https://www.youtube.com/watch?v=kNw9dpzp5RU) `0:11:58`|✓|
+||[Rasa Algorithm Whiteboard - Implementation of Subword Embeddings](https://www.youtube.com/watch?v=8D3Gamk1Jig) `0:10:01`|✓|
+||[Rasa Algorithm Whiteboard - BytePair Embeddings](https://www.youtube.com/watch?v=-0IjF-7OB3s) `0:12:44`|✓|
 ||[Vector 1 Word Meaning](https://www.youtube.com/watch?v=EsfNYiLVtHI) `0:09:09`||
 ||[Vector 2 Vector Semantics](https://www.youtube.com/watch?v=lrPxo-92GC0) `0:06:37`||
 ||[Vector 3 Words and Vectors](https://www.youtube.com/watch?v=xtD47WHNhxk) `0:05:16`||
@@ -997,7 +1010,16 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Attention? An Other Perspective!: Part 3](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part3/)||
 ||[Article: Attention? An Other Perspective!: Part 4](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part4/)||
 ||[Article: Attention? An Other Perspective!: Part 5](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part5/)||
+||[Rasa Algorithm Whiteboard - Attention 1: Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA) `0:14:32`|✓|
+||[Rasa Algorithm Whiteboard - Attention 2: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk) `0:12:26`|✓|
+||[Rasa Algorithm Whiteboard - Attention 3: Multi Head Attention](https://www.youtube.com/watch?v=23XUv0T9L5c) `0:10:55`|✓|
+||[Rasa Algorithm Whiteboard: Attention 4 - Transformers](https://www.youtube.com/watch?v=EXNBy8G43MM) `0:14:34`|✓|
+||[Youtube: A brief history of the Transformer architecture in NLP](https://www.youtube.com/watch?v=iH-wmtxHunk)|✓|
+||[Youtube: The Transformer neural network architecture explained. “Attention is all you need” (NLP)](https://www.youtube.com/watch?v=FWFA4DGuzSc)|✓|
+||[Youtube: How does a Transformer architecture combine Vision and Language? ViLBERT - NLP meets Computer Vision](https://www.youtube.com/watch?v=dd7nE4nbxN0)|✓|
+||[Youtube: Strategies for pre-training the BERT-based Transformer architecture – language (and vision)](https://www.youtube.com/watch?v=dabFOBE4eZI)|✓|
 ||[Article: The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)|✓|
+||[Article: The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)||
 ||[Article: A Deep Dive into the Reformer](https://www.pragmatic.ml/reformer-deep-dive/)||
 ||[Article: A Survey of Long-Term Context in Transformers](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/)||
 ||[Article: Why Rasa uses Sparse Layers in Transformers](https://blog.rasa.com/why-rasa-uses-sparse-layers-in-transformers/)||
@@ -1007,7 +1029,12 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Hugging Face Reads - 01/2021 - Sparsity and Pruning](https://discuss.huggingface.co/t/hugging-face-reads-01-2021-sparsity-and-pruning/3144)|✓|
 ||[Article: Hugging Face Reads, Feb. 2021 - Long-range Transformers](https://huggingface.co/blog/long-range-transformers)|✓|
 ||[Article: The Transformer Explained](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)|✓|
+||[LSBert: A Simple Framework for Lexical Simplification \| Research Paper Walkthrough](https://www.youtube.com/watch?v=uhnKsGDyhEg) `0:20:27`|✓|
+||[SpanBERT: Improving Pre-training by Representing and Predicting Spans \| Research Paper Walkthrough](https://www.youtube.com/watch?v=QUP3rMrA1mk) `0:14:21`|✓|
+||[T5: Exploring Limits of Transfer Learning with Text-to-Text Transformer (Research Paper Walkthrough)](https://www.youtube.com/watch?v=91iLu6OOrwk) `0:12:47`|✓|
+||[Hierarchical Transformers for Long Document Classification (Research Paper Walkthrough)](https://www.youtube.com/watch?v=3IOl5d9PZeM) `0:12:46`|✓|
 |BERT|[Article: Deconstructing BERT](https://towardsdatascience.com/deconstructing-bert-reveals-clues-to-its-state-of-art-performance-in-nlp-tasks-76a7e828c0f1)||
+||[Youtube: BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)|✓|
 ||[Article: Maximizing BERT model performance](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab)|✓|
 ||[Article: The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)|✓|
 ||[Article: Smart Batching Tutorial - Speed Up BERT Training](https://mccormickml.com/2020/07/29/smart-batching-tutorial/)|✓|
@@ -1027,17 +1054,63 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: String Matching with BERT, TF-IDF, and more!](https://www.maartengrootendorst.com/blog/polyfuzz/)|✓|
 ||[Article: Document search with fragment embeddings](https://towardsdatascience.com/document-search-with-fragment-embeddings-7e1d73eb0104)||
 ||[Article: Text Similarities : Estimate the degree of similarity between two texts](https://medium.com/@adriensieg/text-similarities-da019229c894)||
+||[Article: How we used Universal Sentence Encoder and FAISS to make our search 10x smarter](https://blog.onebar.io/building-a-semantic-search-engine-using-open-source-components-e15af5ed7885)|✓|
+||[Article: Using embeddings to help find similar restaurants in Search](https://bytes.swiggy.com/using-embeddings-to-help-find-similar-restaurants-in-search-1d1417dff304)||
+||[Article: Evolution of and experiments with feed ranking at Swiggy](https://bytes.swiggy.com/evolution-of-and-experiments-with-feed-ranking-at-swiggy-17204769e79f)||
+||[Article: Personalizing Swiggy POP Recommendations](https://bytes.swiggy.com/personalizing-swiggy-pop-recommendations-d434b6f555f9)||
+||[Article: Fan(s)tastic: Search for blazing-fast results](https://bytes.swiggy.com/fan-s-tastic-search-for-blazing-fast-results-46aa706313ef)||
+||[Article: Find My Food: Semantic Embeddings for Food Search Using Siamese Networks](https://bytes.swiggy.com/find-my-food-semantic-embeddings-for-food-search-using-siamese-networks-abb55be0b639)||
+||[Article: Learning To Rank Restaurants](https://bytes.swiggy.com/learning-to-rank-restaurants-c6a69ba4b330)||
+||[Article: Comparison Of Ngram Fuzzy Matching Approaches](http://chappers.github.io/web%20micro%20log/2015/04/29/comparison-of-ngram-fuzzy-matching-approaches/)||
+||[Article: String similarity — the basic know your algorithms guide!](https://itnext.io/string-similarity-the-basic-know-your-algorithms-guide-3de3d7346227)||
+||[Youtube: Billion-scale Approximate Nearest Neighbor Search](https://www.youtube.com/watch?v=SKrHs03i08Q)||
+||[Youtube: Data Science - Fuzzy Record Matching](https://www.youtube.com/watch?v=YhrKvEjpBYo)|✓|
+||[Youtube: Minimum Edit Distance Dynamic Programming](https://www.youtube.com/watch?v=We3YDTzNXEk)|✓|
+||[Youtube: Cheuk Ting Ho - Fuzzy Matching Smart Way of Finding Similar Names Using Fuzzywuzzy](https://www.youtube.com/watch?v=NRAqIjXaZvw)|✓|
+||[Youtube: What's in a Name? Fast Fuzzy String Matching - Seth Verrinder & Kyle Putnam - Midwest.io 2015](https://www.youtube.com/watch?v=s0YSKiFdj8Q)|✓|
+||[Youtube: Jiaqi Liu Fuzzy Search Algorithms How and When to Use Them PyCon 2017](https://www.youtube.com/watch?v=kTS2b6pGElE)|✓|
+||[Youtube: 1 + 1 = 1 or Record Deduplication with Python \| Flávio Juvenal @ PyBay2018](https://www.youtube.com/watch?v=McsTWXeURhA)|✓|
+||[Youtube: Mike Mull: The Art and Science of Data Matching](https://www.youtube.com/watch?v=Y-nYEOgq3YE)|✓|
+||[Youtube: Record linkage: Join for real life by Rhydwyn Mcguire](https://youtu.be/cEcVIjyHfiQ)|✓|
+||[Youtube: Approximate nearest neighbors and vector models, introduction to Annoy](https://www.youtube.com/watch?v=QkCCyLW0ehU)|✓|
+||[Advanced Information Retrieval 2021 - 2021 Course Introduction](https://www.youtube.com/watch?v=6FNISntK6Sk) `0:21:39`|✓|
+||[Advanced Information Retrieval 2021: Crash Course IR - Fundamentals](https://www.youtube.com/watch?v=ZC94KSDd4DM) `0:46:31`|✓|
+||[Advanced Information Retrieval 2021: Crash Course IR - Evaluation](https://www.youtube.com/watch?v=EiDltQZ713I) `0:37:15`||
+||[Advanced Information Retrieval 2021: Crash Course IR - Test Collections](https://www.youtube.com/watch?v=pRRveh3D0pI) `0:51:12`||
+||[Advanced Information Retrieval 2021: Word Representation Learning](https://www.youtube.com/watch?v=f3nM6DKVwug) `0:42:02`||
+||[Advanced Information Retrieval 2021: Sequence Modelling with CNNs and RNNs](https://www.youtube.com/watch?v=7Bfj_UuJh38) `0:55:04`||
+||[Advanced Information Retrieval 2021: Transformer and BERT Pre-training](https://www.youtube.com/watch?v=Mt7UJNKxscA) `0:47:15`||
+||[Advanced Information Retrieval 2021: Introduction to Neural Re-Ranking](https://www.youtube.com/watch?v=GSixIsI1eZE) `0:59:20`||
+||[Advanced Information Retrieval 2021: Transformer Contextualized Re-Ranking](https://www.youtube.com/watch?v=Fle-jKzV-Rk) `0:49:06`||
+||[Advanced Information Retrieval 2021: Domain Specific Applications](https://www.youtube.com/watch?v=rHXTpHIiq6U) `0:38:32`||
+||[Advanced Information Retrieval 2021: Dense Retrieval ❤ Knowledge Distillation](https://www.youtube.com/watch?v=EJ_7Gx6amt8) `0:59:28`||
+||[Introduction to Dense Text Representations - Part 1](https://www.youtube.com/watch?v=qmN1fJ7Fdmo) `0:12:56`|✓|
+||[Introduction to Dense Text Representations - Part 2](https://www.youtube.com/watch?v=0RV-q0--NLs) `0:23:13`|✓|
+||[Introduction to Dense Text Representation - Part 3](https://www.youtube.com/watch?v=t4Gf4LruVZ4) `0:38:07`|✓|
+||[Training State-of-the-Art Sentence Embedding Models](https://www.youtube.com/watch?v=RHXZKUr8qOY) `0:43:43`||
 |NER|[Article: Unsupervised NER using BERT](https://towardsdatascience.com/unsupervised-ner-using-bert-2d7af5f90b8a)||
 ||[Article: Zero shot NER using RoBERTA](https://krishansubudhi.github.io/deeplearning/2020/06/25/ROBERTA-zeroshot-NER.html)||
 ||[Article: Existing Tools for Named Entity Recognition](https://mccormickml.com/2020/05/19/existing-ner-tools/)|✓|
 ||[Article: Solving NER with BERT for any entity type with very little training data (compared to past approaches)](https://ajitrajasekharan.medium.com/solving-ner-with-bert-for-any-entity-type-with-very-little-training-data-compared-to-past-50094e2e3df9)||
 ||[Article: What is Hidden in the Hidden Markov Model?](https://medium.com/acing-ai/what-is-hidden-in-the-hidden-markov-models-eee7bab45ac3)||
 ||[Article: Part of Speech Tagging with Hidden Markov Chain Models](https://towardsdatascience.com/part-of-speech-tagging-with-hidden-markov-chain-models-e9fccc835c0e)||
+||[Article: Named-Entity evaluation metrics based on entity-level](http://www.davidsbatista.net/blog/2018/05/09/Named_Entity_Evaluation/)||
 |Summarization|[Article: Automatically Summarize Trump’s State of the Union Address](https://towardsdatascience.com/automatically-summarize-trumps-state-of-the-union-address-6757c6af6534)||
+||[Leveraging BERT for Extractive Text Summarization on Lectures \| Research Paper Walkthrough](https://www.youtube.com/watch?v=JU6eSLsp6vI) `0:20:10`|✓|
+||[A Supervised Approach to Extractive Summarisation of Scientific Papers \| Research Paper Walkthrough](https://www.youtube.com/watch?v=73uWfopdjoc) `0:19:01`|✓|
+||[Text Summarization of COVID-19 Medical Articles using BERT and GPT-2 \| Research Paper Walkthrough](https://www.youtube.com/watch?v=kC5kP1dPAzc) `0:21:52`|✓|
+||[Extractive & Abstractive Summarization with Transformer Language Models \| Research Paper Walkthrough](https://www.youtube.com/watch?v=2IzXW3Ypks0) `0:16:58`|✓|
+||[Unsupervised Multi-Document Summarization using Neural Document Model \| Research Paper Walkthrough](https://www.youtube.com/watch?v=qOoAlI5hpFk) `0:15:11`|✓|
+||[SummPip: Multi-Document Summarization with Sentence Graph Compression \| Research Paper Walkthrough](https://www.youtube.com/watch?v=1jwUOMQVCo4) `0:16:54`|✓|
+||[PEGASUS: Pre-training with Gap-Sentences for Abstractive Summarization \| Research Paper Walkthrough](https://www.youtube.com/watch?v=QY8oZxS0txs) `0:15:04`|✓|
+||[On Generating Extended Summaries of Long Documents (Research Paper Walkthrough)](https://www.youtube.com/watch?v=Inc63mLLInA) `0:14:24`|✓|
 |Multilingual NLP|[Article: How to Apply BERT to Arabic and Other Languages](https://mccormickml.com/2020/10/05/multilingual-bert/)||
 ||[Article: A survey of cross-lingual word embedding models](https://ruder.io/cross-lingual-embeddings/)||
 ||[Article: Unsupervised Cross-lingual Representation Learning](https://ruder.io/unsupervised-cross-lingual-learning/)||
 ||[Article: DaCy: New Fast and Efficient State-of-the-Art in Danish NLP!](https://www.kennethenevoldsen.com/post/new-fast-and-efficient-state-of-the-art-in-danish-nlp/)||
+||[Article: Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)||
+||[CMU: Low-resource NLP Bootcamp 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)|✓|
+||[CMU Multilingual NLP 2020](http://demo.clab.cs.cmu.edu/11737fa20/)|✓|
 |Domain Adaptation|[Article: Domain-Specific BERT Models](https://mccormickml.com/2020/06/22/domain-specific-bert-tutorial/)|✓|
 |Text Generation|[Article: Text Generation](http://veredshwartz.blogspot.com/2019/08/text-generation.html)||
 ||[Article: The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)|✓|
@@ -1047,6 +1120,10 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: How to Implement a Beam Search Decoder for Natural Language Processing](https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/)||
 ||[Article: Perplexity Intuition (and its derivation)](https://towardsdatascience.com/perplexity-intuition-and-derivation-105dd481c8f3)||
 ||[Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)||
+||[Datacamp: Natural Language Generation in Python](https://www.datacamp.com/courses/natural-language-generation-in-python)|✓|
+||[BLEURT: Learning Robust Metrics for Text Generation \| Research Paper Walkthrough](https://www.youtube.com/watch?v=9lWxwfMKAdM) `0:13:38`|✓|
+||[Evaluation of Text Generation: A Survey \| Human-Centric Evaluations \| Research Paper Walkthrough](https://www.youtube.com/watch?v=-CIlz-5um7U) `0:15:54`|✓|
+||[Nucleus Sampling: The Curious Case of Neural Text Degeneration (Research Paper Walkthrough)](https://www.youtube.com/watch?v=dCORspO2yVY) `0:12:48`|✓|
 |Spelling Correction|[Article: Rebuilding the most popular spellchecker. Part 1](https://zverok.github.io/blog/2021-01-05-spellchecker-1.html)|✓|
 ||[Article: Rebuilding the spellchecker, pt.2: Just look in the dictionary, they said!](https://zverok.github.io/blog/2021-01-09-spellchecker-2.html)|✓|
 ||[Article: Rebuilding the spellchecker, pt.3: Lookup—compounds and solutions](https://zverok.github.io/blog/2021-01-14-spellchecker-3.html)|✓|
@@ -1060,6 +1137,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Spellchecking by computer](https://www.dcs.bbk.ac.uk/~roger/spellchecking.html)|✓|
 ||[Article: A Spellchecker Used to Be a Major Feat of Software Engineering](https://prog21.dadgum.com/29.html)|✓|
 ||[Article: 1000x Faster Spelling Correction algorithm (2012)](https://wolfgarbe.medium.com/1000x-faster-spelling-correction-algorithm-2012-8701fcd87a5f)|✓|
+||[Youtube: How to build a custom spell checker using python NLP](https://www.youtube.com/watch?v=LEA3TDV98zE)|✓|
 |Topic Modeling|[Article: Automatic Topic Labeling in 2018: History and Trends](https://medium.com/datadriveninvestor/automatic-topic-labeling-in-2018-history-and-trends-29c128cec17)||
 ||[Article: Interactive Topic Modeling with BERTopic](https://towardsdatascience.com/interactive-topic-modeling-with-bertopic-1ea55e7d73d8)||
 ||[Article: Understanding Climate Change Domains through Topic Modeling](https://omdena.com/blog/topic-modeling/)||
@@ -1072,82 +1150,68 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Pattern-Exploiting Training](https://www.pragmatic.ml/pet/)||
 |Paraphrasing|[Article: Paraphrasing](http://veredshwartz.blogspot.com/2017/08/paraphrasing.html)||
 |Conversational AI|[Article: What makes a good conversation?](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html)|✓|
+||[Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)|✓|
+||[Rasa Algorithm Whiteboard - Diet Architecture 1: How it Works](https://www.youtube.com/watch?v=vWStcJDuOUk) `0:23:27`|✓|
+||[Rasa Algorithm Whiteboard - Diet Architecture 2: Design Decisions](https://www.youtube.com/watch?v=KUGGuJ0aTL8) `0:15:06`|✓|
+||[Rasa Algorithm Whiteboard - Diet Architecture 3: Benchmarking](https://www.youtube.com/watch?v=oj5oPGDlep4) `0:22:34`|✓|
+||[Rasa Algorithm Whiteboard - TED Policy](https://www.youtube.com/watch?v=j90NvurJI4I) `0:16:10`|✓|
+||[Rasa Algorithm Whiteboard - TED in Practice](https://www.youtube.com/watch?v=d8JMJMvErSg) `0:14:54`|✓|
+||[Rasa Algorithm Whiteboard - Response Selection](https://www.youtube.com/watch?v=2jvyWngHEJM) `0:12:07`|✓|
+||[Rasa Algorithm Whiteboard - Response Selection: Implementation](https://www.youtube.com/watch?v=0tXkFScW0hE) `0:09:25`|✓|
+||[Dialog 1 Overview](https://www.youtube.com/watch?v=2zCfh3o88K8) `0:03:11`||
+||[Dialogue 2 Human Conversation](https://www.youtube.com/watch?v=n0MpIyqZjZU) `0:10:31`||
+||[Dialogue 3 ELIZA](https://www.youtube.com/watch?v=veyhOF4xFUo) `0:09:27`||
+||[Dialogue 4 Corpus Chatbots](https://www.youtube.com/watch?v=GB3dOuV6f4s) `0:09:35`||
+||[Dialogue 5 Frame Based Dialogue](https://www.youtube.com/watch?v=A4JndTnxoqE) `0:07:41`||
+||[Dialogue 6 Dialogue State Architecture](https://www.youtube.com/watch?v=nQKMKzMXZks) `0:08:58`||
+||[Dialogue 7 Dialogue State Architecture Policy and Generation](https://www.youtube.com/watch?v=ptVx38To1yM) `0:08:23`||
+||[Dialogue 8 Evaluation](https://www.youtube.com/watch?v=iJet3n3gAso) `0:04:38`||
+||[Dialogue 9 Design and Ethical Issues](https://www.youtube.com/watch?v=bX06GTiK3lQ) `0:03:29`||
+||[YouTube: Level 3 AI Assistant Conference 2020](https://www.youtube.com/playlist?list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86)|✓|
+||[Youtube: Conversational AI with Transformers and Rule-Based Systems](https://www.youtube.com/watch?v=_-rCUnPBlME) `1:53:24`|✓|
+||[TOD-BERT: Pre-trained Transformers for Task-Oriented Dialogue Systems (Research Paper Walkthrough)](https://www.youtube.com/watch?v=z3Pe0cJUvO0) `0:15:25`|✓|
+||[DialoGPT: Generative Training for Conversational Response Generation (Research Paper Walkthrough)](https://www.youtube.com/watch?v=Zo679MYoJns) `0:13:17`|✓|
+||[Youtube: Transformers 🤗 to Rule Them All? Under the Hood of the AI Recruiter Chatbot 🤖, with Keisuke Inoue](https://www.youtube.com/watch?v=aYYaDFXLF3c)|✓|
+||[Youtube: Chatbots Revisted \| by Abhishek Thakur \| Kaggle Days Warsaw](https://www.youtube.com/watch?v=yQqyl0PZ2Wg)|✓|
 |Sentiment Analysis|[Article: NLP: Pre-trained Sentiment Analysis](https://medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysis-1eb52a9d742c)|✓|
 ||[Article: Key topics extraction and contextual sentiment of users reviews](https://tech.goibibo.com/key-topics-extraction-and-contextual-sentiment-of-users-reviews-20e63c0fd7ca)|✓|
 ||[Article: Aspect-Based Opinion Mining (NLP with Python)](https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800)||
+||[Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)|✓|
+||[Youtube: Sentiment Analysis: Key Milestones, Challenges and New Directions](https://www.youtube.com/watch?v=YAqjf7to-lU)|✓|
+||[Talk: EmoTag1200: Understanding the Association between Emojis and Emotions](https://slideslive.com/38939357/emotag1200-understanding-the-association-between-emojis-and-emotions)|✓|
 |Text Classification|[Article: Multi-Label Text Classification](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-label-text-classification-5c505fdedca8)|✓|
 |Text Clustering|[Article: Document clustering](https://theaisummer.com/Document_clustering/)|✓|
+||[Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)|✓|
 ||[Article: Gaussian Mixture Models for Clustering](https://towardsdatascience.com/gaussian-mixture-models-for-clustering-3f62d0da675)||
 |Explainability|[Article: Explain NLP models with LIME & SHAP](https://towardsdatascience.com/explain-nlp-models-with-lime-shap-5c5a9f84d59b)||
+||[Youtube: Explainability for Natural Language Processing](https://www.youtube.com/watch?v=3tnrGe_JA0s)||
 |Usecases|[Article: How to solve 90% of NLP problems: a step-by-step guide](https://mlpowered.com/posts/how-to-solve-90-nlp/)|✓|
 ||[Article: Using an NLP Q&A System To Study Climate Hazards and Nature-Based Solutions](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)|✓|
 ||[Article: How To Do Things With Words. And Counters](https://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb)||
+||[Talk: Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/)|✓|
+||[Youtube: Design Considerations for building ML-Powered Search Applications - Mark Moyou](https://www.youtube.com/watch?v=q7xSuKq31Tk)|✓|
+||[Youtube: Analyze Customer Feedback in Minutes, Not Months](https://www.youtube.com/watch?v=RMamDDeIFeU)|✓|
+||[Youtube: NLP in Feedback Analysis - Yue Ning](https://www.youtube.com/watch?v=V8mCS1XHyTI)|✓|
+||[Youtube: Productionizing an unsupervised machine learning model to understand customer feedback](https://youtu.be/YLTLdEiJcq0)|✓|
+||[Youtube: Bringing innovation to online retail: automating customer service with NLP](https://www.youtube.com/watch?v=beB77I0leY4)|✓|
+||[Youtube: Transform customer service with machine learning (Google Cloud Next '17)](https://www.youtube.com/watch?v=bRnN4pBAsfc)|✓|
 |Tokenization|[Article: 3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)||
+|Machine Translation|[Article: Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)|✓|
+||[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✓|
+|Libraries|[Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)|✓|
+||[Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)|✓|
+||[Youtube: spaCy v3.0: Bringing State-of-the-art NLP from Prototype to Production](https://globalai.live/october-sessions-natural-language-processing/keynote-2/) `00:22:40`|✓|
+||[Youtube: SpaCy for Digital Humanities with Python Tutorials](https://www.youtube.com/playlist?list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo)|✓|
+||[TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)|✓|
+||[YouTube: Intro to NLP with Spacy](https://www.youtube.com/playlist?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)|✓|
+|Audio|[Datacamp: Spoken Language Processing in Python](https://www.datacamp.com/courses/spoken-language-processing-in-python)||
+||[Youtube: Librosa Audio and Music Signal Analysis in Python \| SciPy 2015 \| Brian McFee](https://www.youtube.com/watch?v=MhOdbtPhbLU)|✓|
+||[Youtube: Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)|✓|
+|Gibberish Detection|[Youtube: Gibberish Detector](https://www.youtube.com/watch?v=l15C8UJu17s)|✓|
+|Constituency Parsing|[Youtube: NLP Lecture 7 Constituency Parsing](https://www.youtube.com/playlist?list=PLr9TFf9GjancAHiiP5cqGmYsZad99Uf_h)|✓|
+||[Youtube: LING 83 Teaching Video: Constituency Parsing](https://www.youtube.com/watch?v=G_bd2z4mIiI)|✓|
 
 
-	
-
-
-||[Article: How we used Universal Sentence Encoder and FAISS to make our search 10x smarter](https://blog.onebar.io/building-a-semantic-search-engine-using-open-source-components-e15af5ed7885)|✓|
-||[Article: Adapting Text Augmentation to Industry problems](https://gitlost-murali.github.io/blogs/nlp/augmentation/exploiting-contextual-models-for-data)|✓|
-||[Article: The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)||
-||[Article: OpenAI's GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/)||
-||[Article: NLP for Supervised Learning - A Brief Survey](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)|✓|
-||[Article: The 4 Biggest Open Problems in NLP](https://ruder.io/4-biggest-open-problems-in-nlp/)||
-||[Article: How GPT3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)|✓|
-||[Article: Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)||
-||[Article: The Pruning Radix Trie — a Radix Trie on steroids](https://towardsdatascience.com/the-pruning-radix-trie-a-radix-trie-on-steroids-412807f77abc)|✓|
-||[Article: Text Data Cleanup - Dynamic Embedding Visualisation](https://www.ntentional.com/nlp/visualization/bokeh/clustering/2020/06/29/Text-Cleaning-With-Clustering.html)|✓|
-||[Article: Rotary Embeddings: A Relative Revolution](https://blog.eleuther.ai/rotary-embeddings/)||
-||[Article: Using embeddings to help find similar restaurants in Search](https://bytes.swiggy.com/using-embeddings-to-help-find-similar-restaurants-in-search-1d1417dff304)||
-||[Article: Evolution of and experiments with feed ranking at Swiggy](https://bytes.swiggy.com/evolution-of-and-experiments-with-feed-ranking-at-swiggy-17204769e79f)||
-||[Article: Personalizing Swiggy POP Recommendations](https://bytes.swiggy.com/personalizing-swiggy-pop-recommendations-d434b6f555f9)||
-||[Article: Fan(s)tastic: Search for blazing-fast results](https://bytes.swiggy.com/fan-s-tastic-search-for-blazing-fast-results-46aa706313ef)||
-||[Article: Find My Food: Semantic Embeddings for Food Search Using Siamese Networks](https://bytes.swiggy.com/find-my-food-semantic-embeddings-for-food-search-using-siamese-networks-abb55be0b639)||
-||[Article: Learning To Rank Restaurants](https://bytes.swiggy.com/learning-to-rank-restaurants-c6a69ba4b330)||
-||[Article: Is Word Sense Disambiguation outdated?](https://annabreit.medium.com/is-word-sense-disambiguation-outdated-ef05a139576)||
-||[Article: Named-Entity evaluation metrics based on entity-level](http://www.davidsbatista.net/blog/2018/05/09/Named_Entity_Evaluation/)||
-||[Article: Comparison Of Ngram Fuzzy Matching Approaches](http://chappers.github.io/web%20micro%20log/2015/04/29/comparison-of-ngram-fuzzy-matching-approaches/)||
-||[Article: String similarity — the basic know your algorithms guide!](https://itnext.io/string-similarity-the-basic-know-your-algorithms-guide-3de3d7346227)||
-
-||[Article: Unsupervised Auto-labeling of Websites](https://pincone.com/blog/unsupervised-auto-labeling-of-websites)|✓|
-||[Article: A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)|✓|
-||[Article: Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)|✓|
-||[Book: Embeddings in Natural Language Processing](http://josecamachocollados.com/book_embNLP_draft.pdf)||
-||[Book: Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)||
-||[Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)||
-||[Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)||
-||[CMU: Low-resource NLP Bootcamp 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)|✓|
-||[CMU Neural Nets for NLP 2021 (1): Introduction](https://www.youtube.com/watch?v=vnx6M7N-ggs) `1:22:40`|✓|
-||[CMU Neural Nets for NLP 2021 (2): Language Modeling, Efficiency/Training Tricks](https://www.youtube.com/watch?v=ld5qts6LRj4) `0:58:24`||
-||[CMU Neural Nets for NLP 2021 (3): Building A Neural Network Toolkit for NLP, minnn](https://www.youtube.com/watch?v=krnzWH68lEE) `0:34:42`||
-||[CMU Neural Nets for NLP 2021 (4): Efficiency Tricks for Neural Nets](https://www.youtube.com/watch?v=ZrDST4HfgAc) `0:43:28`|✓|
-
-||[CMU Neural Nets for NLP 2021 (6): Conditioned Generation](https://www.youtube.com/watch?v=3LdDiRM9xE8) `0:45:06`||
-||[CMU Neural Nets for NLP 2021 (7): Attention](https://www.youtube.com/watch?v=VvKRZXvDzM4) `0:38:23`||
-||[CMU Neural Nets for NLP 2021 (8): Distributional Semantics and Word Vectors](https://www.youtube.com/watch?v=A7o1zJ1eY9o) `0:42:44`||
-||[CMU Neural Nets for NLP 2021 (9): Sentence and Contextual Word Representations](https://www.youtube.com/watch?v=0UNNRxhnjHg) `0:50:53`||
-||[CMU Neural Nets for NLP 2021 (11): Structured Prediction with Local Independence Assumptions](https://www.youtube.com/watch?v=SId98zY-D9Y) `0:36:43`||
-||[CMU Neural Nets for NLP 2021 (10): Debugging Neural Nets (for NLP)](https://www.youtube.com/watch?v=KRQHdwpfj-4) `0:43:58`||
-||[CMU Neural Nets for NLP 2021 (12): Model Interpretation](https://www.youtube.com/watch?v=DmDY5jfp8Qg) `0:28:52`|✓|
-||[CMU Neural Nets for NLP 2021 (13): Generating Trees and Graphs](https://www.youtube.com/watch?v=XPDnfjrI6wY) `0:41:05`||
-||[CMU Neural Nets for NLP 2021 (14): Margin-based and Reinforcement Learning for Structured Prediction](https://www.youtube.com/watch?v=3YCb-F4pS4E) `0:47:20`||
-||[CMU Neural Nets for NLP 2021 (15): Sequence-to-sequence Pre-training](https://www.youtube.com/watch?v=0aet0r-DT_E) `0:27:22`||
-||[CMU Neural Nets for NLP 2021 (16): Machine Reading w/ Neural Nets](https://www.youtube.com/watch?v=x2pQYCdJkOc) `0:43:08`||
-||[CMU Neural Nets for NLP 2021 (17): Neural Nets + Knowledge Bases](https://www.youtube.com/watch?v=1JGFTpm1rdQ) `0:44:19`||
-||[CMU Neural Nets for NLP 2021 (18): Advanced Search Algorithms](https://www.youtube.com/watch?v=Gl6CPW6l6dA) `0:47:58`||
-||[CMU Neural Nets for NLP 2021 (19): Adversarial Methods](https://www.youtube.com/watch?v=C_S9gSm8NeY) `0:41:56`||
-||[CMU Neural Nets for NLP 2021 (20): Models w/ Latent Random Variables](https://www.youtube.com/watch?v=Z5knlb6MMOI) `0:41:06`||
-||[CMU Neural Nets for NLP 2021 (21): Multilingual Learning](https://www.youtube.com/watch?v=YUxHFYUyvmw) `0:33:10`||
-||[CMU Neural Nets for NLP 2021 (22): Bias in NLP](https://www.youtube.com/watch?v=fOlEKESnDv4) `0:32:44`||
-||[CMU Neural Nets for NLP 2021 (23): Document-level Models](https://www.youtube.com/watch?v=e1CSUzP3XWs) `0:40:04`|✓|
-||[CMU Multilingual NLP 2020](http://demo.clab.cs.cmu.edu/11737fa20/)|✓|
-||[CMU Advanced NLP 2021 (1): Introduction to NLP](https://www.youtube.com/watch?v=pGC-QiNbuwA) `1:08:39`||
-||[CMU Advanced NLP 2021 (2): Text Classification](https://www.youtube.com/watch?v=7tGbA5QqJUg) `1:16:56`||
-||[CMU Advanced NLP 2021 (3): Language Modeling and Neural Networks](https://www.youtube.com/watch?v=cH8DiwmJu-U) `1:16:37`||
-||[CMU Advanced NLP 2021 (4): Text Classification](https://www.youtube.com/watch?v=SmTl55AuUeQ) `1:14:19`||
-
-||[CMU Advanced NLP 2021 (6): Conditional Generation](https://www.youtube.com/watch?v=vLgLUCXuERU) `1:17:56`||
 ||[UMass CS685 (Advanced NLP): Attention mechanisms](https://www.youtube.com/watch?v=3qdQAtfq1jU) `0:48:53`||
 ||[UMass CS685 (Advanced NLP): Question answering](https://www.youtube.com/watch?v=nfHBN2D47rc) `0:59:50`||
 ||[UMass CS685 (Advanced NLP): Better BERTs](https://www.youtube.com/watch?v=LfqzWrVkWak) `0:52:23`||
@@ -1164,34 +1228,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[UMass CS685 (Advanced NLP): probe tasks](https://www.youtube.com/watch?v=y5ShdPnxjj0) `0:54:30`||
 ||[UMass CS685 (Advanced NLP): semantic parsing](https://www.youtube.com/watch?v=fBn1Cx5x5Rc) `0:48:49`||
 ||[UMass CS685 (Advanced NLP): commonsense reasoning (guest lecture by Lorraine Li)](https://www.youtube.com/watch?v=LW1HLn7_PEs) `0:58:53`||
-||[Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)|✓|
-||[Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)|✓|
-||[Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)|✓|
-||[Datacamp: Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)|✓|
-||[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✓|
-||[Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)|✓|
-||[Datacamp: Natural Language Generation in Python](https://www.datacamp.com/courses/natural-language-generation-in-python)|✓|
-||[Datacamp: Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)|✓|
-||[Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)|✓|
-||[Datacamp: Spoken Language Processing in Python](https://www.datacamp.com/courses/spoken-language-processing-in-python)||
-||[Notebook: NNLM - Predict Next Word](https://github.com/graykode/nlp-tutorial/blob/master/1-1.NNLM)||
-||[Notebook: Word2Vec](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram(Softmax).ipynb)||
-||[Notebook: FastText Sentence Classification](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-3.FastText/FastText.ipynb)||
-||[Notebook: TextCNN - Binary Sentiment Classification](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/2-1.TextCNN/TextCNN.ipynb)||
-
-||[Notebook: SeqSeq - Change Word](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-1.Seq2Seq/Seq2Seq.ipynb)||
-||[Notebook: Seq2Seq with Attention - Translate](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-2.Seq2Seq(Attention)/Seq2Seq(Attention).ipynb)||
-||[Notebook: Bi-LSTM with Attention - Binary Sentiment Classification](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-3.Bi-LSTM(Attention)/Bi_LSTM(Attention).ipynb)||
-||[Notebook: The Transformer - Translate](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer.ipynb)||
-||[Notebook: The Transformer - Greedy Decoder](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer(Greedy_decoder).ipynb)||
-||[Notebook: BERT - NSP and MLM](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT.ipynb)||
-||[Notebook: Logistic regression-Tf-Idf baseline](https://www.kaggle.com/kashnitsky/logistic-regression-tf-idf-baseline)|✓|
 
 
-||[Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)|✓|
-||[Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)|✓|
-||[Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)|✓|
-||[Stanford: CS214 From Languages to Information](https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)||
 ||[1 1 Regular Expressions 11 25](https://www.youtube.com/watch?v=808M7q8QX0E) `0:11:25`||
 ||[1 2 Regular Expression Substitutions](https://www.youtube.com/watch?v=1CSVy9JbbK0) `0:06:10`||
 ||[1 3 Words and Corpora](https://www.youtube.com/watch?v=xsIDTmo1NOg) `0:06:25`||
@@ -1241,162 +1279,28 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Introduction to Named Entity Tagging](https://www.youtube.com/watch?v=7CRyqwCZFY0) `0:05:06`||
 ||[Introduction to Part of Speech Tagging](https://www.youtube.com/watch?v=WQYt3DRLpuQ) `0:09:03`||
 
-||[Neural Networks 1 Neural Units](https://www.youtube.com/watch?v=BtmsIy0j_dY) `0:05:41`||
-||[Neural Networks 2 XOR](https://www.youtube.com/watch?v=s7nRWh_3BtA) `0:07:32`||
-||[Neural Networks 3 Feedforward Neural Networks](https://www.youtube.com/watch?v=RMvTgWl6xog) `0:08:55`||
-||[Neural Networks 4 Applying Feedforward Networks to NLP](https://www.youtube.com/watch?v=y88qwovkBws) `0:07:15`||
-||[Neural Networks 5 Overview of Training](https://www.youtube.com/watch?v=IOS6y6nQKWM) `0:04:21`||
-||[Neural Networks 6 Computation Graphs and Backward Differentiation](https://www.youtube.com/watch?v=hM74RH82LyI) `0:10:31`||
-||[Dialog 1 Overview](https://www.youtube.com/watch?v=2zCfh3o88K8) `0:03:11`||
-||[Dialogue 2 Human Conversation](https://www.youtube.com/watch?v=n0MpIyqZjZU) `0:10:31`||
-||[Dialogue 3 ELIZA](https://www.youtube.com/watch?v=veyhOF4xFUo) `0:09:27`||
-||[Dialogue 4 Corpus Chatbots](https://www.youtube.com/watch?v=GB3dOuV6f4s) `0:09:35`||
-||[Dialogue 5 Frame Based Dialogue](https://www.youtube.com/watch?v=A4JndTnxoqE) `0:07:41`||
-||[Dialogue 6 Dialogue State Architecture](https://www.youtube.com/watch?v=nQKMKzMXZks) `0:08:58`||
-||[Dialogue 7 Dialogue State Architecture Policy and Generation](https://www.youtube.com/watch?v=ptVx38To1yM) `0:08:23`||
-||[Dialogue 8 Evaluation](https://www.youtube.com/watch?v=iJet3n3gAso) `0:04:38`||
-||[Dialogue 9 Design and Ethical Issues](https://www.youtube.com/watch?v=bX06GTiK3lQ) `0:03:29`||
-||[Recommender Systems 1 Introduction](https://www.youtube.com/watch?v=4xYYkQxTpEc) `0:06:02`||
-||[Recommender Systems 2 Content Based](https://www.youtube.com/watch?v=4sy2tpzlgg4) `0:05:50`||
-||[Recommender Systems 3 User User Collaborative Filtering](https://www.youtube.com/watch?v=qEur4Xi8dks) `0:07:50`||
-||[Recommender Systems 4 Item Item Collaborative Filtering](https://www.youtube.com/watch?v=FFi0iPY5fko) `0:06:52`||
-||[Recommender Systems 5 Simplified version for PA6](https://www.youtube.com/watch?v=KUxRszeRPDc) `0:02:10`||
-||[14 1 Anchor Text 3 39](https://www.youtube.com/watch?v=-rfVrRAgzHM) `0:03:40`||
-||[14 2 PageRank Overview and Markov Chains 12 10](https://www.youtube.com/watch?v=29Tx-s0ybiQ) `0:12:10`||
-||[14 3 Computing PageRank 8 09](https://www.youtube.com/watch?v=TlVs9nMyZyQ) `0:08:10`||
-||[Social Networks 1 Networks](https://www.youtube.com/watch?v=oOizd6Xs4eM) `0:06:58`||
-||[TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)|✓|
-||[Youtube: BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)|✓|
-||[YouTube: Intro to NLP with Spacy](https://www.youtube.com/playlist?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)|✓|
-||[Talk: Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/)|✓|
-||[YouTube: Level 3 AI Assistant Conference 2020](https://www.youtube.com/playlist?list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86)|✓|
-||[Introducing The Algorithm Whiteboard](https://www.youtube.com/watch?v=wWNMST6t1TA) `0:01:16`|✓|
-||[Rasa Algorithm Whiteboard - Diet Architecture 1: How it Works](https://www.youtube.com/watch?v=vWStcJDuOUk) `0:23:27`|✓|
-||[Rasa Algorithm Whiteboard - Diet Architecture 2: Design Decisions](https://www.youtube.com/watch?v=KUGGuJ0aTL8) `0:15:06`|✓|
-||[Rasa Algorithm Whiteboard - Diet Architecture 3: Benchmarking](https://www.youtube.com/watch?v=oj5oPGDlep4) `0:22:34`|✓|
-||[Rasa Algorithm Whiteboard - Attention 1: Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA) `0:14:32`|✓|
-||[Rasa Algorithm Whiteboard - Attention 2: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk) `0:12:26`|✓|
-||[Rasa Algorithm Whiteboard - Attention 3: Multi Head Attention](https://www.youtube.com/watch?v=23XUv0T9L5c) `0:10:55`|✓|
-||[Rasa Algorithm Whiteboard: Attention 4 - Transformers](https://www.youtube.com/watch?v=EXNBy8G43MM) `0:14:34`|✓|
-||[Rasa Algorithm Whiteboard - StarSpace](https://www.youtube.com/watch?v=ZT3_9Kjx7oI) `0:11:46`|✓|
-||[Rasa Algorithm Whiteboard - TED Policy](https://www.youtube.com/watch?v=j90NvurJI4I) `0:16:10`|✓|
-||[Rasa Algorithm Whiteboard - TED in Practice](https://www.youtube.com/watch?v=d8JMJMvErSg) `0:14:54`|✓|
-||[Rasa Algorithm Whiteboard - Response Selection](https://www.youtube.com/watch?v=2jvyWngHEJM) `0:12:07`|✓|
-||[Rasa Algorithm Whiteboard - Response Selection: Implementation](https://www.youtube.com/watch?v=0tXkFScW0hE) `0:09:25`|✓|
-||[Rasa Algorithm Whiteboard - Countvectors](https://www.youtube.com/watch?v=Ju7l5ADg10U) `0:13:32`|✓|
-||[Rasa Algorithm Whiteboard - Subword Embeddings](https://www.youtube.com/watch?v=kNw9dpzp5RU) `0:11:58`|✓|
-||[Rasa Algorithm Whiteboard - Implementation of Subword Embeddings](https://www.youtube.com/watch?v=8D3Gamk1Jig) `0:10:01`|✓|
-||[Rasa Algorithm Whiteboard - BytePair Embeddings](https://www.youtube.com/watch?v=-0IjF-7OB3s) `0:12:44`|✓|
-||[Youtube: A brief history of the Transformer architecture in NLP](https://www.youtube.com/watch?v=iH-wmtxHunk)|✓|
-||[Youtube: The Transformer neural network architecture explained. “Attention is all you need” (NLP)](https://www.youtube.com/watch?v=FWFA4DGuzSc)|✓|
-||[Youtube: How does a Transformer architecture combine Vision and Language? ViLBERT - NLP meets Computer Vision](https://www.youtube.com/watch?v=dd7nE4nbxN0)|✓|
-||[Youtube: Strategies for pre-training the BERT-based Transformer architecture – language (and vision)](https://www.youtube.com/watch?v=dabFOBE4eZI)|✓|
-||[Youtube: Ilya Sutskever - GPT-2](https://youtu.be/T0I88NhR_9M)|✓|
-||[Youtube: NLP Masterclass \| Modeling Fallacies in NLP](https://youtu.be/f2m6Mon0VE8?t=223)|✓|
-||[Youtube: What is GPT-3? Showcase, possibilities, and implications](https://youtu.be/5fqxPOaaqi0)|✓|
-||[Youtube: TextAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)|✓|
-||[Article: How the Embedding Layers in BERT Were Implemented](https://medium.com%2F@medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a)|✓|
-||[Youtube: Easy Data Augmentation for Text Classification](https://www.youtube.com/watch?v=3w92peJtYNQ&feature=youtu.be)|✓|
-||[Youtube: Webinar: Special NLP Session with Hugging Face](https://www.youtube.com/watch?v=SUqi_E_Lyjs)|✓|
-||[Youtube: Spacy IRL 2019](https://www.youtube.com/playlist?list=PLBmcuObd5An4UC6jvK_-eSl6jCvP1gwXc)|✓|
-||[Youtube: The Future of Natural Language Processing](https://youtu.be/G5lmya6eKtc)|✓|
-||[Youtube: Sentiment Analysis: Key Milestones, Challenges and New Directions](https://www.youtube.com/watch?v=YAqjf7to-lU)|✓|
-||[Youtube: Simple and Efficient Deep Learning for Natural Language Processing, with Moshe Wasserblat, Intel AI](https://www.youtube.com/watch?v=Bgr684dPJ6U)|✓|
-||[Youtube: Why not solve biological problems with a Transformer? BERTology meets Biology](https://www.youtube.com/watch?v=pFf4PltQ9LY)|✓|
-||[Youtube: Self-attention step-by-step \| How to get meaning from text](https://youtu.be/-9vVhYEXeyQ)|✓|
-||[Youtube: Chat Bot with PyTorch](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)|✓|
-||[Youtube: Insincere Question Classification with PyTorch](https://www.youtube.com/playlist?list=PLUH_l3HbfEW3Nyst9FTbPiRosViWQRZDL&app=desktop)|✓|
-||[Youtube: Recent Advances in Language Pretraining and Generation](https://docs.google.com/presentation/d/1_a232oAGzI6yRFoZTD_cwRTY8ryL8VIud13s0oNDQhA/mobilepresent?slide=id.g7ec93c1fdb_0_2269)|✓|
-||[Youtube: Talks # 3: Lorenzo Ampil - Introduction to T5 for Sentiment Span Extraction](https://www.youtube.com/watch?v=4LYw_UIdd4A)|✓|
-||[Youtube: Frontiers in ML: Learning from Limited Labeled Data: Challenges and Opportunities for NLP](https://www.youtube.com/watch?v=MD2fYFt5_5E)|✓|
-||[Youtube: DeepLearning.ai NLP talk: Chris Manning](https://www.youtube.com/watch?v=H343JRrncfc&feature=youtu.be)|✓|
-||[Youtube: DeepLearning.ai NLP talk: Oren Etzioni](https://www.youtube.com/watch?v=PiF2Aln-L3w&feature=youtu.be)|✓|
-||[Youtube: DeepLearning.ai NLP talk: Quoc Le](https://www.youtube.com/watch?v=KGI7K_ehHsU)|✓|
-||[Youtube: What can MIR learn from transfer learning in NLP?](https://www.youtube.com/watch?v=9ufD9Who00Y&t=13m26s)|✓|
-||[Youtube: The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM)|✓|
-||[Youtube: spaCy v3.0: Bringing State-of-the-art NLP from Prototype to Production](https://globalai.live/october-sessions-natural-language-processing/keynote-2/) `00:22:40`|✓|
-||[Youtube: Conversational AI with Transformers and Rule-Based Systems](https://www.youtube.com/watch?v=_-rCUnPBlME) `1:53:24`|✓|
-||[Talk: High Performance Natural Language Processing](https://slideslive.com/38940826)|✓|
-||[Talk: EmoTag1200: Understanding the Association between Emojis and Emotions](https://slideslive.com/38939357/emotag1200-understanding-the-association-between-emojis-and-emotions)|✓|
-||[Youtube: Research Paper Walkthrough](https://www.youtube.com/playlist?list=PLsAqq9lZFOtWUz1WEoJ3GXw197LD7BxMc)|✓|
-||[Simple Unsupervised Keyphrase Extraction using Sentence Embeddings \| Research Paper Walkthrough](https://www.youtube.com/watch?v=ykClwtoLER8) `0:21:23`|✓|
-||[Leveraging BERT for Extractive Text Summarization on Lectures \| Research Paper Walkthrough](https://www.youtube.com/watch?v=JU6eSLsp6vI) `0:20:10`|✓|
-||[Data Augmentation Techniques for Text Classification in NLP \| Research Paper Walkthrough](https://www.youtube.com/watch?v=-1unNLkwImw) `0:14:33`|✓|
-||[CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery \| Research Paper Walkthrough](https://www.youtube.com/watch?v=AxMSd4EPVVc) `0:23:47`|✓|
-||[Data Augmentation using Pre-trained Transformer Model (BERT, GPT2, etc) \| Research Paper Walkthrough](https://www.youtube.com/watch?v=9O9scQb4sNo) `0:17:43`|✓|
-||[A Supervised Approach to Extractive Summarisation of Scientific Papers \| Research Paper Walkthrough](https://www.youtube.com/watch?v=73uWfopdjoc) `0:19:01`|✓|
-||[BLEURT: Learning Robust Metrics for Text Generation \| Research Paper Walkthrough](https://www.youtube.com/watch?v=9lWxwfMKAdM) `0:13:38`|✓|
-||[DeepWalk: Online Learning of Social Representations \| ML with Graphs \| Research Paper Walkthrough](https://www.youtube.com/watch?v=-uJL_ANy1jc) `0:17:44`|✓|
-||[LSBert: A Simple Framework for Lexical Simplification \| Research Paper Walkthrough](https://www.youtube.com/watch?v=uhnKsGDyhEg) `0:20:27`|✓|
-||[SpanBERT: Improving Pre-training by Representing and Predicting Spans \| Research Paper Walkthrough](https://www.youtube.com/watch?v=QUP3rMrA1mk) `0:14:21`|✓|
-||[Text Summarization of COVID-19 Medical Articles using BERT and GPT-2 \| Research Paper Walkthrough](https://www.youtube.com/watch?v=kC5kP1dPAzc) `0:21:52`|✓|
-||[Extractive & Abstractive Summarization with Transformer Language Models \| Research Paper Walkthrough](https://www.youtube.com/watch?v=2IzXW3Ypks0) `0:16:58`|✓|
-||[Unsupervised Multi-Document Summarization using Neural Document Model \| Research Paper Walkthrough](https://www.youtube.com/watch?v=qOoAlI5hpFk) `0:15:11`|✓|
-||[SummPip: Multi-Document Summarization with Sentence Graph Compression \| Research Paper Walkthrough](https://www.youtube.com/watch?v=1jwUOMQVCo4) `0:16:54`|✓|
-||[Combining BERT with Static Word Embedding for Categorizing Social Media \| Research Paper Walkthrough](https://www.youtube.com/watch?v=VqlA_ALWQdM) `0:13:51`|✓|
-||[Reformulating Unsupervised Style Transfer as Paraphrase Generation \| Research Paper Walkthrough](https://www.youtube.com/watch?v=cjnk3PJljDs) `0:19:41`|✓|
-||[PEGASUS: Pre-training with Gap-Sentences for Abstractive Summarization \| Research Paper Walkthrough](https://www.youtube.com/watch?v=QY8oZxS0txs) `0:15:04`|✓|
-||[Evaluation of Text Generation: A Survey \| Human-Centric Evaluations \| Research Paper Walkthrough](https://www.youtube.com/watch?v=-CIlz-5um7U) `0:15:54`|✓|
-||[TOD-BERT: Pre-trained Transformers for Task-Oriented Dialogue Systems (Research Paper Walkthrough)](https://www.youtube.com/watch?v=z3Pe0cJUvO0) `0:15:25`|✓|
-||[TextRank: Bringing Order into Texts (Research Paper Walkthrough)](https://www.youtube.com/watch?v=2l6Fa767kEw) `0:14:34`|✓|
-||[Node2Vec: Scalable Feature Learning for Networks \| ML with Graphs (Research Paper Walkthrough)](https://www.youtube.com/watch?v=LpwGZG5j_q0) `0:14:33`|✓|
-||[HARP: Hierarchical Representation Learning for Network \| ML with Graphs (Research Paper Walkthrough)](https://www.youtube.com/watch?v=7HJFa8Xct80) `0:15:10`|✓|
-||[URL2Video: Automatic Video Creation From a Web Page \| AI and Creativity (Research Paper Walkthrough)](https://www.youtube.com/watch?v=SlPvzvoU3a8) `0:15:21`|✓|
-||[On Generating Extended Summaries of Long Documents (Research Paper Walkthrough)](https://www.youtube.com/watch?v=Inc63mLLInA) `0:14:24`|✓|
-||[Nucleus Sampling: The Curious Case of Neural Text Degeneration (Research Paper Walkthrough)](https://www.youtube.com/watch?v=dCORspO2yVY) `0:12:48`|✓|
-||[T5: Exploring Limits of Transfer Learning with Text-to-Text Transformer (Research Paper Walkthrough)](https://www.youtube.com/watch?v=91iLu6OOrwk) `0:12:47`|✓|
-||[DialoGPT: Generative Training for Conversational Response Generation (Research Paper Walkthrough)](https://www.youtube.com/watch?v=Zo679MYoJns) `0:13:17`|✓|
-||[Hierarchical Transformers for Long Document Classification (Research Paper Walkthrough)](https://www.youtube.com/watch?v=3IOl5d9PZeM) `0:12:46`|✓|
-||[NLP Summit 2020](https://www.youtube.com/playlist?list=PL5zieHHAlvAr2QkDyP-BfEVmaIC5BAq4q)|✓|
-||[Youtube: Explainability for Natural Language Processing](https://www.youtube.com/watch?v=3tnrGe_JA0s)||
-||[Youtube: Gibberish Detector](https://www.youtube.com/watch?v=l15C8UJu17s)|✓|
-||[Youtube: NLP Lecture 7 Constituency Parsing](https://www.youtube.com/playlist?list=PLr9TFf9GjancAHiiP5cqGmYsZad99Uf_h)|✓|
-||[Youtube: LING 83 Teaching Video: Constituency Parsing](https://www.youtube.com/watch?v=G_bd2z4mIiI)|✓|
-||[Youtube: SpaCy for Digital Humanities with Python Tutorials](https://www.youtube.com/playlist?list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo)|✓|
-||[Youtube: Billion-scale Approximate Nearest Neighbor Search](https://www.youtube.com/watch?v=SKrHs03i08Q)||
-||[Youtube: Data Science - Fuzzy Record Matching](https://www.youtube.com/watch?v=YhrKvEjpBYo)|✓|
-||[Youtube: Minimum Edit Distance Dynamic Programming](https://www.youtube.com/watch?v=We3YDTzNXEk)|✓|
-||[Youtube: Cheuk Ting Ho - Fuzzy Matching Smart Way of Finding Similar Names Using Fuzzywuzzy](https://www.youtube.com/watch?v=NRAqIjXaZvw)|✓|
-||[Youtube: What's in a Name? Fast Fuzzy String Matching - Seth Verrinder & Kyle Putnam - Midwest.io 2015](https://www.youtube.com/watch?v=s0YSKiFdj8Q)|✓|
-||[Youtube: Jiaqi Liu Fuzzy Search Algorithms How and When to Use Them PyCon 2017](https://www.youtube.com/watch?v=kTS2b6pGElE)|✓|
-||[Youtube: 1 + 1 = 1 or Record Deduplication with Python \| Flávio Juvenal @ PyBay2018](https://www.youtube.com/watch?v=McsTWXeURhA)|✓|
-||[Youtube: Mike Mull: The Art and Science of Data Matching](https://www.youtube.com/watch?v=Y-nYEOgq3YE)|✓|
-||[Youtube: Record linkage: Join for real life by Rhydwyn Mcguire](https://youtu.be/cEcVIjyHfiQ)|✓|
-||[Youtube: Approximate nearest neighbors and vector models, introduction to Annoy](https://www.youtube.com/watch?v=QkCCyLW0ehU)|✓|
-||[Youtube: Librosa Audio and Music Signal Analysis in Python \| SciPy 2015 \| Brian McFee](https://www.youtube.com/watch?v=MhOdbtPhbLU)|✓|
-||[Video: Recent Advances in LM Pre-training](https://slideslive.com/38952401/recent-advances-in-lm-pretraining)||
-||[Youtube: Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)|✓|
-||[Advanced Information Retrieval 2021 - 2021 Course Introduction](https://www.youtube.com/watch?v=6FNISntK6Sk) `0:21:39`|✓|
-||[Advanced Information Retrieval 2021: Crash Course IR - Fundamentals](https://www.youtube.com/watch?v=ZC94KSDd4DM) `0:46:31`|✓|
-||[Advanced Information Retrieval 2021: Crash Course IR - Evaluation](https://www.youtube.com/watch?v=EiDltQZ713I) `0:37:15`||
-||[Advanced Information Retrieval 2021: Crash Course IR - Test Collections](https://www.youtube.com/watch?v=pRRveh3D0pI) `0:51:12`||
-||[Advanced Information Retrieval 2021: Word Representation Learning](https://www.youtube.com/watch?v=f3nM6DKVwug) `0:42:02`||
-||[Advanced Information Retrieval 2021: Sequence Modelling with CNNs and RNNs](https://www.youtube.com/watch?v=7Bfj_UuJh38) `0:55:04`||
-||[Advanced Information Retrieval 2021: Transformer and BERT Pre-training](https://www.youtube.com/watch?v=Mt7UJNKxscA) `0:47:15`||
-||[Advanced Information Retrieval 2021: Introduction to Neural Re-Ranking](https://www.youtube.com/watch?v=GSixIsI1eZE) `0:59:20`||
-||[Advanced Information Retrieval 2021: Transformer Contextualized Re-Ranking](https://www.youtube.com/watch?v=Fle-jKzV-Rk) `0:49:06`||
-||[Advanced Information Retrieval 2021: Domain Specific Applications](https://www.youtube.com/watch?v=rHXTpHIiq6U) `0:38:32`||
-||[Advanced Information Retrieval 2021: Dense Retrieval ❤ Knowledge Distillation](https://www.youtube.com/watch?v=EJ_7Gx6amt8) `0:59:28`||
-||[Introduction to Dense Text Representations - Part 1](https://www.youtube.com/watch?v=qmN1fJ7Fdmo) `0:12:56`|✓|
-||[Introduction to Dense Text Representations - Part 2](https://www.youtube.com/watch?v=0RV-q0--NLs) `0:23:13`|✓|
-||[Introduction to Dense Text Representation - Part 3](https://www.youtube.com/watch?v=t4Gf4LruVZ4) `0:38:07`|✓|
-||[Training State-of-the-Art Sentence Embedding Models](https://www.youtube.com/watch?v=RHXZKUr8qOY) `0:43:43`||
-||[Youtube: Fine-tuning a large language model without your own supercomputer](https://www.youtube.com/watch?v=RG-yV5zgqjQ)|✓|
-||[Youtube: How to build a custom spell checker using python NLP](https://www.youtube.com/watch?v=LEA3TDV98zE)|✓|
-||[Youtube: Transformers 🤗 to Rule Them All? Under the Hood of the AI Recruiter Chatbot 🤖, with Keisuke Inoue](https://www.youtube.com/watch?v=aYYaDFXLF3c)|✓|
+
+
+
+
+
+
+
+
+
+
+
+
+
 ||[Youtube: Artificial Intelligence and Natural Language Processing in E-Commerce by Katherine Munro \| smec](https://www.youtube.com/watch?v=r7JI_5mt3To)|✓|
-||[Youtube: Abhishek Thakur - Classifying Search Queries Without User Click Data](https://www.youtube.com/watch?v=6e12EMglzTs)|✓|
-||[Youtube: Chatbots Revisted \| by Abhishek Thakur \| Kaggle Days Warsaw](https://www.youtube.com/watch?v=yQqyl0PZ2Wg)|✓|
-||[Youtube: Abhishek Thakur - Is That a Duplicate Quora Question?](https://www.youtube.com/watch?v=vA1V8A69e9c)|✓|
-||[Youtube: Design Considerations for building ML-Powered Search Applications - Mark Moyou](https://www.youtube.com/watch?v=q7xSuKq31Tk)|✓|
-||[Youtube: Analyze Customer Feedback in Minutes, Not Months](https://www.youtube.com/watch?v=RMamDDeIFeU)|✓|
-||[Youtube: NLP in Feedback Analysis - Yue Ning](https://www.youtube.com/watch?v=V8mCS1XHyTI)|✓|
-||[Youtube: Productionizing an unsupervised machine learning model to understand customer feedback](https://youtu.be/YLTLdEiJcq0)|✓|
+
+
+
 ||[Youtube: Extracting topics from reviews using NLP - Dr. Tal Perri](https://www.youtube.com/watch?v=NVZho0VU53g)|✓|
-||[Youtube: Bringing innovation to online retail: automating customer service with NLP](https://www.youtube.com/watch?v=beB77I0leY4)|✓|
-||[Youtube: Transform customer service with machine learning (Google Cloud Next '17)](https://www.youtube.com/watch?v=bRnN4pBAsfc)|✓|
 ||[Youtube: Real life aspects of opinion sentiment analysis within customer reviews - Dr. Jonathan Yaniv](https://www.youtube.com/watch?v=CVn0yR49yxA)|✓|
 ||[Youtube: Deep Learning Methods for Emotion Detection from Text - Dr. Liron Allerhand](https://www.youtube.com/watch?v=DzAZ2Bq_dgU)|✓|
+
+
 ||[Youtube: Learning How to Learn NLP : Developing Introductory Concepts Through Scaffolded Discoveries](https://www.youtube.com/watch?v=EcnsJUBRMbk)|✓|
 ||[Youtube: What are Transformer Neural Networks?](https://www.youtube.com/watch?v=XSSTuhyAmnI)|✓|
 ||[Youtube: Applied ML 2020 - 15 - Working with Text Data](https://www.youtube.com/watch?v=A8yDjNsUQJA) `1:27:08`|✓|
