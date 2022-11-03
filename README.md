@@ -665,7 +665,24 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Connections: Log Likelihood, Cross Entropy, KL Divergence, Logistic Regression, and Neural Networks](https://glassboxmedicine.com/2019/12/07/connections-log-likelihood-cross-entropy-kl-divergence-logistic-regression-and-neural-networks/)||
 ||[Article: MLE and MAP — in layman’s terms](https://medium.com/@ajitrajasekharan/mle-and-map-in-laymans-terms-8527061b15a6)||
 ||[Article: Cross-entropy for classification](https://towardsdatascience.com/cross-entropy-for-classification-d98e7f974451)||
-
+|Evaluation Metrics|[Article: Measuring Performance: AUPRC and Average Precision](https://glassboxmedicine.com/2019/03/02/measuring-performance-auprc/)||
+||[Article: Measuring Performance: AUC (AUROC)](https://glassboxmedicine.com/2019/02/23/measuring-performance-auc-auroc/)||
+||[Article: Measuring Performance: The Confusion Matrix](https://glassboxmedicine.com/2019/02/17/measuring-performance-the-confusion-matrix/)||
+||[Article: Measuring Performance: Accuracy](https://glassboxmedicine.com/2019/02/16/measuring-performance-accuracy/)||
+||[Article: ROC Curves: Intuition Through Visualization](https://www.pragmatic.ml/intuition-through-visualization-roc-auc/)||
+||[Article: Precision, Recall, Accuracy, and F1 Score for Multi-Label Classification](https://medium.com/synthesio-engineering/precision-accuracy-and-f1-score-for-multi-label-classification-34ac6bdfb404)|✓|
+||[Article: The Complete Guide to AUC and Average Precision: Simulations and Visualizations](https://glassboxmedicine.com/2020/07/14/the-complete-guide-to-auc-and-average-precision-simulations-and-visualizations/)||
+||[Article: Proxy Metrics](https://gibsonbiddle.medium.com/4-proxy-metrics-a82dd30ca810)|✓|
+||[Youtube: Applied ML 2020 - 09 - Model Evaluation and Metrics](https://www.youtube.com/watch?v=trg3YkCsjqE) `1:18:23`|✓|
+||[Article: Validating your Machine Learning Model](https://www.maartengrootendorst.com/blog/validate/)|✓|
+||[Youtube: Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw) `0:06:04`|✓|
+||[Youtube: Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o) `0:07:12`|✓|
+||[Youtube: Machine Learning Fundamentals: Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aMoz4v8) `0:11:46`|✓|
+||[Youtube: Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA) `0:06:36`|✓|
+||[Youtube: ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) `0:16:26`|✓|
+||[Article: The correct way to evaluate online machine learning models](https://maxhalford.github.io/blog/online-learning-evaluation/)|✓|
+||[Youtube: Accuracy as a Failure](https://youtu.be/YGuVuZpTop0)|✓|
+||[Article: Best Use of Train/Val/Test Splits, with Tips for Medical Data](https://glassboxmedicine.com/2019/09/15/best-use-of-train-val-test-splits-with-tips-for-medical-data/)|✓|
 
 </details>
 
