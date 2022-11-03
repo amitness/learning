@@ -944,11 +944,11 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|---|
 |Fundamentals|[Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)|✓|
 ||[Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)|✓|
-||[Stanford: CS214 From Languages to Information](https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)||
 |Preprocessing|[Article: Fixing common Unicode mistakes with Python â€“ after they’ve been made](http://blog.conceptnet.io/posts/2012/fixing-common-unicode-mistakes-with-python-after-theyve-been-made/)|✓|
 ||[Datacamp: Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)|✓|
 ||[Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)|✓|
 ||[Datacamp: Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)|✓|
+|Tokenization|[Article: 3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)||
 |Keyword Extraction|[Article: 10 Popular Keyword Extraction Algorithms in Natural Language Processing](https://medium.com/mlearning-ai/10-popular-keyword-extraction-algorithms-in-natural-language-processing-8975ada5750c)||
 ||[Article: Build A Keyword Extraction API with Spacy, Flask, and FuzzyWuzzy](https://towardsdatascience.com/build-a-keyword-extraction-api-with-spacy-flask-and-fuzzywuzzy-4909d7ffc105)|✓|
 ||[Article: Unsupervised Auto-labeling of Websites](https://pincone.com/blog/unsupervised-auto-labeling-of-websites)|✓|
@@ -1230,7 +1230,6 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Youtube: Transform customer service with machine learning (Google Cloud Next '17)](https://www.youtube.com/watch?v=bRnN4pBAsfc)|✓|
 ||[Youtube: Artificial Intelligence and Natural Language Processing in E-Commerce by Katherine Munro \| smec](https://www.youtube.com/watch?v=r7JI_5mt3To)|✓|
 ||[Youtube: The giant leaps in language technology -- and who's left behind \| Kalika Bali](https://www.youtube.com/watch?v=Mkelhs_OVMc)|✓|
-|Tokenization|[Article: 3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)||
 |Machine Translation|[Article: Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)|✓|
 ||[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✓|
 |Libraries|[Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)|✓|
