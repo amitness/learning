@@ -984,6 +984,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: UNDERSTANDING WORD2VEC THROUGH CULTURAL DIMENSIONS](https://cameronraymond.me/blog/word2vec-cultural-dims/)|✓|
 ||[Article: Evolution of Word to Vector](https://medium.com/co-learning-lounge/nlp-word-embedding-tfidf-bert-word2vec-d7f04340af7f)||
 ||[Article: The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)|✓|
+||[Youtube: Applied ML 2020 - 17 - Word vectors and document embeddings](https://www.youtube.com/watch?v=xgjnlGBpLUs) `1:03:04`||
 |RNN|[Article: Long Short-Term Memory: From Zero to Hero with PyTorch](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/)|✓|
 ||[Datacamp: RNN for Language Modeling](https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python)|✓|
 ||[Article: Introduction to recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/)||
@@ -1005,6 +1006,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Character level language model RNN](https://arig23498.github.io/char-level-language-model)||
 |Text CNN|[Article: Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)|✓|
 |Transformers|[Article: Attention? An Other Perspective!: Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)|✓|
+||[UMass CS685 (Advanced NLP): Implementing a Transformer](https://www.youtube.com/watch?v=4oO3sSk1F1M) `1:12:36`||
 ||[Article: Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)|✓|
 ||[Article: Attention? An Other Perspective!: Part 2](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part2/)||
 ||[Article: Attention? An Other Perspective!: Part 3](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part3/)||
@@ -1033,6 +1035,15 @@ A running log of things I'm learning to build strong core software engineering s
 ||[SpanBERT: Improving Pre-training by Representing and Predicting Spans \| Research Paper Walkthrough](https://www.youtube.com/watch?v=QUP3rMrA1mk) `0:14:21`|✓|
 ||[T5: Exploring Limits of Transfer Learning with Text-to-Text Transformer (Research Paper Walkthrough)](https://www.youtube.com/watch?v=91iLu6OOrwk) `0:12:47`|✓|
 ||[Hierarchical Transformers for Long Document Classification (Research Paper Walkthrough)](https://www.youtube.com/watch?v=3IOl5d9PZeM) `0:12:46`|✓|
+||[UMass CS685 (Advanced NLP): Attention mechanisms](https://www.youtube.com/watch?v=3qdQAtfq1jU) `0:48:53`||
+||[UMass CS685 (Advanced NLP): Better BERTs](https://www.youtube.com/watch?v=LfqzWrVkWak) `0:52:23`||
+||[UMass CS685 (Advanced NLP): Retrieval-augmented language models](https://www.youtube.com/watch?v=B7zw0kq6554) `0:52:13`||
+||[UMass CS685 (Advanced NLP): Model distillation and security threats](https://www.youtube.com/watch?v=Y1_7cLgnAps) `1:09:25`||
+||[UMass CS685 (Advanced NLP): vision + language](https://www.youtube.com/watch?v=ovvHvTHCUow) `1:06:28`||
+||[UMass CS685 (Advanced NLP): Intermediate fine-tuning](https://www.youtube.com/watch?v=run0nnEBVFU) `1:10:35`||
+||[UMass CS685 (Advanced NLP): probe tasks](https://www.youtube.com/watch?v=y5ShdPnxjj0) `0:54:30`||
+||[UMass CS685 (Advanced NLP): semantic parsing](https://www.youtube.com/watch?v=fBn1Cx5x5Rc) `0:48:49`||
+||[UMass CS685 (Advanced NLP): commonsense reasoning (guest lecture by Lorraine Li)](https://www.youtube.com/watch?v=LW1HLn7_PEs) `0:58:53`||
 |BERT|[Article: Deconstructing BERT](https://towardsdatascience.com/deconstructing-bert-reveals-clues-to-its-state-of-art-performance-in-nlp-tasks-76a7e828c0f1)||
 ||[Youtube: BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)|✓|
 ||[Article: Maximizing BERT model performance](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab)|✓|
@@ -1042,6 +1053,20 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Understanding BERT’s Semantic Interpretations](https://www.statestitle.com/resource/understanding-berts-semantic-interpretations/)||
 ||[Article: Examining BERT’s raw embeddings](https://towardsdatascience.com/examining-berts-raw-embeddings-fd905cb22df7)||
 |Semantic Search|[Article: Semantic Search On Documents](https://pakodas.substack.com/p/semantic-search-on-documents)||
+||[7 1 Introduction to Information Retrieval 9 16](https://www.youtube.com/watch?v=kNkCfaH2rxc) `0:09:16`||
+||[7 2 Term Document Incidence Matrices 8 59](https://www.youtube.com/watch?v=e81nC0LO0A8) `0:08:59`||
+||[7 3 The Inverted Index 10 42](https://www.youtube.com/watch?v=Wf6HbY2PQDw) `0:10:43`||
+||[7 4 Query Processing with the Inverted Index 6 43](https://www.youtube.com/watch?v=5KbynCj7yRQ) `0:06:44`||
+||[7 5 The Boolean Retrieval Model 14 06](https://www.youtube.com/watch?v=TIN_02pJU-Y) `0:14:07`||
+||[7 6 Phrase Queries and Positional Indexes 19 45](https://www.youtube.com/watch?v=QVVvx_Csd2I) `0:19:46`||
+||[8 1 Introducing Ranked Retrieval 4 27](https://www.youtube.com/watch?v=ZrNmCtSrL48) `0:04:27`||
+||[8 2 Scoring with the Jaccard Coefficient 5 06](https://www.youtube.com/watch?v=MiX8_JVP6PE) `0:05:07`||
+||[8 3 Term Frequency Weighting 5 59](https://www.youtube.com/watch?v=9UXM2NXVYY0) `0:06:00`||
+||[8 4 Inverse Document Frequency Weighting 10 16](https://www.youtube.com/watch?v=7nWlI_TVid0) `0:10:17`||
+||[8 5 TF IDF Weighting 3 42](https://www.youtube.com/watch?v=4-P3ckZprBk) `0:03:42`||
+||[8 6 The Vector Space Model 16 22](https://www.youtube.com/watch?v=o5nflzfX5tw) `0:16:23`||
+||[8 7 Calculating TF IDF Cosine Scores 12 47](https://www.youtube.com/watch?v=k1tD7pYKWuM) `0:12:48`||
+||[8 8 Evaluating Search Engines 9 02](https://www.youtube.com/watch?v=b7pfLpVBN84) `0:09:03`||
 ||[Article: Locality-sensitive Hashing and Singular to Plural Noun Conversion](https://towardsdatascience.com/locality-sensitive-hashing-and-singular-to-plural-noun-conversion-470a885d1331)||
 ||[Article: Haystack: The State of Search in 2021](https://medium.com/deepset-ai/haystack-the-state-of-search-in-2021-7388ecb15dfb)|✓|
 ||[Article: Search (Pt 1) — A Gentle Introduction](https://towardsdatascience.com/search-pt-1-a-gentle-introduction-335656c0f814)|✓|
@@ -1089,6 +1114,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Introduction to Dense Text Representation - Part 3](https://www.youtube.com/watch?v=t4Gf4LruVZ4) `0:38:07`|✓|
 ||[Training State-of-the-Art Sentence Embedding Models](https://www.youtube.com/watch?v=RHXZKUr8qOY) `0:43:43`||
 |NER|[Article: Unsupervised NER using BERT](https://towardsdatascience.com/unsupervised-ner-using-bert-2d7af5f90b8a)||
+||[Introduction to Named Entity Tagging](https://www.youtube.com/watch?v=7CRyqwCZFY0) `0:05:06`||
+||[Introduction to Part of Speech Tagging](https://www.youtube.com/watch?v=WQYt3DRLpuQ) `0:09:03`||
 ||[Article: Zero shot NER using RoBERTA](https://krishansubudhi.github.io/deeplearning/2020/06/25/ROBERTA-zeroshot-NER.html)||
 ||[Article: Existing Tools for Named Entity Recognition](https://mccormickml.com/2020/05/19/existing-ner-tools/)|✓|
 ||[Article: Solving NER with BERT for any entity type with very little training data (compared to past approaches)](https://ajitrajasekharan.medium.com/solving-ner-with-bert-for-any-entity-type-with-very-little-training-data-compared-to-past-50094e2e3df9)||
@@ -1113,6 +1140,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[CMU Multilingual NLP 2020](http://demo.clab.cs.cmu.edu/11737fa20/)|✓|
 |Domain Adaptation|[Article: Domain-Specific BERT Models](https://mccormickml.com/2020/06/22/domain-specific-bert-tutorial/)|✓|
 |Text Generation|[Article: Text Generation](http://veredshwartz.blogspot.com/2019/08/text-generation.html)||
+||[UMass CS685 (Advanced NLP): Text generation decoding and evaluation](https://www.youtube.com/watch?v=E_zJKsNMAB0) `1:02:32`||
+||[UMass CS685 (Advanced NLP): Paraphrase generation](https://www.youtube.com/watch?v=2wcrZs5PsZo) `1:10:59`||
 ||[Article: The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)|✓|
 ||[Article: Controlling Text Generation with Plug and Play Language Models](https://eng.uber.com/pplm/)|✓|
 ||[Article: Poor man’s GPT-3: Few shot text generation with T5 Transformer](https://towardsdatascience.com/poor-mans-gpt-3-few-shot-text-generation-with-t5-transformer-51f1b01f843e)||
@@ -1139,6 +1168,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: 1000x Faster Spelling Correction algorithm (2012)](https://wolfgarbe.medium.com/1000x-faster-spelling-correction-algorithm-2012-8701fcd87a5f)|✓|
 ||[Youtube: How to build a custom spell checker using python NLP](https://www.youtube.com/watch?v=LEA3TDV98zE)|✓|
 |Topic Modeling|[Article: Automatic Topic Labeling in 2018: History and Trends](https://medium.com/datadriveninvestor/automatic-topic-labeling-in-2018-history-and-trends-29c128cec17)||
+||[Youtube: Applied ML 2020 - 16 - Topic models for text data](https://www.youtube.com/watch?v=xdmFx4-3Ukw) `1:18:34`|✓|
+||[Youtube: Extracting topics from reviews using NLP - Dr. Tal Perri](https://www.youtube.com/watch?v=NVZho0VU53g)|✓|
 ||[Article: Interactive Topic Modeling with BERTopic](https://towardsdatascience.com/interactive-topic-modeling-with-bertopic-1ea55e7d73d8)||
 ||[Article: Understanding Climate Change Domains through Topic Modeling](https://omdena.com/blog/topic-modeling/)||
 ||[Article: When Topic Modeling is Part of the Text Pre-processing](https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-processing-294b58d35514)||
@@ -1179,6 +1210,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)|✓|
 ||[Youtube: Sentiment Analysis: Key Milestones, Challenges and New Directions](https://www.youtube.com/watch?v=YAqjf7to-lU)|✓|
 ||[Talk: EmoTag1200: Understanding the Association between Emojis and Emotions](https://slideslive.com/38939357/emotag1200-understanding-the-association-between-emojis-and-emotions)|✓|
+||[Youtube: Real life aspects of opinion sentiment analysis within customer reviews - Dr. Jonathan Yaniv](https://www.youtube.com/watch?v=CVn0yR49yxA)|✓|
+||[Youtube: Deep Learning Methods for Emotion Detection from Text - Dr. Liron Allerhand](https://www.youtube.com/watch?v=DzAZ2Bq_dgU)|✓|
 |Text Classification|[Article: Multi-Label Text Classification](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-label-text-classification-5c505fdedca8)|✓|
 |Text Clustering|[Article: Document clustering](https://theaisummer.com/Document_clustering/)|✓|
 ||[Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)|✓|
@@ -1195,6 +1228,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Youtube: Productionizing an unsupervised machine learning model to understand customer feedback](https://youtu.be/YLTLdEiJcq0)|✓|
 ||[Youtube: Bringing innovation to online retail: automating customer service with NLP](https://www.youtube.com/watch?v=beB77I0leY4)|✓|
 ||[Youtube: Transform customer service with machine learning (Google Cloud Next '17)](https://www.youtube.com/watch?v=bRnN4pBAsfc)|✓|
+||[Youtube: Artificial Intelligence and Natural Language Processing in E-Commerce by Katherine Munro \| smec](https://www.youtube.com/watch?v=r7JI_5mt3To)|✓|
+||[Youtube: The giant leaps in language technology -- and who's left behind \| Kalika Bali](https://www.youtube.com/watch?v=Mkelhs_OVMc)|✓|
 |Tokenization|[Article: 3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)||
 |Machine Translation|[Article: Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)|✓|
 ||[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✓|
@@ -1204,117 +1239,17 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Youtube: SpaCy for Digital Humanities with Python Tutorials](https://www.youtube.com/playlist?list=PL2VXyKi-KpYvuOdPwXR-FZfmZ0hjoNSUo)|✓|
 ||[TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)|✓|
 ||[YouTube: Intro to NLP with Spacy](https://www.youtube.com/playlist?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)|✓|
+|Huggingface|[How-to Use HuggingFace's Datasets - Transformers From Scratch #1](https://www.youtube.com/watch?v=GhGUZrcB-WM) `0:14:21`||
+||[Build a Custom Transformer Tokenizer - Transformers From Scratch #2](https://www.youtube.com/watch?v=JIeAB8vvBQo) `0:14:17`||
+||[Building MLM Training Input Pipeline - Transformers From Scratch #3](https://www.youtube.com/watch?v=heTYbpr9mD8) `0:23:11`||
+||[Training and Testing an Italian BERT - Transformers From Scratch #4](https://www.youtube.com/watch?v=35Pdoyi6ZoQ) `0:30:38`||
 |Audio|[Datacamp: Spoken Language Processing in Python](https://www.datacamp.com/courses/spoken-language-processing-in-python)||
 ||[Youtube: Librosa Audio and Music Signal Analysis in Python \| SciPy 2015 \| Brian McFee](https://www.youtube.com/watch?v=MhOdbtPhbLU)|✓|
 ||[Youtube: Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)|✓|
 |Gibberish Detection|[Youtube: Gibberish Detector](https://www.youtube.com/watch?v=l15C8UJu17s)|✓|
 |Constituency Parsing|[Youtube: NLP Lecture 7 Constituency Parsing](https://www.youtube.com/playlist?list=PLr9TFf9GjancAHiiP5cqGmYsZad99Uf_h)|✓|
 ||[Youtube: LING 83 Teaching Video: Constituency Parsing](https://www.youtube.com/watch?v=G_bd2z4mIiI)|✓|
-
-
-||[UMass CS685 (Advanced NLP): Attention mechanisms](https://www.youtube.com/watch?v=3qdQAtfq1jU) `0:48:53`||
-||[UMass CS685 (Advanced NLP): Question answering](https://www.youtube.com/watch?v=nfHBN2D47rc) `0:59:50`||
-||[UMass CS685 (Advanced NLP): Better BERTs](https://www.youtube.com/watch?v=LfqzWrVkWak) `0:52:23`||
-||[UMass CS685 (Advanced NLP): Text generation decoding and evaluation](https://www.youtube.com/watch?v=E_zJKsNMAB0) `1:02:32`||
-||[UMass CS685 (Advanced NLP): Paraphrase generation](https://www.youtube.com/watch?v=2wcrZs5PsZo) `1:10:59`||
-||[UMass CS685 (Advanced NLP): Crowdsourced text data collection](https://www.youtube.com/watch?v=ETz6liqzMXA) `0:58:31`||
-||[UMass CS685 (Advanced NLP): Model distillation and security threats](https://www.youtube.com/watch?v=Y1_7cLgnAps) `1:09:25`||
-||[UMass CS685 (Advanced NLP): Retrieval-augmented language models](https://www.youtube.com/watch?v=B7zw0kq6554) `0:52:13`||
-||[UMass CS685 (Advanced NLP): Implementing a Transformer](https://www.youtube.com/watch?v=4oO3sSk1F1M) `1:12:36`||
-||[UMass CS685 (Advanced NLP): vision + language](https://www.youtube.com/watch?v=ovvHvTHCUow) `1:06:28`||
-||[UMass CS685 (Advanced NLP): exam review](https://www.youtube.com/watch?v=vffSoLtRVwM) `1:24:36`||
-||[UMass CS685 (Advanced NLP): Intermediate fine-tuning](https://www.youtube.com/watch?v=run0nnEBVFU) `1:10:35`||
-||[UMass CS685 (Advanced NLP): ethics in NLP](https://www.youtube.com/watch?v=eOHTvpsuEL4) `0:56:57`||
-||[UMass CS685 (Advanced NLP): probe tasks](https://www.youtube.com/watch?v=y5ShdPnxjj0) `0:54:30`||
-||[UMass CS685 (Advanced NLP): semantic parsing](https://www.youtube.com/watch?v=fBn1Cx5x5Rc) `0:48:49`||
-||[UMass CS685 (Advanced NLP): commonsense reasoning (guest lecture by Lorraine Li)](https://www.youtube.com/watch?v=LW1HLn7_PEs) `0:58:53`||
-
-
-||[1 1 Regular Expressions 11 25](https://www.youtube.com/watch?v=808M7q8QX0E) `0:11:25`||
-||[1 2 Regular Expression Substitutions](https://www.youtube.com/watch?v=1CSVy9JbbK0) `0:06:10`||
-||[1 3 Words and Corpora](https://www.youtube.com/watch?v=xsIDTmo1NOg) `0:06:25`||
-||[1 4 Word Tokenization](https://www.youtube.com/watch?v=7yFZHf8mzGk) `0:08:21`|✓|
-||[1 5 Byte Pair Encoding](https://www.youtube.com/watch?v=tOMjTCO0htA) `0:07:38`||
-||[1 6 Word Normalization](https://www.youtube.com/watch?v=bFfWbQoVmIA) `0:06:23`|✓|
-||[2 1 Defining Minimum Edit Distance 7 04](https://www.youtube.com/watch?v=V14ikwzaLds) `0:07:05`|✓|
-||[2 2 Computing Minimum Edit Distance 5 54](https://www.youtube.com/watch?v=NlGoRN1C13w) `0:05:55`|✓|
-||[2 3 Backtrace for Computing Alignments 5 55](https://www.youtube.com/watch?v=quDUYXXLZsM) `0:05:56`|✓|
-||[2 4 Weighted Minimum Edit Distance 2 47](https://www.youtube.com/watch?v=gx7Fkf1n_5w) `0:02:48`|✓|
-||[2 5 Minimum Edit Distance in Computational Biology 9 29](https://www.youtube.com/watch?v=gVe8SAE-O1s) `0:09:30`|✓|
-||[3 1 Introduction to N grams 8 41](https://www.youtube.com/watch?v=hM49MPmakNI) `0:08:41`|✓|
-||[3 2 Estimating N gram Probabilities 9 38](https://www.youtube.com/watch?v=UyC0bBiZY-A) `0:09:38`|✓|
-||[3 3 Evaluation and Perplexity](https://www.youtube.com/watch?v=B_2bntDYano) `0:12:37`|✓|
-||[3 4 Generalization and Zeros 5 15](https://www.youtube.com/watch?v=XjwVAMWrmrw) `0:05:15`|✓|
-||[3 5 Smoothing Add One 6 30](https://www.youtube.com/watch?v=Hr6UWRwAIEQ) `0:06:31`|✓|
-||[3 6 Interpolation 10 25](https://www.youtube.com/watch?v=JpOZqXsop3Q) `0:10:25`|✓|
-||[3 8 Kneser Ney Smoothing 8 59](https://www.youtube.com/watch?v=8BxqdxXT2M8) `0:08:59`|✓|
-||[5 1 What is Text Classification  8 12](https://www.youtube.com/watch?v=Y1j_J53k7fo) `0:08:12`||
-||[Naive Bayes Lecture 2 The Naive Bayes Classifier](https://www.youtube.com/watch?v=OhLosjXM-Fg) `0:12:24`||
-||[Naive Bayes 3 Learning in Naive Bayes](https://www.youtube.com/watch?v=Ge612JZGBMU) `0:06:04`||
-||[Naive Bayes 4 Sentiment and Binary NB](https://www.youtube.com/watch?v=tjDceq0qH10) `0:08:14`||
-||[4 5 More on Sentiment Classification](https://www.youtube.com/watch?v=B36xM0YJayA) `0:05:14`||
-||[5 2 Naive Bayes Relationship to Language Modeling 4 35](https://www.youtube.com/watch?v=s-A60cl0YIY) `0:04:36`||
-||[5 7 Precision, Recall, and the F measure 16 16](https://www.youtube.com/watch?v=mjOgb4T7yyo) `0:16:17`||
-||[5 8 Text Classification Evaluation 7 17](https://www.youtube.com/watch?v=NjhVTN19JDI) `0:07:17`||
-||[Logistic Regression 1 Generative and Discriminative Classifiers](https://www.youtube.com/watch?v=qZSqcu2D7zQ) `0:05:25`||
-||[Logistic Regression 2 Classification](https://www.youtube.com/watch?v=F0Sc_gjDRDA) `0:07:48`||
-||[Logistic Regression 3 A Sentiment Example](https://www.youtube.com/watch?v=u_PiPYi4s7E) `0:05:09`||
-||[Logistic Regression 4 Cross Entropy Loss](https://www.youtube.com/watch?v=TDOCw0L-qz0) `0:07:59`||
-||[Logistic Regression 5 Stochastic Gradient Descent](https://www.youtube.com/watch?v=gPab8n1QK1M) `0:09:46`||
-||[Logistic Regression 6 A worked example of gradient descent](https://www.youtube.com/watch?v=UP7tehNv-iI) `0:05:10`||
-||[7 1 Introduction to Information Retrieval 9 16](https://www.youtube.com/watch?v=kNkCfaH2rxc) `0:09:16`||
-||[7 2 Term Document Incidence Matrices 8 59](https://www.youtube.com/watch?v=e81nC0LO0A8) `0:08:59`||
-||[7 3 The Inverted Index 10 42](https://www.youtube.com/watch?v=Wf6HbY2PQDw) `0:10:43`||
-||[7 4 Query Processing with the Inverted Index 6 43](https://www.youtube.com/watch?v=5KbynCj7yRQ) `0:06:44`||
-||[7 5 The Boolean Retrieval Model 14 06](https://www.youtube.com/watch?v=TIN_02pJU-Y) `0:14:07`||
-||[7 6 Phrase Queries and Positional Indexes 19 45](https://www.youtube.com/watch?v=QVVvx_Csd2I) `0:19:46`||
-||[8 1 Introducing Ranked Retrieval 4 27](https://www.youtube.com/watch?v=ZrNmCtSrL48) `0:04:27`||
-||[8 2 Scoring with the Jaccard Coefficient 5 06](https://www.youtube.com/watch?v=MiX8_JVP6PE) `0:05:07`||
-||[8 3 Term Frequency Weighting 5 59](https://www.youtube.com/watch?v=9UXM2NXVYY0) `0:06:00`||
-||[8 4 Inverse Document Frequency Weighting 10 16](https://www.youtube.com/watch?v=7nWlI_TVid0) `0:10:17`||
-||[8 5 TF IDF Weighting 3 42](https://www.youtube.com/watch?v=4-P3ckZprBk) `0:03:42`||
-||[8 6 The Vector Space Model 16 22](https://www.youtube.com/watch?v=o5nflzfX5tw) `0:16:23`||
-||[8 7 Calculating TF IDF Cosine Scores 12 47](https://www.youtube.com/watch?v=k1tD7pYKWuM) `0:12:48`||
-||[8 8 Evaluating Search Engines 9 02](https://www.youtube.com/watch?v=b7pfLpVBN84) `0:09:03`||
-||[Introduction to Named Entity Tagging](https://www.youtube.com/watch?v=7CRyqwCZFY0) `0:05:06`||
-||[Introduction to Part of Speech Tagging](https://www.youtube.com/watch?v=WQYt3DRLpuQ) `0:09:03`||
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-||[Youtube: Artificial Intelligence and Natural Language Processing in E-Commerce by Katherine Munro \| smec](https://www.youtube.com/watch?v=r7JI_5mt3To)|✓|
-
-
-
-||[Youtube: Extracting topics from reviews using NLP - Dr. Tal Perri](https://www.youtube.com/watch?v=NVZho0VU53g)|✓|
-||[Youtube: Real life aspects of opinion sentiment analysis within customer reviews - Dr. Jonathan Yaniv](https://www.youtube.com/watch?v=CVn0yR49yxA)|✓|
-||[Youtube: Deep Learning Methods for Emotion Detection from Text - Dr. Liron Allerhand](https://www.youtube.com/watch?v=DzAZ2Bq_dgU)|✓|
-
-
-||[Youtube: Learning How to Learn NLP : Developing Introductory Concepts Through Scaffolded Discoveries](https://www.youtube.com/watch?v=EcnsJUBRMbk)|✓|
-||[Youtube: What are Transformer Neural Networks?](https://www.youtube.com/watch?v=XSSTuhyAmnI)|✓|
-||[Youtube: Applied ML 2020 - 15 - Working with Text Data](https://www.youtube.com/watch?v=A8yDjNsUQJA) `1:27:08`|✓|
-||[Youtube: Applied ML 2020 - 16 - Topic models for text data](https://www.youtube.com/watch?v=xdmFx4-3Ukw) `1:18:34`|✓|
-||[Youtube: Applied ML 2020 - 17 - Word vectors and document embeddings](https://www.youtube.com/watch?v=xgjnlGBpLUs) `1:03:04`||
-||[Youtube: A Briefish Introduction to Discourse Representation Theory](https://www.youtube.com/watch?v=FR9Ukj0V4Do)|✓|
-||[Youtube: HuggingFace Crash Course - Sentiment Analysis, Model Hub, Fine Tuning](https://www.youtube.com/watch?v=GSt00_-0ncQ)|✓|
-||[Youtube: Huggingface Course Part 1](https://huggingface.co/course/)|✓|
-||[Youtube: Should we care about linguistics?](http://www.ipam.ucla.edu/abstract/?tid=14546)|✓|
-||[How-to Use HuggingFace's Datasets - Transformers From Scratch #1](https://www.youtube.com/watch?v=GhGUZrcB-WM) `0:14:21`||
-||[Build a Custom Transformer Tokenizer - Transformers From Scratch #2](https://www.youtube.com/watch?v=JIeAB8vvBQo) `0:14:17`||
-||[Building MLM Training Input Pipeline - Transformers From Scratch #3](https://www.youtube.com/watch?v=heTYbpr9mD8) `0:23:11`||
-||[Training and Testing an Italian BERT - Transformers From Scratch #4](https://www.youtube.com/watch?v=35Pdoyi6ZoQ) `0:30:38`||
-||[In Search of Best Practices for NLP Projects \| Ivan Bilan \| PyData Pune Meetup \| December 2020](https://www.youtube.com/watch?v=0S9iai4Ld4I) `0:50:00`|✓|
-||[Youtube: Generating and Understanding Natural Language with AI (Aidan Gomez, PhD)](https://www.youtube.com/watch?v=ps1B2WxlxV0) `0:52:12`|✓|
-|Usecase|[Youtube: The giant leaps in language technology -- and who's left behind \| Kalika Bali](https://www.youtube.com/watch?v=Mkelhs_OVMc)|✓|
+|Question Answering|[UMass CS685 (Advanced NLP): Question answering](https://www.youtube.com/watch?v=nfHBN2D47rc) `0:59:50`||
+|Data Annotation|[UMass CS685 (Advanced NLP): Crowdsourced text data collection](https://www.youtube.com/watch?v=ETz6liqzMXA) `0:58:31`||
+|Ethics|[UMass CS685 (Advanced NLP): ethics in NLP](https://www.youtube.com/watch?v=eOHTvpsuEL4) `0:56:57`||
 </details>
