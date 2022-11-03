@@ -956,10 +956,22 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Word embeddings in 2017: Trends and future direction](https://ruder.io/word-embeddings-2017/)||
 ||[Article: Brief review of word embedding families (2019)](https://medium.com/analytics-vidhya/brief-review-of-word-embedding-families-2019-b2bbc601bbfe)||
 |RNN|[Article: Long Short-Term Memory: From Zero to Hero with PyTorch](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/)|✓|
+||[Datacamp: RNN for Language Modeling](https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python)|✓|
 ||[Article: Introduction to recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/)||
 ||[Article: Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)|✓|
 ||[Article: Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)||
 ||[Article: The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)||
+||[Article: LSTM Primer With Real Life Application( DeepMind Kidney Injury Prediction )*](https://medium.com/@ranko.mosic/lstm-primer-6d7e1cfa704a)||
+||[Article: Under the Hood of RNNs](https://wandb.ai/authors/rnn-viz/reports/Under-the-Hood-of-RNNs--VmlldzoyNTQ4MjY)||
+||[Article: Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)||
+||[Article: Making sense of LSTMs by example](https://alexander-schiendorfer.github.io/2020/02/08/making-sense-of-lstms.html)||
+||[Article: Building RNNs is Fun with PyTorch and Google Colab](https://medium.com/dair-ai/building-rnns-is-fun-with-pytorch-and-google-colab-3903ea9a3a79)||
+||[CMU Neural Nets for NLP 2021 (5): Recurrent Neural Networks](https://www.youtube.com/watch?v=5124LKzDaxo) `0:38:50`||
+||[CMU Advanced NLP 2021 (5): Recurrent Neural Networks](https://www.youtube.com/watch?v=1aQwed1TTrY) `1:13:43`||
+||[Notebook: TextRNN - Predict Next Step](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-1.TextRNN/TextRNN.ipynb)||
+||[Notebook: TextLSTM - Autocomplete](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-2.TextLSTM/TextLSTM.ipynb)||
+||[Notebook: Bi-LSTM - Predict Next Word in Long Sentence](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-3.Bi-LSTM/Bi_LSTM.ipynb)||
+||[RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)||
 |Text CNN|[Article: Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)|✓|
 |Transformers|[Article: Attention? An Other Perspective!: Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)|✓|
 ||[Article: Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)|✓|
@@ -1097,7 +1109,6 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: How to solve 90% of NLP problems: a step-by-step guide](https://mlpowered.com/posts/how-to-solve-90-nlp/)|✓|
 ||[Article: Does GPT-2 Know Your Phone Number?](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)||
 ||[Article: How to Outperform GPT-3 by Combining Task Descriptions With Supervised Learning](http://www.timoschick.com/explanatory%20notes/2020/10/23/pattern-exploiting-training.html)|✓|
-||[Article: LSTM Primer With Real Life Application( DeepMind Kidney Injury Prediction )*](https://medium.com/@ranko.mosic/lstm-primer-6d7e1cfa704a)||
 ||[Article: T5 — XLNet — a clever language modeling solution](https://towardsdatascience.com/xlnet-a-clever-language-modeling-solution-ab41e87798b0)||
 ||[Article: Using an NLP Q&A System To Study Climate Hazards and Nature-Based Solutions](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)|✓|
 ||[Article: Hyperparameter Optimization for 🤗Transformers: A guide](https://medium.com/distributed-computing-with-ray/hyperparameter-optimization-for-transformers-a-guide-c4e32c6c989b)||
@@ -1106,27 +1117,28 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Semantic Entailment](https://trishalaneeraj.github.io/2017-12-22/semantic-entailment)|✓|
 ||[Article: Shrinking fastText embeddings so that it fits Google Colab](https://medium.com/@vasnetsov93/shrinking-fasttext-embeddings-so-that-it-fits-google-colab-cd59ab75959e)||
 ||[Article: Fuzzy Matching/Fuzzy Logic Explained](https://nanonets.com/blog/fuzzy-matching-fuzzy-logic/)|✓|
-||[Article: Under the Hood of RNNs](https://wandb.ai/authors/rnn-viz/reports/Under-the-Hood-of-RNNs--VmlldzoyNTQ4MjY)||
 ||[Article: All Our N-gram are Belong to You](https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html)|✓|
 ||[Article: Perplexity Intuition (and its derivation)](https://towardsdatascience.com/perplexity-intuition-and-derivation-105dd481c8f3)||
 ||[Article: Part of Speech Tagging with Hidden Markov Chain Models](https://towardsdatascience.com/part-of-speech-tagging-with-hidden-markov-chain-models-e9fccc835c0e)||
 ||[Article: NLP Year In Review](https://pakodas.substack.com/p/nlp-year-in-review)|✓|
 ||[Article: UNDERSTANDING WORD2VEC THROUGH CULTURAL DIMENSIONS](https://cameronraymond.me/blog/word2vec-cultural-dims/)|✓|
-||[Article: Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)||
+
 ||[Article: Aspect-Based Opinion Mining (NLP with Python)](https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800)||
 ||[Article: pyLDAvis: Topic Modelling Exploration Tool That Every NLP Data Scientist Should Know](https://neptune.ai/blog/pyldavis-topic-modelling-exploration-tool-that-every-nlp-data-scientist-should-know)||
 ||[Article: ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/)|✓|
 ||[Article: Introducing spaCy](https://explosion.ai/blog/introducing-spacy)|✓|
 ||[Article: 3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)||
 ||[Article: Examining BERT’s raw embeddings](https://towardsdatascience.com/examining-berts-raw-embeddings-fd905cb22df7)||
-||[Article: Making sense of LSTMs by example](https://alexander-schiendorfer.github.io/2020/02/08/making-sense-of-lstms.html)||
+
+
 ||[Article: The Transformer Explained](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)|✓|
 ||[Article: Understanding building blocks of ULMFIT](https://medium.com/mlreview/understanding-building-blocks-of-ulmfit-818d3775325b)|✓|
 ||[Article: Building a sentence embedding index with fastText and BM25](https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240)|✓|
 ||[Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)||
 ||[Article: Key topics extraction and contextual sentiment of users reviews](https://tech.goibibo.com/key-topics-extraction-and-contextual-sentiment-of-users-reviews-20e63c0fd7ca)|✓|
 ||[Article: Google mT5 multilingual text-to-text transformer: A Brief Paper Analysis](https://medium.com/ai-in-plain-english/google-mt5-multilingual-text-to-text-transformer-a-brief-paper-analysis-30591a3cb7d5)|✓|
-||[Article: Building RNNs is Fun with PyTorch and Google Colab](https://medium.com/dair-ai/building-rnns-is-fun-with-pytorch-and-google-colab-3903ea9a3a79)||
+
+
 ||[Article: Faster and smaller quantized NLP with Hugging Face and ONNX Runtime](https://medium.com/microsoftazure/faster-and-smaller-quantized-nlp-with-hugging-face-and-onnx-runtime-ec5525473bb7)||
 ||[Article: Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)|✓|
 ||[Article: How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)|✓|
@@ -1176,7 +1188,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[CMU Neural Nets for NLP 2021 (2): Language Modeling, Efficiency/Training Tricks](https://www.youtube.com/watch?v=ld5qts6LRj4) `0:58:24`||
 ||[CMU Neural Nets for NLP 2021 (3): Building A Neural Network Toolkit for NLP, minnn](https://www.youtube.com/watch?v=krnzWH68lEE) `0:34:42`||
 ||[CMU Neural Nets for NLP 2021 (4): Efficiency Tricks for Neural Nets](https://www.youtube.com/watch?v=ZrDST4HfgAc) `0:43:28`|✓|
-||[CMU Neural Nets for NLP 2021 (5): Recurrent Neural Networks](https://www.youtube.com/watch?v=5124LKzDaxo) `0:38:50`||
+
 ||[CMU Neural Nets for NLP 2021 (6): Conditioned Generation](https://www.youtube.com/watch?v=3LdDiRM9xE8) `0:45:06`||
 ||[CMU Neural Nets for NLP 2021 (7): Attention](https://www.youtube.com/watch?v=VvKRZXvDzM4) `0:38:23`||
 ||[CMU Neural Nets for NLP 2021 (8): Distributional Semantics and Word Vectors](https://www.youtube.com/watch?v=A7o1zJ1eY9o) `0:42:44`||
@@ -1200,7 +1212,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[CMU Advanced NLP 2021 (2): Text Classification](https://www.youtube.com/watch?v=7tGbA5QqJUg) `1:16:56`||
 ||[CMU Advanced NLP 2021 (3): Language Modeling and Neural Networks](https://www.youtube.com/watch?v=cH8DiwmJu-U) `1:16:37`||
 ||[CMU Advanced NLP 2021 (4): Text Classification](https://www.youtube.com/watch?v=SmTl55AuUeQ) `1:14:19`||
-||[CMU Advanced NLP 2021 (5): Recurrent Neural Networks](https://www.youtube.com/watch?v=1aQwed1TTrY) `1:13:43`||
+
 ||[CMU Advanced NLP 2021 (6): Conditional Generation](https://www.youtube.com/watch?v=vLgLUCXuERU) `1:17:56`||
 ||[UMass CS685 (Advanced NLP): Attention mechanisms](https://www.youtube.com/watch?v=3qdQAtfq1jU) `0:48:53`||
 ||[UMass CS685 (Advanced NLP): Question answering](https://www.youtube.com/watch?v=nfHBN2D47rc) `0:59:50`||
@@ -1225,7 +1237,6 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✓|
 ||[Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)|✓|
 ||[Datacamp: Natural Language Generation in Python](https://www.datacamp.com/courses/natural-language-generation-in-python)|✓|
-||[Datacamp: RNN for Language Modeling](https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python)|✓|
 ||[Datacamp: Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)|✓|
 ||[Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)|✓|
 ||[Datacamp: Spoken Language Processing in Python](https://www.datacamp.com/courses/spoken-language-processing-in-python)||
@@ -1233,9 +1244,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Notebook: Word2Vec](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram(Softmax).ipynb)||
 ||[Notebook: FastText Sentence Classification](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-3.FastText/FastText.ipynb)||
 ||[Notebook: TextCNN - Binary Sentiment Classification](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/2-1.TextCNN/TextCNN.ipynb)||
-||[Notebook: TextRNN - Predict Next Step](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-1.TextRNN/TextRNN.ipynb)||
-||[Notebook: TextLSTM - Autocomplete](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-2.TextLSTM/TextLSTM.ipynb)||
-||[Notebook: Bi-LSTM - Predict Next Word in Long Sentence](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-3.Bi-LSTM/Bi_LSTM.ipynb)||
+
 ||[Notebook: SeqSeq - Change Word](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-1.Seq2Seq/Seq2Seq.ipynb)||
 ||[Notebook: Seq2Seq with Attention - Translate](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-2.Seq2Seq(Attention)/Seq2Seq(Attention).ipynb)||
 ||[Notebook: Bi-LSTM with Attention - Binary Sentiment Classification](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-3.Bi-LSTM(Attention)/Bi_LSTM(Attention).ipynb)||
@@ -1243,7 +1252,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Notebook: The Transformer - Greedy Decoder](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer(Greedy_decoder).ipynb)||
 ||[Notebook: BERT - NSP and MLM](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT.ipynb)||
 ||[Notebook: Logistic regression-Tf-Idf baseline](https://www.kaggle.com/kashnitsky/logistic-regression-tf-idf-baseline)|✓|
-||[RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)||
+
+
 ||[Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)|✓|
 ||[Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)|✓|
 ||[Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)|✓|
