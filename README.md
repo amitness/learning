@@ -947,7 +947,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Build A Keyword Extraction API with Spacy, Flask, and FuzzyWuzzy](https://towardsdatascience.com/build-a-keyword-extraction-api-with-spacy-flask-and-fuzzywuzzy-4909d7ffc105)|✓|
 ||[Article: Keyword Extraction with BERT](https://www.maartengrootendorst.com/blog/keybert/)|✓|
 ||[Article: Topic Modeling for Keyword Extraction](http://bugra.github.io/posts/2017/2/5/topic-modeling-for-keyword-extraction/)|✓|
-|Word Embeddings|[Article: The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)|✓|
+|Embeddings|[Article: The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)|✓|
 ||[Article: Intuition & Use-Cases of Embeddings in NLP & beyond](https://jalammar.github.io/skipgram-recommender-talk/)|✓|
 ||[Article: Learning Word Embedding](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)||
 ||[Article: On word embeddings - Part 1](https://ruder.io/word-embeddings-1/)||
@@ -970,6 +970,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Shrinking fastText embeddings so that it fits Google Colab](https://medium.com/@vasnetsov93/shrinking-fasttext-embeddings-so-that-it-fits-google-colab-cd59ab75959e)||
 ||[Article: UNDERSTANDING WORD2VEC THROUGH CULTURAL DIMENSIONS](https://cameronraymond.me/blog/word2vec-cultural-dims/)|✓|
 ||[Article: Evolution of Word to Vector](https://medium.com/co-learning-lounge/nlp-word-embedding-tfidf-bert-word2vec-d7f04340af7f)||
+||[Article: The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)|✓|
 |RNN|[Article: Long Short-Term Memory: From Zero to Hero with PyTorch](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/)|✓|
 ||[Datacamp: RNN for Language Modeling](https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python)|✓|
 ||[Article: Introduction to recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/)||
@@ -987,6 +988,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Notebook: TextLSTM - Autocomplete](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-2.TextLSTM/TextLSTM.ipynb)||
 ||[Notebook: Bi-LSTM - Predict Next Word in Long Sentence](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-3.Bi-LSTM/Bi_LSTM.ipynb)||
 ||[RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)||
+||[Article: Understanding building blocks of ULMFIT](https://medium.com/mlreview/understanding-building-blocks-of-ulmfit-818d3775325b)|✓|
+||[Article: Character level language model RNN](https://arig23498.github.io/char-level-language-model)||
 |Text CNN|[Article: Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)|✓|
 |Transformers|[Article: Attention? An Other Perspective!: Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)|✓|
 ||[Article: Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)|✓|
@@ -1000,12 +1003,17 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Why Rasa uses Sparse Layers in Transformers](https://blog.rasa.com/why-rasa-uses-sparse-layers-in-transformers/)||
 ||[Article: Transformer-based Encoder-Decoder Models](https://colab.research.google.com/github/patrickvonplaten/notebooks/blob/master/Encoder_Decoder_Model.ipynb)|✓|
 ||[Article: Understanding BigBird's Block Sparse Attention"](https://huggingface.co/blog/big-bird)|✓|
+||[Article: The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)||
+||[Article: Hugging Face Reads - 01/2021 - Sparsity and Pruning](https://discuss.huggingface.co/t/hugging-face-reads-01-2021-sparsity-and-pruning/3144)|✓|
+||[Article: Hugging Face Reads, Feb. 2021 - Long-range Transformers](https://huggingface.co/blog/long-range-transformers)|✓|
+||[Article: The Transformer Explained](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)|✓|
 |BERT|[Article: Deconstructing BERT](https://towardsdatascience.com/deconstructing-bert-reveals-clues-to-its-state-of-art-performance-in-nlp-tasks-76a7e828c0f1)||
 ||[Article: Maximizing BERT model performance](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab)|✓|
 ||[Article: The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)|✓|
 ||[Article: Smart Batching Tutorial - Speed Up BERT Training](https://mccormickml.com/2020/07/29/smart-batching-tutorial/)|✓|
 ||[Article: A review of BERT based models](https://towardsdatascience.com/a-review-of-bert-based-models-4ffdc0f15d58)||
 ||[Article: Understanding BERT’s Semantic Interpretations](https://www.statestitle.com/resource/understanding-berts-semantic-interpretations/)||
+||[Article: Examining BERT’s raw embeddings](https://towardsdatascience.com/examining-berts-raw-embeddings-fd905cb22df7)||
 |Semantic Search|[Article: Semantic Search On Documents](https://pakodas.substack.com/p/semantic-search-on-documents)||
 ||[Article: Locality-sensitive Hashing and Singular to Plural Noun Conversion](https://towardsdatascience.com/locality-sensitive-hashing-and-singular-to-plural-noun-conversion-470a885d1331)||
 ||[Article: Haystack: The State of Search in 2021](https://medium.com/deepset-ai/haystack-the-state-of-search-in-2021-7388ecb15dfb)|✓|
@@ -1015,20 +1023,30 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Semantic search using BERT embeddings](https://ajitrajasekharan.medium.com/semantic-search-using-bert-embeddings-511c5d78348e)||
 ||[Article: What Semantic Search Can do for You](https://medium.com/deepset-ai/what-semantic-search-can-do-for-you-ea5b1e8dfa7f)||
 ||[Article: How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)||
+||[Article: Building a sentence embedding index with fastText and BM25](https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240)|✓|
 ||[Article: String Matching with BERT, TF-IDF, and more!](https://www.maartengrootendorst.com/blog/polyfuzz/)|✓|
 ||[Article: Document search with fragment embeddings](https://towardsdatascience.com/document-search-with-fragment-embeddings-7e1d73eb0104)||
+||[Article: Text Similarities : Estimate the degree of similarity between two texts](https://medium.com/@adriensieg/text-similarities-da019229c894)||
 |NER|[Article: Unsupervised NER using BERT](https://towardsdatascience.com/unsupervised-ner-using-bert-2d7af5f90b8a)||
 ||[Article: Zero shot NER using RoBERTA](https://krishansubudhi.github.io/deeplearning/2020/06/25/ROBERTA-zeroshot-NER.html)||
 ||[Article: Existing Tools for Named Entity Recognition](https://mccormickml.com/2020/05/19/existing-ner-tools/)|✓|
 ||[Article: Solving NER with BERT for any entity type with very little training data (compared to past approaches)](https://ajitrajasekharan.medium.com/solving-ner-with-bert-for-any-entity-type-with-very-little-training-data-compared-to-past-50094e2e3df9)||
+||[Article: What is Hidden in the Hidden Markov Model?](https://medium.com/acing-ai/what-is-hidden-in-the-hidden-markov-models-eee7bab45ac3)||
+||[Article: Part of Speech Tagging with Hidden Markov Chain Models](https://towardsdatascience.com/part-of-speech-tagging-with-hidden-markov-chain-models-e9fccc835c0e)||
 |Summarization|[Article: Automatically Summarize Trump’s State of the Union Address](https://towardsdatascience.com/automatically-summarize-trumps-state-of-the-union-address-6757c6af6534)||
 |Multilingual NLP|[Article: How to Apply BERT to Arabic and Other Languages](https://mccormickml.com/2020/10/05/multilingual-bert/)||
 ||[Article: A survey of cross-lingual word embedding models](https://ruder.io/cross-lingual-embeddings/)||
 ||[Article: Unsupervised Cross-lingual Representation Learning](https://ruder.io/unsupervised-cross-lingual-learning/)||
+||[Article: DaCy: New Fast and Efficient State-of-the-Art in Danish NLP!](https://www.kennethenevoldsen.com/post/new-fast-and-efficient-state-of-the-art-in-danish-nlp/)||
 |Domain Adaptation|[Article: Domain-Specific BERT Models](https://mccormickml.com/2020/06/22/domain-specific-bert-tutorial/)|✓|
 |Text Generation|[Article: Text Generation](http://veredshwartz.blogspot.com/2019/08/text-generation.html)||
 ||[Article: The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)|✓|
 ||[Article: Controlling Text Generation with Plug and Play Language Models](https://eng.uber.com/pplm/)|✓|
+||[Article: Poor man’s GPT-3: Few shot text generation with T5 Transformer](https://towardsdatascience.com/poor-mans-gpt-3-few-shot-text-generation-with-t5-transformer-51f1b01f843e)||
+||[Article: Reducing Toxicity in Language Models](https://lilianweng.github.io/lil-log/2021/03/21/reducing-toxicity-in-language-models.html)||
+||[Article: How to Implement a Beam Search Decoder for Natural Language Processing](https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/)||
+||[Article: Perplexity Intuition (and its derivation)](https://towardsdatascience.com/perplexity-intuition-and-derivation-105dd481c8f3)||
+||[Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)||
 |Spelling Correction|[Article: Rebuilding the most popular spellchecker. Part 1](https://zverok.github.io/blog/2021-01-05-spellchecker-1.html)|✓|
 ||[Article: Rebuilding the spellchecker, pt.2: Just look in the dictionary, they said!](https://zverok.github.io/blog/2021-01-09-spellchecker-2.html)|✓|
 ||[Article: Rebuilding the spellchecker, pt.3: Lookup—compounds and solutions](https://zverok.github.io/blog/2021-01-14-spellchecker-3.html)|✓|
@@ -1046,128 +1064,30 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Interactive Topic Modeling with BERTopic](https://towardsdatascience.com/interactive-topic-modeling-with-bertopic-1ea55e7d73d8)||
 ||[Article: Understanding Climate Change Domains through Topic Modeling](https://omdena.com/blog/topic-modeling/)||
 ||[Article: When Topic Modeling is Part of the Text Pre-processing](https://towardsdatascience.com/when-topic-modeling-is-part-of-the-text-pre-processing-294b58d35514)||
+||[Article: pyLDAvis: Topic Modelling Exploration Tool That Every NLP Data Scientist Should Know](https://neptune.ai/blog/pyldavis-topic-modelling-exploration-tool-that-every-nlp-data-scientist-should-know)||
 ||[Article: Topic Modeling with BERT](https://www.maartengrootendorst.com/blog/bertopic/)|✓|
 |Zero-Shot NLP|[Article: Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)|✓|
 ||[Article: Improved Few-Shot Text classification](https://maelfabien.github.io/machinelearning/NLP_6/)||
 ||[Article: Text classification from few training examples](https://maelfabien.github.io/machinelearning/NLP_5/)||
-
-
-
-
-||[Article: How To Create Data Products That Are Magical Using Sequence-to-Sequence Models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)||
-||[Article: What is Hidden in the Hidden Markov Model?](https://medium.com/acing-ai/what-is-hidden-in-the-hidden-markov-models-eee7bab45ac3)||
-
-||[Article: Unsupervised creation of interpretable sentence representations](https://towardsdatascience.com/unsupervised-creation-of-interpretable-sentence-representations-851e74921cf9)||
-||[Article: Unsupervised synonym harvesting](https://towardsdatascience.com/unsupervised-synonym-harvesting-d592eaaf3c15)||
-||[Article: Swiss army knife for unsupervised task solving](https://towardsdatascience.com/swiss-army-knife-for-unsupervised-task-solving-26f9acf7c023)|✓|
-||[Article: 10 Exciting Ideas of 2018 in NLP](https://ruder.io/10-exciting-ideas-of-2018-in-nlp/)|✓|
-||[Article: 74 Summaries of Machine Learning and NLP Research](http://www.marekrei.com/blog/74-summaries-of-machine-learning-and-nlp-research/)||
-
-||[Article: Learning to select data for transfer learning](https://ruder.io/learning-select-data/)||
-||[Article: T5 — a model that explores the limits of transfer learning](https://towardsdatascience.com/t5-a-model-that-explores-the-limits-of-transfer-learning-fb29844890b7)||
-||[Article: The State of Transfer Learning in NLP](https://ruder.io/state-of-transfer-learning-in-nlp/)||
-||[Article: How to build a State-of-the-Art Conversational AI with Transfer Learning](https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313)|✓|
-||[Article: Commonsense Reasoning for Natural Language Processing](http://veredshwartz.blogspot.com/2021/01/commonsense-reasoning-for-natural.html)||
-||[Article: Language Models](http://veredshwartz.blogspot.com/2015/09/language-models.html)||
-||[Article: Paraphrasing](http://veredshwartz.blogspot.com/2017/08/paraphrasing.html)||
-||[Article: Poor man’s GPT-3: Few shot text generation with T5 Transformer](https://towardsdatascience.com/poor-mans-gpt-3-few-shot-text-generation-with-t5-transformer-51f1b01f843e)||
-||[Article: What makes a good conversation?](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html)|✓|
-||[Article: How to steal modern NLP systems with gibberish?](http://www.cleverhans.io/2020/04/06/stealing-bert.html)||
-||[Article: Large Memory Layers with Product Keys](https://www.pragmatic.ml/large-memory-layers-with-product-keys/)||
-||[Article: Optimal Transport and the Sinkhorn Transformer](https://www.pragmatic.ml/sparse-sinkhorn-attention/)||
 ||[Article: Pattern-Exploiting Training](https://www.pragmatic.ml/pet/)||
-||[Article: Talking-Heads Attention](https://www.pragmatic.ml/talking-heads-attention/)||
-||[Article: Neural Language Models as Domain-Specific Knowledge Bases](https://www.statestitle.com/resource/neural-language-models-as-domain-specific-knowledge-bases/)||
-||[Article: Deep Learning for NLP Best Practices](https://ruder.io/deep-learning-nlp-best-practices/)||
-||[Article: Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp)|✓|
-||[Article: The Illustrated Wav2vec](https://jonathanbgn.com/2021/06/29/illustrated-wav2vec.html)|✓|
-||[Article: A Review of the Neural History of Natural Language Processing](https://ruder.io/a-review-of-the-recent-history-of-nlp/)||
-||[Article: ColumnTransformer Meets Natural Language Processing](https://towardsdatascience.com/columntransformer-meets-natural-language-processing-da1f116dd69f)||
-||[Article: Neural Transfer Learning for Natural Language Processing](https://ruder.io/thesis/)||
-||[Article: Tracking the Progress in Natural Language Processing](https://ruder.io/tracking-progress-nlp/)||
-||[Article: Implementing Bengio’s Neural Probabilistic Language Model (NPLM) using Pytorch](https://abhinavcreed13.github.io/blog/bengio-trigram-nplm-using-pytorch/)|✓|
-||[Article: Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models](https://huggingface.co/blog/warm-starting-encoder-decoder)||
-||[Article: How many data points is a prompt worth?](https://huggingface.co/blog/how_many_data_points/)|✓|
-||[Article: NLP: Pre-trained Sentiment Analysis](https://medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysis-1eb52a9d742c)|✓|
-||[Article: Question Classification using Self-Attention Transformer — Part 1.1](https://medium.com/nerd-for-tech/question-classification-using-self-attention-transformer-part-1-1-3b4224cd4757)||
-||[Article: Question Classification using Self-Attention Transformer — Part 1](https://medium.com/nerd-for-tech/question-classification-using-self-attention-transformer-part-1-33e990636e76)||
-||[Article: Question Classification using Self-Attention Transformer — Part 2](https://medium.com/nerd-for-tech/question-classification-using-self-attention-transformer-part-2-910b89c7116a)||
-||[Article: Question Classification using Self-Attention Transformer — Part 3](https://medium.com/nerd-for-tech/question-classification-using-self-attention-transformer-part-3-74efbda22451)||
-||[Article: Generalized Language Models](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)||
-||[Article: Reducing Toxicity in Language Models](https://lilianweng.github.io/lil-log/2021/03/21/reducing-toxicity-in-language-models.html)||
-||[Article: The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)||
-||[Article: DialogRPT with Huggingface Transformers](https://parthplc.medium.com/dialogrpt-with-huggingface-transformers-which-comments-get-more-likes-more-replies-and-are-5e7e13a5429f)|✓|
-||[Article: Hugging Face Reads - 01/2021 - Sparsity and Pruning](https://discuss.huggingface.co/t/hugging-face-reads-01-2021-sparsity-and-pruning/3144)|✓|
-||[Article: Hugging Face Reads, Feb. 2021 - Long-range Transformers](https://huggingface.co/blog/long-range-transformers)|✓|
-||[Article: Porting fairseq wmt19 translation system to transformers](https://huggingface.co/blog/porting-fsmt)|✓|
-||[Article: DaCy: New Fast and Efficient State-of-the-Art in Danish NLP!](https://www.kennethenevoldsen.com/post/new-fast-and-efficient-state-of-the-art-in-danish-nlp/)||
-||[Article: State-of-the-Art Language Models in 2020](https://jinglescode.github.io/2020/05/28/state-of-the-art-language-models-2020/)||
-||[Article: ML and NLP Publications in 2020](https://www.marekrei.com/blog/ml-and-nlp-publications-in-2020/)|✓|
-||[Article: Multi-Label Text Classification](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-label-text-classification-5c505fdedca8)|✓|
-
-||[Article: How to Implement a Beam Search Decoder for Natural Language Processing](https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/)||
-||[Article: Creating a class-based TF-IDF with Scikit-Learn](https://www.maartengrootendorst.com/blog/ctfidf/)|✓|
-
-
-
-
-||[Article: Document clustering](https://theaisummer.com/Document_clustering/)|✓|
-||[Article: Evaluation Metrics for Language Modeling](https://thegradient.pub/understanding-evaluation-metrics-for-language-models/)||
-||[Article: Representation Learning and Retrieval](https://www.pragmatic.ml/language-modeling-and-retrieval/)||
-
-
-||[Article: Using NLP (BERT) to improve OCR accuracy](https://www.statestitle.com/resource/using-nlp-bert-to-improve-ocr-accuracy/)||
-||[Article: Trends in input representation for state-of-art NLP models (2019)](https://ajitrajasekharan.medium.com/trends-in-input-representation-for-state-of-art-nlp-models-2019-fd162ebccd15)||
-||[Article: An Overview of Multi-Task Learning in Deep Neural Networks](https://ruder.io/multi-task/)||
-||[Article: Multi-Task Learning Objectives for Natural Language Processing](https://ruder.io/multi-task-learning-nlp/)||
-||[Article: GPU Benchmarks for Fine-Tuning BERT](https://mccormickml.com/2020/07/21/gpu-benchmarks-for-fine-tuning-bert/)|✓|
-||[Article: Recent Advances in Language Model Fine-tuning](https://ruder.io/recent-advances-lm-fine-tuning/)|✓|
-||[Article: The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)|✓|
-||[Article: Understanding ARPA and Language Models](https://medium.com/@canadaduane/understanding-arpa-and-language-models-115d6cbc3893)|✓|
-||[Article: Gaussian Mixture Models for Clustering](https://towardsdatascience.com/gaussian-mixture-models-for-clustering-3f62d0da675)||
-||[Article: Explain NLP models with LIME & SHAP](https://towardsdatascience.com/explain-nlp-models-with-lime-shap-5c5a9f84d59b)||
-||[Article: How to solve 90% of NLP problems: a step-by-step guide](https://mlpowered.com/posts/how-to-solve-90-nlp/)|✓|
-||[Article: Does GPT-2 Know Your Phone Number?](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)||
-||[Article: How to Outperform GPT-3 by Combining Task Descriptions With Supervised Learning](http://www.timoschick.com/explanatory%20notes/2020/10/23/pattern-exploiting-training.html)|✓|
-||[Article: T5 — XLNet — a clever language modeling solution](https://towardsdatascience.com/xlnet-a-clever-language-modeling-solution-ab41e87798b0)||
-||[Article: Using an NLP Q&A System To Study Climate Hazards and Nature-Based Solutions](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)|✓|
-||[Article: Hyperparameter Optimization for 🤗Transformers: A guide](https://medium.com/distributed-computing-with-ray/hyperparameter-optimization-for-transformers-a-guide-c4e32c6c989b)||
-||[Article: How To Do Things With Words. And Counters](https://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb)||
-||[Article: 10 Things You Need to Know About BERT and the Transformer Architecture That Are Reshaping the AI Landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape)|✓|
-||[Article: Semantic Entailment](https://trishalaneeraj.github.io/2017-12-22/semantic-entailment)|✓|
-||[Article: Fuzzy Matching/Fuzzy Logic Explained](https://nanonets.com/blog/fuzzy-matching-fuzzy-logic/)|✓|
-||[Article: All Our N-gram are Belong to You](https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html)|✓|
-||[Article: Perplexity Intuition (and its derivation)](https://towardsdatascience.com/perplexity-intuition-and-derivation-105dd481c8f3)||
-||[Article: Part of Speech Tagging with Hidden Markov Chain Models](https://towardsdatascience.com/part-of-speech-tagging-with-hidden-markov-chain-models-e9fccc835c0e)||
-||[Article: NLP Year In Review](https://pakodas.substack.com/p/nlp-year-in-review)|✓|
-
-
-||[Article: Aspect-Based Opinion Mining (NLP with Python)](https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800)||
-||[Article: pyLDAvis: Topic Modelling Exploration Tool That Every NLP Data Scientist Should Know](https://neptune.ai/blog/pyldavis-topic-modelling-exploration-tool-that-every-nlp-data-scientist-should-know)||
-||[Article: ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/)|✓|
-||[Article: Introducing spaCy](https://explosion.ai/blog/introducing-spacy)|✓|
-||[Article: 3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)||
-||[Article: Examining BERT’s raw embeddings](https://towardsdatascience.com/examining-berts-raw-embeddings-fd905cb22df7)||
-
-
-||[Article: The Transformer Explained](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)|✓|
-||[Article: Understanding building blocks of ULMFIT](https://medium.com/mlreview/understanding-building-blocks-of-ulmfit-818d3775325b)|✓|
-||[Article: Building a sentence embedding index with fastText and BM25](https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240)|✓|
-||[Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)||
+|Paraphrasing|[Article: Paraphrasing](http://veredshwartz.blogspot.com/2017/08/paraphrasing.html)||
+|Conversational AI|[Article: What makes a good conversation?](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html)|✓|
+|Sentiment Analysis|[Article: NLP: Pre-trained Sentiment Analysis](https://medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysis-1eb52a9d742c)|✓|
 ||[Article: Key topics extraction and contextual sentiment of users reviews](https://tech.goibibo.com/key-topics-extraction-and-contextual-sentiment-of-users-reviews-20e63c0fd7ca)|✓|
-||[Article: Google mT5 multilingual text-to-text transformer: A Brief Paper Analysis](https://medium.com/ai-in-plain-english/google-mt5-multilingual-text-to-text-transformer-a-brief-paper-analysis-30591a3cb7d5)|✓|
+||[Article: Aspect-Based Opinion Mining (NLP with Python)](https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800)||
+|Text Classification|[Article: Multi-Label Text Classification](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-label-text-classification-5c505fdedca8)|✓|
+|Text Clustering|[Article: Document clustering](https://theaisummer.com/Document_clustering/)|✓|
+||[Article: Gaussian Mixture Models for Clustering](https://towardsdatascience.com/gaussian-mixture-models-for-clustering-3f62d0da675)||
+|Explainability|[Article: Explain NLP models with LIME & SHAP](https://towardsdatascience.com/explain-nlp-models-with-lime-shap-5c5a9f84d59b)||
+|Usecases|[Article: How to solve 90% of NLP problems: a step-by-step guide](https://mlpowered.com/posts/how-to-solve-90-nlp/)|✓|
+||[Article: Using an NLP Q&A System To Study Climate Hazards and Nature-Based Solutions](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)|✓|
+||[Article: How To Do Things With Words. And Counters](https://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb)||
+|Tokenization|[Article: 3 subword algorithms help to improve your NLP model performance](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)||
 
 
-||[Article: Faster and smaller quantized NLP with Hugging Face and ONNX Runtime](https://medium.com/microsoftazure/faster-and-smaller-quantized-nlp-with-hugging-face-and-onnx-runtime-ec5525473bb7)||
-||[Article: Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)|✓|
-||[Article: How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)|✓|
-||[Article: Generating Questions Using Transformers](https://amontgomerie.github.io/2020/07/30/question-generator.html)||
-||[Article: Feature-based Approach with BERT](https://trishalaneeraj.github.io/2020-04-04/feature-based-approach-with-bert)|✓|
-||[Article: Performers: The Kernel Trick, Random Fourier Features, and Attention](https://teddykoker.com/2020/11/performers/)||
-||[Article: Text Similarities : Estimate the degree of similarity between two texts](https://medium.com/@adriensieg/text-similarities-da019229c894)||
-||[Article: NLP's ImageNet moment has arrived](https://ruder.io/nlp-imagenet/)||
-||[Article: Simple PyTorch Transformer Example with Greedy Decoding](https://colab.research.google.com/drive/1swXWW5sOLW8zSZBaQBYcGQkQ_Bje_bmI)||
-||[Article: Character level language model RNN](https://arig23498.github.io/char-level-language-model)||
+	
+
+
 ||[Article: How we used Universal Sentence Encoder and FAISS to make our search 10x smarter](https://blog.onebar.io/building-a-semantic-search-engine-using-open-source-components-e15af5ed7885)|✓|
 ||[Article: Adapting Text Augmentation to Industry problems](https://gitlost-murali.github.io/blogs/nlp/augmentation/exploiting-contextual-models-for-data)|✓|
 ||[Article: The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)||
