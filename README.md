@@ -637,6 +637,10 @@ A running log of things I'm learning to build strong core software engineering s
 |Clustering|[StatQuest: Hierarchical Clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo) `0:11:19`|✓|
 ||[StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA) `0:08:57`|✓|
 ||[StatQuest: K-nearest neighbors, Clearly Explained](https://www.youtube.com/watch?v=HVXime0nQeI) `0:05:30`|✓|
+||[Datacamp: Customer Segmentation in Python](https://www.datacamp.com/courses/customer-segmentation-in-python)||
+||[Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)|✓|
+||[Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)|✓|
+||[Youtube: Clustering Algorithms](https://www.youtube.com/playlist?list=PLBv09BD7ez_6lYVoZ1RzVcOPIT5Lfjo0Y)|✓|
 |Neural Networks|[Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)||
 ||[Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)|✓|
 ||[Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8) `0:23:54`|✓|
