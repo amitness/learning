@@ -35,16 +35,9 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Concept|Resource|Done|
 |---|---|---|
-|Language|[Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)|✓|
-||[Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)|✓|
-||[Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)|✓|
+|Language|[Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)|✓|
 ||[Datacamp: Python for Spreadsheet Users](https://www.datacamp.com/courses/python-for-spreadsheet-users)|✓|
 ||[Datacamp: Intro to Python for Finance](https://www.datacamp.com/courses/intro-to-python-for-finance)|✓|
-||[edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)|✓|
-||[edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)|✓|
-||[Google's Python Class](https://developers.google.com/edu/python/)|✓|
-||[Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)|✓|
-||[TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)|✓|
 ||[Book: A Byte of Python](https://python.swaroopch.com)|✓|
 ||[Book: Learn Python The Hard way](https://learnpythonthehardway.org)|✓|
 ||[Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)|✓|
@@ -55,9 +48,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)|✓|
 ||[Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)|✓|
 ||[Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)|✓|
-|Standard Library|[Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)|✓|
-||[Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)|✓|
-||[Book: Python 201](https://leanpub.com/python201)||
+|Standard Library|[Book: Python 201](https://leanpub.com/python201)||
 ||[Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)||
 ||[Calmcode: logging](https://calmcode.io/logging/introduction.html)|✓|
 ||[Calmcode: virtualenv](https://calmcode.io/virtualenv/intro.html)|✓|
