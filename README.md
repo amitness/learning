@@ -56,7 +56,6 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)|✓|
 ||[Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)|✓|
 |Standard Library|[Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)|✓|
-||[Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)||
 ||[Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)|✓|
 ||[Book: Python 201](https://leanpub.com/python201)||
 ||[Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)||
