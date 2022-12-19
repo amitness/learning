@@ -137,13 +137,10 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Concept|Resource|Done|
 |---|---|---|
-|Git|[Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)|✓|
-||[Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)|✓|
+|Git|[Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)|✓|
 ||[Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|✓|
 ||[Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)||
-||[Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)|✓|
-||[Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`||
-||[Youtube: Git & Scripting](https://uniroma1.zoom.us/rec/share/bTYldvVYRcN2UaBn8UTf3uuFQMkx8yy4UG4bRw8ikE1tT8Ll74Nl3WZoUXnJRCKE.HEhRruThY3al1jew?startTime=1620371740000)|✓|
+||[MIT Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`||
 ||[Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)||
 ||[Article: How to Become a Master of Git Tags](https://blog.daftcode.pl/how-to-become-a-master-of-git-tags-b70fbd9609d9)|✓|
 ||[Article: Keep your git directory clean with `git clean` and `git trash`](https://coderwall.com/p/g16jpq/keep-your-git-directory-clean-with-git-clean-and-git-trash)||
