@@ -281,10 +281,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Concept|Resource|Done|
 |---|---|---|
-|A/B Testing|[Article: Multi-Armed Bandit (MAB) – A/B Testing Sans Regret](https://vwo.com/blog/multi-armed-bandit-algorithm/)|✓|
-||[Article: When to Run Bandit Tests Instead of A/B/n Tests](https://cxl.com/blog/bandit-tests/)|✓|
-||[Article: A/B Testing Machine Learning Models (Deployment Series: Guide 08)](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)|✓|
-||[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)||
+|A/B Testing|[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)||
 ||[Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)||
 ||[Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)||
 |Load Testing|[Youtube: Loading Testing with Python](https://www.youtube.com/playlist?list=PLotCx_Au_rT1LW_qpMWU40Q-vegZua-i8)|✓|
