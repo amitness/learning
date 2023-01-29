@@ -944,7 +944,6 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: On word embeddings - Part 2: Approximating the Softmax](https://ruder.io/word-embeddings-softmax/)||
 ||[Article: On word embeddings - Part 3: The secret ingredients of word2vec](https://ruder.io/secret-word2vec/)||
 ||[Article: Word embeddings in 2017: Trends and future direction](https://ruder.io/word-embeddings-2017/)||
-||[Article: Brief review of word embedding families (2019)](https://medium.com/analytics-vidhya/brief-review-of-word-embedding-families-2019-b2bbc601bbfe)||
 ||[Rasa Algorithm Whiteboard - Embeddings 1: Just Letters](https://www.youtube.com/watch?v=mWvnlVw_LiY) `0:13:48`|✓|
 ||[Rasa Algorithm Whiteboard - Embeddings 2: CBOW and Skip Gram](https://www.youtube.com/watch?v=BWaHLmG1lak) `0:19:24`|✓|
 ||[Rasa Algorithm Whiteboard - Embeddings 3: GloVe](https://www.youtube.com/watch?v=QoUYlxl1RGI) `0:19:12`|✓|
@@ -962,10 +961,6 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Vector 6 Word2vec](https://www.youtube.com/watch?v=FHhKmf1iPvw) `0:07:39`||
 ||[Vector 7 Learning in Word2vec](https://www.youtube.com/watch?v=MGhVvEwFB9o) `0:07:36`||
 ||[Vector 8 Properties of Embeddings](https://www.youtube.com/watch?v=QvFNqBRaCis) `0:06:08`||
-||[Article: Shrinking fastText embeddings so that it fits Google Colab](https://medium.com/@vasnetsov93/shrinking-fasttext-embeddings-so-that-it-fits-google-colab-cd59ab75959e)||
-||[Article: UNDERSTANDING WORD2VEC THROUGH CULTURAL DIMENSIONS](https://cameronraymond.me/blog/word2vec-cultural-dims/)|✓|
-||[Article: Evolution of Word to Vector](https://medium.com/co-learning-lounge/nlp-word-embedding-tfidf-bert-word2vec-d7f04340af7f)||
-||[Article: The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)|✓|
 ||[Youtube: Applied ML 2020 - 17 - Word vectors and document embeddings](https://www.youtube.com/watch?v=xgjnlGBpLUs) `1:03:04`||
 |RNN|[Article: Long Short-Term Memory: From Zero to Hero with PyTorch](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/)|✓|
 ||[Datacamp: RNN for Language Modeling](https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python)|✓|
