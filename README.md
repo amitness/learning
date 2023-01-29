@@ -541,7 +541,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Udacity: Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)|✓|
 ||[Udacity: Data Science Interview Prep](https://www.udacity.com/course/data-science-interview-prep--ud944)|✓|
 ||[Udacity: Full-Stack Interview Prep](https://www.udacity.com/course/full-stack-interview-prep--ud252)|✓|
-||[Udacity: Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243)||
+||[Udacity: Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243)|✓|
 ||[Udacity: Craft Your Cover Letter](https://www.udacity.com/course/craft-your-cover-letter--ud244)||
 ||[Youtube: Guest Lecture - Chip Huyen - Machine Learning Interviews - Full Stack Deep Learning](https://youtu.be/pli1K75PSa8)|✓|
 ||[Youtube: Tutorial: Technical Blogging for Python Programmers](https://www.youtube.com/watch?v=mmU25Xd0BGs)|✓|
