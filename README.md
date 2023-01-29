@@ -968,7 +968,6 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)|✓|
 ||[Article: Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)||
 ||[Article: The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)||
-||[Article: LSTM Primer With Real Life Application( DeepMind Kidney Injury Prediction )*](https://medium.com/@ranko.mosic/lstm-primer-6d7e1cfa704a)||
 ||[Article: Under the Hood of RNNs](https://wandb.ai/authors/rnn-viz/reports/Under-the-Hood-of-RNNs--VmlldzoyNTQ4MjY)||
 ||[Article: Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)||
 ||[Article: Making sense of LSTMs by example](https://alexander-schiendorfer.github.io/2020/02/08/making-sense-of-lstms.html)||
@@ -977,8 +976,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[CMU Advanced NLP 2021 (5): Recurrent Neural Networks](https://www.youtube.com/watch?v=1aQwed1TTrY) `1:13:43`||
 ||[Notebook: TextRNN - Predict Next Step](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-1.TextRNN/TextRNN.ipynb)||
 ||[Notebook: TextLSTM - Autocomplete](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-2.TextLSTM/TextLSTM.ipynb)||
-||[Notebook: Bi-LSTM - Predict Next Word in Long Sentence](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/3-3.Bi-LSTM/Bi_LSTM.ipynb)||
-||[RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)||
+||[Youtube: RNN and LSTM `26:13`](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)||
 ||[Article: Understanding building blocks of ULMFIT](https://medium.com/mlreview/understanding-building-blocks-of-ulmfit-818d3775325b)|✓|
 ||[Article: Character level language model RNN](https://arig23498.github.io/char-level-language-model)||
 |Text CNN|[Article: Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)|✓|
