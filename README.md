@@ -360,7 +360,6 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Youtube: Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)](https://www.youtube.com/watch?v=jFflwpx4iK0) `0:53:25`|✓|
 ||[Article: Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)|✓|
 ||[Article: How to put machine learning models into production](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)|✓|
-||[Article: Key Concepts for Deploying Machine Learning Models to Mobile](https://spell.ml/blog/key-concepts-for-deploying-machine-learning-models-X7Q0phIAACIAqMWr)|✓|
 ||[Youtube: MLOps meetup #5 High Stakes ML with Flavio CLesio](https://www.youtube.com/watch?v=9g4deV1uNZo) `0:55:27`||
 ||[Youtube: MLOps meetup #7 Alex Spanos // TrueLayer 's MLOps Pipeline](https://www.youtube.com/watch?v=cUxK28ocZcw) `0:56:17`||
 ||[Youtube: The Current MLOps Landscape // Nathan Benaich & Timothy Chen // MLOps Meetup #43](https://www.youtube.com/watch?v=i6HZ2vjFLIs) `0:58:31`||
@@ -743,8 +742,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)|✓|
 ||[Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)|✓|
 ||[Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|✓|
-|PyTorch|[Article: Keeping Up with PyTorch Lightning and Hydra](https://towardsdatascience.com/keeping-up-with-pytorch-lightning-and-hydra-31e8ed70b2cc)||
-||[Article: The One PyTorch Trick Which You Should Know](https://towardsdatascience.com/the-one-pytorch-trick-which-you-should-know-2d5e9c1da2ca)||
+|PyTorch|[Article: The One PyTorch Trick Which You Should Know](https://towardsdatascience.com/the-one-pytorch-trick-which-you-should-know-2d5e9c1da2ca)||
 ||[Article: How does automatic differentiation really work?](https://thenlp.space/blog/how-does-pytorch-do-differentiation)||
 ||[Article: 7 Tips To Maximize PyTorch Performance](https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259)|✓|
 ||[Article: An introduction to PyTorch Lightning with comparisons to PyTorch](https://amaarora.github.io/2020/07/12/oganized-pytorch.html)|✓|
@@ -753,17 +751,12 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Article: Introducing PyTorch Lightning Sharded: Train SOTA Models, With Half The Memory](https://seannaren.medium.com/introducing-pytorch-lightning-sharded-train-sota-models-with-half-the-memory-7bcc8b4484f2)|✓|
 ||[Article: Sharded: A New Technique To Double The Size Of PyTorch Models](https://towardsdatascience.com/sharded-a-new-technique-to-double-the-size-of-pytorch-models-3af057466dba)|✓|
 ||[Article: Understanding Bidirectional RNN in PyTorch](https://towardsdatascience.com/understanding-bidirectional-rnn-in-pytorch-5bd25a5dd66)|✓|
-||[Article: A developer-friendly guide to mixed precision training with PyTorch](https://spell.ml/blog/mixed-precision-training-with-pytorch-Xuk7YBEAACAASJam)||
-||[Article: A developer-friendly guide to model pruning in PyTorch](https://spell.ml/blog/model-pruning-in-pytorch-X9pXQRAAACIAcH9h)||
-||[Article: A developer-friendly guide to model quantization with PyTorch](https://spell.ml/blog/pytorch-quantization-X8e7wBAAACIAHPhT)||
-||[Article: Tricks for training PyTorch models to convergence more quickly](https://spell.ml/blog/pytorch-training-tricks-YAnJqBEAACkARhgD)||
 ||[Article: PyTorch Lightning Bolts — From Linear, Logistic Regression on TPUs to pre-trained GANs](https://medium.com/pytorch/pytorch-lightning-bolts-from-boosted-regression-on-tpus-to-pre-trained-gans-5cebdb1f99fe)|✓|
 ||[Article: Scaling Logistic Regression Via Multi-GPU/TPU Training](https://towardsdatascience.com/scaling-logistic-regression-for-multi-gpu-tpu-training-b4898d5049ff)|✓|
 ||[Article: Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)|✓|
 ||[Article: PyTorch Lightning 0.9 — synced BatchNorm, DataModules and final API!](https://medium.com/pytorch/pytorch-lightning-0-9-synced-batchnorm-datamodules-and-final-api-aae885398a9d)|✓|
 ||[Article: PyTorch Lightning: Metrics](https://medium.com/pytorch/pytorch-lightning-metrics-35cb5ab31857)|✓|
 ||[Article: PyTorch Multi-GPU Metrics Library and More in PyTorch Lightning 0.8.1](https://medium.com/pytorch/pytorch-multi-gpu-metrics-and-more-in-pytorch-lightning-0-8-1-b7cadd04893e)|✓|
-||[Article: Distributed model training in PyTorch using DistributedDataParallel](https://spell.ml/blog/pytorch-distributed-data-parallel-XvEaABIAAB8Ars0e)||
 ||[Article: EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)||
 ||[Article: Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/)||
 ||[Article: Fit More and Train Faster With ZeRO via DeepSpeed and FairScale](https://huggingface.co/blog/zero-deepspeed-fairscale)||
@@ -876,7 +869,6 @@ A running log of things I'm learning to build strong core software engineering s
 |Concept|Resource|Done|
 |---|---|---|
 |Theory|[Datacamp: Cloud Computing for Everyone](https://www.datacamp.com/courses/cloud-computing-for-everyone)|✓|
-|AWS|[Article: A deep dive into AWS spot instance interruptions](https://spell.ml/blog/aws-spot-interrupts-X_ZJ6xAAACEA9fGx)|✓|
 ||[Pluralsight: AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)|✓|
 ||[Pluralsight: AWS Networking Deep Dive: Virtual Private Cloud (VPC)](https://www.pluralsight.com/courses/aws-networking-deep-dive-vpc)|✓|
 ||[Pluralsight: AWS VPC Operations](https://www.pluralsight.com/courses/aws-vpc-operations)|✓|
