@@ -4,8 +4,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 ## Core Skills
 
-<details>
-<summary>Python Programming</summary>
+### Python Programming
 
 |Resource|Progress|
 |---|---|
@@ -26,19 +25,15 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: Python 201](https://leanpub.com/python201)||
 |[Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)||
 |[Book: Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)||
-</details>
 
-<details>
-<summary>Data Structures and Algorithms</summary>
+### Data Structures and Algorithms
 
 |Resource|Progress|
 |---|---|
 |[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|✓|
 |[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)|✓|
-</details>
 
-<details>
-<summary>Linux & Command Line</summary>
+### Linux & Command Line
 
 |Resource|Progress|
 |---|---|
@@ -49,10 +44,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)|✓|
 |[Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)|✓|
 |[Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)|✓|
-</details>
 
-<details>
-<summary>Version Control</summary>
+### Version Control
 
 |Resource|Progress|
 |---|---|
@@ -60,11 +53,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|✓|
 |[Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|✓|
 |[Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)|✓|
-</details>
 
-
-<details>
-<summary>Web Technology</summary>
+### Web Technology
 
 |Resource|Progress|
 |---|---|
@@ -89,10 +79,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|✓|
 |[Book: Refactoring UI](https://refactoringui.com/book/)||
 
-</details>
-
-<details>
-<summary>Databases</summary>
+### Databases
 
 |Resource|Progress|
 |---|---|
@@ -109,10 +96,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)||
 |[Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)||
 |[Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)||
-</details>
 
-<details>
-<summary>Backend and System Design</summary>
+### Backend and System Design
 
 |Resource|Progress|
 |---|---|
@@ -125,10 +110,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)||
 |[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)||
 |[Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)||
-</details>
 
-<details>
-<summary>Maths</summary>
+### Maths
 	
 |Resource|Progress|
 |---|---|
@@ -146,12 +129,9 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)||
 |[Youtube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)||
 
-</details>
-
 ## Specialized Skills
 
-<details>
-<summary>Machine Learning</summary>
+### Machine Learning
 
 |Resource|Progress|
 |---|---|
@@ -184,10 +164,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|✓|
 |[Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)|✓|
 |[Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)|✓|
-</details>
 
-<details>
-<summary>Natural Language Processing</summary>
+### Natural Language Processing
 
 |Resource|Progress|
 |---|---|
@@ -205,4 +183,3 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)|✓|
 |[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✓|
 |[Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)|✓|
-</details>
