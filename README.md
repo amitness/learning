@@ -31,7 +31,9 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|✓|
+|[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)|✓|
 |[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)|✓|
+
 
 ### Linux & Command Line
 
