@@ -165,6 +165,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)|✓|
 |[Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)|✓|
 |[Datacamp: MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)|✓|
+|[Datacamp: Machine Learning Monitoring Concepts](https://www.datacamp.com/courses/machine-learning-monitoring-concepts)|✓|
 |[Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|✓|
 |[Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)|✓|
 |[Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)|✓|
