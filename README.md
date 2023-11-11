@@ -20,7 +20,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)|✓|
 |[Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)|✓|
 |[Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)|✓|
-|[Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)|1/4|
+|[Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)|✓|
 |[Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)||
 |[Book: Python 201](https://leanpub.com/python201)||
 |[Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)||
