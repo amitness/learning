@@ -163,6 +163,9 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)|✓|
 |[Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)|✓|
 |[Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)|✓|
+|[Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)|✓|
+
+
 
 ### PyTorch
 
@@ -189,6 +192,14 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)|✓|
 
+### Matplotlib
+
+|Resource|Progress|
+|---|---|
+|[Datacamp: Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)|✓|
+|[Datacamp: Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib)|✓|
+
+
 
 ### Machine Learning
 
@@ -211,6 +222,17 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Machine Learning Monitoring Concepts](https://www.datacamp.com/courses/machine-learning-monitoring-concepts)|✓|
 |[Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)|✓|
 |[Datacamp: Hyperparameter Tuning in Python](https://www.datacamp.com/courses/hyperparameter-tuning-in-python)|✓|
+|[Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)|✓|
+|[Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)|✓|
+|[Datacamp: Dimensionality Reduction in Python](https://www.datacamp.com/courses/dimensionality-reduction-in-python)|✓|
+|[Datacamp: Preprocessing for Machine Learning in Python](https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python)|✓|
+|[Datacamp: Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)|✓|
+|[Datacamp: Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)|✓|
+|[Datacamp: Feature Engineering for Machine Learning in Python](https://www.datacamp.com/courses/feature-engineering-for-machine-learning-in-python)|✓|
+|[Datacamp: Predicting CTR with Machine Learning in Python](https://www.datacamp.com/courses/predicting-ctr-with-machine-learning-in-python)|✓|
+|[Datacamp: Intro to Financial Concepts using Python](https://www.datacamp.com/courses/intro-to-financial-concepts-using-python)|✓|
+|[Datacamp: Fraud Detection in Python](https://www.datacamp.com/courses/fraud-detection-in-python)|✓|
+
 
 ### Natural Language Processing
 
