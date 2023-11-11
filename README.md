@@ -57,31 +57,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|✓|
 |[Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)|✓|
 
-### Web Technology
-
-|Resource|Progress|
-|---|---|
-|[Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)|✓|
-|[Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)|✓|
-|[Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)|✓|
-|[Pluralsight: Introduction to CSS](https://www.pluralsight.com/courses/css-intro)|✓|
-|[Pluralsight: CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)|✓|
-|[Pluralsight: CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)|✓|
-|[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|✓|
-|[Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|✓|
-|[Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)|✓|
-|[Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)|✓|
-|[Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)|✓|
-|[Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)|✓|
-|[Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)|✓|
-|[Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)|✓|
-|[Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)|✓|
-|[Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)|✓|
-|[Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)|✓|
-|[Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)|✓|
-|[Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|✓|
-|[Book: Refactoring UI](https://refactoringui.com/book/)||
-
 ### Databases
 
 |Resource|Progress|
@@ -104,7 +79,6 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)|✓|
 |[Book: Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)||
 |[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)||
 |[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)||
@@ -132,7 +106,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)||
 |[Youtube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)||
 
-## Specialized Skills
+## Domains
 
 ### Machine Learning
 
@@ -146,29 +120,26 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)|✓|
 |[Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)|✓|
 |[Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)|✓|
-|[Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)|✓|
-|[Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)|✓|
-|[Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)|✓|
-|[Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)|✓|
-|[Datacamp: Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)|✓|
-|[Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)|✓|
-|[Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)|✓|
-|[Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)|✓|
 |[edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)|✓|
 |[Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)|✓|
 |[Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)|✓|
 |[Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)|✓|
-|[Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)|✓|
-|[Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)|✓|
 |[Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)|✓|
-|[Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)|✓|
-|[Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)|✓|
-|[Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)|✓|
 |[Datacamp: MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)|✓|
 |[Datacamp: Machine Learning Monitoring Concepts](https://www.datacamp.com/courses/machine-learning-monitoring-concepts)|✓|
-|[Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|✓|
-|[Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)|✓|
-|[Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)|✓|
+|[Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)|✓|
+|[Datacamp: Hyperparameter Tuning in Python](https://www.datacamp.com/courses/hyperparameter-tuning-in-python)|✓|
+|[Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)|✓|
+|[Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)|✓|
+|[Datacamp: Dimensionality Reduction in Python](https://www.datacamp.com/courses/dimensionality-reduction-in-python)|✓|
+|[Datacamp: Preprocessing for Machine Learning in Python](https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python)|✓|
+|[Datacamp: Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)|✓|
+|[Datacamp: Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)|✓|
+|[Datacamp: Feature Engineering for Machine Learning in Python](https://www.datacamp.com/courses/feature-engineering-for-machine-learning-in-python)|✓|
+|[Datacamp: Predicting CTR with Machine Learning in Python](https://www.datacamp.com/courses/predicting-ctr-with-machine-learning-in-python)|✓|
+|[Datacamp: Intro to Financial Concepts using Python](https://www.datacamp.com/courses/intro-to-financial-concepts-using-python)|✓|
+|[Datacamp: Fraud Detection in Python](https://www.datacamp.com/courses/fraud-detection-in-python)|✓|
+
 
 ### Natural Language Processing
 
@@ -187,4 +158,102 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)|✓|
 |[Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)|✓|
 |[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✓|
+
+## Language and Technologies
+
+### AWS
+
+
+|Resource|Progress|
+|---|---|
+|[Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)|✓|
+
+
+### CSS
+
+|Resource|Progress|
+|---|---|
+|[Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)|✓|
+|[Pluralsight: Introduction to CSS](https://www.pluralsight.com/courses/css-intro)|✓|
+|[Pluralsight: CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)|✓|
+|[Pluralsight: CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)|✓|
+|[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|✓|
+|[Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|✓|
+|[Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)|✓|
+|[Book: Refactoring UI](https://refactoringui.com/book/)||
+
+
+### HTML
+
+|Resource|Progress|
+|---|---|
+|[Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)|✓|
+|[Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)|✓|
+
+
+### JavaScript
+
+|Resource|Progress|
+|---|---|
+|[Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)|✓|
+|[Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)|✓|
+|[Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)|✓|
+|[Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)|✓|
+|[Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)|✓|
+|[Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)|✓|
+|[Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)|✓|
+|[Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|✓|
+
+### Matplotlib
+
+|Resource|Progress|
+|---|---|
+|[Datacamp: Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)|✓|
+|[Datacamp: Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib)|✓|
+
+### Pandas
+
+|Resource|Progress|
+|---|---|
+|[Datacamp: Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)|✓|
+|[Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)|✓|
+|[Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)|✓|
+|[Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)|✓|
+|[Datacamp: Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)|✓|
+|[Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)|✓|
+|[Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)|✓|
+|[Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)|✓|
+|[Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)|✓|
+
+
+### PyTorch
+
+|Resource|Progress|
+|---|---|
+|[Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)|✓|
+|[Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)|✓|
+
+
+### ReactJS
+
+|Resource|Progress|
+|---|---|
+|[Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)|✓|
+|[Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)|✓|
+
+### Spacy
+
+|Resource|Progress|
+|---|---|
 |[Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)|✓|
+
+### Tensorflow & Keras
+
+|Resource|Progress|
+|---|---|
+|[Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)|✓|
+|[Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)|✓|
+|[Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)|✓|
+|[Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)|✓|
+|[Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)|✓|
+|[Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|✓|
