@@ -79,7 +79,6 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)|✓|
 |[Book: Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)||
 |[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)||
 |[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)||
@@ -161,6 +160,14 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✓|
 
 ## Language and Technologies
+
+### AWS
+
+
+|Resource|Progress|
+|---|---|
+|[Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)|✓|
+
 
 ### CSS
 
