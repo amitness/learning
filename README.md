@@ -132,7 +132,46 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)||
 |[Youtube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)||
 
-## Specialized Skills
+## Technical Skills
+
+### Pandas
+
+|Resource|Progress|
+|---|---|
+|[Datacamp: Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)|✓|
+|[Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)|✓|
+|[Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)|✓|
+|[Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)|✓|
+|[Datacamp: Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)|✓|
+|[Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)|✓|
+|[Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)|✓|
+|[Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)|✓|
+
+### PyTorch
+
+|Resource|Progress|
+|---|---|
+|[Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)|✓|
+|[Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)|✓|
+
+### Tensorflow & Keras
+
+|Resource|Progress|
+|---|---|
+|[Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)|✓|
+|[Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)|✓|
+|[Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)|✓|
+|[Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)|✓|
+|[Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)|✓|
+|[Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|✓|
+
+
+### Spacy
+
+|Resource|Progress|
+|---|---|
+|[Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)|✓|
+
 
 ### Machine Learning
 
@@ -146,29 +185,15 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)|✓|
 |[Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)|✓|
 |[Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)|✓|
-|[Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)|✓|
-|[Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)|✓|
-|[Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)|✓|
-|[Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)|✓|
-|[Datacamp: Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)|✓|
-|[Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)|✓|
-|[Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)|✓|
-|[Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)|✓|
 |[edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)|✓|
 |[Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)|✓|
 |[Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)|✓|
 |[Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)|✓|
-|[Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)|✓|
-|[Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)|✓|
 |[Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)|✓|
-|[Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)|✓|
-|[Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)|✓|
-|[Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)|✓|
 |[Datacamp: MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)|✓|
 |[Datacamp: Machine Learning Monitoring Concepts](https://www.datacamp.com/courses/machine-learning-monitoring-concepts)|✓|
-|[Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|✓|
-|[Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)|✓|
-|[Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)|✓|
+|[Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)|✓|
+|[Datacamp: Hyperparameter Tuning in Python](https://www.datacamp.com/courses/hyperparameter-tuning-in-python)|✓|
 
 ### Natural Language Processing
 
@@ -187,4 +212,3 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)|✓|
 |[Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)|✓|
 |[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✓|
-|[Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)|✓|
