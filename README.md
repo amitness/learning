@@ -57,31 +57,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|✓|
 |[Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)|✓|
 
-### Web Technology
-
-|Resource|Progress|
-|---|---|
-|[Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)|✓|
-|[Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)|✓|
-|[Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)|✓|
-|[Pluralsight: Introduction to CSS](https://www.pluralsight.com/courses/css-intro)|✓|
-|[Pluralsight: CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)|✓|
-|[Pluralsight: CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)|✓|
-|[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|✓|
-|[Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|✓|
-|[Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)|✓|
-|[Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)|✓|
-|[Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)|✓|
-|[Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)|✓|
-|[Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)|✓|
-|[Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)|✓|
-|[Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)|✓|
-|[Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)|✓|
-|[Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)|✓|
-|[Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)|✓|
-|[Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|✓|
-|[Book: Refactoring UI](https://refactoringui.com/book/)||
-
 ### Databases
 
 |Resource|Progress|
@@ -133,6 +108,48 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)||
 
 ## Technical Skills
+
+### HTML
+
+|Resource|Progress|
+|---|---|
+|[Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)|✓|
+|[Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)|✓|
+
+
+### CSS
+
+|Resource|Progress|
+|---|---|
+|[Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)|✓|
+|[Pluralsight: Introduction to CSS](https://www.pluralsight.com/courses/css-intro)|✓|
+|[Pluralsight: CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)|✓|
+|[Pluralsight: CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)|✓|
+|[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|✓|
+|[Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|✓|
+|[Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)|✓|
+|[Book: Refactoring UI](https://refactoringui.com/book/)||
+
+### JavaScript
+
+|Resource|Progress|
+|---|---|
+|[Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)|✓|
+|[Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)|✓|
+|[Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)|✓|
+|[Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)|✓|
+|[Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)|✓|
+|[Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)|✓|
+|[Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)|✓|
+|[Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|✓|
+
+### ReactJS
+
+|Resource|Progress|
+|---|---|
+|[Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)|✓|
+|[Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)|✓|
+
 
 ### Pandas
 
