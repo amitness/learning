@@ -158,6 +158,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)|✓|
 |[Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)|✓|
 |[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✓|
+|[LLMOps: Building with LLMs](https://www.comet.com/site/llm-course/)||
 
 ## Language and Technologies
 
