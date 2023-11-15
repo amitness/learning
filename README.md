@@ -113,6 +113,7 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)||
+|[Book: A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)|✓|
 |[Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)|✓|
 |[Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)|✓|
 |[Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)||
