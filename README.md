@@ -170,6 +170,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[LLMOps: Building with LLMs](https://www.comet.com/site/llm-course/)||
 |[Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search) [`1hr`]||
 |[Youtube: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) [`1hr`]||
+|[Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) [`1hr30m`]||
 
 ## Language and Technologies
 
