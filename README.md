@@ -141,7 +141,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Predicting CTR with Machine Learning in Python](https://www.datacamp.com/courses/predicting-ctr-with-machine-learning-in-python)|✓|
 |[Datacamp: Intro to Financial Concepts using Python](https://www.datacamp.com/courses/intro-to-financial-concepts-using-python)|✓|
 |[Datacamp: Fraud Detection in Python](https://www.datacamp.com/courses/fraud-detection-in-python)|✓|
-|[Karpathy: Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)||
+|[Karpathy: Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero/)|1/7|
 
 
 ### Natural Language Processing
