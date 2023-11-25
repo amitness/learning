@@ -174,7 +174,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) [`1hr30m`]||
 |[Wandb: Building LLM-Powered Apps](https://www.wandb.courses/courses/building-llm-powered-apps) [`2hr`]||
 
-## Language and Technologies
+## Technical Skills (Libraries/Frameworks/Tools)
 
 ### AWS
 
