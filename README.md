@@ -165,15 +165,18 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✓|
 
 
-### Large Language Models
+### Generative AI
 
 |Resource|Progress|
 |---|---|
+|[Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)||
 |[LLMOps: Building with LLMs](https://www.comet.com/site/llm-course/)||
+|[LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)||
 |[Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search) [`1hr`]|✓|
 |[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) [`1hr`]|✓|
 |[Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) [`1hr30m`]||
 |[Wandb: Building LLM-Powered Apps](https://www.wandb.courses/courses/building-llm-powered-apps) [`2hr`]||
+
 
 ## Technical Skills (Libraries/Frameworks/Tools)
 
