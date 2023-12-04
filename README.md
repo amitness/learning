@@ -117,7 +117,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)|✓|
 |[Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608)|✓|
 |[Book: Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)|115/513|
-|[Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)|✓|
+|[Fast.ai: Practical Deep Learning for Coder (Part 1)](https://course.fast.ai/)|✓|
+|[Fast.ai: Practical Deep Learning for Coder (Part 2)](https://course.fast.ai/Lessons/part2.html)||
 |[Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)|✓|
 |[Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)||
 |[Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)|✓|
@@ -178,7 +179,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search) [`1hr`]|✓|
 |[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) [`1hr`]|✓|
 |[Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) [`1hr30m`]|✓|
-|[Wandb: Building LLM-Powered Apps](https://www.wandb.courses/courses/building-llm-powered-apps) [`2hr`]||
 
 
 ## Technical Skills (Libraries/Frameworks/Tools)
