@@ -117,6 +117,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)|✓|
 |[Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608)|✓|
 |[Book: Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)|✓|
+|[Book: The StatQuest Illustrated Guide To Machine Learning](https://www.amazon.com/StatQuest-Illustrated-Guide-Machine-Learning/dp/B0BLM4TLPY)|✓|
 |[Fast.ai: Practical Deep Learning for Coder (Part 1)](https://course.fast.ai/)|✓|
 |[Fast.ai: Practical Deep Learning for Coder (Part 2)](https://course.fast.ai/Lessons/part2.html)||
 |[Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)|✓|
