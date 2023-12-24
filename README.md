@@ -183,6 +183,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) [`1hr30m`]|✓|
 |[Youtube: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)|✓|
 |[Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) [`1hr4m`]|✓|
+|[Youtube: Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)|✓|
 
 ## Technical Skills (Libraries/Frameworks/Tools)
 
