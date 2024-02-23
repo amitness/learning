@@ -180,6 +180,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)|✓|
 |[Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search) [`1hr`]|✓|
 |[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) [`1hr`]|✓|
+|[Karpathy: Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) [`2hr13m`]||
 |[Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) [`1hr30m`]|✓|
 |[Youtube: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)|✓|
 |[Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) [`1hr4m`]|✓|
