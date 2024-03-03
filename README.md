@@ -240,6 +240,13 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)|✓|
 |[Datacamp: Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib)|✓|
 
+
+### MLFlow
+
+|Resource|Progress|
+|---|---|
+|[Datacamp: Introduction to MLFlow](https://www.datacamp.com/courses/introduction-to-mlflow)|✓|
+
 ### Pandas
 
 |Resource|Progress|
