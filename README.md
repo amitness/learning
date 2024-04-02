@@ -173,6 +173,7 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)||
 |[DeepLearning.AI: Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)|✓|
+|[DeepLearning.AI: Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)|✓|
 |[DeepLearning.AI: Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)|✓|
 |[DeepLearning.AI: Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)|✓|
 |[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✓|
