@@ -179,6 +179,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✓|
 |[DeepLearning.AI: Advanced Retrieval for AI with Chroma](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)|✓|
 |[DeepLearning.AI: Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)|✓|
+|[DeepLearning.AI: Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)|✓|
 |[LLMOps: Building with LLMs](https://www.comet.com/site/llm-course/)||
 |[LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)|✓|
 |[Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search) [`1hr`]|✓|
