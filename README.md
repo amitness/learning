@@ -81,6 +81,7 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[Book: Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)|✓|
 |[Neetcode: System Design for Beginners](https://neetcode.io/courses/system-design-for-beginners/0)|✓|
+|[Neetcode: System Design Interview](https://neetcode.io/courses/system-design-interview)|✓|
 |[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)||
 |[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)||
 |[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)||
