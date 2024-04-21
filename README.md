@@ -153,7 +153,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Book: Natural Language Processing with Transformer](https://transformersbook.com/)||
+|[Book: Natural Language Processing with Transformer](https://transformersbook.com/)|119/409|
 |[Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)|✓|
 |[Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)|✓|
 |[CMU: Low-resource NLP Bootcamp 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)|✓|
