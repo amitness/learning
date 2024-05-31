@@ -173,6 +173,7 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)||
+|[Article: Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)|✅|
 |[DeepLearning.AI: Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)|✅|
 |[DeepLearning.AI: Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)|✅|
 |[DeepLearning.AI: Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)|✅|
