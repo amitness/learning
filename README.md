@@ -177,6 +177,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)|✅|
 |[Article: Task-Specific LLM Evals that Do & Don't Work](https://eugeneyan.com/writing/evals/)|✅|
 |[Article: LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy#h-3-prompts-aren-t-portable-across-models)|✅|
+|[Article: Prompt Engineering(Liliang Weng)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)|✅|
 |[DeepLearning.AI: Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)|✅|
 |[DeepLearning.AI: Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)|✅|
 |[DeepLearning.AI: Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)|✅|
