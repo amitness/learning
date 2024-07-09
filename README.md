@@ -1,6 +1,8 @@
 # learning
 
-A running log of things I'm learning to build strong core software engineering skills while also expanding breadth of knowledge on [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
+A running log of things I'm learning to build strong core software engineering skills while also expanding my knowledge of [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
+
+**Updated**: Once a month | **Current** **Focus**: Generative AI
 
 ## Core Skills
 
@@ -25,6 +27,9 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: Python 201](https://leanpub.com/python201)||
 |[Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)||
 |[Book: Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)||
+|[Article: Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)||
+|[Article: A Programmer’s Introduction to Unicode](https://www.reedbeta.com/blog/programmers-intro-to-unicode/)||
+
 
 ### Data Structures and Algorithms
 
@@ -108,7 +113,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)||
 |[Youtube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)||
 
-## Domains
+## Specialized Domains
 
 ### Machine Learning
 
@@ -166,12 +171,16 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)|✅|
 |[Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)|✅|
 |[Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|✅|
+|[Article: The Unreasonable Effectiveness of Collocations](https://opensourceconnections.com/blog/2019/05/16/unreasonable-effectiveness-of-collocations/)||
+|[Article: LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth)||
 
 
 ### Generative AI
 
 |Resource|Progress|
 |---|---|
+|[Article: What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)||
+|[Article: How to Generate and Use Synthetic Data for Finetuning](https://eugeneyan.com/writing/synthetic/)|✅|
 |[Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)||
 |[Article: Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)|✅|
 |[Article: Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)|✅|
@@ -182,6 +191,16 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Optimizing LLMs for accuracy](https://platform.openai.com/docs/guides/optimizing-llm-accuracy)|✅|
 |[Article: Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/)|✅|
 |[Article: Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)|✅|
+|[Article: Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)|✅|
+|[Article: Levels of Complexity: RAG Applications](https://jxnl.github.io/blog/writing/2024/02/28/levels-of-complexity-rag-applications/)|✅|
+|[Article: Emerging UX Patterns for Generative AI Apps & Copilots](https://www.tidepool.so/blog/emerging-ux-patterns-for-generative-ai-apps-copilots)|✅|
+|[Article: Systematically Improving Your RAG](https://jxnl.github.io/blog/writing/2024/05/22/systematically-improving-your-rag/)||
+|[Article: Stop using LGTM@Few as a metric (Better RAG)](https://jxnl.github.io/blog/writing/2024/02/05/when-to-lgtm-at-k/)||
+|[Article: Low-Hanging Fruit for RAG Search](https://jxnl.github.io/blog/writing/2024/05/11/low-hanging-fruit-for-rag-search/)||
+|[Wandb: LLM Engineering: Structured Outputs](https://www.wandb.courses/courses/steering-language-models)||
+|[Article: The Novice's LLM Training Guide](https://rentry.co/llm-training)||
+|[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)||
+|[Article: What AI Engineers Should Know about Search](https://softwaredoug.com/blog/2024/06/25/what-ai-engineers-need-to-know-search)|✅|
 |[DeepLearning.AI: Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)|✅|
 |[DeepLearning.AI: Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)|✅|
 |[DeepLearning.AI: Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)|✅|
@@ -194,7 +213,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)|✅|
 |[Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search) [`1hr`]|✅|
 |[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) [`1hr`]|✅|
-|[Karpathy: Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) [`2hr13m`]||
+|[Karpathy: Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) [`2hr13m`]|✅|
 |[Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) [`1hr30m`]|✅|
 |[Youtube: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)|✅|
 |[Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) [`1hr4m`]|✅|
@@ -279,6 +298,7 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Article: PyTorch internals](https://blog.ezyang.com/2019/05/pytorch-internals/)||
+|[Article: Taking PyTorch For Granted](https://nrehiew.github.io/blog/pytorch/)||
 |[Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)|✅|
 |[Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)|✅|
 
