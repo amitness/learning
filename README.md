@@ -148,6 +148,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|✅|
 |[Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|✅|
 |[Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)|✅|
+|[CSS for Javascript Developers](https://css-for-js.dev/)|4/11|
 |[Book: Refactoring UI](https://refactoringui.com/book/)|⬜|
 
 
@@ -283,6 +284,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)|⬜|
 |[DeepLearning.AI: Building Your Own Database Agent](https://www.deeplearning.ai/short-courses/building-your-own-database-agent/)|⬜|
 |[DeepLearning.AI: Preprocessing Unstructured Data for LLM Applications](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)|⬜|
+|[DeepLearning.AI: Embedding Models: From Architecture to Implementation](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation)|✅|
 |[Pinecone: Vector Databases in Production for Busy Engineers](https://www.pinecone.io/learn/series/vector-databases-in-production-for-busy-engineers/)|⬜|
 |[Pinecone: Retrieval Augmented Generation](https://www.pinecone.io/learn/series/rag/)|⬜|
 |[Pinecone: LangChain AI Handbook](https://www.pinecone.io/learn/series/langchain/)|⬜|
@@ -303,6 +305,7 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)|⬜|
 |[Article: Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)|✅|
+|[Anthropic Courses](https://github.com/anthropics/courses)|⬜|
 |[Article: Prompt Engineering(Liliang Weng)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)|✅|
 |[Article: Prompt Engineering 201: Advanced methods and toolkits](https://amatria.in/blog/prompt201)|✅|
 |[Article: Optimizing LLMs for accuracy](https://platform.openai.com/docs/guides/optimizing-llm-accuracy)|✅|
@@ -339,6 +342,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Serverless LLM apps with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/)|⬜|
 |[DeepLearning.AI: Quantization in Depth](https://www.deeplearning.ai/short-courses/quantization-in-depth/)|⬜|
 |[DeepLearning.AI: Introduction to On-Device AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)|⬜|
+|[Article: A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)|⬜|
 |[Article: LLM Inference Series: 3. KV caching explained](https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)|⬜|
 |[Article: LLM Inference Series: 4. KV caching, a deeper look](https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)|⬜|
 |[Article: LLM Inference Series: 5. Dissecting model performance](https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)|⬜|
