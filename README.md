@@ -136,6 +136,7 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)|✅|
 |[Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)|✅|
+|[Article: Alternative Text](https://webaim.org/techniques/alttext/)|⬜|
 
 ### CSS
 
@@ -148,7 +149,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|✅|
 |[Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|✅|
 |[Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)|✅|
-|[CSS for Javascript Developers](https://css-for-js.dev/)|4/11|
+|[CSS for Javascript Developers](https://css-for-js.dev/)|6/11|
 |[Book: Refactoring UI](https://refactoringui.com/book/)|⬜|
 
 
@@ -343,6 +344,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Quantization in Depth](https://www.deeplearning.ai/short-courses/quantization-in-depth/)|⬜|
 |[DeepLearning.AI: Introduction to On-Device AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)|⬜|
 |[Article: A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)|⬜|
+|[Article: Understanding AI/LLM Quantisation Through Interactive Visualisations](https://smcleod.net/2024/07/understanding-ai/llm-quantisation-through-interactive-visualisations/)|⬜|
 |[Article: LLM Inference Series: 3. KV caching explained](https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)|⬜|
 |[Article: LLM Inference Series: 4. KV caching, a deeper look](https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)|⬜|
 |[Article: LLM Inference Series: 5. Dissecting model performance](https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)|⬜|
@@ -379,8 +381,9 @@ A running log of things I'm learning to build strong core software engineering s
 |[LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)|✅|
 |[Youtube: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)|✅|
 |[Youtube: Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)|✅|
+|[Youtube: Fine Tuning OpenAI Models - Best Practices](https://youtu.be/Q0GSZD0Na1s?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC)|✅|
 |[Youtube: Course: LLM Fine-Tuning w/Axolotl](https://www.youtube.com/playlist?list=PLgIaq8VgndJuTUJgr-8khBZYigonBshUx)|0/4|
-|[Youtube: Fine-Tuning LLMs](https://www.youtube.com/playlist?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC)|0/15|
+|[Youtube: Fine-Tuning LLMs](https://www.youtube.com/playlist?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC)|1/5|
 |[Youtube: LLM Evals](https://www.youtube.com/playlist?list=PLgIaq8VgndJvt-HKMHPXehyJNNXQsAVHD)|0/5|
 |[Youtube: Building LLM Applications](https://www.youtube.com/playlist?list=PLgIaq8VgndJtrxcelEdnXbvh9fXMHeAps)|0/8|
 
@@ -393,6 +396,15 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)|✅|
+
+
+### Django
+
+|Resource|Progress|
+|---|---|
+|[Article: Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)|✅|
+
+
 
 ### Matplotlib
 
