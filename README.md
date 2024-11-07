@@ -30,6 +30,9 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)|⬜|
 |[Article: Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)|⬜|
 |[Article: A Programmer’s Introduction to Unicode](https://www.reedbeta.com/blog/programmers-intro-to-unicode/)|⬜|
+|[Article: Introduction to Memory Profiling in Python](https://www.datacamp.com/tutorial/memory-profiling-python)|✅|
+|[Article: Profiling Python code with memory_profiler](https://www.wrighters.io/profiling-python-code-with-memory_profiler/)|✅|
+|[Article: How to Use "memory_profiler" to Profile Memory Usage by Python Code?](https://coderzcolumn.com/tutorials/python/how-to-profile-memory-usage-in-python-using-memory-profiler)|✅|
 
 
 ### Data Structures and Algorithms
@@ -149,8 +152,10 @@ A running log of things I'm learning to build strong core software engineering s
 |[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|✅|
 |[Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|✅|
 |[Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)|✅|
-|[CSS for Javascript Developers](https://css-for-js.dev/)|6/11|
+|[CSS for Javascript Developers](https://css-for-js.dev/)|✅|
+|[Article: Create an illustration in Figma design](https://help.figma.com/hc/en-us/articles/13543867954711-Create-an-illustration-in-Figma-design)|✅|
 |[Book: Refactoring UI](https://refactoringui.com/book/)|⬜|
+|[Youtube: How to Make Your Website Not Ugly: Basic UX for Programmers](https://www.youtube.com/watch?v=Jf0cjocP8Wk)|⬜|
 
 
 ### JavaScript
@@ -298,6 +303,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: Beyond the Basics of Retrieval for Augmenting Generation (w/ Ben Clavié)](https://www.youtube.com/watch?v=0nA5QG3087g&t=1287s)|✅|
 |[Youtube: RAG From Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)|0/14|
 |[Article: LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth)|⬜|
+|[Article: Guided Generation with Outlines](https://medium.com/canoe-intelligence-technology/guided-generation-with-outlines-c09a0c2ce9eb)|✅|
 
 
 #### Prompt Engineering
@@ -334,6 +340,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: In the Fast Lane! Speculative Decoding - 10x Larger Model, No Extra Cost](https://docs.titanml.co/blog/speculative-decoding-unleashed/)|⬜|
 |[Article: Harmonizing Multi-GPUs: Efficient Scaling of LLM Inference](https://docs.titanml.co/blog/multi-gpu/)|⬜|
 |[Article: Multi-Query Attention is All You Need](https://fireworks.ai/blog/multi-query-attention-is-all-you-need)|⬜|
+|[Article: Transformers Inference Optimization Toolset](https://astralord.github.io/posts/transformer-inference-optimization-toolset/)|⬜|
 |[DeepLearning.AI: Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)|✅|
 |[DeepLearning.AI: Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)|✅|
 |[DeepLearning.AI: Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)|✅|
@@ -344,6 +351,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Quantization in Depth](https://www.deeplearning.ai/short-courses/quantization-in-depth/)|⬜|
 |[DeepLearning.AI: Introduction to On-Device AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)|⬜|
 |[Article: A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)|⬜|
+|[Article: QLoRA and 4-bit Quantization](https://mccormickml.com/2024/09/14/qlora-and-4bit-quantization/)|⬜|
 |[Article: Understanding AI/LLM Quantisation Through Interactive Visualisations](https://smcleod.net/2024/07/understanding-ai/llm-quantisation-through-interactive-visualisations/)|⬜|
 |[Article: LLM Inference Series: 3. KV caching explained](https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)|⬜|
 |[Article: LLM Inference Series: 4. KV caching, a deeper look](https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)|⬜|
