@@ -236,6 +236,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Mamba Explained](https://thegradient.pub/mamba-explained/)|⬜|
 |[Article: A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)|⬜|
 |[Article: Quantization Fundamentals with Hugging Face](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)|✅|
+|[Article: Transformers: Origins](https://mark-riedl.medium.com/transformers-origins-1db4bdfcb3d1)|⬜|
 
 ### Generative AI
 <hr>
@@ -245,6 +246,8 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|⬜|
+|[Book: Hands-On Large Language Models: Language Understanding and Generation](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)|✅|
+|[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
 |[DeepLearning.AI: Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms)|✅|
 |[DeepLearning.AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)|⬜|
 |[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) [`1hr`]|✅|
@@ -255,6 +258,20 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)|⬜|
 |[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✅|
 |[Youtube: LLaMA explained: KV-Cache, Rotary Positional Embedding, RMS Norm, Grouped Query Attention, SwiGLU](https://www.youtube.com/watch?v=Mn_9W1nCFLo) [`1h10m`]|⬜|
+|[Youtube: CMU Advanced NLP Fall 2024 (7): Prompting and Complex Reasoning](https://www.youtube.com/watch?v=1Faf1cTe3T8&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=2)|⬜|
+|[Youtube: CMU Advanced NLP Fall 2024 (6): Instruction Tuning](https://www.youtube.com/watch?v=iWcGS0gCL1E&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=3)|⬜|
+|[Youtube: CMU Advanced NLP Fall 2024 (12): Domain Specific Modeling: Code and Math](https://www.youtube.com/watch?v=qHNUVpKO2dc&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=4)|⬜|
+|[Youtube: CMU Advanced NLP Fall 2024 (15): Tool Use and LLM Agent Basics](https://www.youtube.com/watch?v=a3SjRsqV9ZA&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=16)|⬜|
+|[Youtube: CMU Advanced NLP Fall 2024 (14): Ensembling and Mixture of Experts](https://www.youtube.com/watch?v=E4Rg4qTw4xw&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=15)|⬜|
+
+#### Multi-modality
+
+|Resource|Progress|
+|---|---|
+|[Youtube: AI Visions Live \| Merve Noyan \| Open-source Multimodality](https://www.youtube.com/watch?v=_TlhKHTgWjY)|⬜|
+|[DeepLearning.AI: Building Multimodal Search and RAG](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)|⬜|
+|[Article: Understanding Multimodal LLMs](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms)|⬜|
+
 
 
 #### Information Retrieval / RAG
@@ -281,7 +298,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Prompt Compression and Query Optimization](https://www.deeplearning.ai/short-courses/prompt-compression-and-query-optimization/)|✅|
 |[DeepLearning.AI: Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search) [`1hr`]|✅|
 |[DeepLearning.AI: Building Applications with Vector Databases](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/)|✅|
-|[DeepLearning.AI: Building Multimodal Search and RAG](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)|⬜|
 |[DeepLearning.AI: Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)|⬜|
 |[DeepLearning.AI: Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)|⬜|
 |[DeepLearning.AI: Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)|⬜|
@@ -304,6 +320,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: RAG From Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)|0/14|
 |[Article: LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth)|⬜|
 |[Article: Guided Generation with Outlines](https://medium.com/canoe-intelligence-technology/guided-generation-with-outlines-c09a0c2ce9eb)|✅|
+|[Youtube: CMU Advanced NLP Fall 2024 (10): Retrieval and RAG](https://www.youtube.com/watch?v=KfQaYk4k9eM&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=6)|⬜|
 
 
 #### Prompt Engineering
@@ -353,6 +370,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)|⬜|
 |[Article: QLoRA and 4-bit Quantization](https://mccormickml.com/2024/09/14/qlora-and-4bit-quantization/)|⬜|
 |[Article: Understanding AI/LLM Quantisation Through Interactive Visualisations](https://smcleod.net/2024/07/understanding-ai/llm-quantisation-through-interactive-visualisations/)|⬜|
+|[Youtube: CMU Advanced NLP Fall 2024 (11): Distillation, Quantization, and Pruning](https://www.youtube.com/watch?v=DvVGkj4zhVU&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=5)|⬜|
 |[Article: LLM Inference Series: 3. KV caching explained](https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)|⬜|
 |[Article: LLM Inference Series: 4. KV caching, a deeper look](https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)|⬜|
 |[Article: LLM Inference Series: 5. Dissecting model performance](https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)|⬜|
