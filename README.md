@@ -508,7 +508,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Introduction to MLFlow](https://www.datacamp.com/courses/introduction-to-mlflow)|✅|
 
 
-### Nexxt.JS
+### Next.JS
 
 | Resource                                                          | Progress |
 | ----------------------------------------------------------------- | -------- |
@@ -548,7 +548,7 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)|✅|
 |[Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)|✅|
-|[NexxtJS: React Foundations](https://nextjs.org/learn/react-foundations)|⬜|
+|[NextJS: React Foundations](https://nextjs.org/learn/react-foundations)|⬜|
 
 ### Spacy
 
