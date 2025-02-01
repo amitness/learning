@@ -218,23 +218,32 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)|✅|
 |[Book: Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
+|[Book: A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/c/01-introduction.html)|⬜|
 |[Article: From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|⬜|
 |[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|⬜|
+|[Article: Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)|⬜|
+|[Article: You could have designed state of the art Positional Encodin](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|⬜|
+|[Article: Scaling test-time compute - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)|⬜|
+|[Article: DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)|✅|
+|[Article: The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)|✅|
 |[DeepLearning.AI: Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms)|✅|
+|[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✅|
 |[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) `1hr`|✅|
 |[Karpathy: Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) `2hr13m`|✅|
 |[Karpathy: Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU) `4hr1m`|⬜|
 |[Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) `1hr30m`|✅|
 |[Youtube: 5 Years of GPTs with Finbarr Timbers](https://www.youtube.com/watch?v=YA0pzBYAV2Q&list=PLKlhhkvvU8-YxMP9hjEYJTJDCaGszrJIh&index=8&t=43s) `55m`|⬜|
 |[Youtube: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)|⬜|
-|[Article: Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)|⬜|
-|[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✅|
 |[Youtube: LLaMA explained: KV-Cache, Rotary Positional Embedding, RMS Norm, Grouped Query Attention, SwiGLU](https://www.youtube.com/watch?v=Mn_9W1nCFLo) `1h10m`|⬜|
 |[Youtube: CMU Advanced NLP Fall 2024 (7): Prompting and Complex Reasoning](https://www.youtube.com/watch?v=1Faf1cTe3T8&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=2)|⬜|
 |[Youtube: CMU Advanced NLP Fall 2024 (6): Instruction Tuning](https://www.youtube.com/watch?v=iWcGS0gCL1E&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=3)|⬜|
 |[Youtube: CMU Advanced NLP Fall 2024 (12): Domain Specific Modeling: Code and Math](https://www.youtube.com/watch?v=qHNUVpKO2dc&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=4)|⬜|
 |[Youtube: CMU Advanced NLP Fall 2024 (15): Tool Use and LLM Agent Basics](https://www.youtube.com/watch?v=a3SjRsqV9ZA&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=16)|⬜|
 |[Youtube: CMU Advanced NLP Fall 2024 (14): Ensembling and Mixture of Experts](https://www.youtube.com/watch?v=E4Rg4qTw4xw&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=15)|⬜|
+|[Youtube: A little guide to building Large Language Models in 2024](https://www.youtube.com/watch?v=2-SPH9hIKT8) `1h15m`|⬜|
+|[Youtube: How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg) `22m`|✅|
+|[Youtube: Speculations on Test-Time Scaling (o1) `47m`](https://www.youtube.com/watch?v=6PEJ96k1kiw)|✅|
+|[Youtube: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://youtu.be/XMnxKGVnEUc) `1h19m`|✅|
 
 #### Multi-modality
 
@@ -242,10 +251,12 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[Article: Understanding Multimodal LLMs](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms)|⬜|
 |[Article: GPT-4 Vision Alternatives](https://blog.roboflow.com/gpt-4-vision-alternatives/)|⬜|
+|[Article: Computer-Using Agent](https://openai.com/index/computer-using-agent/)|✅|
 |[Youtube: AI Visions Live \| Merve Noyan \| Open-source Multimodality](https://www.youtube.com/watch?v=_TlhKHTgWjY) `54m`|✅|
-|[DeepLearning.AI: Building Multimodal Search and RAG](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)|⬜|
-|[DeepLearning.AI: Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)|⬜|
 |[DeepLearning.AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)|⬜|
+|[DeepLearning.AI: Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)|⬜|
+|[DeepLearning.AI: Building Multimodal Search and RAG](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)|✅|
+|[Pinecone: Embedding Methods for Image Search](https://www.pinecone.io/learn/series/image-search/)|0/8|
 
 
 #### Information Retrieval / RAG
@@ -268,7 +279,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Sentence Embeddings. Introduction to Sentence Embeddings](https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/)|✅|
 |[Article: LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth)|⬜|
 |[Article: Guided Generation with Outlines](https://medium.com/canoe-intelligence-technology/guided-generation-with-outlines-c09a0c2ce9eb)|✅|
-| [Course: Fullstack Retrieval](https://community.fullstackretrieval.com/)                                                                        |          |
+|[Article: RAG tricks from the trenches](https://duarteocarmo.com/blog/rag-tricks-from-the-trenches)|⬜|
+| [Course: Fullstack Retrieval](https://community.fullstackretrieval.com/)                                                                        |         ⬜ |
 |[DeepLearning.AI: Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)|✅|
 |[DeepLearning.AI: Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)|✅|
 |[DeepLearning.AI: Advanced Retrieval for AI with Chroma](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)|✅|
@@ -279,18 +291,15 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Preprocessing Unstructured Data for LLM Applications](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)|⬜|
 |[DeepLearning.AI: Embedding Models: From Architecture to Implementation](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation)|✅|
 |[DeepLearning.AI: Retrieval Optimization - From Tokenization to Vector Quantization](https://www.deeplearning.ai/short-courses/retrieval-optimization-from-tokenization-to-vector-quantization/)|✅|
-|[Pinecone: Vector Databases in Production for Busy Engineers](https://www.pinecone.io/learn/series/vector-databases-in-production-for-busy-engineers/)|0/6|
-|[Pinecone: Retrieval Augmented Generation](https://www.pinecone.io/learn/series/rag/)|0/3|
-|[Pinecone: LangChain AI Handbook](https://www.pinecone.io/learn/series/langchain/)|0/11|
-|[Pinecone: Embedding Methods for Image Search](https://www.pinecone.io/learn/series/image-search/)|0/8|
-|[Pinecone: Faiss: The Missing Manual](https://www.pinecone.io/learn/series/faiss/)|0/7|
-|[Pinecone: Vector Search in the Wild](https://www.pinecone.io/learn/series/wild/)|0/4|
+|[Pinecone: Vector Databases in Production for Busy Engineers](https://www.pinecone.io/learn/series/vector-databases-in-production-for-busy-engineers/)|✅|
+|[Pinecone: Retrieval Augmented Generation](https://www.pinecone.io/learn/series/rag/)|✅|
+|[Pinecone: Faiss: The Missing Manual](https://www.pinecone.io/learn/series/faiss/)|✅|
 |[Pinecone: Natural Language Processing for Semantic Search](https://www.pinecone.io/learn/series/nlp/)|0/13|
 |[Youtube: Systematically improving RAG applications](https://youtu.be/RrDBV6odPKo?list=PLgIaq8VgndJvXkDSeReTl2u4rQMShkZ6V)|✅|
 |[Youtube: Back to Basics for RAG w/ Jo Bergum](https://www.youtube.com/watch?v=nc0BupOkrhI&list=PLgIaq8VgndJvXkDSeReTl2u4rQMShkZ6V&index=2)|✅|
 |[Youtube: Beyond the Basics of Retrieval for Augmenting Generation (w/ Ben Clavié)](https://www.youtube.com/watch?v=0nA5QG3087g&t=1287s)|✅|
-|[Youtube: RAG From Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)|0/14|
-|[Youtube: CMU Advanced NLP Fall 2024 (10): Retrieval and RAG](https://www.youtube.com/watch?v=KfQaYk4k9eM&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=6) `1h17m`|⬜|
+|[Youtube: RAG From Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x) `14/14`|✅|
+|[Youtube: CMU Advanced NLP Fall 2024 (10): Retrieval and RAG](https://www.youtube.com/watch?v=KfQaYk4k9eM&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=6) `1h17m`|✅|
 |[Guidance: Token Healing](https://github.com/guidance-ai/guidance/blob/main/notebooks/tutorials/token_healing.ipynb)|⬜|
 
 #### Agentic Pattern
@@ -298,16 +307,21 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Article: Tool Invocation - Demonstrating the Marvel of GPT's Flexibility](https://blog.jnbrymn.com/2024/01/30/the-marvel-of-GPT-generality.html)|⬜|
-|[Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)|⬜|
+|[Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)|✅|
+|[Anthropic: Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)|✅|
 |[OpenAI: Assistants & Agents Build Hour](https://vimeo.com/showcase/11333741/video/990334325)|✅|
 |[OpenAI: Function Calling Build Hour](https://vimeo.com/showcase/11333741/video/952127114)|✅|
 |[DeepLearning.AI: Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)|⬜|
-|[DeepLearning.AI: Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)|⬜|
-|[DeepLearning.AI: Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)|⬜|
+|[DeepLearning.AI: Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)|✅|
+|[DeepLearning.AI: Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)|✅|
+|[DeepLearning.AI: Building Towards Computer Use with Anthropic](https://www.deeplearning.ai/short-courses/building-towards-computer-use-with-anthropic/)|✅|
+|[DeepLearning.AI: Practical Multi AI Agents and Advanced Use Cases with crewAI](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)|⬜|
+|[DeepLearning.AI: LLMs as Operating Systems: Agent Memory](https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/)|⬜|
+|[DeepLearning.AI: Serverless Agentic Workflows with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/)|⬜|
 |[DeepLearning.AI: AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)|⬜|
 |[DeepLearning.AI: AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)|⬜|
 |[DeepLearning.AI: Building Your Own Database Agent](https://www.deeplearning.ai/short-courses/building-your-own-database-agent/)|⬜|
-|[DeepLearning.AI: Function-Calling and Data Extraction with LLMs](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/)|⬜|
+|[DeepLearning.AI: Function-Calling and Data Extraction with LLMs](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/) `59m`|✅|
 
 
 #### Prompt Engineering
@@ -362,6 +376,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: LLM Inference Series: 4. KV caching, a deeper look](https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)|⬜|
 |[Article: LLM Inference Series: 5. Dissecting model performance](https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)|⬜|
 |[Article: Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)|⬜|
+|[Article: Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)|⬜|
+|[Article: Optimizing AI Inference at Character.AI (Part Deux)](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/)|⬜|
 |[Youtube: SBTB 2023: Charles Frye, Parallel Processors: Past & Future Connections Between LLMs and OS Kernels](https://www.youtube.com/watch?v=VxFtHqlMv8c)|⬜|
 |[Youtube: Deploying Fine-Tuned Models](https://youtu.be/GzEcyBykkdo) `2h28m`|✅|
 
@@ -418,13 +434,12 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Pushing ChatGPT's Structured Data Support To Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)|✅|
 |[Article: GPTed: using GPT-3 for semantic prose-checking](https://vgel.me/posts/gpted-launch/)|✅|
 |[Article: Don't worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)|⬜|
+|[Article: Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)|⬜|
+|[Article: Data acquisition strategies for AI-first start-ups](https://press.airstreet.com/p/data-acquisition-strategies-for-ai?utm_source=substack&utm_medium=email)|⬜|
 |[DeepLearning.AI: Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)|⬜|
-|[DeepLearning.AI: LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)|⬜|
-|[DeepLearning.AI: LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)|⬜|
 |[DeepLearning.AI: Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)|✅|
 |[DeepLearning.AI: Open Source Models with Hugging Face](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)|⬜|
 |[DeepLearning.AI: Getting Started with Mistral](https://www.deeplearning.ai/short-courses/getting-started-with-mistral/)|⬜|
-|[Datacamp: Developing LLM Applications with LangChain](https://www.datacamp.com/courses/developing-llm-applications-with-langchain)|⬜|
 |[LLMOps: Building with LLMs](https://www.comet.com/site/llm-course/)|⬜|
 |[LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)|✅|
 |[Youtube: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)|✅|
@@ -477,6 +492,14 @@ A running log of things I'm learning to build strong core software engineering s
 |[Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)|✅|
 |[Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)|✅|
 |[Article: Alternative Text](https://webaim.org/techniques/alttext/)|⬜|
+
+### Langchain
+
+|Resource|Progress|
+|---|---|
+|[Pinecone: LangChain AI Handbook](https://www.pinecone.io/learn/series/langchain/)|0/11|
+|[DeepLearning.AI: LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)|⬜|
+|[DeepLearning.AI: LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)|⬜|
 
 
 ### JavaScript
@@ -573,7 +596,27 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[VSCode Docs: Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py)|⬜|
 
-## Misc
+## Miscellaneous
+
+### Design
+
+|Resource|Progress|
+|---|---|
+|[Course: How to Visualize Value](https://visualizevalue.com/products/how-to-visualize-value)|✅|
+
+### Marketing
+
+|Resource|Progress|
+|---|---|
+|[Course: Build Once, Sell Twice](https://visualizevalue.com/products/build-once-sell-twice-the-productization-playbook)|✅|
+
+### Search Engine Optimization (SEO)
+
+|Resource|Progress|
+|---|---|
+|[Course: Compound Content](https://visualizevalue.com/products/compound-content)|✅|
+
+### Technical Writing
 |Resource|Progress|
 |---|---|
 |[Google: Technical Writing Course](https://developers.google.com/tech-writing/overview)|⬜|
