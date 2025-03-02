@@ -218,23 +218,25 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)|✅|
 |[Book: Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
-|[Book: A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/c/01-introduction.html)|⬜|
+|[Book: A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)|✅|
 |[Article: From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|⬜|
 |[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|⬜|
 |[Article: Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)|⬜|
-|[Article: You could have designed state of the art Positional Encodin](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|⬜|
+|[Article: You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|⬜|
 |[Article: Scaling test-time compute - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)|⬜|
 |[Article: DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)|✅|
 |[Article: The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)|✅|
+|[Article: A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)|⬜|
 |[DeepLearning.AI: Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms)|✅|
 |[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✅|
 |[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) `1hr`|✅|
 |[Karpathy: Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) `2hr13m`|✅|
 |[Karpathy: Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU) `4hr1m`|⬜|
 |[Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) `1hr30m`|✅|
+|[Karpathy: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) `3h31m`|✅|
 |[Youtube: 5 Years of GPTs with Finbarr Timbers](https://www.youtube.com/watch?v=YA0pzBYAV2Q&list=PLKlhhkvvU8-YxMP9hjEYJTJDCaGszrJIh&index=8&t=43s) `55m`|⬜|
-|[Youtube: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)|⬜|
-|[Youtube: LLaMA explained: KV-Cache, Rotary Positional Embedding, RMS Norm, Grouped Query Attention, SwiGLU](https://www.youtube.com/watch?v=Mn_9W1nCFLo) `1h10m`|⬜|
+|[Youtube: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts) `1h44m`|✅|
+|[Youtube: LLaMA explained: KV-Cache, Rotary Positional Embedding, RMS Norm, Grouped Query Attention, SwiGLU](https://www.youtube.com/watch?v=Mn_9W1nCFLo) `1h10m`|✅|
 |[Youtube: CMU Advanced NLP Fall 2024 (7): Prompting and Complex Reasoning](https://www.youtube.com/watch?v=1Faf1cTe3T8&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=2)|⬜|
 |[Youtube: CMU Advanced NLP Fall 2024 (6): Instruction Tuning](https://www.youtube.com/watch?v=iWcGS0gCL1E&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=3)|⬜|
 |[Youtube: CMU Advanced NLP Fall 2024 (12): Domain Specific Modeling: Code and Math](https://www.youtube.com/watch?v=qHNUVpKO2dc&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=4)|⬜|
@@ -244,6 +246,9 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg) `22m`|✅|
 |[Youtube: Speculations on Test-Time Scaling (o1) `47m`](https://www.youtube.com/watch?v=6PEJ96k1kiw)|✅|
 |[Youtube: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://youtu.be/XMnxKGVnEUc) `1h19m`|✅|
+|[Youtube: How DeepSeek Changes the LLM Story](https://www.youtube.com/watch?v=0eMzc-WnBfQ)|✅|
+|[Youtube: MIT EI seminar, Hyung Won Chung from OpenAI. "Don't teach. Incentivize."](https://www.youtube.com/watch?v=kYWUEV_e2ss) `35m`|✅|
+|[Youtube: How I use LLMs](https://youtu.be/EWvNQjAaOHw) `2h7m`|✅|
 
 #### Multi-modality
 
@@ -307,6 +312,7 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Article: Tool Invocation - Demonstrating the Marvel of GPT's Flexibility](https://blog.jnbrymn.com/2024/01/30/the-marvel-of-GPT-generality.html)|⬜|
+|[Article: Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)|⬜|
 |[Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)|✅|
 |[Anthropic: Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)|✅|
 |[OpenAI: Assistants & Agents Build Hour](https://vimeo.com/showcase/11333741/video/990334325)|✅|
@@ -316,12 +322,20 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)|✅|
 |[DeepLearning.AI: Building Towards Computer Use with Anthropic](https://www.deeplearning.ai/short-courses/building-towards-computer-use-with-anthropic/)|✅|
 |[DeepLearning.AI: Practical Multi AI Agents and Advanced Use Cases with crewAI](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)|⬜|
-|[DeepLearning.AI: LLMs as Operating Systems: Agent Memory](https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/)|⬜|
+|[DeepLearning.AI: LLMs as Operating Systems: Agent Memory](https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/)|✅|
 |[DeepLearning.AI: Serverless Agentic Workflows with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/)|⬜|
 |[DeepLearning.AI: AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)|⬜|
 |[DeepLearning.AI: AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)|⬜|
 |[DeepLearning.AI: Building Your Own Database Agent](https://www.deeplearning.ai/short-courses/building-your-own-database-agent/)|⬜|
 |[DeepLearning.AI: Function-Calling and Data Extraction with LLMs](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/) `59m`|✅|
+|[DeepLearning.AI: Evaluating AI Agents](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/) `2h16m`|✅|
+|[Huggingface: Agents Course](https://huggingface.co/learn/agents-course/unit1/messages-and-special-tokens#base-models-vs-instruct-models)|Unit 1|
+|[Youtube: How to Evaluate Agents: Galileo’s Agentic Evaluations in Action](https://www.youtube.com/watch?v=QvStk5G8BZw)|✅|
+|[Youtube: Agent Response \| LangSmith Evaluation - Part 24](https://youtu.be/NbQKDfSw3gM?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|✅|
+|[Youtube: Single Step \| LangSmith Evaluation - Part 25](https://youtu.be/AVPflFmRkd4?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|✅|
+|[Youtube: Agent Trajectory \| LangSmith Evaluation - Part 26](https://youtu.be/pvlT056DAHs?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|✅|
+|[Youtube: Evaluating Agents and Assistants: The AI Conference](https://www.youtube.com/watch?v=6uXWhmDRcMc)|✅|
+|[Youtube: How to Build, Evaluate, and Iterate on LLM Agents](https://youtu.be/0pnEUAwoDP0)|✅|
 
 
 #### Prompt Engineering
