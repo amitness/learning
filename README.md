@@ -30,6 +30,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)|⬜|
 |[Article: Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)|⬜|
 |[Article: A Programmer’s Introduction to Unicode](https://www.reedbeta.com/blog/programmers-intro-to-unicode/)|⬜|
+|[Article: Exposing string types to maximize user happiness](https://stephantul.github.io/python/typing/2025/03/07/externalized-types/)|✅|
 
 ### Testing & Profiling
 
@@ -40,6 +41,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Introduction to Memory Profiling in Python](https://www.datacamp.com/tutorial/memory-profiling-python)|✅|
 |[Article: Profiling Python code with memory_profiler](https://www.wrighters.io/profiling-python-code-with-memory_profiler/)|✅|
 |[Article: How to Use "memory_profiler" to Profile Memory Usage by Python Code?](https://coderzcolumn.com/tutorials/python/how-to-profile-memory-usage-in-python-using-memory-profiler)|✅|
+|[Youtube: Debug Python inside Docker using debugpy and VSCode](https://www.youtube.com/watch?v=ywfsLKRLmf4)|✅|
 
 
 ### Data Structures and Algorithms
@@ -72,6 +74,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|✅|
 |[Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|✅|
 |[Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)|✅|
+|[Youtube: How to Use Git Worktree \| Checkout Multiple Git Branches at Once](https://youtu.be/s4BTvj1ZVLM)|✅|
 
 ### Databases
 
@@ -231,10 +234,10 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✅|
 |[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) `1hr`|✅|
 |[Karpathy: Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) `2hr13m`|✅|
-|[Karpathy: Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU) `4hr1m`|⬜|
+|[Karpathy: Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU) `4hr1m`|✅|
 |[Youtube: A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) `1hr30m`|✅|
 |[Karpathy: Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) `3h31m`|✅|
-|[Youtube: 5 Years of GPTs with Finbarr Timbers](https://www.youtube.com/watch?v=YA0pzBYAV2Q&list=PLKlhhkvvU8-YxMP9hjEYJTJDCaGszrJIh&index=8&t=43s) `55m`|⬜|
+|[Youtube: 5 Years of GPTs with Finbarr Timbers](https://www.youtube.com/watch?v=YA0pzBYAV2Q&list=PLKlhhkvvU8-YxMP9hjEYJTJDCaGszrJIh&index=8&t=43s) `55m`|✅|
 |[Youtube: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts) `1h44m`|✅|
 |[Youtube: LLaMA explained: KV-Cache, Rotary Positional Embedding, RMS Norm, Grouped Query Attention, SwiGLU](https://www.youtube.com/watch?v=Mn_9W1nCFLo) `1h10m`|✅|
 |[Youtube: CMU Advanced NLP Fall 2024 (7): Prompting and Complex Reasoning](https://www.youtube.com/watch?v=1Faf1cTe3T8&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=2)|⬜|
@@ -242,7 +245,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: CMU Advanced NLP Fall 2024 (12): Domain Specific Modeling: Code and Math](https://www.youtube.com/watch?v=qHNUVpKO2dc&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=4)|⬜|
 |[Youtube: CMU Advanced NLP Fall 2024 (15): Tool Use and LLM Agent Basics](https://www.youtube.com/watch?v=a3SjRsqV9ZA&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=16)|⬜|
 |[Youtube: CMU Advanced NLP Fall 2024 (14): Ensembling and Mixture of Experts](https://www.youtube.com/watch?v=E4Rg4qTw4xw&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=15)|⬜|
-|[Youtube: A little guide to building Large Language Models in 2024](https://www.youtube.com/watch?v=2-SPH9hIKT8) `1h15m`|⬜|
+|[Youtube: A little guide to building Large Language Models in 2024](https://www.youtube.com/watch?v=2-SPH9hIKT8) `1h15m`|✅|
 |[Youtube: How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg) `22m`|✅|
 |[Youtube: Speculations on Test-Time Scaling (o1) `47m`](https://www.youtube.com/watch?v=6PEJ96k1kiw)|✅|
 |[Youtube: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://youtu.be/XMnxKGVnEUc) `1h19m`|✅|
@@ -285,6 +288,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth)|⬜|
 |[Article: Guided Generation with Outlines](https://medium.com/canoe-intelligence-technology/guided-generation-with-outlines-c09a0c2ce9eb)|✅|
 |[Article: RAG tricks from the trenches](https://duarteocarmo.com/blog/rag-tricks-from-the-trenches)|⬜|
+|[Article: Retrieval 101](https://isaacflath.com/blog/blog_post?fpath=posts%2F2025-03-17-Retrieval101.ipynb)|⬜|
 | [Course: Fullstack Retrieval](https://community.fullstackretrieval.com/)                                                                        |         ⬜ |
 |[DeepLearning.AI: Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)|✅|
 |[DeepLearning.AI: Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)|✅|
@@ -306,6 +310,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: RAG From Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x) `14/14`|✅|
 |[Youtube: CMU Advanced NLP Fall 2024 (10): Retrieval and RAG](https://www.youtube.com/watch?v=KfQaYk4k9eM&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=6) `1h17m`|✅|
 |[Guidance: Token Healing](https://github.com/guidance-ai/guidance/blob/main/notebooks/tutorials/token_healing.ipynb)|⬜|
+|[Youtube: What You See Is What You Search: Vision Language Models for PDF Retrieval [Jo Bergum]](https://youtu.be/qrbQUU4TrLM)|✅|
 
 #### Agentic Pattern
 
@@ -313,6 +318,7 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[Article: Tool Invocation - Demonstrating the Marvel of GPT's Flexibility](https://blog.jnbrymn.com/2024/01/30/the-marvel-of-GPT-generality.html)|⬜|
 |[Article: Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)|⬜|
+|[Article: What Problem Does The Model Context Protocol Solve?](https://www.aihero.dev/what-problem-does-model-context-protocol-solve)|✅|
 |[Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)|✅|
 |[Anthropic: Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)|✅|
 |[OpenAI: Assistants & Agents Build Hour](https://vimeo.com/showcase/11333741/video/990334325)|✅|
@@ -374,6 +380,32 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Understanding AI/LLM Quantisation Through Interactive Visualisations](https://smcleod.net/2024/07/understanding-ai/llm-quantisation-through-interactive-visualisations/)|⬜|
 |[Youtube: CMU Advanced NLP Fall 2024 (11): Distillation, Quantization, and Pruning](https://www.youtube.com/watch?v=DvVGkj4zhVU&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=5)|⬜|
 
+#### Distributed Training
+
+|Resource|Progress|
+|---|---|
+|[Youtube: Slaying OOMs with PyTorch FSDP and torchao](https://youtu.be/UvRl4ansfCg) `49m`|✅|
+|[Youtube: Distributed Training with PyTorch: complete tutorial with cloud infrastructure and code](https://youtu.be/toUSzwR0EV8) `1h12m`|✅|
+|[Youtube: How DDP works \|\| Distributed Data Parallel ](https://youtu.be/bwNtfxEDjGA)|✅|
+|[Youtube: FSDP Explained](https://youtu.be/6pVn6khIgiI)|✅|
+|[Youtube: Lecture 48: The Ultra Scale Playbook](https://youtu.be/1E8GDR8QXKw) `3h3m`|`44:24`|
+|[Youtube: Invited Talk: PyTorch Distributed (DDP, RPC) - By Facebook Research Scientist Shen Li](https://youtu.be/3XUG7cjte2U)|✅|
+|[Youtube: Unit 9 \| Techniques for Speeding Up Model Training](https://www.youtube.com/playlist?list=PLaMu-SDt_RB403GN5DU7NYVoVmO5Vsgkh)|✅|
+|[Article: A Short Guide to PyTorch DDP](https://blog.hpc.qmul.ac.uk/pytorch-ddp/)|✅|
+|[Article: Scaling Deep Learning with PyTorch: Multi-Node and Multi-GPU Training Explained (with Code)](https://medium.com/@ashraf.kasem.94.0/scaling-deep-learning-with-pytorch-multi-node-and-multi-gpu-training-explained-with-code-ece8f03ea59b)|✅|
+|[Article: Accelerating PyTorch Model Training](https://magazine.sebastianraschka.com/p/accelerating-pytorch-model-training)|✅|
+|[Article: Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://www.uber.com/blog/horovod/)|✅|
+|[Article: Distributed data parallel training in Pytorch](https://yangkky.github.io/2019/07/08/distributed-pytorch-tutorial.html)|✅|
+|[Article: Training on Multiple GPUs](https://d2l.ai/chapter_computational-performance/multiple-gpus.html)|✅|
+
+
+#### Parallel Computing
+
+|Resource|Progress|
+|---|---|
+|[Udacity: Intro to Parallel Programming](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2) `458 videos`|299/458|
+|[Book: Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0124159923)|Ch. 2|
+|[Youtube: GPU Puzzles: Let's Play](https://youtu.be/K4T-YwsOxrM)|⬜|
 
 #### Inference Optimization
 
@@ -392,7 +424,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)|⬜|
 |[Article: Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)|⬜|
 |[Article: Optimizing AI Inference at Character.AI (Part Deux)](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/)|⬜|
-|[Youtube: SBTB 2023: Charles Frye, Parallel Processors: Past & Future Connections Between LLMs and OS Kernels](https://www.youtube.com/watch?v=VxFtHqlMv8c)|⬜|
+|[Article: llama.cpp guide - Running LLMs locally, on any hardware, from scratch](https://blog.steelph0enix.dev/posts/llama-cpp-guide/)|✅|
+|[Youtube: SBTB 2023: Charles Frye, Parallel Processors: Past & Future Connections Between LLMs and OS Kernels](https://www.youtube.com/watch?v=VxFtHqlMv8c)|✅|
 |[Youtube: Deploying Fine-Tuned Models](https://youtu.be/GzEcyBykkdo) `2h28m`|✅|
 
 
@@ -428,7 +461,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: Best Practices For Fine Tuning Mistral](https://youtu.be/Z_oWzTuljss?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC) `23m`|✅|
 |[Youtube: Fine Tuning OpenAI Models - Best Practices](https://youtu.be/Q0GSZD0Na1s?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC)|✅|
 |[Youtube: When and Why to Fine Tune an LLM](https://youtu.be/cPn0nHFsvFg) `1h56m`|✅|
-|[Youtube: Slaying OOMs with PyTorch FSDP and torchao](https://youtu.be/UvRl4ansfCg) `49m`|✅|
 |[Youtube: Napkin Math For Fine Tuning Pt. 1 w/Johno Whitaker](https://youtu.be/-2ebSQROew4)|✅|
 |[Youtube: Napkin Math For Fine Tuning Pt. 2 w/Johno Whitaker](https://youtu.be/u2fJ6K8FjS8)|✅|
 |[Youtube: Fine Tuning LLMs for Function Calling w/Pawel Garback](https://youtu.be/SEZ7j31u67A) `1h32m`|✅|
@@ -463,7 +495,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)|✅|
 |[DeepLearning.AI: LLMOps](https://www.deeplearning.ai/short-courses/llmops/)|⬜|
 |[DeepLearning.AI: Serverless LLM apps with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/)|⬜|
-|[Youtube: Getting the Most Out of Your LLM Experiments](https://youtu.be/IfcDvtl6Z1Y) `48m`|⬜|
+|[Youtube: Getting the Most Out of Your LLM Experiments](https://youtu.be/IfcDvtl6Z1Y) `48m`|✅|
 
 
 ## Technical Skills (Libraries/Frameworks/Tools)
@@ -617,6 +649,14 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Course: How to Visualize Value](https://visualizevalue.com/products/how-to-visualize-value)|✅|
+
+### Finance
+
+|Resource|Progress|
+|---|---|
+|[Coursera: Financial Markets](https://www.coursera.org/learn/financial-markets-global)|⬜|
+
+
 
 ### Marketing
 
