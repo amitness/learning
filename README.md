@@ -182,10 +182,11 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent)|✅|
 |[Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608)|✅|
 |[Fast.ai: Practical Deep Learning for Coder (Part 1)](https://course.fast.ai/)|✅|
-|[Fast.ai: Practical Deep Learning for Coder (Part 2)](https://course.fast.ai/Lessons/part2.html)|⬜|
+|[Fast.ai: Practical Deep Learning for Coder (Part 2)](https://course.fast.ai/Lessons/part2.html) `9, 13,14,17,18(48:10),`|⬜|
 |[Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)|✅|
 |[Karpathy: Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero/)|✅|
 |[Article: Weight Initialization in Neural Networks: A Journey From the Basics to Kaiming](https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79)|⬜|
+|[Article: Things that confused me about cross-entropy](https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/)|✅|
 
 ### Natural Language Processing
 
@@ -265,6 +266,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)|⬜|
 |[DeepLearning.AI: Building Multimodal Search and RAG](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)|✅|
 |[Pinecone: Embedding Methods for Image Search](https://www.pinecone.io/learn/series/image-search/)|0/8|
+|[Youtube: Lesson 9A 2022 - Stable Diffusion deep dive](https://youtu.be/0_BBRNYInx8)|✅|
 
 
 #### Information Retrieval / RAG
@@ -342,6 +344,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: Agent Trajectory \| LangSmith Evaluation - Part 26](https://youtu.be/pvlT056DAHs?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|✅|
 |[Youtube: Evaluating Agents and Assistants: The AI Conference](https://www.youtube.com/watch?v=6uXWhmDRcMc)|✅|
 |[Youtube: How to Build, Evaluate, and Iterate on LLM Agents](https://youtu.be/0pnEUAwoDP0)|✅|
+|[Youtube:  Agentic AI: A Progression of Language Model Usage](https://www.youtube.com/watch?v=kJLiOGle3Lw)|⬜|
 
 
 #### Prompt Engineering
@@ -575,6 +578,13 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Datacamp: Introduction to MLFlow](https://www.datacamp.com/courses/introduction-to-mlflow)|✅|
+
+
+### Numpy
+
+|Resource|Progress|
+|---|---|
+|[Youtube: Numpy Array Broadcasting In Python Explained](https://youtu.be/oG1t3qlzq14)|✅|
 
 
 ### Nexxt.JS
