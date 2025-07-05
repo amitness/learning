@@ -75,25 +75,27 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|✅|
 |[Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)|✅|
 |[Youtube: How to Use Git Worktree \| Checkout Multiple Git Branches at Once](https://youtu.be/s4BTvj1ZVLM)|✅|
+|[Datacamp: Advanced Git](https://www.datacamp.com/courses/advanced-git)|✅|
 
 ### Databases
 
 |Resource|Progress|
 |---|---|
 |[Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)|✅|
-|[Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)|⬜|
-|[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)|⬜|
+|[Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-and-design--ud150)|⬜|
+|[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)|✅|
 |[Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)|⬜|
 |[Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)|✅|
-|[Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)|⬜|
-|[Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)|⬜|
+|[Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)|✅|
+|[Datacamp: Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-sql)|✅|
+|[Datacamp: Data Manipulation in SQL](https://app.datacamp.com/learn/courses/data-manipulation-in-sql)|⬜|
 |[Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)|⬜|
 |[Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)|⬜|
 |[Datacamp: Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)|⬜|
 |[Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)|⬜|
 |[Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)|⬜|
 |[Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)|⬜|
-|[Datacamp: NoSQL Concepts](https://www.datacamp.com/courses/nosql-concepts)|⬜|
+|[Datacamp: NoSQL Concepts](https://www.datacamp.com/courses/nosql-concepts)|✅|
 |[Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)|⬜|
 
 ### Backend Engineering
@@ -220,7 +222,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
 |[Book: A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)|✅|
-|[Stanford CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) `18 lectures`|1/18|
+|[Stanford CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) `18 lectures`|2`26:45`|
 |[Article: You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|⬜|
 |[Article: From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|⬜|
 |[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|⬜|
@@ -255,6 +257,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: Introduction to Reasoning LLMs](https://www.youtube.com/watch?v=AZhUhGsgz4s) `1hr`|⬜|
 |[Article: Mamba Explained](https://thegradient.pub/mamba-explained/)|⬜|
 |[Article: A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)|⬜|
+|[Article: Patterns and Messages - Part 1 - The Missing Subscript](https://mccormickml.com/2025/02/18/patterns-and-messages-part-1-wo-i/)|⬜|
 
 #### Multi-modality
 
@@ -302,6 +305,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Guided Generation with Outlines](https://medium.com/canoe-intelligence-technology/guided-generation-with-outlines-c09a0c2ce9eb)|✅|
 |[Article: RAG tricks from the trenches](https://duarteocarmo.com/blog/rag-tricks-from-the-trenches)|⬜|
 |[Article: Retrieval 101](https://isaacflath.com/blog/blog_post?fpath=posts%2F2025-03-17-Retrieval101.ipynb)|⬜|
+|[Arxiv: Ragas: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217)|✅|
 | [Course: Fullstack Retrieval](https://community.fullstackretrieval.com/)                                                                        |         ⬜ |
 |[DeepLearning.AI: Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)|✅|
 |[DeepLearning.AI: Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)|✅|
@@ -332,6 +336,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Tool Invocation - Demonstrating the Marvel of GPT's Flexibility](https://blog.jnbrymn.com/2024/01/30/the-marvel-of-GPT-generality.html)|⬜|
 |[Article: Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)|⬜|
 |[Article: What Problem Does The Model Context Protocol Solve?](https://www.aihero.dev/what-problem-does-model-context-protocol-solve)|✅|
+|[Article: Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)|✅|
+|[Article: Coding Agents 101: The Art of Actually Getting Things Done](https://devin.ai/agents101)|⬜|
 |[Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)|✅|
 |[Anthropic: Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)|✅|
 |[OpenAI: Assistants & Agents Build Hour](https://vimeo.com/showcase/11333741/video/990334325)|✅|
@@ -374,6 +380,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Primers • Prompt Engineering](https://aman.ai/primers/ai/prompt-engineering/)|⬜|
 |[Article: Anyscale Endpoints: JSON Mode and Function calling Features](https://www.anyscale.com/blog/anyscale-endpoints-json-mode-and-function-calling-features)|⬜|
 |[Article: Guided text generation with Large Language Models](https://medium.com/productizing-language-models/guided-text-generation-with-large-language-models-d88fc3dcf4c)|⬜|
+|[Anthropic: AI Fluency](https://www.anthropic.com/ai-fluency)|⬜|
 |[Book: Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)|⬜|
 |[DeepLearning.AI: Reasoning with o1](https://www.deeplearning.ai/short-courses/reasoning-with-o1/)|✅|
 |[OpenAI: Reasoning with o1 Build Hour](https://vimeo.com/showcase/11333741/video/1018737829)|✅|
@@ -453,7 +460,9 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)|✅|
 |[Article: Task-Specific LLM Evals that Do & Don't Work](https://eugeneyan.com/writing/evals/)|✅|
 |[Article: Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/)|✅|
-|[Article: LLM-as-a-Judge vs Human Evaluation](https://www.galileo.ai/blog/llm-as-a-judge-vs-human-evaluation)|⬜|
+|[Article: Aligning LLM as judge with human evaluators](https://blog.ragas.io/aligning-llm-as-judge-with-human-evaluators)|✅|
+|[Article: Hard-Earned Lessons from 2 Years of Improving AI Applications](https://blog.ragas.io/hard-earned-lessons-from-2-years-of-improving-ai-applications)|✅|
+|[Article: Evaluating Long-Context Question & Answer Systems](https://eugeneyan.com/writing/qa-evals/)|⬜|
 |[DeepLearning.AI: Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)|✅|
 |[DeepLearning.AI: Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)|✅|
 |[DeepLearning.AI: Evaluating and Debugging Generative AI Models Using Weights and Biases](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)|⬜|
@@ -499,6 +508,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Don't worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)|⬜|
 |[Article: Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)|⬜|
 |[Article: Data acquisition strategies for AI-first start-ups](https://press.airstreet.com/p/data-acquisition-strategies-for-ai?utm_source=substack&utm_medium=email)|⬜|
+|[Article: All about synthetic data generation](https://blog.ragas.io/all-about-synthetic-data-generation)|✅|
 |[DeepLearning.AI: Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)|⬜|
 |[DeepLearning.AI: Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)|✅|
 |[DeepLearning.AI: Open Source Models with Hugging Face](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)|⬜|
