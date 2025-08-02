@@ -51,7 +51,9 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|✅|
 |[Book: The Tech Resume Inside Out](https://thetechresume.com)|✅|
 |[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)|✅|
+|[Neetcode: Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/0) `1/7`|⬜|
 |[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)|✅|
+|[Youtube: Sliding Window Technique - Algorithmic Mental Models](https://www.youtube.com/watch?v=MK-NZ4hN7rs) `36:44`|✅|
 
 
 ### Linux & Command Line
@@ -223,7 +225,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
 |[Book: A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)|✅|
 |[Stanford CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) `18 lectures`|2`26:45`|
-|[Article: You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|⬜|
+|[Article: You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|✅|
 |[Article: From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|⬜|
 |[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|⬜|
 |[Article: Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)|⬜|
@@ -231,6 +233,11 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)|✅|
 |[Article: The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)|✅|
 |[Article: A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)|⬜|
+|[Article: Mamba Explained](https://thegradient.pub/mamba-explained/)|⬜|
+|[Article: A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)|⬜|
+|[Article: Patterns and Messages - Part 1 - The Missing Subscript](https://mccormickml.com/2025/02/18/patterns-and-messages-part-1-wo-i/)|⬜|
+|[Article: How text diffusion works](https://pierce.dev/notes/how-text-diffusion-works/)|✅|
+|[Article: The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)|⬜|
 |[DeepLearning.AI: Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms)|✅|
 |[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✅|
 |[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) `1hr`|✅|
@@ -255,9 +262,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: How I use LLMs](https://youtu.be/EWvNQjAaOHw) `2h7m`|✅|
 |[Youtube: Simple Diffusion Language Models](https://youtu.be/WjAUX23vgfg)|✅|
 |[Youtube: Introduction to Reasoning LLMs](https://www.youtube.com/watch?v=AZhUhGsgz4s) `1hr`|⬜|
-|[Article: Mamba Explained](https://thegradient.pub/mamba-explained/)|⬜|
-|[Article: A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)|⬜|
-|[Article: Patterns and Messages - Part 1 - The Missing Subscript](https://mccormickml.com/2025/02/18/patterns-and-messages-part-1-wo-i/)|⬜|
+|[Youtube: Zed Inferred: Diffusion Language Models](https://youtu.be/oot4O9wMohw?list=LL)|✅|
 
 #### Multi-modality
 
@@ -266,6 +271,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Understanding Multimodal LLMs](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms)|⬜|
 |[Article: GPT-4 Vision Alternatives](https://blog.roboflow.com/gpt-4-vision-alternatives/)|⬜|
 |[Article: Computer-Using Agent](https://openai.com/index/computer-using-agent/)|✅|
+|[Article: Flow Matching in 5 Minutes](https://nrehiew.github.io/blog/flow_matching/)|✅|
 |[Youtube: AI Visions Live \| Merve Noyan \| Open-source Multimodality](https://www.youtube.com/watch?v=_TlhKHTgWjY) `54m`|✅|
 |[DeepLearning.AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)|✅|
 |[DeepLearning.AI: Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)|⬜|
@@ -279,6 +285,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: The geometry of diffusion guidance](https://sander.ai/2023/08/28/geometry.html)|✅|
 |[Article: Diffusion is spectral autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)|✅|
 |[Article: Generative modelling in latent space](https://sander.ai/2025/04/15/latents.html)|✅|
+|[Article: Voice AI & Voice Agents - An Illustrated Primer](https://voiceaiandvoiceagents.com/)|⬜|
 |[Youtube: Sander Dieleman - Generative modelling through iterative refinement](https://www.youtube.com/watch?v=9BHQvQlsVdE)|✅|
 |[Speech AI models: an introduction](https://thomwolf.io/blog/speech-ai.html)|⬜|
 
@@ -329,11 +336,13 @@ A running log of things I'm learning to build strong core software engineering s
 |[Guidance: Token Healing](https://github.com/guidance-ai/guidance/blob/main/notebooks/tutorials/token_healing.ipynb)|⬜|
 |[Youtube: What You See Is What You Search: Vision Language Models for PDF Retrieval [Jo Bergum]](https://youtu.be/qrbQUU4TrLM)|✅|
 
-#### Agentic Pattern
+#### Agentic Engineering
 
 |Resource|Progress|
 |---|---|
-|[Article: Tool Invocation - Demonstrating the Marvel of GPT's Flexibility](https://blog.jnbrymn.com/2024/01/30/the-marvel-of-GPT-generality.html)|⬜|
+|[Berkeley: CS294/194-196 Large Language Model Agents](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc) `0/14 lectures`|⬜|
+|[Berkeley: Advanced LLM Agents MOOC](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9nGkzhvtn6Egn) `0/12 lectures`|⬜|
+|[Article: Tool Invocation - Demonstrating the Marvel of GPT's Flexibility](https://blog.jnbrymn.com/2024/01/30/the-marvel-of-GPT-generality.html)|✅|
 |[Article: Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)|⬜|
 |[Article: What Problem Does The Model Context Protocol Solve?](https://www.aihero.dev/what-problem-does-model-context-protocol-solve)|✅|
 |[Article: Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)|✅|
@@ -363,9 +372,10 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: Agent Trajectory \| LangSmith Evaluation - Part 26](https://youtu.be/pvlT056DAHs?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|✅|
 |[Youtube: Evaluating Agents and Assistants: The AI Conference](https://www.youtube.com/watch?v=6uXWhmDRcMc)|✅|
 |[Youtube: How to Build, Evaluate, and Iterate on LLM Agents](https://youtu.be/0pnEUAwoDP0)|✅|
+|[Youtube: Mem0: Building AI Agents with Scalable Long-Term Memory](https://www.youtube.com/watch?v=EE4pvOEAjXc)|⬜|
 
 
-#### Prompt Engineering
+#### Context Engineering
 
 |Resource|Progress|
 |---|---|
@@ -448,6 +458,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)|⬜|
 |[Article: Optimizing AI Inference at Character.AI (Part Deux)](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/)|⬜|
 |[Article: llama.cpp guide - Running LLMs locally, on any hardware, from scratch](https://blog.steelph0enix.dev/posts/llama-cpp-guide/)|✅|
+|[Article: Domain specific architectures for AI inference](https://fleetwood.dev/posts/domain-specific-architectures)|⬜|
 |[Youtube: SBTB 2023: Charles Frye, Parallel Processors: Past & Future Connections Between LLMs and OS Kernels](https://www.youtube.com/watch?v=VxFtHqlMv8c)|✅|
 |[Youtube: Deploying Fine-Tuned Models](https://youtu.be/GzEcyBykkdo) `2h28m`|✅|
 |[Article: Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models/)|⬜|
