@@ -42,6 +42,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Profiling Python code with memory_profiler](https://www.wrighters.io/profiling-python-code-with-memory_profiler/)|✅|
 |[Article: How to Use "memory_profiler" to Profile Memory Usage by Python Code?](https://coderzcolumn.com/tutorials/python/how-to-profile-memory-usage-in-python-using-memory-profiler)|✅|
 |[Youtube: Debug Python inside Docker using debugpy and VSCode](https://www.youtube.com/watch?v=ywfsLKRLmf4)|✅|
+|[Article: Concurrency For Starlette Apps (e.g FastAPI / FastHTML)](https://hamel.dev/notes/fasthtml/concurrency.html#fnref1)|✅|
 
 
 ### Data Structures and Algorithms
@@ -223,16 +224,11 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)|✅|
 |[Book: Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
-|[Book: A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)|✅|
 |[Stanford CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) `18 lectures`|2`26:45`|
 |[Article: You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|✅|
 |[Article: From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|⬜|
 |[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|⬜|
 |[Article: Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)|⬜|
-|[Article: Scaling test-time compute - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)|⬜|
-|[Article: DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)|✅|
-|[Article: The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)|✅|
-|[Article: A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)|⬜|
 |[Article: Mamba Explained](https://thegradient.pub/mamba-explained/)|⬜|
 |[Article: A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)|⬜|
 |[Article: Patterns and Messages - Part 1 - The Missing Subscript](https://mccormickml.com/2025/02/18/patterns-and-messages-part-1-wo-i/)|⬜|
@@ -255,14 +251,28 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: CMU Advanced NLP Fall 2024 (14): Ensembling and Mixture of Experts](https://www.youtube.com/watch?v=E4Rg4qTw4xw&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=15)|✅|
 |[Youtube: A little guide to building Large Language Models in 2024](https://www.youtube.com/watch?v=2-SPH9hIKT8) `1h15m`|✅|
 |[Youtube: How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg) `22m`|✅|
-|[Youtube: Speculations on Test-Time Scaling (o1) `47m`](https://www.youtube.com/watch?v=6PEJ96k1kiw)|✅|
-|[Youtube: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://youtu.be/XMnxKGVnEUc) `1h19m`|✅|
-|[Youtube: How DeepSeek Changes the LLM Story](https://www.youtube.com/watch?v=0eMzc-WnBfQ)|✅|
-|[Youtube: MIT EI seminar, Hyung Won Chung from OpenAI. "Don't teach. Incentivize."](https://www.youtube.com/watch?v=kYWUEV_e2ss) `35m`|✅|
 |[Youtube: How I use LLMs](https://youtu.be/EWvNQjAaOHw) `2h7m`|✅|
 |[Youtube: Simple Diffusion Language Models](https://youtu.be/WjAUX23vgfg)|✅|
-|[Youtube: Introduction to Reasoning LLMs](https://www.youtube.com/watch?v=AZhUhGsgz4s) `1hr`|⬜|
 |[Youtube: Zed Inferred: Diffusion Language Models](https://youtu.be/oot4O9wMohw?list=LL)|✅|
+
+
+#### RLHF / RLVR
+
+|Resource|Progress|
+|---|---|
+|[Book: A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)|✅|
+|[Article: Scaling test-time compute - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)|⬜|
+|[Article: DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)|✅|
+|[Article: The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)|✅|
+|[Article: A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)|⬜|
+|[Article: GRPO in DeepSeek-R1](https://hlfshell.ai/posts/grpo/)|✅|
+|[Youtube: How DeepSeek Changes the LLM Story](https://www.youtube.com/watch?v=0eMzc-WnBfQ)|✅|
+|[Youtube: Introduction to Reasoning LLMs](https://www.youtube.com/watch?v=AZhUhGsgz4s) `1hr`|⬜|
+|[Youtube: Speculations on Test-Time Scaling (o1) `47m`](https://www.youtube.com/watch?v=6PEJ96k1kiw)|✅|
+|[Youtube: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://youtu.be/XMnxKGVnEUc) `1h19m`|✅|
+|[Youtube: MIT EI seminar, Hyung Won Chung from OpenAI. "Don't teach. Incentivize."](https://www.youtube.com/watch?v=kYWUEV_e2ss) `35m`|✅|
+|[Youtube: Group Relative Policy Optimization (GRPO) - Formula and Code](https://www.youtube.com/watch?v=Yi1UCrAsf4o) `24m`|✅|
+
 
 #### Multi-modality
 
@@ -272,6 +282,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: GPT-4 Vision Alternatives](https://blog.roboflow.com/gpt-4-vision-alternatives/)|⬜|
 |[Article: Computer-Using Agent](https://openai.com/index/computer-using-agent/)|✅|
 |[Article: Flow Matching in 5 Minutes](https://nrehiew.github.io/blog/flow_matching/)|✅|
+|[Article: How LLMs See Images, Audio, and More](https://blog.bytebytego.com/p/how-llms-see-images-audio-and-more)|⬜|
 |[Youtube: AI Visions Live \| Merve Noyan \| Open-source Multimodality](https://www.youtube.com/watch?v=_TlhKHTgWjY) `54m`|✅|
 |[DeepLearning.AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)|✅|
 |[DeepLearning.AI: Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)|⬜|
@@ -314,6 +325,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Retrieval 101](https://isaacflath.com/blog/blog_post?fpath=posts%2F2025-03-17-Retrieval101.ipynb)|⬜|
 |[Arxiv: Ragas: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217)|✅|
 | [Course: Fullstack Retrieval](https://community.fullstackretrieval.com/)                                                                        |         ⬜ |
+|[Course: The RAG Flywheel](https://567-labs.github.io/systematically-improving-rag/)|⬜|
 |[DeepLearning.AI: Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)|✅|
 |[DeepLearning.AI: Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)|✅|
 |[DeepLearning.AI: Advanced Retrieval for AI with Chroma](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)|✅|
@@ -347,6 +359,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: What Problem Does The Model Context Protocol Solve?](https://www.aihero.dev/what-problem-does-model-context-protocol-solve)|✅|
 |[Article: Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)|✅|
 |[Article: Coding Agents 101: The Art of Actually Getting Things Done](https://devin.ai/agents101)|⬜|
+|[Article: What makes Claude Code so damn good (and how to recreate that magic in your agent)!?](https://minusx.ai/blog/decoding-claude-code/)|⬜|
 |[Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)|✅|
 |[Anthropic: Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)|✅|
 |[OpenAI: Assistants & Agents Build Hour](https://vimeo.com/showcase/11333741/video/990334325)|✅|
@@ -355,6 +368,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)|✅|
 |[DeepLearning.AI: Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)|✅|
 |[DeepLearning.AI: Building Towards Computer Use with Anthropic](https://www.deeplearning.ai/short-courses/building-towards-computer-use-with-anthropic/)|✅|
+|[DeepLearning.AI: Pydantic for LLM Workflows](https://www.deeplearning.ai/short-courses/pydantic-for-llm-workflows/)|✅|
 |[DeepLearning.AI: Practical Multi AI Agents and Advanced Use Cases with crewAI](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)|⬜|
 |[DeepLearning.AI: LLMs as Operating Systems: Agent Memory](https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/)|✅|
 |[DeepLearning.AI: Serverless Agentic Workflows with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-agentic-workflows-with-amazon-bedrock/)|⬜|
@@ -557,7 +571,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|✅|
 |[Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)|✅|
 |[CSS for Javascript Developers](https://css-for-js.dev/)|✅|
-|[Article: Create an illustration in Figma design](https://help.figma.com/hc/en-us/articles/13543867954711-Create-an-illustration-in-Figma-design)|✅|
 |[Book: Refactoring UI](https://refactoringui.com/book/)|⬜|
 |[Youtube: How to Make Your Website Not Ugly: Basic UX for Programmers](https://www.youtube.com/watch?v=Jf0cjocP8Wk) `48m`|⬜|
 
@@ -694,6 +707,9 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Course: How to Visualize Value](https://visualizevalue.com/products/how-to-visualize-value)|✅|
+|[Article: Create an illustration in Figma design](https://help.figma.com/hc/en-us/articles/13543867954711-Create-an-illustration-in-Figma-design)|✅|
+|[Series: K-12 Figma Design Basics](https://www.figma.com/resource-library/k-12-design-basics/) `10 parts`|3/10|
+
 
 ### Finance
 
@@ -719,3 +735,4 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Google: Technical Writing Course](https://developers.google.com/tech-writing/overview)|⬜|
+|[Handbook: Writing Better](https://www.julian.com/guide/write/intro)|⬜|
