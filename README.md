@@ -234,8 +234,10 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Patterns and Messages - Part 1 - The Missing Subscript](https://mccormickml.com/2025/02/18/patterns-and-messages-part-1-wo-i/)|⬜|
 |[Article: How text diffusion works](https://pierce.dev/notes/how-text-diffusion-works/)|✅|
 |[Article: The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)|⬜|
+|[Article: The Illustrated Evo 2](https://research.nvidia.com/labs/dbr/blog/illustrated-evo2/)|⬜|
 |[DeepLearning.AI: Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms)|✅|
 |[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✅|
+|[DeepLearning.AI: How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)|✅|
 |[Karpathy: Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) `1hr`|✅|
 |[Karpathy: Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) `2hr13m`|✅|
 |[Karpathy: Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU) `4hr1m`|✅|
@@ -283,6 +285,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Computer-Using Agent](https://openai.com/index/computer-using-agent/)|✅|
 |[Article: Flow Matching in 5 Minutes](https://nrehiew.github.io/blog/flow_matching/)|✅|
 |[Article: How LLMs See Images, Audio, and More](https://blog.bytebytego.com/p/how-llms-see-images-audio-and-more)|⬜|
+|[Article: Understanding Patch Embeddings for Vision Transformers (ViT)](https://medium.com/@frederik.vl/understanding-vision-transformers-vit-70ca8d817ff3)|✅|
 |[Youtube: AI Visions Live \| Merve Noyan \| Open-source Multimodality](https://www.youtube.com/watch?v=_TlhKHTgWjY) `54m`|✅|
 |[DeepLearning.AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)|✅|
 |[DeepLearning.AI: Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)|⬜|
@@ -323,6 +326,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Guided Generation with Outlines](https://medium.com/canoe-intelligence-technology/guided-generation-with-outlines-c09a0c2ce9eb)|✅|
 |[Article: RAG tricks from the trenches](https://duarteocarmo.com/blog/rag-tricks-from-the-trenches)|⬜|
 |[Article: Retrieval 101](https://isaacflath.com/blog/blog_post?fpath=posts%2F2025-03-17-Retrieval101.ipynb)|⬜|
+|[Article: Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)|⬜|
 |[Arxiv: Ragas: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217)|✅|
 | [Course: Fullstack Retrieval](https://community.fullstackretrieval.com/)                                                                        |         ⬜ |
 |[Course: The RAG Flywheel](https://567-labs.github.io/systematically-improving-rag/)|⬜|
@@ -362,6 +366,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: What makes Claude Code so damn good (and how to recreate that magic in your agent)!?](https://minusx.ai/blog/decoding-claude-code/)|⬜|
 |[Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)|✅|
 |[Anthropic: Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)|✅|
+|[Anthropic: Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)|⬜|
 |[OpenAI: Assistants & Agents Build Hour](https://vimeo.com/showcase/11333741/video/990334325)|✅|
 |[OpenAI: Function Calling Build Hour](https://vimeo.com/showcase/11333741/video/952127114)|✅|
 |[DeepLearning.AI: Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)|⬜|
@@ -414,6 +419,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Series: Prompt injection](https://simonwillison.net/series/prompt-injection/)|⬜|
 |[Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) `1hr4m`|✅|
 |[Youtube: Prompt Engineering Workshop](https://youtu.be/htBTho6oEJA) `1h`|✅|
+|[Youtube: Context Engineering SF - August 20th, 2025](https://www.youtube.com/playlist?list=PL5q_lef6zVkb2j0SjbqFWLUdTTvkEnfaL) `4/4 videos`|✅|
 
 #### Quantization
 |Resource|Progress|
@@ -477,6 +483,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: Deploying Fine-Tuned Models](https://youtu.be/GzEcyBykkdo) `2h28m`|✅|
 |[Article: Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models/)|⬜|
 |[Article: How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)|⬜|
+|[Article: Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm)|⬜|
+|[Article: Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)|⬜|
 
 #### Evals and Guardrails
 
@@ -708,7 +716,7 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[Course: How to Visualize Value](https://visualizevalue.com/products/how-to-visualize-value)|✅|
 |[Article: Create an illustration in Figma design](https://help.figma.com/hc/en-us/articles/13543867954711-Create-an-illustration-in-Figma-design)|✅|
-|[Series: K-12 Figma Design Basics](https://www.figma.com/resource-library/k-12-design-basics/) `10 parts`|3/10|
+|[Series: K-12 Figma Design Basics](https://www.figma.com/resource-library/k-12-design-basics/)|✅|
 
 
 ### Finance
