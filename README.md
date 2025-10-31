@@ -224,17 +224,19 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)|✅|
 |[Book: Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
-|[Stanford CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) `18 lectures`|2`26:45`|
+|[Book: Super Study Guide: Transformers & Large Language Models](https://www.amazon.com/Super-Study-Guide-Transformers-Language/dp/B0DC4NYLTN)|✅|
 |[Article: You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|✅|
-|[Article: From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|⬜|
-|[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|⬜|
-|[Article: Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)|⬜|
-|[Article: Mamba Explained](https://thegradient.pub/mamba-explained/)|⬜|
+|[Article: From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|✅|
+|[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|✅|
+|[Article: Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)|✅|
+|[Article: First Token Cutoff LLM sampling](https://antirez.com/news/142)|✅|
+|[Article: The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)|✅|
+|[Article: From GPT-2 to gpt-oss: Analyzing the Architectural Advances](https://sebastianraschka.com/blog/2025/from-gpt-2-to-gpt-oss.html)|✅|
 |[Article: A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)|⬜|
-|[Article: Patterns and Messages - Part 1 - The Missing Subscript](https://mccormickml.com/2025/02/18/patterns-and-messages-part-1-wo-i/)|⬜|
+|[Article: Patterns and Messages - Part 1 - The Missing Subscript](https://mccormickml.com/2025/02/18/patterns-and-messages-part-1-wo-i/)|✅|
 |[Article: How text diffusion works](https://pierce.dev/notes/how-text-diffusion-works/)|✅|
-|[Article: The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)|⬜|
 |[Article: The Illustrated Evo 2](https://research.nvidia.com/labs/dbr/blog/illustrated-evo2/)|⬜|
+|[Article: Interpreting the Prediction of BERT Model for Text Classification](https://towardsdatascience.com/interpreting-the-prediction-of-bert-model-for-text-classification-5ab09f8ef074/)|✅|
 |[DeepLearning.AI: Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms)|✅|
 |[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✅|
 |[DeepLearning.AI: How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)|✅|
@@ -246,10 +248,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: 5 Years of GPTs with Finbarr Timbers](https://www.youtube.com/watch?v=YA0pzBYAV2Q&list=PLKlhhkvvU8-YxMP9hjEYJTJDCaGszrJIh&index=8&t=43s) `55m`|✅|
 |[Youtube: Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts) `1h44m`|✅|
 |[Youtube: LLaMA explained: KV-Cache, Rotary Positional Embedding, RMS Norm, Grouped Query Attention, SwiGLU](https://www.youtube.com/watch?v=Mn_9W1nCFLo) `1h10m`|✅|
-|[Youtube: CMU Advanced NLP Fall 2024 (7): Prompting and Complex Reasoning](https://www.youtube.com/watch?v=1Faf1cTe3T8&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=2)|⬜|
-|[Youtube: CMU Advanced NLP Fall 2024 (6): Instruction Tuning](https://www.youtube.com/watch?v=iWcGS0gCL1E&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=3)|⬜|
-|[Youtube: CMU Advanced NLP Fall 2024 (12): Domain Specific Modeling: Code and Math](https://www.youtube.com/watch?v=qHNUVpKO2dc&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=4)|⬜|
-|[Youtube: CMU Advanced NLP Fall 2024 (15): Tool Use and LLM Agent Basics](https://www.youtube.com/watch?v=a3SjRsqV9ZA&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=16)|⬜|
 |[Youtube: CMU Advanced NLP Fall 2024 (14): Ensembling and Mixture of Experts](https://www.youtube.com/watch?v=E4Rg4qTw4xw&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=15)|✅|
 |[Youtube: A little guide to building Large Language Models in 2024](https://www.youtube.com/watch?v=2-SPH9hIKT8) `1h15m`|✅|
 |[Youtube: How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg) `22m`|✅|
@@ -263,28 +261,26 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Book: A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)|✅|
-|[Article: Scaling test-time compute - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)|⬜|
+|[Course: Post-training of LLMs](https://www.deeplearning.ai/short-courses/post-training-of-llms/)|✅|
+|[Article: Scaling test-time compute - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)|✅|
 |[Article: DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)|✅|
 |[Article: The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)|✅|
-|[Article: A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)|⬜|
+|[Article: A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)|✅|
 |[Article: GRPO in DeepSeek-R1](https://hlfshell.ai/posts/grpo/)|✅|
 |[Youtube: How DeepSeek Changes the LLM Story](https://www.youtube.com/watch?v=0eMzc-WnBfQ)|✅|
-|[Youtube: Introduction to Reasoning LLMs](https://www.youtube.com/watch?v=AZhUhGsgz4s) `1hr`|⬜|
 |[Youtube: Speculations on Test-Time Scaling (o1) `47m`](https://www.youtube.com/watch?v=6PEJ96k1kiw)|✅|
 |[Youtube: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://youtu.be/XMnxKGVnEUc) `1h19m`|✅|
 |[Youtube: MIT EI seminar, Hyung Won Chung from OpenAI. "Don't teach. Incentivize."](https://www.youtube.com/watch?v=kYWUEV_e2ss) `35m`|✅|
 |[Youtube: Group Relative Policy Optimization (GRPO) - Formula and Code](https://www.youtube.com/watch?v=Yi1UCrAsf4o) `24m`|✅|
 
 
-#### Multi-modality
+#### Multi-modality (Vision)
 
 |Resource|Progress|
 |---|---|
-|[Article: Understanding Multimodal LLMs](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms)|⬜|
-|[Article: GPT-4 Vision Alternatives](https://blog.roboflow.com/gpt-4-vision-alternatives/)|⬜|
+|[Article: Understanding Multimodal LLMs](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms)|✅|
 |[Article: Computer-Using Agent](https://openai.com/index/computer-using-agent/)|✅|
 |[Article: Flow Matching in 5 Minutes](https://nrehiew.github.io/blog/flow_matching/)|✅|
-|[Article: How LLMs See Images, Audio, and More](https://blog.bytebytego.com/p/how-llms-see-images-audio-and-more)|⬜|
 |[Article: Understanding Patch Embeddings for Vision Transformers (ViT)](https://medium.com/@frederik.vl/understanding-vision-transformers-vit-70ca8d817ff3)|✅|
 |[Youtube: AI Visions Live \| Merve Noyan \| Open-source Multimodality](https://www.youtube.com/watch?v=_TlhKHTgWjY) `54m`|✅|
 |[DeepLearning.AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)|✅|
@@ -299,9 +295,15 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: The geometry of diffusion guidance](https://sander.ai/2023/08/28/geometry.html)|✅|
 |[Article: Diffusion is spectral autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html)|✅|
 |[Article: Generative modelling in latent space](https://sander.ai/2025/04/15/latents.html)|✅|
-|[Article: Voice AI & Voice Agents - An Illustrated Primer](https://voiceaiandvoiceagents.com/)|⬜|
 |[Youtube: Sander Dieleman - Generative modelling through iterative refinement](https://www.youtube.com/watch?v=9BHQvQlsVdE)|✅|
-|[Speech AI models: an introduction](https://thomwolf.io/blog/speech-ai.html)|⬜|
+
+#### Multi-modality (Audio)
+
+|Resource|Progress|
+|---|---|
+|[Article: Speech AI models: an introduction](https://thomwolf.io/blog/speech-ai.html)|⬜|
+|[Article: Voice AI & Voice Agents - An Illustrated Primer](https://voiceaiandvoiceagents.com/)|⬜|
+|[Article: Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)|⬜|
 
 
 #### Information Retrieval / RAG
@@ -369,6 +371,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Anthropic: Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)|⬜|
 |[OpenAI: Assistants & Agents Build Hour](https://vimeo.com/showcase/11333741/video/990334325)|✅|
 |[OpenAI: Function Calling Build Hour](https://vimeo.com/showcase/11333741/video/952127114)|✅|
+|[DeepLearning.AI: Agentic AI with Andrew Ng](https://www.deeplearning.ai/courses/agentic-ai/)|✅|
 |[DeepLearning.AI: Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)|⬜|
 |[DeepLearning.AI: Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)|✅|
 |[DeepLearning.AI: Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)|✅|
@@ -410,6 +413,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Anyscale Endpoints: JSON Mode and Function calling Features](https://www.anyscale.com/blog/anyscale-endpoints-json-mode-and-function-calling-features)|⬜|
 |[Article: Guided text generation with Large Language Models](https://medium.com/productizing-language-models/guided-text-generation-with-large-language-models-d88fc3dcf4c)|⬜|
 |[Anthropic: AI Fluency](https://www.anthropic.com/ai-fluency)|⬜|
+|[Article: Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)|✅|
 |[Book: Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)|⬜|
 |[DeepLearning.AI: Reasoning with o1](https://www.deeplearning.ai/short-courses/reasoning-with-o1/)|✅|
 |[OpenAI: Reasoning with o1 Build Hour](https://vimeo.com/showcase/11333741/video/1018737829)|✅|
@@ -490,6 +494,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
+|[Article: Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)](https://sebastianraschka.com/blog/2025/llm-evaluation-4-approaches.html)|✅|
 |[Article: Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)|✅|
 |[Article: Task-Specific LLM Evals that Do & Don't Work](https://eugeneyan.com/writing/evals/)|✅|
 |[Article: Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/)|✅|
