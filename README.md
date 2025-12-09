@@ -177,6 +177,10 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Predicting CTR with Machine Learning in Python](https://www.datacamp.com/courses/predicting-ctr-with-machine-learning-in-python)|✅|
 |[Datacamp: Intro to Financial Concepts using Python](https://www.datacamp.com/courses/intro-to-financial-concepts-using-python)|✅|
 |[Datacamp: Fraud Detection in Python](https://www.datacamp.com/courses/fraud-detection-in-python)|✅|
+|[Article: The wrong batch size is all it takes](https://articles.bnomial.com/the-wrong-batch-size-is-all-it-takes)|✅|
+|[Article: A Gentle Introduction to Expectation-Maximization (EM Algorithm)](https://machinelearningmastery.com/expectation-maximization-em-algorithm/)|✅|
+|[Article: How to Use Out-of-Fold Predictions in Machine Learning](https://machinelearningmastery.com/out-of-fold-predictions-in-machine-learning/)|✅|
+|[Article: Stacking and Blending — An Intuitive Explanation](https://medium.com/@stevenyu530_73989/stacking-and-blending-intuitive-explanation-of-advanced-ensemble-methods-46b295da413c)|✅|
 
 
 ### Deep Learning
@@ -191,15 +195,20 @@ A running log of things I'm learning to build strong core software engineering s
 |[Karpathy: Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero/)|✅|
 |[Article: Weight Initialization in Neural Networks: A Journey From the Basics to Kaiming](https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79)|⬜|
 |[Article: Things that confused me about cross-entropy](https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/)|✅|
+|[Article: Why is the ReLU function not differentiable at x=0?](https://sebastianraschka.com/faq/docs/relu-derivative.html)|✅|
+|[Article: Are CNNs invariant to translation, rotation, and scaling?](https://pyimagesearch.com/2021/05/14/are-cnns-invariant-to-translation-rotation-and-scaling/)|✅|
+|[Article: How to Control the Stability of Training Neural Networks With the Batch Size](https://machinelearningmastery.com/how-to-control-the-speed-and-stability-of-training-neural-networks-with-gradient-descent-batch-size/)|✅|
+|[Article: A Visual Guide to Learning Rate Schedulers in PyTorch](https://www.leoniemonigatti.com/blog/pytorch-learning-rate-schedulers.html)|✅|
+
 
 ### Natural Language Processing
 
 |Resource|Progress|
 |---|---|
 |[Book: Natural Language Processing with Transformers](https://transformersbook.com/)|✅|
-|[Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)|✅|
-|[Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)|✅|
-|[CMU: Low-resource NLP Bootcamp 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)|✅|
+|[Stanford CS224U: Natural Language Understanding \| Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) `15/15 lectures`|✅|
+|[Stanford CS224N: Stanford CS224N: NLP with Deep Learning \| Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) `22/22 lectures`|✅|
+|[CMU: Low-resource NLP Bootcamp 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c) `8/8 lectures`|✅|
 |[CMU Multilingual NLP 2020](http://demo.clab.cs.cmu.edu/11737fa20/)|✅|
 |[Datacamp: Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)|✅|
 |[Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)|✅|
@@ -212,6 +221,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: The Unreasonable Effectiveness of Collocations](https://opensourceconnections.com/blog/2019/05/16/unreasonable-effectiveness-of-collocations/)|⬜|
 |[Article: FuzzyWuzzy: Fuzzy String Matching in Python](https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/#)|✅|
 |[Article: Transformers: Origins](https://mark-riedl.medium.com/transformers-origins-1db4bdfcb3d1)|⬜|
+|[Notebook: Understanding the Difference Between Embedding Layers and Linear Layers](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch02/03_bonus_embedding-vs-matmul/embeddings-and-linear-layers.ipynb)|✅|
 
 ### Generative AI
 <hr>
@@ -225,6 +235,8 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
 |[Book: Super Study Guide: Transformers & Large Language Models](https://www.amazon.com/Super-Study-Guide-Transformers-Language/dp/B0DC4NYLTN)|✅|
+|[Book: The Hundred-Page Language Models Book](https://thelmbook.com/)|✅|
+|[The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#training-compass-why--what--how)|⬜|
 |[Article: You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|✅|
 |[Article: From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|✅|
 |[Article: SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|✅|
@@ -418,7 +430,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Reasoning with o1](https://www.deeplearning.ai/short-courses/reasoning-with-o1/)|✅|
 |[OpenAI: Reasoning with o1 Build Hour](https://vimeo.com/showcase/11333741/video/1018737829)|✅|
 |[DeepLearning.AI: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)|⬜|
-|[DeepLearning.AI: Prompt Engineering with Llama 2 & 3](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/)|⬜|
 |[Wandb: LLM Engineering: Structured Outputs](https://www.wandb.courses/courses/steering-language-models)|⬜|
 |[Series: Prompt injection](https://simonwillison.net/series/prompt-injection/)|⬜|
 |[Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) `1hr4m`|✅|
@@ -454,6 +465,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://www.uber.com/blog/horovod/)|✅|
 |[Article: Distributed data parallel training in Pytorch](https://yangkky.github.io/2019/07/08/distributed-pytorch-tutorial.html)|✅|
 |[Article: Training on Multiple GPUs](https://d2l.ai/chapter_computational-performance/multiple-gpus.html)|✅|
+|[Article: From Single GPU to Clusters: A Practical Journey into Distributed Training with PyTorch and Ray]()|⬜|
 
 
 #### Parallel Computing
@@ -550,7 +562,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)|⬜|
 |[DeepLearning.AI: Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)|✅|
 |[DeepLearning.AI: Open Source Models with Hugging Face](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)|⬜|
-|[DeepLearning.AI: Getting Started with Mistral](https://www.deeplearning.ai/short-courses/getting-started-with-mistral/)|⬜|
 |[LLMOps: Building with LLMs](https://www.comet.com/site/llm-course/)|⬜|
 |[LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)|✅|
 |[Youtube: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)|✅|
