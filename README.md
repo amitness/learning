@@ -101,17 +101,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: NoSQL Concepts](https://www.datacamp.com/courses/nosql-concepts)|✅|
 |[Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)|⬜|
 
-### Backend Engineering
-
-|Resource|Progress|
-|---|---|
-|[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)|✅|
-|[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)|✅|
-|[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)|⬜|
-|[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)|✅|
-|[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)|✅|
-
-### Production System Design
+### System Design
 
 |Resource|Progress|
 |---|---|
@@ -123,6 +113,11 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)|⬜|
 |[Datacamp: MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)|✅|
 |[Datacamp: Machine Learning Monitoring Concepts](https://www.datacamp.com/courses/machine-learning-monitoring-concepts)|✅|
+|[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)|✅|
+|[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)|✅|
+|[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)|⬜|
+|[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)|✅|
+|[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)|✅|
 
 
 ### Maths
@@ -236,6 +231,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
 |[Book: Super Study Guide: Transformers & Large Language Models](https://www.amazon.com/Super-Study-Guide-Transformers-Language/dp/B0DC4NYLTN)|✅|
 |[Book: The Hundred-Page Language Models Book](https://thelmbook.com/)|✅|
+|[Book: Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)|`246/581`|
 |[The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#training-compass-why--what--how)|⬜|
 |[Article: You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|✅|
 |[Article: From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|✅|
@@ -249,6 +245,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: How text diffusion works](https://pierce.dev/notes/how-text-diffusion-works/)|✅|
 |[Article: The Illustrated Evo 2](https://research.nvidia.com/labs/dbr/blog/illustrated-evo2/)|⬜|
 |[Article: Interpreting the Prediction of BERT Model for Text Classification](https://towardsdatascience.com/interpreting-the-prediction-of-bert-model-for-text-classification-5ab09f8ef074/)|✅|
+|[Article: 2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)|✅|
 |[DeepLearning.AI: Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms)|✅|
 |[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✅|
 |[DeepLearning.AI: How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)|✅|
@@ -268,7 +265,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: Zed Inferred: Diffusion Language Models](https://youtu.be/oot4O9wMohw?list=LL)|✅|
 
 
-#### RLHF / RLVR
+#### Post-training (RLHF / RLVR)
 
 |Resource|Progress|
 |---|---|
@@ -407,6 +404,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: Evaluating Agents and Assistants: The AI Conference](https://www.youtube.com/watch?v=6uXWhmDRcMc)|✅|
 |[Youtube: How to Build, Evaluate, and Iterate on LLM Agents](https://youtu.be/0pnEUAwoDP0)|✅|
 |[Youtube: Mem0: Building AI Agents with Scalable Long-Term Memory](https://www.youtube.com/watch?v=EE4pvOEAjXc)|⬜|
+|[Youtube: How Claude Code Works - Jared Zoneraich, PromptLayer](https://www.youtube.com/watch?v=RFKCzGlAU6Q)|✅|
 
 
 #### Context Engineering
@@ -501,6 +499,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)|⬜|
 |[Article: Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm)|⬜|
 |[Article: Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)|⬜|
+|[Article: Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/)|⬜|
 
 #### Evals and Guardrails
 
