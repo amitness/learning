@@ -6,7 +6,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 ## Core Skills
 
-> Generic skills that are transferrable to any sort of software work I do
+> Generic transferable skills independent of a stack
 
 ### Python Programming
 
@@ -37,7 +37,6 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)|✅|
-|[Book: Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)|⬜|
 |[Article: Introduction to Memory Profiling in Python](https://www.datacamp.com/tutorial/memory-profiling-python)|✅|
 |[Article: Profiling Python code with memory_profiler](https://www.wrighters.io/profiling-python-code-with-memory_profiler/)|✅|
 |[Article: How to Use "memory_profiler" to Profile Memory Usage by Python Code?](https://coderzcolumn.com/tutorials/python/how-to-profile-memory-usage-in-python-using-memory-profiler)|✅|
@@ -68,6 +67,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)|✅|
 |[Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)|✅|
 |[Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)|✅|
+|[Article: A guide to manage your environment variables in a better way using direnv](https://shivamarora.medium.com/a-guide-to-manage-your-environment-variables-in-a-better-way-using-direnv-2c1cd475c8e)|✅|
 
 ### Version Control
 
@@ -139,6 +139,13 @@ A running log of things I'm learning to build strong core software engineering s
 |[Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)|⬜|
 |[Youtube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|⬜|
 
+#### Agentic Coding
+
+|Resource|Progress|
+|---|---|
+|[DeepLearning.AI: Build Apps with Windsurf’s AI Coding Agents](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/) `1h10m`|✅|
+|[Youtube: Prompt Driven Development Series](https://www.youtube.com/playlist?list=PLj6YeMhvp2S6SxK3u_W5oN5neaZUpYK3O) `9/9`|✅|
+
 ## Specialization
 <hr>
 
@@ -188,7 +195,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[Fast.ai: Practical Deep Learning for Coder (Part 2)](https://course.fast.ai/Lessons/part2.html) `9, 13,14,17,18(48:10),19`|⬜|
 |[Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)|✅|
 |[Karpathy: Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero/)|✅|
-|[Article: Weight Initialization in Neural Networks: A Journey From the Basics to Kaiming](https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79)|⬜|
 |[Article: Things that confused me about cross-entropy](https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/)|✅|
 |[Article: Why is the ReLU function not differentiable at x=0?](https://sebastianraschka.com/faq/docs/relu-derivative.html)|✅|
 |[Article: Are CNNs invariant to translation, rotation, and scaling?](https://pyimagesearch.com/2021/05/14/are-cnns-invariant-to-translation-rotation-and-scaling/)|✅|
@@ -226,8 +232,6 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Book: Hands-On Large Language Models: Language Understanding and Generation](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)|✅|
-|[Book: AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)|✅|
-|[Book: Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
 |[Book: Super Study Guide: Transformers & Large Language Models](https://www.amazon.com/Super-Study-Guide-Transformers-Language/dp/B0DC4NYLTN)|✅|
 |[Book: The Hundred-Page Language Models Book](https://thelmbook.com/)|✅|
@@ -246,6 +250,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: The Illustrated Evo 2](https://research.nvidia.com/labs/dbr/blog/illustrated-evo2/)|⬜|
 |[Article: Interpreting the Prediction of BERT Model for Text Classification](https://towardsdatascience.com/interpreting-the-prediction-of-bert-model-for-text-classification-5ab09f8ef074/)|✅|
 |[Article: 2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)|✅|
+|[Article: Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)|⬜|
 |[DeepLearning.AI: Pretraining LLMs](https://www.deeplearning.ai/short-courses/pretraining-llms)|✅|
 |[DeepLearning.AI: Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)|✅|
 |[DeepLearning.AI: How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)|✅|
@@ -259,7 +264,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: LLaMA explained: KV-Cache, Rotary Positional Embedding, RMS Norm, Grouped Query Attention, SwiGLU](https://www.youtube.com/watch?v=Mn_9W1nCFLo) `1h10m`|✅|
 |[Youtube: CMU Advanced NLP Fall 2024 (14): Ensembling and Mixture of Experts](https://www.youtube.com/watch?v=E4Rg4qTw4xw&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=15)|✅|
 |[Youtube: A little guide to building Large Language Models in 2024](https://www.youtube.com/watch?v=2-SPH9hIKT8) `1h15m`|✅|
-|[Youtube: How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg) `22m`|✅|
 |[Youtube: How I use LLMs](https://youtu.be/EWvNQjAaOHw) `2h7m`|✅|
 |[Youtube: Simple Diffusion Language Models](https://youtu.be/WjAUX23vgfg)|✅|
 |[Youtube: Zed Inferred: Diffusion Language Models](https://youtu.be/oot4O9wMohw?list=LL)|✅|
@@ -281,6 +285,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://youtu.be/XMnxKGVnEUc) `1h19m`|✅|
 |[Youtube: MIT EI seminar, Hyung Won Chung from OpenAI. "Don't teach. Incentivize."](https://www.youtube.com/watch?v=kYWUEV_e2ss) `35m`|✅|
 |[Youtube: Group Relative Policy Optimization (GRPO) - Formula and Code](https://www.youtube.com/watch?v=Yi1UCrAsf4o) `24m`|✅|
+|[Youtube: How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg) `22m`|✅|
 
 
 #### Multi-modality (Vision)
@@ -313,6 +318,175 @@ A running log of things I'm learning to build strong core software engineering s
 |[Article: Speech AI models: an introduction](https://thomwolf.io/blog/speech-ai.html)|⬜|
 |[Article: Voice AI & Voice Agents - An Illustrated Primer](https://voiceaiandvoiceagents.com/)|⬜|
 |[Article: Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)|⬜|
+
+#### Quantization
+|Resource|Progress|
+|---|---|
+|[Article: Quantization Fundamentals with Hugging Face](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)|✅|
+|[DeepLearning.AI: Quantization in Depth](https://www.deeplearning.ai/short-courses/quantization-in-depth/)|⬜|
+|[DeepLearning.AI: Introduction to On-Device AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)|⬜|
+|[Article: A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)|⬜|
+|[Article: QLoRA and 4-bit Quantization](https://mccormickml.com/2024/09/14/qlora-and-4bit-quantization/)|⬜|
+|[Article: Understanding AI/LLM Quantisation Through Interactive Visualisations](https://smcleod.net/2024/07/understanding-ai/llm-quantisation-through-interactive-visualisations/)|⬜|
+|[Youtube: CMU Advanced NLP Fall 2024 (11): Distillation, Quantization, and Pruning](https://www.youtube.com/watch?v=DvVGkj4zhVU&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=5)|⬜|
+|[Article: LLM.int8() and Emergent Features](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)|⬜|
+
+#### Distributed Training
+
+|Resource|Progress|
+|---|---|
+|[Youtube: Slaying OOMs with PyTorch FSDP and torchao](https://youtu.be/UvRl4ansfCg) `49m`|✅|
+|[Youtube: Distributed Training with PyTorch: complete tutorial with cloud infrastructure and code](https://youtu.be/toUSzwR0EV8) `1h12m`|✅|
+|[Youtube: How DDP works \|\| Distributed Data Parallel ](https://youtu.be/bwNtfxEDjGA)|✅|
+|[Youtube: FSDP Explained](https://youtu.be/6pVn6khIgiI)|✅|
+|[Youtube: Lecture 48: The Ultra Scale Playbook](https://youtu.be/1E8GDR8QXKw) `3h3m`|`44:24`|
+|[Youtube: Invited Talk: PyTorch Distributed (DDP, RPC) - By Facebook Research Scientist Shen Li](https://youtu.be/3XUG7cjte2U)|✅|
+|[Youtube: Unit 9 \| Techniques for Speeding Up Model Training](https://www.youtube.com/playlist?list=PLaMu-SDt_RB403GN5DU7NYVoVmO5Vsgkh)|✅|
+|[Article: A Short Guide to PyTorch DDP](https://blog.hpc.qmul.ac.uk/pytorch-ddp/)|✅|
+|[Article: Scaling Deep Learning with PyTorch: Multi-Node and Multi-GPU Training Explained (with Code)](https://medium.com/@ashraf.kasem.94.0/scaling-deep-learning-with-pytorch-multi-node-and-multi-gpu-training-explained-with-code-ece8f03ea59b)|✅|
+|[Article: Accelerating PyTorch Model Training](https://magazine.sebastianraschka.com/p/accelerating-pytorch-model-training)|✅|
+|[Article: Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://www.uber.com/blog/horovod/)|✅|
+|[Article: Distributed data parallel training in Pytorch](https://yangkky.github.io/2019/07/08/distributed-pytorch-tutorial.html)|✅|
+|[Article: Training on Multiple GPUs](https://d2l.ai/chapter_computational-performance/multiple-gpus.html)|✅|
+|[Article: From Single GPU to Clusters: A Practical Journey into Distributed Training with PyTorch and Ray]()|⬜|
+
+
+#### Parallel Computing
+
+|Resource|Progress|
+|---|---|
+|[Udacity: Intro to Parallel Programming](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2) `458 videos`|299/458|
+|[Book: Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0124159923)|Ch. 2|
+|[Book: The Algebra of Speed](https://ttsugriy.github.io/performance-book/)|⬜|
+|[Youtube: GPU Puzzles: Let's Play](https://youtu.be/K4T-YwsOxrM)|⬜|
+
+#### Inference Optimization
+
+|Resource|Progress|
+|---|---|
+|[Article: How to make LLMs go fast](https://vgel.me/posts/faster-inference/)|✅|
+|[Article: In the Fast Lane! Speculative Decoding - 10x Larger Model, No Extra Cost](https://docs.titanml.co/blog/speculative-decoding-unleashed/)|⬜|
+|[Article: Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)|⬜|
+|[Article: Harmonizing Multi-GPUs: Efficient Scaling of LLM Inference](https://docs.titanml.co/blog/multi-gpu/)|⬜|
+|[Article: Multi-Query Attention is All You Need](https://fireworks.ai/blog/multi-query-attention-is-all-you-need)|⬜|
+|[Article: Transformers Inference Optimization Toolset](https://astralord.github.io/posts/transformer-inference-optimization-toolset/)|⬜|
+|[DeepLearning.AI: Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)|✅|
+|[Article: LLM Inference Series: 3. KV caching explained](https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)|⬜|
+|[Article: LLM Inference Series: 4. KV caching, a deeper look](https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)|⬜|
+|[Article: LLM Inference Series: 5. Dissecting model performance](https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)|⬜|
+|[Article: Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)|⬜|
+|[Article: Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)|⬜|
+|[Article: Optimizing AI Inference at Character.AI (Part Deux)](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/)|⬜|
+|[Article: llama.cpp guide - Running LLMs locally, on any hardware, from scratch](https://blog.steelph0enix.dev/posts/llama-cpp-guide/)|✅|
+|[Article: Domain specific architectures for AI inference](https://fleetwood.dev/posts/domain-specific-architectures)|⬜|
+|[Youtube: SBTB 2023: Charles Frye, Parallel Processors: Past & Future Connections Between LLMs and OS Kernels](https://www.youtube.com/watch?v=VxFtHqlMv8c)|✅|
+|[Youtube: Deploying Fine-Tuned Models](https://youtu.be/GzEcyBykkdo) `2h28m`|✅|
+|[Article: Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models/)|⬜|
+|[Article: How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)|⬜|
+|[Article: Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm)|⬜|
+|[Article: Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)|⬜|
+|[Article: Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/)|⬜|
+|[Article: Attention Mechanism: From Math to GPU](https://isztld.com/posts/attention-mechanism.html)|⬜|
+
+### Finetuning and Distillation
+
+|Resource|Progress|
+|---|---|
+|[Article: Tokenization Gotchas](https://hamel.dev/notes/llm/finetuning/tokenizer_gotchas.html)|⬜|
+|[Article: Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)|⬜|
+|[OpenAI: GPT-4o mini Fine-Tuning Build Hour](https://vimeo.com/showcase/11333741/video/995989828)|✅|
+|[OpenAI: Distillation Build Hour](https://vimeo.com/showcase/11333741/video/1029408095)|✅|
+|[Article: How to Generate and Use Synthetic Data for Finetuning](https://eugeneyan.com/writing/synthetic/)|✅|
+|[DeepLearning.AI: Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)|✅|
+|[Youtube: Fine-Tuning with Axolotl](https://youtu.be/mmsa4wDsiy0?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC) `2h10m`|✅|
+|[Youtube: Creating, Curating, and Cleaning Data for LLMs](https://youtu.be/HEGaei7k0zE?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC) `54m`|✅|
+|[Youtube: Best Practices For Fine Tuning Mistral](https://youtu.be/Z_oWzTuljss?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC) `23m`|✅|
+|[Youtube: Fine Tuning OpenAI Models - Best Practices](https://youtu.be/Q0GSZD0Na1s?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC)|✅|
+|[Youtube: When and Why to Fine Tune an LLM](https://youtu.be/cPn0nHFsvFg) `1h56m`|✅|
+|[Youtube: Napkin Math For Fine Tuning Pt. 1 w/Johno Whitaker](https://youtu.be/-2ebSQROew4)|✅|
+|[Youtube: Napkin Math For Fine Tuning Pt. 2 w/Johno Whitaker](https://youtu.be/u2fJ6K8FjS8)|✅|
+|[Youtube: Fine Tuning LLMs for Function Calling w/Pawel Garback](https://youtu.be/SEZ7j31u67A) `1h32m`|✅|
+|[Youtube: From Prompt to Model: Fine-tuning when you've already deployed LLMs in prod w/Kyle Corbitt](https://youtu.be/4EPZZkVrXC4) `32m`|✅|
+|[Youtube: Why Fine Tuning is Dead w/Emmanuel Ameisen](https://youtu.be/h1c_jmk97Ss) `50m`|✅|
+|[Benchmarking QLoRA+FSDP](https://github.com/AnswerDotAI/fsdp_qlora/blob/main/benchmarks_03_2024.md)|⬜|
+
+
+### AI Engineering
+<hr>
+
+#### LLM System Design
+
+|Resource|Progress|
+|---|---|
+|[Book: AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)|✅|
+|[Book: Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
+|[Course: LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)|✅|
+|[Article: What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)|✅|
+|[Article: Data Flywheels for LLM Applications](https://www.sh-reya.com/blog/ai-engineering-flywheel/)|⬜|
+|[Article: LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy#h-3-prompts-aren-t-portable-across-models)|✅|
+|[Article: Emerging UX Patterns for Generative AI Apps & Copilots](https://www.tidepool.so/blog/emerging-ux-patterns-for-generative-ai-apps-copilots)|✅|
+|[Article: The Novice's LLM Training Guide](https://rentry.co/llm-training)|⬜|
+|[Article: Pushing ChatGPT's Structured Data Support To Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)|✅|
+|[Article: GPTed: using GPT-3 for semantic prose-checking](https://vgel.me/posts/gpted-launch/)|✅|
+|[Article: Don't worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)|⬜|
+|[Article: Data acquisition strategies for AI-first start-ups](https://press.airstreet.com/p/data-acquisition-strategies-for-ai?utm_source=substack&utm_medium=email)|⬜|
+|[Article: All about synthetic data generation](https://blog.ragas.io/all-about-synthetic-data-generation)|✅|
+|[DeepLearning.AI: Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)|⬜|
+|[DeepLearning.AI: Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)|✅|
+|[Youtube: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)|✅|
+|[Youtube: Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)|✅|
+|[Youtube: Building LLM Applications](https://www.youtube.com/playlist?list=PLgIaq8VgndJtrxcelEdnXbvh9fXMHeAps)|0/8|
+|[Article: Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)|✅|
+|[Article: Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)|✅|
+|[DeepLearning.AI: LLMOps](https://www.deeplearning.ai/short-courses/llmops/)|⬜|
+|[DeepLearning.AI: Serverless LLM apps with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/)|⬜|
+|[Youtube: Getting the Most Out of Your LLM Experiments](https://youtu.be/IfcDvtl6Z1Y) `48m`|✅|
+
+#### Evals and Guardrails
+
+|Resource|Progress|
+|---|---|
+|[Article: Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)](https://sebastianraschka.com/blog/2025/llm-evaluation-4-approaches.html)|✅|
+|[Article: Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)|✅|
+|[Article: Task-Specific LLM Evals that Do & Don't Work](https://eugeneyan.com/writing/evals/)|✅|
+|[Article: Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/)|✅|
+|[Article: Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/)|⬜|
+|[Article: Aligning LLM as judge with human evaluators](https://blog.ragas.io/aligning-llm-as-judge-with-human-evaluators)|✅|
+|[Article: Hard-Earned Lessons from 2 Years of Improving AI Applications](https://blog.ragas.io/hard-earned-lessons-from-2-years-of-improving-ai-applications)|✅|
+|[Article: Evaluating Long-Context Question & Answer Systems](https://eugeneyan.com/writing/qa-evals/)|⬜|
+|[DeepLearning.AI: Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)|✅|
+|[DeepLearning.AI: Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)|✅|
+|[DeepLearning.AI: Evaluating and Debugging Generative AI Models Using Weights and Biases](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)|⬜|
+|[DeepLearning.AI: Quality and Safety for LLM Applications](https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/)|⬜|
+|[OpenAI: Evals Build Hour](https://vimeo.com/showcase/11333741/video/1023317525)|✅|
+|[Youtube: Instrumenting & Evaluating LLMs](https://youtu.be/SnbGD677_u0) `2hr33m`|✅|
+|[Youtube: LLM Eval For Text2SQL](https://youtu.be/UGmenkjGXqM?list=PLgIaq8VgndJvt-HKMHPXehyJNNXQsAVHD) `51m`|✅|
+|[Youtube: A Deep Dive on LLM Evaluation](https://youtu.be/IsZVCnViwhk?list=PLgIaq8VgndJvt-HKMHPXehyJNNXQsAVHD) `49m`|✅|
+
+#### Context Engineering
+
+|Resource|Progress|
+|---|---|
+|[Book: Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)|⬜|
+|[Course: LLM Engineering - Structured Outputs](https://www.wandb.courses/courses/steering-language-models)|⬜|
+|[Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)|⬜|
+|[Article: Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)|✅|
+|[Article: How I came in first on ARC-AGI-Pub using Sonnet 3.5 with Evolutionary Test-time Compute](https://params.com/@jeremy-berman/arc-agi)|✅|
+|[Anthropic Courses](https://github.com/anthropics/courses)|⬜|
+|[Anthropic: The Claude in Amazon Bedrock Course](https://www.anthropic.com/aws-reinvent-2024/course)|⬜|
+|[Article: Prompt Engineering(Liliang Weng)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)|✅|
+|[Article: Prompt Engineering 201: Advanced methods and toolkits](https://amatria.in/blog/prompt201)|✅|
+|[Article: Optimizing LLMs for accuracy](https://platform.openai.com/docs/guides/optimizing-llm-accuracy)|✅|
+|[Article: Primers • Prompt Engineering](https://aman.ai/primers/ai/prompt-engineering/)|⬜|
+|[Article: Anyscale Endpoints: JSON Mode and Function calling Features](https://www.anyscale.com/blog/anyscale-endpoints-json-mode-and-function-calling-features)|⬜|
+|[Article: Guided text generation with Large Language Models](https://medium.com/productizing-language-models/guided-text-generation-with-large-language-models-d88fc3dcf4c)|⬜|
+|[Article: Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)|✅|
+|[DeepLearning.AI: Reasoning with o1](https://www.deeplearning.ai/short-courses/reasoning-with-o1/)|✅|
+|[OpenAI: Reasoning with o1 Build Hour](https://vimeo.com/showcase/11333741/video/1018737829)|✅|
+|[DeepLearning.AI: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)|⬜|
+|[Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) `1hr4m`|✅|
+|[Youtube: Prompt Engineering Workshop](https://youtu.be/htBTho6oEJA) `1h`|✅|
+|[Youtube: Context Engineering SF - August 20th, 2025](https://www.youtube.com/playlist?list=PL5q_lef6zVkb2j0SjbqFWLUdTTvkEnfaL) `4/4 videos`|✅|
 
 
 #### Information Retrieval / RAG
@@ -363,6 +537,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Guidance: Token Healing](https://github.com/guidance-ai/guidance/blob/main/notebooks/tutorials/token_healing.ipynb)|⬜|
 |[Youtube: What You See Is What You Search: Vision Language Models for PDF Retrieval [Jo Bergum]](https://youtu.be/qrbQUU4TrLM)|✅|
 
+
 #### Agentic Engineering
 
 |Resource|Progress|
@@ -370,18 +545,17 @@ A running log of things I'm learning to build strong core software engineering s
 |[Berkeley: CS294/194-196 Large Language Model Agents](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc) `0/14 lectures`|⬜|
 |[Berkeley: Advanced LLM Agents MOOC](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9nGkzhvtn6Egn) `0/12 lectures`|⬜|
 |[Article: Tool Invocation - Demonstrating the Marvel of GPT's Flexibility](https://blog.jnbrymn.com/2024/01/30/the-marvel-of-GPT-generality.html)|✅|
-|[Article: Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)|⬜|
+|[Article: Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)|✅|
 |[Article: What Problem Does The Model Context Protocol Solve?](https://www.aihero.dev/what-problem-does-model-context-protocol-solve)|✅|
 |[Article: Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)|✅|
-|[Article: Coding Agents 101: The Art of Actually Getting Things Done](https://devin.ai/agents101)|⬜|
-|[Article: What makes Claude Code so damn good (and how to recreate that magic in your agent)!?](https://minusx.ai/blog/decoding-claude-code/)|⬜|
+|[Article: Coding Agents 101: The Art of Actually Getting Things Done](https://devin.ai/agents101)|✅|
+|[Article: What makes Claude Code so damn good (and how to recreate that magic in your agent)!?](https://minusx.ai/blog/decoding-claude-code/)|✅|
 |[Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)|✅|
 |[Anthropic: Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)|✅|
-|[Anthropic: Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)|⬜|
+|[Anthropic: Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)|✅|
 |[OpenAI: Assistants & Agents Build Hour](https://vimeo.com/showcase/11333741/video/990334325)|✅|
 |[OpenAI: Function Calling Build Hour](https://vimeo.com/showcase/11333741/video/952127114)|✅|
 |[DeepLearning.AI: Agentic AI with Andrew Ng](https://www.deeplearning.ai/courses/agentic-ai/)|✅|
-|[DeepLearning.AI: Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)|⬜|
 |[DeepLearning.AI: Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)|✅|
 |[DeepLearning.AI: Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)|✅|
 |[DeepLearning.AI: Building Towards Computer Use with Anthropic](https://www.deeplearning.ai/short-courses/building-towards-computer-use-with-anthropic/)|✅|
@@ -394,7 +568,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[DeepLearning.AI: Building Your Own Database Agent](https://www.deeplearning.ai/short-courses/building-your-own-database-agent/)|⬜|
 |[DeepLearning.AI: Function-Calling and Data Extraction with LLMs](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/) `59m`|✅|
 |[DeepLearning.AI: Evaluating AI Agents](https://www.deeplearning.ai/short-courses/evaluating-ai-agents/) `2h16m`|✅|
-|[DeepLearning.AI: Build Apps with Windsurf’s AI Coding Agents](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/) `1h10m`|✅|
 |[DeepLearning.AI: Building AI Browser Agents](https://www.deeplearning.ai/short-courses/building-ai-browser-agents)|⬜|
 |[Huggingface: Agents Course](https://huggingface.co/learn/agents-course/unit1/messages-and-special-tokens#base-models-vs-instruct-models)|Unit 1|
 |[Youtube: How to Evaluate Agents: Galileo’s Agentic Evaluations in Action](https://www.youtube.com/watch?v=QvStk5G8BZw)|✅|
@@ -403,175 +576,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: Agent Trajectory \| LangSmith Evaluation - Part 26](https://youtu.be/pvlT056DAHs?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S)|✅|
 |[Youtube: Evaluating Agents and Assistants: The AI Conference](https://www.youtube.com/watch?v=6uXWhmDRcMc)|✅|
 |[Youtube: How to Build, Evaluate, and Iterate on LLM Agents](https://youtu.be/0pnEUAwoDP0)|✅|
-|[Youtube: Mem0: Building AI Agents with Scalable Long-Term Memory](https://www.youtube.com/watch?v=EE4pvOEAjXc)|⬜|
 |[Youtube: How Claude Code Works - Jared Zoneraich, PromptLayer](https://www.youtube.com/watch?v=RFKCzGlAU6Q)|✅|
-
-
-#### Context Engineering
-
-|Resource|Progress|
-|---|---|
-|[Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)|⬜|
-|[Article: Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)|✅|
-|[Article: How I came in first on ARC-AGI-Pub using Sonnet 3.5 with Evolutionary Test-time Compute](https://params.com/@jeremy-berman/arc-agi)|✅|
-|[Anthropic Courses](https://github.com/anthropics/courses)|⬜|
-|[Anthropic: The Claude in Amazon Bedrock Course](https://www.anthropic.com/aws-reinvent-2024/course)|⬜|
-|[Article: Prompt Engineering(Liliang Weng)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)|✅|
-|[Article: Prompt Engineering 201: Advanced methods and toolkits](https://amatria.in/blog/prompt201)|✅|
-|[Article: Optimizing LLMs for accuracy](https://platform.openai.com/docs/guides/optimizing-llm-accuracy)|✅|
-|[Article: Primers • Prompt Engineering](https://aman.ai/primers/ai/prompt-engineering/)|⬜|
-|[Article: Anyscale Endpoints: JSON Mode and Function calling Features](https://www.anyscale.com/blog/anyscale-endpoints-json-mode-and-function-calling-features)|⬜|
-|[Article: Guided text generation with Large Language Models](https://medium.com/productizing-language-models/guided-text-generation-with-large-language-models-d88fc3dcf4c)|⬜|
-|[Anthropic: AI Fluency](https://www.anthropic.com/ai-fluency)|⬜|
-|[Article: Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)|✅|
-|[Book: Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)|⬜|
-|[DeepLearning.AI: Reasoning with o1](https://www.deeplearning.ai/short-courses/reasoning-with-o1/)|✅|
-|[OpenAI: Reasoning with o1 Build Hour](https://vimeo.com/showcase/11333741/video/1018737829)|✅|
-|[DeepLearning.AI: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)|⬜|
-|[Wandb: LLM Engineering: Structured Outputs](https://www.wandb.courses/courses/steering-language-models)|⬜|
-|[Series: Prompt injection](https://simonwillison.net/series/prompt-injection/)|⬜|
-|[Youtube: Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) `1hr4m`|✅|
-|[Youtube: Prompt Engineering Workshop](https://youtu.be/htBTho6oEJA) `1h`|✅|
-|[Youtube: Context Engineering SF - August 20th, 2025](https://www.youtube.com/playlist?list=PL5q_lef6zVkb2j0SjbqFWLUdTTvkEnfaL) `4/4 videos`|✅|
-
-#### Quantization
-|Resource|Progress|
-|---|---|
-|[Article: Quantization Fundamentals with Hugging Face](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)|✅|
-|[DeepLearning.AI: Quantization in Depth](https://www.deeplearning.ai/short-courses/quantization-in-depth/)|⬜|
-|[DeepLearning.AI: Introduction to On-Device AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)|⬜|
-|[Article: A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)|⬜|
-|[Article: QLoRA and 4-bit Quantization](https://mccormickml.com/2024/09/14/qlora-and-4bit-quantization/)|⬜|
-|[Article: Understanding AI/LLM Quantisation Through Interactive Visualisations](https://smcleod.net/2024/07/understanding-ai/llm-quantisation-through-interactive-visualisations/)|⬜|
-|[Youtube: CMU Advanced NLP Fall 2024 (11): Distillation, Quantization, and Pruning](https://www.youtube.com/watch?v=DvVGkj4zhVU&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=5)|⬜|
-|[Article: LLM.int8() and Emergent Features](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)|⬜|
-
-#### Distributed Training
-
-|Resource|Progress|
-|---|---|
-|[Youtube: Slaying OOMs with PyTorch FSDP and torchao](https://youtu.be/UvRl4ansfCg) `49m`|✅|
-|[Youtube: Distributed Training with PyTorch: complete tutorial with cloud infrastructure and code](https://youtu.be/toUSzwR0EV8) `1h12m`|✅|
-|[Youtube: How DDP works \|\| Distributed Data Parallel ](https://youtu.be/bwNtfxEDjGA)|✅|
-|[Youtube: FSDP Explained](https://youtu.be/6pVn6khIgiI)|✅|
-|[Youtube: Lecture 48: The Ultra Scale Playbook](https://youtu.be/1E8GDR8QXKw) `3h3m`|`44:24`|
-|[Youtube: Invited Talk: PyTorch Distributed (DDP, RPC) - By Facebook Research Scientist Shen Li](https://youtu.be/3XUG7cjte2U)|✅|
-|[Youtube: Unit 9 \| Techniques for Speeding Up Model Training](https://www.youtube.com/playlist?list=PLaMu-SDt_RB403GN5DU7NYVoVmO5Vsgkh)|✅|
-|[Article: A Short Guide to PyTorch DDP](https://blog.hpc.qmul.ac.uk/pytorch-ddp/)|✅|
-|[Article: Scaling Deep Learning with PyTorch: Multi-Node and Multi-GPU Training Explained (with Code)](https://medium.com/@ashraf.kasem.94.0/scaling-deep-learning-with-pytorch-multi-node-and-multi-gpu-training-explained-with-code-ece8f03ea59b)|✅|
-|[Article: Accelerating PyTorch Model Training](https://magazine.sebastianraschka.com/p/accelerating-pytorch-model-training)|✅|
-|[Article: Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://www.uber.com/blog/horovod/)|✅|
-|[Article: Distributed data parallel training in Pytorch](https://yangkky.github.io/2019/07/08/distributed-pytorch-tutorial.html)|✅|
-|[Article: Training on Multiple GPUs](https://d2l.ai/chapter_computational-performance/multiple-gpus.html)|✅|
-|[Article: From Single GPU to Clusters: A Practical Journey into Distributed Training with PyTorch and Ray]()|⬜|
-
-
-#### Parallel Computing
-
-|Resource|Progress|
-|---|---|
-|[Udacity: Intro to Parallel Programming](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2) `458 videos`|299/458|
-|[Book: Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0124159923)|Ch. 2|
-|[Youtube: GPU Puzzles: Let's Play](https://youtu.be/K4T-YwsOxrM)|⬜|
-
-#### Inference Optimization
-
-|Resource|Progress|
-|---|---|
-|[Article: How to make LLMs go fast](https://vgel.me/posts/faster-inference/)|✅|
-|[Article: In the Fast Lane! Speculative Decoding - 10x Larger Model, No Extra Cost](https://docs.titanml.co/blog/speculative-decoding-unleashed/)|⬜|
-|[Article: Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)|⬜|
-|[Article: Harmonizing Multi-GPUs: Efficient Scaling of LLM Inference](https://docs.titanml.co/blog/multi-gpu/)|⬜|
-|[Article: Multi-Query Attention is All You Need](https://fireworks.ai/blog/multi-query-attention-is-all-you-need)|⬜|
-|[Article: Transformers Inference Optimization Toolset](https://astralord.github.io/posts/transformer-inference-optimization-toolset/)|⬜|
-|[DeepLearning.AI: Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)|✅|
-|[Article: LLM Inference Series: 3. KV caching explained](https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)|⬜|
-|[Article: LLM Inference Series: 4. KV caching, a deeper look](https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)|⬜|
-|[Article: LLM Inference Series: 5. Dissecting model performance](https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)|⬜|
-|[Article: Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)|⬜|
-|[Article: Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)|⬜|
-|[Article: Optimizing AI Inference at Character.AI (Part Deux)](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/)|⬜|
-|[Article: llama.cpp guide - Running LLMs locally, on any hardware, from scratch](https://blog.steelph0enix.dev/posts/llama-cpp-guide/)|✅|
-|[Article: Domain specific architectures for AI inference](https://fleetwood.dev/posts/domain-specific-architectures)|⬜|
-|[Youtube: SBTB 2023: Charles Frye, Parallel Processors: Past & Future Connections Between LLMs and OS Kernels](https://www.youtube.com/watch?v=VxFtHqlMv8c)|✅|
-|[Youtube: Deploying Fine-Tuned Models](https://youtu.be/GzEcyBykkdo) `2h28m`|✅|
-|[Article: Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models/)|⬜|
-|[Article: How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)|⬜|
-|[Article: Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm)|⬜|
-|[Article: Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)|⬜|
-|[Article: Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/)|⬜|
-
-#### Evals and Guardrails
-
-|Resource|Progress|
-|---|---|
-|[Article: Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)](https://sebastianraschka.com/blog/2025/llm-evaluation-4-approaches.html)|✅|
-|[Article: Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)|✅|
-|[Article: Task-Specific LLM Evals that Do & Don't Work](https://eugeneyan.com/writing/evals/)|✅|
-|[Article: Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/)|✅|
-|[Article: Aligning LLM as judge with human evaluators](https://blog.ragas.io/aligning-llm-as-judge-with-human-evaluators)|✅|
-|[Article: Hard-Earned Lessons from 2 Years of Improving AI Applications](https://blog.ragas.io/hard-earned-lessons-from-2-years-of-improving-ai-applications)|✅|
-|[Article: Evaluating Long-Context Question & Answer Systems](https://eugeneyan.com/writing/qa-evals/)|⬜|
-|[DeepLearning.AI: Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)|✅|
-|[DeepLearning.AI: Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)|✅|
-|[DeepLearning.AI: Evaluating and Debugging Generative AI Models Using Weights and Biases](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)|⬜|
-|[DeepLearning.AI: Quality and Safety for LLM Applications](https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/)|⬜|
-|[OpenAI: Evals Build Hour](https://vimeo.com/showcase/11333741/video/1023317525)|✅|
-|[Youtube: Instrumenting & Evaluating LLMs](https://youtu.be/SnbGD677_u0) `2hr33m`|✅|
-|[Youtube: LLM Eval For Text2SQL](https://youtu.be/UGmenkjGXqM?list=PLgIaq8VgndJvt-HKMHPXehyJNNXQsAVHD) `51m`|✅|
-|[Youtube: A Deep Dive on LLM Evaluation](https://youtu.be/IsZVCnViwhk?list=PLgIaq8VgndJvt-HKMHPXehyJNNXQsAVHD) `49m`|✅|
-
-### Finetuning and Distillation
-
-|Resource|Progress|
-|---|---|
-|[Article: Tokenization Gotchas](https://hamel.dev/notes/llm/finetuning/tokenizer_gotchas.html)|⬜|
-|[Article: Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)|⬜|
-|[OpenAI: GPT-4o mini Fine-Tuning Build Hour](https://vimeo.com/showcase/11333741/video/995989828)|✅|
-|[OpenAI: Distillation Build Hour](https://vimeo.com/showcase/11333741/video/1029408095)|✅|
-|[Article: How to Generate and Use Synthetic Data for Finetuning](https://eugeneyan.com/writing/synthetic/)|✅|
-|[DeepLearning.AI: Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)|✅|
-|[Youtube: Fine-Tuning with Axolotl](https://youtu.be/mmsa4wDsiy0?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC) `2h10m`|✅|
-|[Youtube: Creating, Curating, and Cleaning Data for LLMs](https://youtu.be/HEGaei7k0zE?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC) `54m`|✅|
-|[Youtube: Best Practices For Fine Tuning Mistral](https://youtu.be/Z_oWzTuljss?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC) `23m`|✅|
-|[Youtube: Fine Tuning OpenAI Models - Best Practices](https://youtu.be/Q0GSZD0Na1s?list=PLgIaq8VgndJtZ_G6gxyuhHGLUy9zXV9JC)|✅|
-|[Youtube: When and Why to Fine Tune an LLM](https://youtu.be/cPn0nHFsvFg) `1h56m`|✅|
-|[Youtube: Napkin Math For Fine Tuning Pt. 1 w/Johno Whitaker](https://youtu.be/-2ebSQROew4)|✅|
-|[Youtube: Napkin Math For Fine Tuning Pt. 2 w/Johno Whitaker](https://youtu.be/u2fJ6K8FjS8)|✅|
-|[Youtube: Fine Tuning LLMs for Function Calling w/Pawel Garback](https://youtu.be/SEZ7j31u67A) `1h32m`|✅|
-|[Youtube: From Prompt to Model: Fine-tuning when you've already deployed LLMs in prod w/Kyle Corbitt](https://youtu.be/4EPZZkVrXC4) `32m`|✅|
-|[Youtube: Why Fine Tuning is Dead w/Emmanuel Ameisen](https://youtu.be/h1c_jmk97Ss) `50m`|✅|
-|[Benchmarking QLoRA+FSDP](https://github.com/AnswerDotAI/fsdp_qlora/blob/main/benchmarks_03_2024.md)|⬜|
-
-#### LLM System Design
-
-|Resource|Progress|
-|---|---|
-|[Article: What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)|⬜|
-|[Article: Data Flywheels for LLM Applications](https://www.sh-reya.com/blog/ai-engineering-flywheel/)|⬜|
-|[Article: LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy#h-3-prompts-aren-t-portable-across-models)|✅|
-|[Article: Emerging UX Patterns for Generative AI Apps & Copilots](https://www.tidepool.so/blog/emerging-ux-patterns-for-generative-ai-apps-copilots)|✅|
-|[Article: The Novice's LLM Training Guide](https://rentry.co/llm-training)|⬜|
-|[Article: Pushing ChatGPT's Structured Data Support To Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)|✅|
-|[Article: GPTed: using GPT-3 for semantic prose-checking](https://vgel.me/posts/gpted-launch/)|✅|
-|[Article: Don't worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)|⬜|
-|[Article: Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)|⬜|
-|[Article: Data acquisition strategies for AI-first start-ups](https://press.airstreet.com/p/data-acquisition-strategies-for-ai?utm_source=substack&utm_medium=email)|⬜|
-|[Article: All about synthetic data generation](https://blog.ragas.io/all-about-synthetic-data-generation)|✅|
-|[DeepLearning.AI: Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)|⬜|
-|[DeepLearning.AI: Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)|✅|
-|[DeepLearning.AI: Open Source Models with Hugging Face](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)|⬜|
-|[LLMOps: Building with LLMs](https://www.comet.com/site/llm-course/)|⬜|
-|[LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)|✅|
-|[Youtube: A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)|✅|
-|[Youtube: Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)|✅|
-|[Youtube: Building LLM Applications](https://www.youtube.com/playlist?list=PLgIaq8VgndJtrxcelEdnXbvh9fXMHeAps)|0/8|
-|[Article: Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)|✅|
-|[Article: Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)|✅|
-|[DeepLearning.AI: LLMOps](https://www.deeplearning.ai/short-courses/llmops/)|⬜|
-|[DeepLearning.AI: Serverless LLM apps with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/)|⬜|
-|[Youtube: Getting the Most Out of Your LLM Experiments](https://youtu.be/IfcDvtl6Z1Y) `48m`|✅|
-
 
 ## Technical Skills (Libraries/Frameworks/Tools)
 
