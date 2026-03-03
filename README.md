@@ -13,6 +13,7 @@ A running log of things I'm learning to build strong core software engineering s
 |Format|Resource|Progress|
 |---|---|---|
 |Book|[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)|✅|
+||[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)|⬜|
 |Udacity|[A/B Testing](https://www.udacity.com/course/ab-testing--ud257)|⬜|
 ||[Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)|✅|
 ||[Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)|⬜|
@@ -156,7 +157,9 @@ A running log of things I'm learning to build strong core software engineering s
 |DeepLearning.AI|[Build Apps with Windsurf’s AI Coding Agents](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/) `1h10m`|✅|
 |Pluralsight|[Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|✅|
 |Youtube|[Prompt Driven Development Series](https://www.youtube.com/playlist?list=PLj6YeMhvp2S6SxK3u_W5oN5neaZUpYK3O) `9/9`|✅|
+||[How Anthropic Built Claude Code (w/ Boris Cherny)](https://www.youtube.com/watch?v=PQU9o_5rHC4)|✅|
 |Docs|[VSCode Docs: Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py)|⬜|
+|Article|[A Guide to Claude Code 2.0 and getting better at using coding agents](https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/)|✅|
 
 
 ## Specialized Skills
@@ -196,6 +199,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[A Gentle Introduction to Expectation-Maximization (EM Algorithm)](https://machinelearningmastery.com/expectation-maximization-em-algorithm/)|✅|
 ||[How to Use Out-of-Fold Predictions in Machine Learning](https://machinelearningmastery.com/out-of-fold-predictions-in-machine-learning/)|✅|
 ||[Stacking and Blending — An Intuitive Explanation](https://medium.com/@stevenyu530_73989/stacking-and-blending-intuitive-explanation-of-advanced-ensemble-methods-46b295da413c)|✅|
+|Youtube|[A walk through the isolation forest](https://www.youtube.com/watch?v=RyFQXQf4w4w)|✅|
+||[Complete Anomaly Detection Tutorials Machine Learning And Its Types With Implementation](https://youtu.be/OS9xRGKfx4E)|✅|
 
 
 ### Deep Learning
@@ -282,6 +287,9 @@ A running log of things I'm learning to build strong core software engineering s
 ||[2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)|✅|
 ||[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)|⬜|
 ||[Synthetic pretraining](https://vintagedata.org/blog/posts/synthetic-pretraining)|⬜|
+||[The Novice's LLM Training Guide](https://rentry.co/llm-training)|⬜|
+||[The Potential of RLMs](https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html)|✅|
+||[The Curious Case of the bos_token](https://www.lesswrong.com/posts/tr3DrQiuyxkDpPqx2/the-curious-case-of-the-bos_token)|⬜|
 
 #### Post-training (RLHF / RLVR)
 
@@ -295,11 +303,13 @@ A running log of things I'm learning to build strong core software engineering s
 ||[MIT EI seminar, Hyung Won Chung from OpenAI. "Don't teach. Incentivize."](https://www.youtube.com/watch?v=kYWUEV_e2ss) `35m`|✅|
 ||[Group Relative Policy Optimization (GRPO) - Formula and Code](https://www.youtube.com/watch?v=Yi1UCrAsf4o) `24m`|✅|
 ||[How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg) `22m`|✅|
+||[Building Cursor Composer with Sasha Rush](https://www.youtube.com/watch?v=md8D8eNj5JM) `19m`|✅|
 |Article|[Scaling test-time compute - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)|✅|
 ||[DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)|✅|
 ||[The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)|✅|
 ||[A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)|✅|
 ||[GRPO in DeepSeek-R1](https://hlfshell.ai/posts/grpo/)|✅|
+||[PPO & GRPO for LLM Alignment](https://mesuvash.github.io/blog/2026/ppo-grpo/)|✅|
 
 
 #### Multi-modality (Vision)
@@ -365,21 +375,17 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Training on Multiple GPUs](https://d2l.ai/chapter_computational-performance/multiple-gpus.html)|✅|
 
 
-#### Parallel Computing
+#### Inference Engineering
 
 |Format|Resource|Progress|
 |---|---|---|
-|Book|[Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0124159923)|`Ch. 2`|
+|Book|[Inference Engineering](https://www.baseten.com/inference-engineering/)|⬜|
+||[Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0124159923)|`Ch. 2`|
 ||[The Algebra of Speed](https://ttsugriy.github.io/performance-book/)|⬜|
+|DeepLearning.AI|[Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)|✅|
 |Udacity|[Intro to Parallel Programming](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2) `458 video`|`299/458`|
 |Youtube|[GPU Puzzles: Let's Play](https://youtu.be/K4T-YwsOxrM)|⬜|
-
-#### Inference Optimization
-
-|Format|Resource|Progress|
-|---|---|---|
-|DeepLearning.AI|[Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)|✅|
-|Youtube|[Deploying Fine-Tuned Models](https://youtu.be/GzEcyBykkdo) `2h28m`|✅|
+||[Deploying Fine-Tuned Models](https://youtu.be/GzEcyBykkdo) `2h28m`|✅|
 |Article|[How to make LLMs go fast](https://vgel.me/posts/faster-inference/)|✅|
 ||[In the Fast Lane! Speculative Decoding - 10x Larger Model, No Extra Cost](https://docs.titanml.co/blog/speculative-decoding-unleashed/)|⬜|
 ||[Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)|⬜|
@@ -437,7 +443,7 @@ A running log of things I'm learning to build strong core software engineering s
 |Book|[AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)|✅|
 ||[Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
 |Course|[LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)|✅|
-|DeepLearning.AI|[Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)|⬜|
+|DeepLearning.AI|[Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)|✅|
 ||[Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)|✅|
 ||[LLMOps](https://www.deeplearning.ai/short-courses/llmops/)|⬜|
 ||[Serverless LLM apps with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/)|⬜|
@@ -446,16 +452,15 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Building LLM Applications](https://www.youtube.com/playlist?list=PLgIaq8VgndJtrxcelEdnXbvh9fXMHeAps)|0/8|
 ||[Getting the Most Out of Your LLM Experiments](https://youtu.be/IfcDvtl6Z1Y) `48m`|✅|
 |Article|[What We’ve Learned From A Year of Building with LLMs](https://applied-llms.org/)|✅|
-||[Data Flywheels for LLM Applications](https://www.sh-reya.com/blog/ai-engineering-flywheel/)|⬜|
+||[Data Flywheels for LLM Applications](https://www.sh-reya.com/blog/ai-engineering-flywheel/)|✅|
 ||[Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)|✅|
 ||[Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)|✅|
 ||[LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy#h-3-prompts-aren-t-portable-across-models)|✅|
 ||[Emerging UX Patterns for Generative AI Apps & Copilots](https://www.tidepool.so/blog/emerging-ux-patterns-for-generative-ai-apps-copilots)|✅|
-||[The Novice's LLM Training Guide](https://rentry.co/llm-training)|⬜|
 ||[Pushing ChatGPT's Structured Data Support To Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)|✅|
 ||[GPTed: using GPT-3 for semantic prose-checking](https://vgel.me/posts/gpted-launch/)|✅|
-||[Don't worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)|⬜|
-||[Data acquisition strategies for AI-first start-ups](https://press.airstreet.com/p/data-acquisition-strategies-for-ai?utm_source=substack&utm_medium=email)|⬜|
+||[Don't worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)|✅|
+||[Data acquisition strategies for AI-first start-ups](https://press.airstreet.com/p/data-acquisition-strategies-for-ai?utm_source=substack&utm_medium=email)|✅|
 ||[All about synthetic data generation](https://blog.ragas.io/all-about-synthetic-data-generation)|✅|
 
 #### Evals and Guardrails
@@ -479,30 +484,30 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Hard-Earned Lessons from 2 Years of Improving AI Applications](https://blog.ragas.io/hard-earned-lessons-from-2-years-of-improving-ai-applications)|✅|
 ||[Evaluating Long-Context Question & Answer Systems](https://eugeneyan.com/writing/qa-evals/)|⬜|
 ||[LLM Evals FAQ](https://hamel.dev/blog/posts/evals-faq/)|✅|
+||[Quantifying infrastructure noise in agentic coding evals](https://www.anthropic.com/engineering/infrastructure-noise)|✅|
 
 #### Context Engineering
 
 |Format|Resource|Progress|
 |---|---|---|
 |Book|[Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)|⬜|
+|Course|[LLM Engineering - Structured Outputs](https://www.wandb.courses/courses/steering-language-models)|✅|
 |Anthropic|[Anthropic Courses](https://github.com/anthropics/courses)|⬜|
 ||[Anthropic: The Claude in Amazon Bedrock Course](https://www.anthropic.com/aws-reinvent-2024/course)|⬜|
 |DeepLearning.AI|[Reasoning with o1](https://www.deeplearning.ai/short-courses/reasoning-with-o1/)|✅|
-||[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)|⬜|
-|Course|[LLM Engineering - Structured Outputs](https://www.wandb.courses/courses/steering-language-models)|⬜|
+||[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)|✅|
 |Youtube|[OpenAI: Reasoning with o1 Build Hour](https://vimeo.com/showcase/11333741/video/1018737829)|✅|
 ||[Prompt Engineering Overview](https://www.youtube.com/watch?v=dOxUroR57xs) `1hr4m`|✅|
 ||[Prompt Engineering Workshop](https://youtu.be/htBTho6oEJA) `1h`|✅|
 ||[Context Engineering SF - August 20th, 2025](https://www.youtube.com/playlist?list=PL5q_lef6zVkb2j0SjbqFWLUdTTvkEnfaL) `4/4 videos`|✅|
-|Article|[OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)|⬜|
+|Article|[OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)|✅|
 ||[Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)|✅|
 ||[How I came in first on ARC-AGI-Pub using Sonnet 3.5 with Evolutionary Test-time Compute](https://params.com/@jeremy-berman/arc-agi)|✅|
 ||[Prompt Engineering(Liliang Weng)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)|✅|
 ||[Prompt Engineering 201: Advanced methods and toolkits](https://amatria.in/blog/prompt201)|✅|
 ||[Optimizing LLMs for accuracy](https://platform.openai.com/docs/guides/optimizing-llm-accuracy)|✅|
-||[Primers • Prompt Engineering](https://aman.ai/primers/ai/prompt-engineering/)|⬜|
-||[Anyscale Endpoints: JSON Mode and Function calling Features](https://www.anyscale.com/blog/anyscale-endpoints-json-mode-and-function-calling-features)|⬜|
-||[Guided text generation with Large Language Models](https://medium.com/productizing-language-models/guided-text-generation-with-large-language-models-d88fc3dcf4c)|⬜|
+||[Primers • Prompt Engineering](https://aman.ai/primers/ai/prompt-engineering/)|✅|
+||[Guided text generation with Large Language Models](https://medium.com/productizing-language-models/guided-text-generation-with-large-language-models-d88fc3dcf4c)|✅|
 ||[Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)|✅|
 
 
@@ -544,8 +549,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Sentence Embeddings. Introduction to Sentence Embeddings](https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/)|✅|
 ||[LambdaMART in Depth](https://softwaredoug.com/blog/2022/01/17/lambdamart-in-depth)|⬜|
 ||[Guided Generation with Outlines](https://medium.com/canoe-intelligence-technology/guided-generation-with-outlines-c09a0c2ce9eb)|✅|
-||[RAG tricks from the trenches](https://duarteocarmo.com/blog/rag-tricks-from-the-trenches)|⬜|
-||[Retrieval 101](https://isaacflath.com/blog/blog_post?fpath=posts%2F2025-03-17-Retrieval101.ipynb)|⬜|
+||[RAG tricks from the trenches](https://duarteocarmo.com/blog/rag-tricks-from-the-trenches)|✅|
 ||[Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)|⬜|
 ||[Arxiv: Ragas: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/abs/2309.15217)|✅|
 ||[Pinecone: Vector Databases in Production for Busy Engineers](https://www.pinecone.io/learn/series/vector-databases-in-production-for-busy-engineers/)|✅|
@@ -594,6 +598,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)|✅|
 ||[Anthropic: Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)|✅|
 ||[Anthropic: Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)|✅|
+||[How System Prompts Define Agent Behavior](https://blog.nilenso.com/blog/2026/02/10/how-system-prompts-define-agent-behaviiour/)|✅|
 
 ## Technical Skills (Libraries/Frameworks/Tools)
 
