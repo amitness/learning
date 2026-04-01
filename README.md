@@ -87,7 +87,7 @@ A running log of things I'm learning to build strong core software engineering s
 |Pluralsight|[UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|✅|
 |Course|[How to Visualize Value](https://visualizevalue.com/products/how-to-visualize-value)|✅|
 ||[Series: K-12 Figma Design Basics](https://www.figma.com/resource-library/k-12-design-basics/)|✅|
-|Youtube|[How to Make Your Website Not Ugly: Basic UX for Programmers](https://www.youtube.com/watch?v=Jf0cjocP8Wk) `48m`|⬜|
+|Youtube|[How to Make Your Website Not Ugly: Basic UX for Programmers](https://www.youtube.com/watch?v=Jf0cjocP8Wk) `48m`|✅|
 |Article|[Create an illustration in Figma design](https://help.figma.com/hc/en-us/articles/13543867954711-Create-an-illustration-in-Figma-design)|✅|
 
 
@@ -272,6 +272,9 @@ A running log of things I'm learning to build strong core software engineering s
 ||[How I use LLMs](https://youtu.be/EWvNQjAaOHw) `2h7m`|✅|
 ||[Simple Diffusion Language Models](https://youtu.be/WjAUX23vgfg)|✅|
 ||[Zed Inferred: Diffusion Language Models](https://youtu.be/oot4O9wMohw?list=LL)|✅|
+||[Some open problems I am currently thinking about](https://youtu.be/EtgcP-4xslQ?list=LL)|✅|
+||[Rotary Positional Embeddings: Combining Absolute and Relative](https://youtu.be/o29P0Kpobz0)|✅|
+||[How Rotary Position Embedding Supercharges Modern LLMs [RoPE]](https://youtu.be/SMBkImDWOyQ)|✅|
 |Article|[You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|✅|
 ||[From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|✅|
 ||[SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|✅|
@@ -285,8 +288,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[The Illustrated Evo 2](https://research.nvidia.com/labs/dbr/blog/illustrated-evo2/)|⬜|
 ||[Interpreting the Prediction of BERT Model for Text Classification](https://towardsdatascience.com/interpreting-the-prediction-of-bert-model-for-text-classification-5ab09f8ef074/)|✅|
 ||[2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)|✅|
-||[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)|⬜|
-||[Synthetic pretraining](https://vintagedata.org/blog/posts/synthetic-pretraining)|⬜|
+||[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)|✅|
+||[Synthetic pretraining](https://vintagedata.org/blog/posts/synthetic-pretraining)|✅|
 ||[The Novice's LLM Training Guide](https://rentry.co/llm-training)|⬜|
 ||[The Potential of RLMs](https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html)|✅|
 ||[The Curious Case of the bos_token](https://www.lesswrong.com/posts/tr3DrQiuyxkDpPqx2/the-curious-case-of-the-bos_token)|⬜|
@@ -310,6 +313,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)|✅|
 ||[GRPO in DeepSeek-R1](https://hlfshell.ai/posts/grpo/)|✅|
 ||[PPO & GRPO for LLM Alignment](https://mesuvash.github.io/blog/2026/ppo-grpo/)|✅|
+||[Introduction to LLM Post-Training Techniques](https://www.slideshare.net/slideshow/introduction-to-llm-post-training-techniques/286374190#1)|✅|
+||[Understanding Transformers... (beyond the Math)](https://kalomaze.bearblog.dev/understanding-transformers-beyond-the-math/)|✅|
 
 
 #### Multi-modality (Vision)
@@ -355,6 +360,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[QLoRA and 4-bit Quantization](https://mccormickml.com/2024/09/14/qlora-and-4bit-quantization/)|⬜|
 ||[Understanding AI/LLM Quantisation Through Interactive Visualisations](https://smcleod.net/2024/07/understanding-ai/llm-quantisation-through-interactive-visualisations/)|⬜|
 ||[LLM.int8() and Emergent Features](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)|⬜|
+||[Quantization from the ground up](https://ngrok.com/blog/quantization)|⬜|
 
 #### Distributed Training
 
@@ -379,7 +385,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Format|Resource|Progress|
 |---|---|---|
-|Book|[Inference Engineering](https://www.baseten.com/inference-engineering/)|⬜|
+|Book|[Inference Engineering](https://www.baseten.com/inference-engineering/)|✅|
 ||[Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0124159923)|`Ch. 2`|
 ||[The Algebra of Speed](https://ttsugriy.github.io/performance-book/)|⬜|
 |DeepLearning.AI|[Efficiently Serving LLMs](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/)|✅|
@@ -462,6 +468,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Don't worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)|✅|
 ||[Data acquisition strategies for AI-first start-ups](https://press.airstreet.com/p/data-acquisition-strategies-for-ai?utm_source=substack&utm_medium=email)|✅|
 ||[All about synthetic data generation](https://blog.ragas.io/all-about-synthetic-data-generation)|✅|
+||[The Synthetic Data Playbook: Generating Trillions of the Finest Tokens](https://huggingface.co/spaces/HuggingFaceFW/finephrase)|⬜|
+||[Reverse-engineering Claude's generative UI - then building it for the terminal](https://michaellivs.com/blog/reverse-engineering-claude-generative-ui/)|✅|
 
 #### Evals and Guardrails
 
@@ -475,6 +483,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Instrumenting & Evaluating LLMs](https://youtu.be/SnbGD677_u0) `2hr33m`|✅|
 ||[LLM Eval For Text2SQL](https://youtu.be/UGmenkjGXqM?list=PLgIaq8VgndJvt-HKMHPXehyJNNXQsAVHD) `51m`|✅|
 ||[A Deep Dive on LLM Evaluation](https://youtu.be/IsZVCnViwhk?list=PLgIaq8VgndJvt-HKMHPXehyJNNXQsAVHD) `49m`|✅|
+||[ARC Prize Foundation @ MIT 2025](https://www.youtube.com/playlist?list=PLyBLlRhNHA5sNugPMQ6FN1FslEbmbq4RM)|✅|
 |Article|[Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)](https://sebastianraschka.com/blog/2025/llm-evaluation-4-approaches.html)|✅|
 ||[Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals)|✅|
 ||[Task-Specific LLM Evals that Do & Don't Work](https://eugeneyan.com/writing/evals/)|✅|
@@ -485,6 +494,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Evaluating Long-Context Question & Answer Systems](https://eugeneyan.com/writing/qa-evals/)|⬜|
 ||[LLM Evals FAQ](https://hamel.dev/blog/posts/evals-faq/)|✅|
 ||[Quantifying infrastructure noise in agentic coding evals](https://www.anthropic.com/engineering/infrastructure-noise)|✅|
+||[How we optimized Dash's relevance judge with DSPy](https://dropbox.tech/machine-learning/optimizing-dropbox-dash-relevance-judge-with-dspy)|✅|
 
 #### Context Engineering
 
@@ -533,6 +543,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[RAG From Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x) `14/14`|✅|
 ||[CMU Advanced NLP Fall 2024 (10): Retrieval and RAG](https://www.youtube.com/watch?v=KfQaYk4k9eM&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=6) `1h17m`|✅|
 ||[What You See Is What You Search: Vision Language Models for PDF Retrieval [Jo Bergum]](https://youtu.be/qrbQUU4TrLM)|✅|
+||[Graph Databases: When to Use Them (And When to Run Away)](https://youtu.be/7kXY-2fYdHI?list=LL)|✅|
 |Article| [Pretrained Transformer Language Models for Search - part 1](https://blog.vespa.ai/pretrained-transformer-language-models-for-search-part-1/#) | ✅        |
 || [Pretrained Transformer Language Models for Search - part 2](https://blog.vespa.ai/pretrained-transformer-language-models-for-search-part-2/)  | ✅        |
 || [Pretrained Transformer Language Models for Search - part 3](https://blog.vespa.ai/pretrained-transformer-language-models-for-search-part-3)   | ✅       |
