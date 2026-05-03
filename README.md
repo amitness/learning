@@ -6,7 +6,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 ## Generic Skills
 
-> Generic transferable skills independent of a stack
+> High-level skills that translates into any domain and are independent of a stack
 
 ### System Design
 
@@ -126,6 +126,13 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Concurrency For Starlette Apps (e.g FastAPI / FastHTML)](https://hamel.dev/notes/fasthtml/concurrency.html#fnref1)|✅|
 |Youtube|[Debug Python inside Docker using debugpy and VSCode](https://www.youtube.com/watch?v=ywfsLKRLmf4)|✅|
 
+### Technical Writing
+|Format|Resource|Progress|
+|---|---|---|
+|Book|[The Tech Resume Inside Out](https://thetechresume.com)|✅|
+|Course|[Google: Technical Writing One](https://developers.google.com/tech-writing/one)|✅|
+||[Google: Technical Writing Two](https://developers.google.com/tech-writing/two)|⬜|
+
 ### Programming
 
 |Format|Resource|Progress|
@@ -147,7 +154,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)|⬜|
 |Youtube|[Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)|✅|
 |Article|[Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)|⬜|
-||[A Programmer’s Introduction to Unicode](https://www.reedbeta.com/blog/programmers-intro-to-unicode/)|⬜|
+||[A Programmer’s Introduction to Unicode](https://www.reedbeta.com/blog/programmers-intro-to-unicode/)|✅|
 ||[Exposing string types to maximize user happiness](https://stephantul.github.io/python/typing/2025/03/07/externalized-types/)|✅|
 
 ### Development Environment
@@ -158,7 +165,7 @@ A running log of things I'm learning to build strong core software engineering s
 |Pluralsight|[Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|✅|
 |Youtube|[Prompt Driven Development Series](https://www.youtube.com/playlist?list=PLj6YeMhvp2S6SxK3u_W5oN5neaZUpYK3O) `9/9`|✅|
 ||[How Anthropic Built Claude Code (w/ Boris Cherny)](https://www.youtube.com/watch?v=PQU9o_5rHC4)|✅|
-|Docs|[VSCode Docs: Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py)|⬜|
+|Docs|[VSCode Docs: Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py)|✅|
 |Article|[A Guide to Claude Code 2.0 and getting better at using coding agents](https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/)|✅|
 
 
@@ -307,6 +314,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Group Relative Policy Optimization (GRPO) - Formula and Code](https://www.youtube.com/watch?v=Yi1UCrAsf4o) `24m`|✅|
 ||[How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg) `22m`|✅|
 ||[Building Cursor Composer with Sasha Rush](https://www.youtube.com/watch?v=md8D8eNj5JM) `19m`|✅|
+||[The RLHF Book Course](https://www.youtube.com/watch?v=jQPiH-KB4B0&list=PLL1tdVxB1CpVpEtMHxwuR4uI4Lxjw00_y&index=1) `5 videos`|⬜|
 |Article|[Scaling test-time compute - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)|✅|
 ||[DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)|✅|
 ||[The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)|✅|
@@ -392,6 +400,7 @@ A running log of things I'm learning to build strong core software engineering s
 |Udacity|[Intro to Parallel Programming](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2) `458 video`|`299/458`|
 |Youtube|[GPU Puzzles: Let's Play](https://youtu.be/K4T-YwsOxrM)|⬜|
 ||[Deploying Fine-Tuned Models](https://youtu.be/GzEcyBykkdo) `2h28m`|✅|
+||[Building Machine Learning Systems for a Trillion Trillion Floating Point Operations](https://www.youtube.com/watch?v=139UPjoq7Kw) `1h`|✅|
 |Article|[How to make LLMs go fast](https://vgel.me/posts/faster-inference/)|✅|
 ||[In the Fast Lane! Speculative Decoding - 10x Larger Model, No Extra Cost](https://docs.titanml.co/blog/speculative-decoding-unleashed/)|⬜|
 ||[Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)|⬜|
@@ -452,7 +461,6 @@ A running log of things I'm learning to build strong core software engineering s
 |DeepLearning.AI|[Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)|✅|
 ||[Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)|✅|
 ||[LLMOps](https://www.deeplearning.ai/short-courses/llmops/)|⬜|
-||[Serverless LLM apps with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/)|⬜|
 |Youtube|[A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)|✅|
 ||[Building Blocks for LLM Systems & Products: Eugene Yan](https://www.youtube.com/watch?v=LzeC1AQ-U5o)|✅|
 ||[Building LLM Applications](https://www.youtube.com/playlist?list=PLgIaq8VgndJtrxcelEdnXbvh9fXMHeAps)|0/8|
@@ -470,6 +478,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[All about synthetic data generation](https://blog.ragas.io/all-about-synthetic-data-generation)|✅|
 ||[The Synthetic Data Playbook: Generating Trillions of the Finest Tokens](https://huggingface.co/spaces/HuggingFaceFW/finephrase)|⬜|
 ||[Reverse-engineering Claude's generative UI - then building it for the terminal](https://michaellivs.com/blog/reverse-engineering-claude-generative-ui/)|✅|
+||[Redpoint 2026 Market Update](https://www.redpoint.com/reports/2026-market-update/)|✅|
 
 #### Evals and Guardrails
 
@@ -568,6 +577,10 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Pinecone: Faiss: The Missing Manual](https://www.pinecone.io/learn/series/faiss/)|✅|
 ||[Pinecone: Natural Language Processing for Semantic Search](https://www.pinecone.io/learn/series/nlp/)|0/13|
 ||[Guidance: Token Healing](https://github.com/guidance-ai/guidance/blob/main/notebooks/tutorials/token_healing.ipynb)|⬜|
+||[Deep Research System Card](https://cdn.openai.com/deep-research-system-card.pdf)|✅|
+||[Exploring OpenAI's deep research API model o4-mini-deep-research](https://til.simonwillison.net/llms/o4-mini-deep-research)|✅|
+||[Introduction to deep research in the OpenAI API](https://developers.openai.com/cookbook/examples/deep_research_api/introduction_to_deep_research_api)|✅|
+||[Lessons from building the best Deep Research (and how you can build better agents)](https://onyx.app/blog/building-the-best-deep-research)|✅|
 
 
 #### Agentic Engineering
@@ -610,6 +623,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Anthropic: Building Effective Agents Cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)|✅|
 ||[Anthropic: Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)|✅|
 ||[How System Prompts Define Agent Behavior](https://blog.nilenso.com/blog/2026/02/10/how-system-prompts-define-agent-behaviiour/)|✅|
+||[Components of A Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)|✅|
 
 ## Technical Skills (Libraries/Frameworks/Tools)
 
@@ -760,9 +774,3 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|---|
 |Course|[Compound Content](https://visualizevalue.com/products/compound-content)|✅|
 
-### Technical Writing
-|Format|Resource|Progress|
-|---|---|---|
-|Book|[The Tech Resume Inside Out](https://thetechresume.com)|✅|
-|Course|[Google: Technical Writing Course](https://developers.google.com/tech-writing/overview)|⬜|
-||[Writing Better](https://www.julian.com/guide/write/intro)|⬜|
