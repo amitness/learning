@@ -614,7 +614,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Evaluating Agents and Assistants: The AI Conference](https://www.youtube.com/watch?v=6uXWhmDRcMc)|✅|
 ||[How to Build, Evaluate, and Iterate on LLM Agents](https://youtu.be/0pnEUAwoDP0)|✅|
 ||[How Claude Code Works - Jared Zoneraich, PromptLayer](https://www.youtube.com/watch?v=RFKCzGlAU6Q)|✅|
-|[Build Agents That Run for Hours (Without Losing the Plot) — Ash Prabaker & Andrew Wilson, Anthropic](https://www.youtube.com/watch?v=mR-WAvEPRwE)|✅|
+||[Build Agents That Run for Hours (Without Losing the Plot) — Ash Prabaker & Andrew Wilson, Anthropic](https://www.youtube.com/watch?v=mR-WAvEPRwE)|✅|
 |Article|[Tool Invocation - Demonstrating the Marvel of GPT's Flexibility](https://blog.jnbrymn.com/2024/01/30/the-marvel-of-GPT-generality.html)|✅|
 ||[Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)|✅|
 ||[What Problem Does The Model Context Protocol Solve?](https://www.aihero.dev/what-problem-does-model-context-protocol-solve)|✅|
