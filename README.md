@@ -138,7 +138,7 @@ A running log of things I'm learning to build strong core software engineering s
 |Format|Resource|Progress|
 |---|---|---|
 |Book|[Python 201](https://leanpub.com/python201)|⬜|
-||[Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)|⬜|
+||[Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)|✅|
 |Datacamp|[Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)|✅|
 ||[Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)|✅|
 ||[Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)|✅|
@@ -553,6 +553,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[CMU Advanced NLP Fall 2024 (10): Retrieval and RAG](https://www.youtube.com/watch?v=KfQaYk4k9eM&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp&index=6) `1h17m`|✅|
 ||[What You See Is What You Search: Vision Language Models for PDF Retrieval [Jo Bergum]](https://youtu.be/qrbQUU4TrLM)|✅|
 ||[Graph Databases: When to Use Them (And When to Run Away)](https://youtu.be/7kXY-2fYdHI?list=LL)|✅|
+||[Personalization in the Era of LLMs](https://www.youtube.com/watch?v=5YSJEP0HWzM)|✅|
 |Article| [Pretrained Transformer Language Models for Search - part 1](https://blog.vespa.ai/pretrained-transformer-language-models-for-search-part-1/#) | ✅        |
 || [Pretrained Transformer Language Models for Search - part 2](https://blog.vespa.ai/pretrained-transformer-language-models-for-search-part-2/)  | ✅        |
 || [Pretrained Transformer Language Models for Search - part 3](https://blog.vespa.ai/pretrained-transformer-language-models-for-search-part-3)   | ✅       |
@@ -613,6 +614,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Evaluating Agents and Assistants: The AI Conference](https://www.youtube.com/watch?v=6uXWhmDRcMc)|✅|
 ||[How to Build, Evaluate, and Iterate on LLM Agents](https://youtu.be/0pnEUAwoDP0)|✅|
 ||[How Claude Code Works - Jared Zoneraich, PromptLayer](https://www.youtube.com/watch?v=RFKCzGlAU6Q)|✅|
+|[Build Agents That Run for Hours (Without Losing the Plot) — Ash Prabaker & Andrew Wilson, Anthropic](https://www.youtube.com/watch?v=mR-WAvEPRwE)|✅|
 |Article|[Tool Invocation - Demonstrating the Marvel of GPT's Flexibility](https://blog.jnbrymn.com/2024/01/30/the-marvel-of-GPT-generality.html)|✅|
 ||[Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents)|✅|
 ||[What Problem Does The Model Context Protocol Solve?](https://www.aihero.dev/what-problem-does-model-context-protocol-solve)|✅|
@@ -773,4 +775,3 @@ A running log of things I'm learning to build strong core software engineering s
 |Format|Resource|Progress|
 |---|---|---|
 |Course|[Compound Content](https://visualizevalue.com/products/compound-content)|✅|
-
