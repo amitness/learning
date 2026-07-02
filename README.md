@@ -125,6 +125,8 @@ A running log of things I'm learning to build strong core software engineering s
 ||[How to Use "memory_profiler" to Profile Memory Usage by Python Code?](https://coderzcolumn.com/tutorials/python/how-to-profile-memory-usage-in-python-using-memory-profiler)|✅|
 ||[Concurrency For Starlette Apps (e.g FastAPI / FastHTML)](https://hamel.dev/notes/fasthtml/concurrency.html#fnref1)|✅|
 |Youtube|[Debug Python inside Docker using debugpy and VSCode](https://www.youtube.com/watch?v=ywfsLKRLmf4)|✅|
+||[Improving Your Tests With the Python Mock Object Library: Introducing Mock & Replacing Code](https://www.youtube.com/watch?v=NO5O1FXSYYA)|✅|
+||[Hot-swapping Symbols During Tests: Demystifying unittest.mock[.patch] - Bryce Beagle](https://www.youtube.com/watch?v=F4_e6qjn23o)|✅|
 
 ### Technical Writing
 |Format|Resource|Progress|
@@ -259,7 +261,7 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|---|
 |Book|[Hands-On Large Language Models: Language Understanding and Generation](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)|✅|
 ||[Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
-||[Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)|`246/581`|
+||[Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)|✅|
 ||[The Hundred-Page Language Models Book](https://thelmbook.com/)|✅|
 ||[Super Study Guide: Transformers & Large Language Models](https://www.amazon.com/Super-Study-Guide-Transformers-Language/dp/B0DC4NYLTN)|✅|
 ||[The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#training-compass-why--what--how)|⬜|
@@ -282,6 +284,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Some open problems I am currently thinking about](https://youtu.be/EtgcP-4xslQ?list=LL)|✅|
 ||[Rotary Positional Embeddings: Combining Absolute and Relative](https://youtu.be/o29P0Kpobz0)|✅|
 ||[How Rotary Position Embedding Supercharges Modern LLMs [RoPE]](https://youtu.be/SMBkImDWOyQ)|✅|
+||[Large Language Models in Five Formulas](https://youtu.be/KCXDr-UOb9A?list=PLO45-80-XKkRV7Dw2ed4avFP484sYy7tN) `58m`|✅|
 |Article|[You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)|✅|
 ||[From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)|✅|
 ||[SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)|✅|
@@ -297,9 +300,10 @@ A running log of things I'm learning to build strong core software engineering s
 ||[2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)|✅|
 ||[Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)|✅|
 ||[Synthetic pretraining](https://vintagedata.org/blog/posts/synthetic-pretraining)|✅|
-||[The Novice's LLM Training Guide](https://rentry.co/llm-training)|⬜|
+||[The Novice's LLM Training Guide](https://rentry.co/llm-training)|✅|
 ||[The Potential of RLMs](https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html)|✅|
 ||[The Curious Case of the bos_token](https://www.lesswrong.com/posts/tr3DrQiuyxkDpPqx2/the-curious-case-of-the-bos_token)|⬜|
+||[Transformer Math 101](https://blog.eleuther.ai/transformer-math/)|✅|
 
 #### Post-training (RLHF / RLVR)
 
@@ -315,6 +319,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[How to approach post-training for AI applications](https://www.youtube.com/watch?v=grpc-Wyy-Zg) `22m`|✅|
 ||[Building Cursor Composer with Sasha Rush](https://www.youtube.com/watch?v=md8D8eNj5JM) `19m`|✅|
 ||[The RLHF Book Course](https://www.youtube.com/watch?v=jQPiH-KB4B0&list=PLL1tdVxB1CpVpEtMHxwuR4uI4Lxjw00_y&index=1) `5 videos`|⬜|
+||[Full Workshop: Reinforcement Learning, Kernels, Reasoning, Quantization & Agents — Daniel Han](https://youtu.be/OkEGJ5G3foU?list=LL) `2h42m`|✅|
 |Article|[Scaling test-time compute - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)|✅|
 ||[DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)|✅|
 ||[The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)|✅|
@@ -323,6 +328,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[PPO & GRPO for LLM Alignment](https://mesuvash.github.io/blog/2026/ppo-grpo/)|✅|
 ||[Introduction to LLM Post-Training Techniques](https://www.slideshare.net/slideshow/introduction-to-llm-post-training-techniques/286374190#1)|✅|
 ||[Understanding Transformers... (beyond the Math)](https://kalomaze.bearblog.dev/understanding-transformers-beyond-the-math/)|✅|
+||[SFT, RL, and On-Policy Distillation Through a Distributional Lens](https://nrehiew.github.io/blog/sft_rl_opd/)|✅|
 
 
 #### Multi-modality (Vision)
@@ -401,6 +407,9 @@ A running log of things I'm learning to build strong core software engineering s
 |Youtube|[GPU Puzzles: Let's Play](https://youtu.be/K4T-YwsOxrM)|⬜|
 ||[Deploying Fine-Tuned Models](https://youtu.be/GzEcyBykkdo) `2h28m`|✅|
 ||[Building Machine Learning Systems for a Trillion Trillion Floating Point Operations](https://www.youtube.com/watch?v=139UPjoq7Kw) `1h`|✅|
+||[How GPT, Claude, and Gemini are actually trained and served – Reiner Pope](https://www.youtube.com/watch?v=xmkSf5IS-zw) `2h13m`|✅|
+||[Chip design from the bottom up – Reiner Pope](https://www.youtube.com/watch?v=oIk3R-sMX5o) `1h20m`|✅|
+||[Street Fighting Transformers](https://www.youtube.com/watch?v=ZAO6y_oJtFA)|✅|
 |Article|[How to make LLMs go fast](https://vgel.me/posts/faster-inference/)|✅|
 ||[In the Fast Lane! Speculative Decoding - 10x Larger Model, No Extra Cost](https://docs.titanml.co/blog/speculative-decoding-unleashed/)|⬜|
 ||[Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)|⬜|
@@ -410,9 +419,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[LLM Inference Series: 3. KV caching explained](https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)|⬜|
 ||[LLM Inference Series: 4. KV caching, a deeper look](https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)|⬜|
 ||[LLM Inference Series: 5. Dissecting model performance](https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)|⬜|
-||[Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)|⬜|
-||[Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)|⬜|
-||[Optimizing AI Inference at Character.AI (Part Deux)](https://research.character.ai/optimizing-ai-inference-at-character-ai-part-deux/)|⬜|
+||[Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)|✅|
 ||[llama.cpp guide - Running LLMs locally, on any hardware, from scratch](https://blog.steelph0enix.dev/posts/llama-cpp-guide/)|✅|
 ||[Domain specific architectures for AI inference](https://fleetwood.dev/posts/domain-specific-architectures)|⬜|
 ||[SBTB 2023: Charles Frye, Parallel Processors: Past & Future Connections Between LLMs and OS Kernels](https://www.youtube.com/watch?v=VxFtHqlMv8c)|✅|
@@ -421,9 +428,12 @@ A running log of things I'm learning to build strong core software engineering s
 ||[Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm)|⬜|
 ||[Understanding LLM Inference Engines: Inside Nano-vLLM (Part 1)](https://neutree.ai/blog/nano-vllm-part-1)|⬜|
 ||[Understanding LLM Inference Engines: Inside Nano-vLLM (Part 2)](https://neutree.ai/blog/nano-vllm-part-2)|⬜|
-||[Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)|⬜|
+||[Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)|✅|
 ||[Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/)|⬜|
 ||[Attention Mechanism: From Math to GPU](https://isztld.com/posts/attention-mechanism.html)|⬜|
+||[Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)|✅|
+||[What Shapes Do Matrix Multiplications Like?](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)|✅|
+||[Strangely, Matrix Multiplications on GPUs Run Faster When Given "Predictable" Data!](https://www.thonking.ai/p/strangely-matrix-multiplications)|✅|
 
 
 ### Finetuning and Distillation
@@ -504,6 +514,7 @@ A running log of things I'm learning to build strong core software engineering s
 ||[LLM Evals FAQ](https://hamel.dev/blog/posts/evals-faq/)|✅|
 ||[Quantifying infrastructure noise in agentic coding evals](https://www.anthropic.com/engineering/infrastructure-noise)|✅|
 ||[How we optimized Dash's relevance judge with DSPy](https://dropbox.tech/machine-learning/optimizing-dropbox-dash-relevance-judge-with-dspy)|✅|
+||[“It’s Hard to Eval” Is a Product Smell](https://hamel.dev/blog/posts/eval-smell/)|✅|
 
 #### Context Engineering
 
