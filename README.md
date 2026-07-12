@@ -30,7 +30,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 
 ### Maths
-	
+
 |Format|Resource|Progress|
 |---|---|---|
 |Datacamp|[Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)|✅|
