@@ -53,6 +53,7 @@ A running log of things I'm learning to build strong software engineering skills
 |Format|Resource|Length|Progress|
 |---|---|---|---|
 |Book|[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|254 pgs|✅|
+||[A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/dp/1680507222)|310/489 pgs|⌛️|
 |Udacity|[Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)||✅|
 |Neetcode|[Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)||✅|
 ||[Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/0)|1/7|⏳|
@@ -206,7 +207,7 @@ A running log of things I'm learning to build strong software engineering skills
 ||[Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)|4h|✅|
 |Article|[The Unreasonable Effectiveness of Collocations](https://opensourceconnections.com/blog/2019/05/16/unreasonable-effectiveness-of-collocations/)||⬜|
 ||[FuzzyWuzzy: Fuzzy String Matching in Python](https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/#)||✅|
-||[Transformers: Origins](https://mark-riedl.medium.com/transformers-origins-1db4bdfcb3d1)||⬜|
+||[Transformers: Origins](https://mark-riedl.medium.com/transformers-origins-1db4bdfcb3d1)||✅|
 ||[Understanding the Difference Between Embedding Layers and Linear Layers](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch02/03_bonus_embedding-vs-matmul/embeddings-and-linear-layers.ipynb)||✅|
 
 
@@ -244,6 +245,7 @@ A running log of things I'm learning to build strong software engineering skills
 ||[What I Learned From Implementing LLM Architectures From Scratch (And How to Get Started)](https://youtu.be/TXzQ7PGpO6w)|52m|✅|
 ||[LLM Building Blocks & Transformer Alternatives](https://youtu.be/lONyteDR4XE)|27m|✅|
 ||[Everything I Learned Training Frontier Small Models](https://youtu.be/fLUtUkqYHnQ)|20m|✅|
+||[The Secrets to Training World-Class LLMs](https://videos.cern.ch/record/3026711)|1h33m|✅|
 |Article|[You could have designed state of the art Positional Encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)||✅|
 ||[From Digits to Decisions: How Tokenization Impacts Arithmetic in LLMs](https://huggingface.co/spaces/huggingface/number-tokenization-blog)||✅|
 ||[SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)||✅|
@@ -261,7 +263,7 @@ A running log of things I'm learning to build strong software engineering skills
 ||[Synthetic pretraining](https://vintagedata.org/blog/posts/synthetic-pretraining)||✅|
 ||[The Novice's LLM Training Guide](https://rentry.co/llm-training)||✅|
 ||[The Potential of RLMs](https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html)||✅|
-||[The Curious Case of the bos_token](https://www.lesswrong.com/posts/tr3DrQiuyxkDpPqx2/the-curious-case-of-the-bos_token)||⬜|
+||[The Curious Case of the bos_token](https://www.lesswrong.com/posts/tr3DrQiuyxkDpPqx2/the-curious-case-of-the-bos_token)||✅|
 ||[Transformer Math 101](https://blog.eleuther.ai/transformer-math/)||✅|
 
 #### Post-training (RLHF / RLVR)
