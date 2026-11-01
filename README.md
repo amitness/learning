@@ -1,10 +1,10 @@
 # learning
 
-A running log of things I'm learning to build strong software engineering skills while also expanding my knowledge of [adjacent](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) technologies [everyday](https://jamesclear.com/continuous-improvement).
+A running log of things I'm learning to build strong fundamentals while also expanding my knowledge of [adjacent](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) technologies [everyday](https://jamesclear.com/continuous-improvement).
 
 **Updated**: Once a month | **Current** **Focus**: Generative AI
 
-## Generic Skills
+## Generalized Skills
 
 > Domain-agnostic, stack-independent skills
 
@@ -21,7 +21,7 @@ A running log of things I'm learning to build strong software engineering skills
 ||[HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)|3/3|✅|
 ||[Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)|5/5|✅|
 |Udemy|[AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)||✅|
-|Datacamp|[A/B Testing in Python](https://www.datacamp.com/courses/ab-testing-in-python)|4h|⬜|
+|Datacamp|[A/B Testing in Python](https://www.datacamp.com/courses/ab-testing-in-python)|4h|✅|
 ||[Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)|4h|✅|
 ||[Machine Learning Monitoring Concepts](https://www.datacamp.com/courses/machine-learning-monitoring-concepts)|2h|✅|
 ||[MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)|2h|✅|
@@ -40,7 +40,6 @@ A running log of things I'm learning to build strong software engineering skills
 ||[Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)|3h|✅|
 ||[Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)|4h|✅|
 ||[Experimental Design in Python](https://datacamp.com/courses/experimental-design-in-python)|4h|✅|
-||[Practicing Statistics Interview Questions in Python](https://www.datacamp.com/courses/practicing-statistics-interview-questions-in-python)|4h|⬜|
 |edX|[Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)||✅|
 |MIT|[MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)|36/36|✅|
 |Udacity|[Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)|23/23|✅|
@@ -53,7 +52,7 @@ A running log of things I'm learning to build strong software engineering skills
 |Format|Resource|Length|Progress|
 |---|---|---|---|
 |Book|[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|254 pgs|✅|
-||[A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/dp/1680507222)|310/489 pgs|⌛️|
+||[A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/dp/1680507222)|489/489 pgs|✅|
 |Udacity|[Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)||✅|
 |Neetcode|[Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)||✅|
 ||[Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/0)|1/7|⏳|
@@ -73,10 +72,8 @@ A running log of things I'm learning to build strong software engineering skills
 ||[Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-sql)|4h|✅|
 ||[Data Manipulation in SQL](https://app.datacamp.com/learn/courses/data-manipulation-in-sql)|4h|⬜|
 ||[Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)|4h|⬜|
-||[Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)|4h|⬜|
 ||[Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)|4h|⬜|
 ||[Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)|4h|⬜|
-||[Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)|4h|⬜|
 ||[NoSQL Concepts](https://www.datacamp.com/courses/nosql-concepts)|2h|✅|
 ||[Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)|3h|⬜|
 
@@ -145,6 +142,7 @@ A running log of things I'm learning to build strong software engineering skills
 |---|---|---|---|
 |Book|[The Tech Resume Inside Out](https://thetechresume.com)|280 pgs|✅|
 ||[The Coding Career Handbook](https://github.com/swyxio/coding-career-handbook)||✅|
+||[The Software Engineer's Guidebook](https://www.engguidebook.com/)|499 pgs|✅|
 
 
 ### Programming
